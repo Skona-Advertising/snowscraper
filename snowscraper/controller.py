@@ -19,10 +19,9 @@ def run_all(args: argparse.Namespace):
         results.update(scraper.scrape())
     print(results)
 
-# Save the results to a JSON file
-with open('results.json', 'w') as json_file:
-    json.dump(results, json_file, indent=4)
-
+    # Save the results to a JSON file
+    with open('results.json', 'w') as json_file:
+        json.dump(results, json_file, indent=4)
 
 
 def import_scrapers():
