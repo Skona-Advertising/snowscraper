@@ -6,11 +6,9 @@ from pathlib import Path
 
 SCRAPERS = {}
 
-
 def register_scraper(cls):
     SCRAPERS[cls.__name__] = cls
     return cls
-
 
 def run_all(args: argparse.Namespace):
     results = {}
@@ -19,10 +17,14 @@ def run_all(args: argparse.Namespace):
         results.update(scraper.scrape())
     print(results)
 
-    # Save the results to a JSON file
-    with open('results.json', 'w') as json_file:
-        json.dump(results, json_file, indent=4)
+def datetime_handler(obj):
+    if isinstance(obj, datetime.datetime):
+        return obj.isoformat()
+    raise TypeError("Unknown type")
 
+# Save the results to a JSON file
+with open('results.json', 'w') as json_file:
+    json.dump(results, json_file, indent=4, default=datetime_handler)
 
 def import_scrapers():
     directory = Path(__file__).resolve().parent / "scrapers"
