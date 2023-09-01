@@ -1,4 +1,3 @@
-
 name: Run Snowscraper and Commit Changes
 
 on:
@@ -12,11 +11,14 @@ jobs:
     steps:
     - name: Checkout Repository
       uses: actions/checkout@v2
+      with:
+        node-version: '16'
 
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
         python-version: 3.8
+        node-version: '16'
 
     - name: Install Dependencies
       run: |
