@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=67.8"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "snowscraper"
+version = "0.0.1"
+authors = [{ name = "pdf", email = "git@nixon.mozmail.com" }]
+description = "Snowflake scraper"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+dependencies = ["pydantic==1.10.10", "scrapy>=2.10.0", "feedparser>=6.0.10"]
+
+[project.scripts]
+snowscraper = "snowscraper.cli:run"
+
+[tool.setuptools]
+py-modules = ["snowscraper"]
+
+[tool.bandit]
+exclude_dirs = ["/doc", "/build"]
+
+[tool.black]
+line-length = 120
