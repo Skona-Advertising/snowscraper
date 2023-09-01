@@ -15,7 +15,7 @@ def run_all(args: argparse.Namespace):
     results = {}
     for scraper_cls in SCRAPERS.values():
         scraper = scraper_cls()
-        results |= scraper.scrape()
+        results.update(scraper.scrape())
     print(results)
 
 
