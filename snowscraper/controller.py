@@ -23,3 +23,7 @@ def import_scrapers():
     directory = Path(__file__).resolve().parent / "scrapers"
     for module_loader, name, ispkg in pkgutil.iter_modules([directory]):
         importlib.import_module(f".scrapers.{name}", __package__)
+
+# Save the results to a JSON file
+with open('results.json', 'w') as json_file:
+    json.dump(results, json_file, indent=4)
