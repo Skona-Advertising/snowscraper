@@ -14,7 +14,7 @@ def register_scraper(cls):
 def run_all(args: argparse.Namespace):
     results = {}
     for scraper_cls in SCRAPERS.values():
-        scraper = scraper_cls(after=args.after)
+        scraper = scraper_cls()
         results |= scraper.scrape()
     print(results)
 
