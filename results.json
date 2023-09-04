@@ -1,4 +1,9 @@
 {
+    "https://medium.com/snowflake/external-network-access-on-snowflake-snowpark-unlocking-new-capabilities-d49654d7f7f8?source=rss----34b6daafc07---4": {
+        "title": "External Network Access On Snowflake Snowpark\u200a\u2014\u200aUnlocking New Capabilities",
+        "published": "2023-09-03T17:24:58",
+        "updated": "2023-09-03T17:24:58.687000+00:00"
+    },
     "https://medium.com/snowflake/logging-and-tracing-events-on-snowflake-data-telemetry-and-observability-82ddcd7a368f?source=rss----34b6daafc07---4": {
         "title": "Logging and Tracing Events on Snowflake\u200a\u2014\u200aData Telemetry and Observability",
         "published": "2023-09-02T17:06:47",
@@ -43,11 +48,6 @@
         "title": "Avoid bad data completely: Continuous Delivery Architectures in the Modern Data Stack (Part 1)",
         "published": "2023-08-30T13:02:33",
         "updated": "2023-08-30T13:02:33.362000+00:00"
-    },
-    "https://medium.com/snowflake/executing-federated-queries-in-snowflake-using-google-big-query-4ccaa20eac31?source=rss----34b6daafc07---4": {
-        "title": "Executing Federated Queries in Snowflake using Google Big Query",
-        "published": "2023-08-29T23:02:28",
-        "updated": "2023-08-29T23:02:28.538000+00:00"
     },
     "https://quickstarts.snowflake.com/guide/accelerate_your_graphql_development_on_snowflake_with_hasura/index.html?index=..%2F..index": {
         "title": "Accelerate Your GraphQL Development on Snowflake with Hasura",
