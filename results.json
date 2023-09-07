@@ -1,13 +1,28 @@
 {
+    "https://medium.com/snowflake/improve-snowflake-price-performance-by-optimizing-storage-be9b5962decb?source=rss----34b6daafc07---4": {
+        "title": "Improve Snowflake price-performance by optimizing storage",
+        "published": "2023-09-06T23:21:08",
+        "updated": "2023-09-06T23:21:08.745000+00:00"
+    },
+    "https://medium.com/snowflake/snowflake-for-macroeconomic-data-science-cybersyn-snowpark-a44a9edc5fa0?source=rss----34b6daafc07---4": {
+        "title": "Snowflake for Macroeconomic Data Science: Cybersyn + Snowpark",
+        "published": "2023-09-06T16:02:21",
+        "updated": "2023-09-06T16:36:35.597000+00:00"
+    },
+    "https://medium.com/snowflake/avoid-bad-data-completely-continuous-delivery-architectures-in-the-modern-data-stack-part-2-2c4240bdb973?source=rss----34b6daafc07---4": {
+        "title": "Avoid bad data completely: Continuous Delivery Architectures in the Modern Data Stack (Part 2)",
+        "published": "2023-09-06T13:02:28",
+        "updated": "2023-09-06T13:02:27.698000+00:00"
+    },
     "https://medium.com/snowflake/the-falcon-llm-landing-in-the-snowflake-data-cloud-ced79c0a6c49?source=rss----34b6daafc07---4": {
         "title": "The Falcon LLM Landing in the Snowflake Data Cloud",
         "published": "2023-09-05T21:43:35",
-        "updated": "2023-09-05T21:43:35.714000+00:00"
+        "updated": "2023-09-06T20:08:15.801000+00:00"
     },
     "https://medium.com/snowflake/deep-dive-into-managing-latency-throughput-and-cost-in-snowflake-2fa658164fa8?source=rss----34b6daafc07---4": {
         "title": "Deep dive into managing latency, throughput, and cost in Snowflake",
         "published": "2023-09-05T13:02:26",
-        "updated": "2023-09-05T18:24:51.322000+00:00"
+        "updated": "2023-09-06T17:12:30.251000+00:00"
     },
     "https://medium.com/snowflake/external-network-access-on-snowflake-snowpark-unlocking-new-capabilities-d49654d7f7f8?source=rss----34b6daafc07---4": {
         "title": "External Network Access On Snowflake Snowpark\u200a\u2014\u200aUnlocking New Capabilities",
@@ -33,21 +48,6 @@
         "title": "Loading XML Files into Snowflake with Snowpark Python",
         "published": "2023-09-01T15:02:31",
         "updated": "2023-09-02T13:49:22.185000+00:00"
-    },
-    "https://medium.com/snowflake/data-loading-overview-strategy-selection-45039d5cceca?source=rss----34b6daafc07---4": {
-        "title": "Data Loading Overview: Strategy Selection",
-        "published": "2023-09-01T07:06:02",
-        "updated": "2023-09-01T07:06:02.110000+00:00"
-    },
-    "https://medium.com/snowflake/ci-cd-for-machine-learning-within-snowflake-a-simple-approach-390cc4cbf8ef?source=rss----34b6daafc07---4": {
-        "title": "CI/CD for Machine Learning within Snowflake: A Simple Approach",
-        "published": "2023-08-31T19:52:25",
-        "updated": "2023-08-31T19:52:25.280000+00:00"
-    },
-    "https://medium.com/snowflake/is-your-warehouse-half-empty-a634bb6ce2a5?source=rss----34b6daafc07---4": {
-        "title": "Is your warehouse half empty?",
-        "published": "2023-08-31T13:02:31",
-        "updated": "2023-08-31T13:02:30.896000+00:00"
     },
     "https://quickstarts.snowflake.com/guide/accelerate_your_graphql_development_on_snowflake_with_hasura/index.html?index=..%2F..index": {
         "title": "Accelerate Your GraphQL Development on Snowflake with Hasura",
@@ -416,12 +416,12 @@
     },
     "https://quickstarts.snowflake.com/guide/getting_started_with_dataengineering_ml_using_snowpark_python/index.html?index=..%2F..index": {
         "title": "Getting Started with Data Engineering and ML using Snowpark for Python",
-        "updated": "2023-08-15T02:36:49-07:00",
+        "updated": "2023-09-06T12:41:31-07:00",
         "tags": "web"
     },
     "https://quickstarts.snowflake.com/guide/getting_started_with_generative_ai_snowflake_external_functions/index.html?index=..%2F..index": {
-        "title": "Getting Started with Generative AI and External Functions in Snowflake and Streamlit",
-        "updated": "2023-08-30T13:31:00-07:00",
+        "title": "Getting Started with Generative AI in Snowflake and Streamlit",
+        "updated": "2023-09-06T12:41:31-07:00",
         "tags": "web"
     },
     "https://quickstarts.snowflake.com/guide/getting_started_with_snowflake/index.html?index=..%2F..index": {
@@ -561,7 +561,7 @@
     },
     "https://quickstarts.snowflake.com/guide/getting_started_keboola/index.html?index=..%2F..index": {
         "title": "Getting Started with Keboola",
-        "updated": "2023-08-15T02:36:48-07:00",
+        "updated": "2023-09-06T08:25:21-07:00",
         "tags": "dataengineering,gettingstarted,web"
     },
     "https://quickstarts.snowflake.com/guide/getting_started_snowflake_sql_api/index.html?index=..%2F..index": {
