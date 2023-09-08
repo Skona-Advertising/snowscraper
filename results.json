@@ -1,4 +1,14 @@
 {
+    "https://medium.com/snowflake/large-language-model-llm-inference-using-snowpark-optimized-warehouses-e458929798d2?source=rss----34b6daafc07---4": {
+        "title": "Large Language Model (LLM) Inference Using Snowpark Optimized Warehouses",
+        "published": "2023-09-07T22:02:22",
+        "updated": "2023-09-07T22:02:21.540000+00:00"
+    },
+    "https://medium.com/snowflake/how-to-easily-visualize-hierarchical-tabular-data-90f97e5e4168?source=rss----34b6daafc07---4": {
+        "title": "How to Easily Visualize Hierarchical Tabular Data",
+        "published": "2023-09-07T13:02:35",
+        "updated": "2023-09-07T13:02:34.574000+00:00"
+    },
     "https://medium.com/snowflake/improve-snowflake-price-performance-by-optimizing-storage-be9b5962decb?source=rss----34b6daafc07---4": {
         "title": "Improve Snowflake price-performance by optimizing storage",
         "published": "2023-09-06T23:21:08",
@@ -38,16 +48,6 @@
         "title": "Normalize and Enrich Streaming Security Data in Snowflake with Dynamic Tables",
         "published": "2023-09-01T21:36:10",
         "updated": "2023-09-05T21:32:29.779000+00:00"
-    },
-    "https://medium.com/snowflake/unleashing-the-power-of-usage-driven-user-profiling-safeguarding-snowflake-71968679795e?source=rss----34b6daafc07---4": {
-        "title": "Unleashing the Power of Usage-Driven User Profiling: Safeguarding Snowflake",
-        "published": "2023-09-01T19:32:25",
-        "updated": "2023-09-01T19:32:25.216000+00:00"
-    },
-    "https://medium.com/snowflake/loading-xml-files-into-snowflake-with-snowpark-python-21111a027e2d?source=rss----34b6daafc07---4": {
-        "title": "Loading XML Files into Snowflake with Snowpark Python",
-        "published": "2023-09-01T15:02:31",
-        "updated": "2023-09-02T13:49:22.185000+00:00"
     },
     "https://quickstarts.snowflake.com/guide/accelerate_your_graphql_development_on_snowflake_with_hasura/index.html?index=..%2F..index": {
         "title": "Accelerate Your GraphQL Development on Snowflake with Hasura",
@@ -148,6 +148,11 @@
         "title": "Process Change Data Capture (CDC) data from Oracle to Snowflake Using StreamSets",
         "updated": "2023-08-15T02:36:44-07:00",
         "tags": "oraclecdc,web"
+    },
+    "https://quickstarts.snowflake.com/guide/CDC_SnowpipeStreaming_DynamicTables/index.html?index=..%2F..index": {
+        "title": "Snowpipe Streaming and Dynamic Tables for Real-Time Ingestion (CDC Use Case)",
+        "updated": "2023-09-07T11:01:55-07:00",
+        "tags": "cdc,dataengineering,dynamic,financialservices,snowpipe,streaming,web"
     },
     "https://quickstarts.snowflake.com/guide/cloud_native_data_engineering_with_matillion_and_snowflake/index.html?index=..%2F..index": {
         "title": "Cloud Native Data Engineering with Matillion and Snowflake",
@@ -689,6 +694,11 @@
         "updated": "2023-08-30T13:31:00-07:00",
         "tags": "dataengineering,gettingstarted,microsoft,powerapps,powerautomate,powerplatform,web"
     },
+    "https://quickstarts.snowflake.com/guide/segment-retl-salesforce/index.html?index=..%2F..index": {
+        "title": "Use Segment Reverse ETL to sync your Snowflake customer table to Salesforce",
+        "updated": "2023-09-07T11:01:55-07:00",
+        "tags": "gettingstarted,reverseetl,salesforce,segment,web"
+    },
     "https://quickstarts.snowflake.com/guide/soda/index.html?index=..%2F..index": {
         "title": "Data Quality Testing with Soda",
         "updated": "2023-08-15T02:36:53-07:00",
@@ -708,11 +718,6 @@
         "title": "Snowflake for Data Lake",
         "updated": "2023-08-15T02:36:55-07:00",
         "tags": "datalake,gettingstarted,unstructureddata,web"
-    },
-    "https://quickstarts.snowflake.com/guide/segment-retl-salesforce/index.html?index=..%2F..index": {
-        "title": "Use Segment Reverse ETL to sync your Snowflake customer table to Salesforce",
-        "updated": "2023-08-15T02:36:53-07:00",
-        "tags": "gettingstarted,reverseetl,salesforce,segment,web"
     },
     "https://quickstarts.snowflake.com/guide/attaining_consumer_insights_with_snowflake_and_microsoft_power_bi/index.html?index=..%2F..index": {
         "title": "Attaining Consumer Insights with Snowflake and Microsoft Power BI",
@@ -853,10 +858,5 @@
         "title": "Tasty Bytes - Zero to Snowflake - Transformation",
         "updated": "2023-08-15T02:36:55-07:00",
         "tags": "dataengineering,datawarehouse,gettingstarted,web"
-    },
-    "https://quickstarts.snowflake.com/guide/CDC_SnowpipeStreaming_DynamicTables/index.html?index=..%2F..index": {
-        "title": "Snowpipe Streaming and Dynamic Tables for Real-Time Ingestion (CDC Use Case)",
-        "updated": "2023-08-15T02:36:44-07:00",
-        "tags": "cdc,dataengineering,dynamic,financialservices,snowpipe,streaming,web"
     }
 }
