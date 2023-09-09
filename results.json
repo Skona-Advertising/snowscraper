@@ -1,4 +1,24 @@
 {
+    "https://medium.com/snowflake/lightning-fast-elt-for-python-devs-with-aws-snowpipe-and-pulumi-4eaf056dd097?source=rss----34b6daafc07---4": {
+        "title": "Lightning-fast ELT for Python Devs with AWS, Snowpipe, and Pulumi",
+        "published": "2023-09-09T00:02:26",
+        "updated": "2023-09-09T00:02:26.320000+00:00"
+    },
+    "https://medium.com/snowflake/power-of-snowpark-with-generative-ai-talk-to-your-data-with-snowflake-native-capabilities-9c4d0fb04a1f?source=rss----34b6daafc07---4": {
+        "title": "Power of Snowpark with Generative AI\u200a\u2014\u200aTalk to Your Data with Snowflake Native Capabilities",
+        "published": "2023-09-08T16:14:01",
+        "updated": "2023-09-08T16:14:01.404000+00:00"
+    },
+    "https://medium.com/snowflake/defining-snowpark-udtfs-without-specifying-input-or-output-columns-9ee7805813b6?source=rss----34b6daafc07---4": {
+        "title": "Defining Snowpark UDTFs without Specifying Input or Output Columns",
+        "published": "2023-09-08T13:02:25",
+        "updated": "2023-09-08T13:02:25.166000+00:00"
+    },
+    "https://medium.com/snowflake/data-contracts-in-the-modern-data-stack-d42cb2442dbd?source=rss----34b6daafc07---4": {
+        "title": "Data Contracts in the Modern Data Stack",
+        "published": "2023-09-08T03:38:56",
+        "updated": "2023-09-08T03:38:56.471000+00:00"
+    },
     "https://medium.com/snowflake/large-language-model-llm-inference-using-snowpark-optimized-warehouses-e458929798d2?source=rss----34b6daafc07---4": {
         "title": "Large Language Model (LLM) Inference Using Snowpark Optimized Warehouses",
         "published": "2023-09-07T22:02:22",
@@ -12,7 +32,7 @@
     "https://medium.com/snowflake/improve-snowflake-price-performance-by-optimizing-storage-be9b5962decb?source=rss----34b6daafc07---4": {
         "title": "Improve Snowflake price-performance by optimizing storage",
         "published": "2023-09-06T23:21:08",
-        "updated": "2023-09-06T23:21:08.745000+00:00"
+        "updated": "2023-09-08T14:09:06.778000+00:00"
     },
     "https://medium.com/snowflake/snowflake-for-macroeconomic-data-science-cybersyn-snowpark-a44a9edc5fa0?source=rss----34b6daafc07---4": {
         "title": "Snowflake for Macroeconomic Data Science: Cybersyn + Snowpark",
@@ -28,26 +48,6 @@
         "title": "The Falcon LLM Landing in the Snowflake Data Cloud",
         "published": "2023-09-05T21:43:35",
         "updated": "2023-09-06T20:08:15.801000+00:00"
-    },
-    "https://medium.com/snowflake/deep-dive-into-managing-latency-throughput-and-cost-in-snowflake-2fa658164fa8?source=rss----34b6daafc07---4": {
-        "title": "Deep dive into managing latency, throughput, and cost in Snowflake",
-        "published": "2023-09-05T13:02:26",
-        "updated": "2023-09-06T17:12:30.251000+00:00"
-    },
-    "https://medium.com/snowflake/external-network-access-on-snowflake-snowpark-unlocking-new-capabilities-d49654d7f7f8?source=rss----34b6daafc07---4": {
-        "title": "External Network Access On Snowflake Snowpark\u200a\u2014\u200aUnlocking New Capabilities",
-        "published": "2023-09-03T17:24:58",
-        "updated": "2023-09-04T04:58:33.147000+00:00"
-    },
-    "https://medium.com/snowflake/logging-and-tracing-events-on-snowflake-data-telemetry-and-observability-82ddcd7a368f?source=rss----34b6daafc07---4": {
-        "title": "Logging and Tracing Events on Snowflake\u200a\u2014\u200aData Telemetry and Observability",
-        "published": "2023-09-02T17:06:47",
-        "updated": "2023-09-02T17:06:47.383000+00:00"
-    },
-    "https://medium.com/snowflake/normalize-and-enrich-streaming-security-data-in-snowflake-with-dynamic-tables-f3ef852e4a38?source=rss----34b6daafc07---4": {
-        "title": "Normalize and Enrich Streaming Security Data in Snowflake with Dynamic Tables",
-        "published": "2023-09-01T21:36:10",
-        "updated": "2023-09-05T21:32:29.779000+00:00"
     },
     "https://quickstarts.snowflake.com/guide/accelerate_your_graphql_development_on_snowflake_with_hasura/index.html?index=..%2F..index": {
         "title": "Accelerate Your GraphQL Development on Snowflake with Hasura",
@@ -401,7 +401,7 @@
     },
     "https://quickstarts.snowflake.com/guide/data_engineering_pipelines_with_snowpark_python/index.html?index=..%2F..index": {
         "title": "Data Engineering Pipelines with Snowpark Python",
-        "updated": "2023-08-30T13:31:00-07:00",
+        "updated": "2023-09-08T08:49:46-07:00",
         "tags": "dataengineering,python,snowpark,web"
     },
     "https://quickstarts.snowflake.com/guide/data_engineering_with_datastage/index.html?index=..%2F..index": {
