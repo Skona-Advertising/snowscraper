@@ -1,4 +1,9 @@
 {
+    "https://medium.com/snowflake/running-weaviate-vector-db-in-snowflake-using-snowpark-container-services-490b1c391795?source=rss----34b6daafc07---4": {
+        "title": "Running Weaviate Vector DB in Snowflake using Snowpark Container Services",
+        "published": "2023-09-09T21:48:04",
+        "updated": "2023-09-09T21:47:47.860000+00:00"
+    },
     "https://medium.com/snowflake/lightning-fast-elt-for-python-devs-with-aws-snowpipe-and-pulumi-4eaf056dd097?source=rss----34b6daafc07---4": {
         "title": "Lightning-fast ELT for Python Devs with AWS, Snowpipe, and Pulumi",
         "published": "2023-09-09T00:02:26",
@@ -43,11 +48,6 @@
         "title": "Avoid bad data completely: Continuous Delivery Architectures in the Modern Data Stack (Part 2)",
         "published": "2023-09-06T13:02:28",
         "updated": "2023-09-06T13:02:27.698000+00:00"
-    },
-    "https://medium.com/snowflake/the-falcon-llm-landing-in-the-snowflake-data-cloud-ced79c0a6c49?source=rss----34b6daafc07---4": {
-        "title": "The Falcon LLM Landing in the Snowflake Data Cloud",
-        "published": "2023-09-05T21:43:35",
-        "updated": "2023-09-06T20:08:15.801000+00:00"
     },
     "https://quickstarts.snowflake.com/guide/accelerate_your_graphql_development_on_snowflake_with_hasura/index.html?index=..%2F..index": {
         "title": "Accelerate Your GraphQL Development on Snowflake with Hasura",
