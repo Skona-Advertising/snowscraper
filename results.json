@@ -1,4 +1,29 @@
 {
+    "https://medium.com/snowflake/unlocking-machine-learning-potential-running-r-inside-snowpark-container-services-3ccdb2cac896?source=rss----34b6daafc07---4": {
+        "title": "Unlocking Machine Learning Potential: Running R Inside Snowpark Container Services",
+        "published": "2023-09-11T17:07:39",
+        "updated": "2023-09-11T17:07:39.785000+00:00"
+    },
+    "https://medium.com/snowflake/streamlining-credit-risk-modeling-with-snowflake-and-predactica-3efea3355b0c?source=rss----34b6daafc07---4": {
+        "title": "Streamlining Credit Risk Models with Snowflake and Predactica",
+        "published": "2023-09-11T17:05:02",
+        "updated": "2023-09-11T17:05:02.767000+00:00"
+    },
+    "https://medium.com/snowflake/transform-xml-files-with-xslt-in-snowflake-part-1-c79ec486e17d?source=rss----34b6daafc07---4": {
+        "title": "Transform XML files with XSLT in Snowflake\u200a\u2014\u200apart 1",
+        "published": "2023-09-11T17:04:10",
+        "updated": "2023-09-11T17:04:09.977000+00:00"
+    },
+    "https://medium.com/snowflake/3-type-of-snowflake-task-powering-orchestration-af8c13b1ac9b?source=rss----34b6daafc07---4": {
+        "title": "3 type of Snowflake TASK powering orchestration",
+        "published": "2023-09-11T16:29:14",
+        "updated": "2023-09-11T16:29:14.605000+00:00"
+    },
+    "https://medium.com/snowflake/salesforce-and-snowflake-data-clouds-on-collision-course-6d6115f96bba?source=rss----34b6daafc07---4": {
+        "title": "Salesforce and Snowflake Data Clouds on Collision Course",
+        "published": "2023-09-11T02:04:30",
+        "updated": "2023-09-11T07:29:56.192000+00:00"
+    },
     "https://medium.com/snowflake/running-weaviate-vector-db-in-snowflake-using-snowpark-container-services-490b1c391795?source=rss----34b6daafc07---4": {
         "title": "Running Weaviate Vector DB in Snowflake using Snowpark Container Services",
         "published": "2023-09-09T21:48:04",
@@ -7,7 +32,7 @@
     "https://medium.com/snowflake/lightning-fast-elt-for-python-devs-with-aws-snowpipe-and-pulumi-4eaf056dd097?source=rss----34b6daafc07---4": {
         "title": "Lightning-fast ELT for Python Devs with AWS, Snowpipe, and Pulumi",
         "published": "2023-09-09T00:02:26",
-        "updated": "2023-09-09T00:02:26.320000+00:00"
+        "updated": "2023-09-11T13:46:52.674000+00:00"
     },
     "https://medium.com/snowflake/power-of-snowpark-with-generative-ai-talk-to-your-data-with-snowflake-native-capabilities-9c4d0fb04a1f?source=rss----34b6daafc07---4": {
         "title": "Power of Snowpark with Generative AI\u200a\u2014\u200aTalk to Your Data with Snowflake Native Capabilities",
@@ -23,31 +48,6 @@
         "title": "Data Contracts in the Modern Data Stack",
         "published": "2023-09-08T03:38:56",
         "updated": "2023-09-08T03:38:56.471000+00:00"
-    },
-    "https://medium.com/snowflake/large-language-model-llm-inference-using-snowpark-optimized-warehouses-e458929798d2?source=rss----34b6daafc07---4": {
-        "title": "Large Language Model (LLM) Inference Using Snowpark Optimized Warehouses",
-        "published": "2023-09-07T22:02:22",
-        "updated": "2023-09-07T22:02:21.540000+00:00"
-    },
-    "https://medium.com/snowflake/how-to-easily-visualize-hierarchical-tabular-data-90f97e5e4168?source=rss----34b6daafc07---4": {
-        "title": "How to Easily Visualize Hierarchical Tabular Data",
-        "published": "2023-09-07T13:02:35",
-        "updated": "2023-09-07T13:02:34.574000+00:00"
-    },
-    "https://medium.com/snowflake/improve-snowflake-price-performance-by-optimizing-storage-be9b5962decb?source=rss----34b6daafc07---4": {
-        "title": "Improve Snowflake price-performance by optimizing storage",
-        "published": "2023-09-06T23:21:08",
-        "updated": "2023-09-08T14:09:06.778000+00:00"
-    },
-    "https://medium.com/snowflake/snowflake-for-macroeconomic-data-science-cybersyn-snowpark-a44a9edc5fa0?source=rss----34b6daafc07---4": {
-        "title": "Snowflake for Macroeconomic Data Science: Cybersyn + Snowpark",
-        "published": "2023-09-06T16:02:21",
-        "updated": "2023-09-06T16:36:35.597000+00:00"
-    },
-    "https://medium.com/snowflake/avoid-bad-data-completely-continuous-delivery-architectures-in-the-modern-data-stack-part-2-2c4240bdb973?source=rss----34b6daafc07---4": {
-        "title": "Avoid bad data completely: Continuous Delivery Architectures in the Modern Data Stack (Part 2)",
-        "published": "2023-09-06T13:02:28",
-        "updated": "2023-09-06T13:02:27.698000+00:00"
     },
     "https://quickstarts.snowflake.com/guide/accelerate_your_graphql_development_on_snowflake_with_hasura/index.html?index=..%2F..index": {
         "title": "Accelerate Your GraphQL Development on Snowflake with Hasura",
@@ -336,7 +336,7 @@
     },
     "https://quickstarts.snowflake.com/guide/resource_optimization_billing_metrics/index.html?index=..%2F..index": {
         "title": "Resource Optimization: Billing Metrics",
-        "updated": "2023-08-15T02:36:52-07:00",
+        "updated": "2023-09-08T15:38:21-07:00",
         "tags": "billing,billingmetrics,costoptimization,monitoring,resourceoptimization,web"
     },
     "https://quickstarts.snowflake.com/guide/seamless_ML_workflows_with_snowpark_and_deepnote/index.html?index=..%2F..index": {
@@ -396,7 +396,7 @@
     },
     "https://quickstarts.snowflake.com/guide/data_apps_summit_lab/index.html?index=..%2F..index": {
         "title": "Building a data application with Snowflake Marketplace, Snowpark and Streamlit",
-        "updated": "2023-08-15T02:36:44-07:00",
+        "updated": "2023-09-11T14:17:40-07:00",
         "tags": "dataengineering,datascience,gettingstarted,twitter,web"
     },
     "https://quickstarts.snowflake.com/guide/data_engineering_pipelines_with_snowpark_python/index.html?index=..%2F..index": {
@@ -676,7 +676,7 @@
     },
     "https://quickstarts.snowflake.com/guide/mlpf_forecasting_ad/index.html?index=..%2F..index": {
         "title": "Getting Started with Anomaly Detection & Forecasting with Machine Learning Powered Functions (MLPFs)",
-        "updated": "2023-08-30T13:31:00-07:00",
+        "updated": "2023-09-11T14:17:40-07:00",
         "tags": "dataengineering,datascience,gettingstarted,twitter,web"
     },
     "https://quickstarts.snowflake.com/guide/modern_data_stack_with_fivetran_snowflake_salesforce/index.html?index=..%2F..index": {
@@ -686,7 +686,7 @@
     },
     "https://quickstarts.snowflake.com/guide/native-app-chairlift/index.html?index=..%2F..index": {
         "title": "Build a Snowflake Native App to Analyze Chairlift Sensor Data",
-        "updated": "2023-08-17T14:16:52-07:00",
+        "updated": "2023-09-11T14:17:40-07:00",
         "tags": "apps,dataengineering,datascience,gettingstarted,web"
     },
     "https://quickstarts.snowflake.com/guide/power_apps_snowflake/index.html?index=..%2F..index": {
