@@ -1,4 +1,14 @@
 {
+    "https://medium.com/snowflake/deep-dive-into-security-and-performance-isolation-of-snowflake-virtual-warehouses-73bdecc69f4?source=rss----34b6daafc07---4": {
+        "title": "Deep dive into security and performance isolation of Snowflake virtual warehouses",
+        "published": "2023-09-12T18:11:43",
+        "updated": "2023-09-12T18:23:55.619000+00:00"
+    },
+    "https://medium.com/snowflake/snowflake-gen-ai-assistant-a838e1942d21?source=rss----34b6daafc07---4": {
+        "title": "Snowflake Gen-AI Assistant",
+        "published": "2023-09-12T11:01:39",
+        "updated": "2023-09-12T11:01:39.062000+00:00"
+    },
     "https://medium.com/snowflake/unlocking-machine-learning-potential-running-r-inside-snowpark-container-services-3ccdb2cac896?source=rss----34b6daafc07---4": {
         "title": "Unlocking Machine Learning Potential: Running R Inside Snowpark Container Services",
         "published": "2023-09-11T17:07:39",
@@ -38,16 +48,6 @@
         "title": "Power of Snowpark with Generative AI\u200a\u2014\u200aTalk to Your Data with Snowflake Native Capabilities",
         "published": "2023-09-08T16:14:01",
         "updated": "2023-09-08T16:14:01.404000+00:00"
-    },
-    "https://medium.com/snowflake/defining-snowpark-udtfs-without-specifying-input-or-output-columns-9ee7805813b6?source=rss----34b6daafc07---4": {
-        "title": "Defining Snowpark UDTFs without Specifying Input or Output Columns",
-        "published": "2023-09-08T13:02:25",
-        "updated": "2023-09-08T13:02:25.166000+00:00"
-    },
-    "https://medium.com/snowflake/data-contracts-in-the-modern-data-stack-d42cb2442dbd?source=rss----34b6daafc07---4": {
-        "title": "Data Contracts in the Modern Data Stack",
-        "published": "2023-09-08T03:38:56",
-        "updated": "2023-09-08T03:38:56.471000+00:00"
     },
     "https://quickstarts.snowflake.com/guide/accelerate_your_graphql_development_on_snowflake_with_hasura/index.html?index=..%2F..index": {
         "title": "Accelerate Your GraphQL Development on Snowflake with Hasura",
