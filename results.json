@@ -1,4 +1,14 @@
 {
+    "https://medium.com/snowflake/simplifying-security-data-ingestion-recent-snowflake-features-minimize-cost-and-complexity-b72d7eba77ab?source=rss----34b6daafc07---4": {
+        "title": "Simplifying Security Data Ingestion: Recent Snowflake features minimize cost and complexity",
+        "published": "2023-09-18T20:07:44",
+        "updated": "2023-09-18T23:50:04.696000+00:00"
+    },
+    "https://medium.com/snowflake/ip-protection-in-snowflake-native-apps-dc45173af152?source=rss----34b6daafc07---4": {
+        "title": "IP Protection in Snowflake Native Apps",
+        "published": "2023-09-18T19:01:49",
+        "updated": "2023-09-18T19:01:48.495000+00:00"
+    },
     "https://medium.com/snowflake/sis-application-development-ci-cd-setup-with-github-actions-3a4279f57287?source=rss----34b6daafc07---4": {
         "title": "SiS Application Development: CI/CD Setup with GitHub Actions",
         "published": "2023-09-15T19:48:20",
@@ -38,16 +48,6 @@
         "title": "Snowflake Gen-AI Assistant",
         "published": "2023-09-12T11:01:39",
         "updated": "2023-09-12T11:01:39.062000+00:00"
-    },
-    "https://medium.com/snowflake/unlocking-machine-learning-potential-running-r-inside-snowpark-container-services-3ccdb2cac896?source=rss----34b6daafc07---4": {
-        "title": "Unlocking Machine Learning Potential: Running R Inside Snowpark Container Services",
-        "published": "2023-09-11T17:07:39",
-        "updated": "2023-09-11T17:07:39.785000+00:00"
-    },
-    "https://medium.com/snowflake/streamlining-credit-risk-modeling-with-snowflake-and-predactica-3efea3355b0c?source=rss----34b6daafc07---4": {
-        "title": "Streamlining Credit Risk Models with Snowflake and Predactica",
-        "published": "2023-09-11T17:05:02",
-        "updated": "2023-09-11T17:05:02.767000+00:00"
     },
     "https://quickstarts.snowflake.com/guide/accelerate_your_graphql_development_on_snowflake_with_hasura/index.html?index=..%2F..index": {
         "title": "Accelerate Your GraphQL Development on Snowflake with Hasura",
@@ -151,8 +151,8 @@
     },
     "https://quickstarts.snowflake.com/guide/CDC_SnowpipeStreaming_DynamicTables/index.html?index=..%2F..index": {
         "title": "Snowpipe Streaming and Dynamic Tables for Real-Time Ingestion (CDC Use Case)",
-        "updated": "2023-09-07T11:01:55-07:00",
-        "tags": "cdc,dataengineering,dynamic,financialservices,snowpipe,streaming,web"
+        "updated": "2023-09-18T11:53:39-07:00",
+        "tags": "cdc,dataengineering,dynamictables,financialservices,snowpipe,streaming,web"
     },
     "https://quickstarts.snowflake.com/guide/cloud_native_data_engineering_with_matillion_and_snowflake/index.html?index=..%2F..index": {
         "title": "Cloud Native Data Engineering with Matillion and Snowflake",
@@ -201,7 +201,7 @@
     },
     "https://quickstarts.snowflake.com/guide/parsing_semi_structured_data_with_coalesce/index.html?index=..%2F..index": {
         "title": "Parsing Semi-Structured Data with Coalesce",
-        "updated": "2023-08-30T13:31:00-07:00",
+        "updated": "2023-09-18T11:52:17-07:00",
         "tags": "dataengineering,gettingstarted,web"
     },
     "https://quickstarts.snowflake.com/guide/processing_hl7_fhir_messages_with_snowflake/index.html?index=..%2F..index": {
@@ -211,7 +211,7 @@
     },
     "https://quickstarts.snowflake.com/guide/processing_hl7_v2_messages_with_snowflake/index.html?index=..%2F..index": {
         "title": "Getting Started - Processing HL7 V2 Messages with Snowflake",
-        "updated": "2023-08-15T02:36:52-07:00",
+        "updated": "2023-09-18T13:24:41-07:00",
         "tags": "dataengineering,datalake,datascience,fhir,gettingstarted,health&lifesciences,hl7,unstructureddata,web"
     },
     "https://quickstarts.snowflake.com/guide/snowflake_transformer/index.html?index=..%2F..index": {
@@ -231,7 +231,7 @@
     },
     "https://quickstarts.snowflake.com/guide/transform_your_data_with_coalesce/index.html?index=..%2F..index": {
         "title": "Accelerate Transformations with Coalesce and Snowflake",
-        "updated": "2023-08-30T13:31:00-07:00",
+        "updated": "2023-09-18T11:52:17-07:00",
         "tags": "dataengineering,datascience,gettingstarted,web"
     },
     "https://quickstarts.snowflake.com/guide/vhol_data_vault/index.html?index=..%2F..index": {
@@ -251,7 +251,7 @@
     },
     "https://quickstarts.snowflake.com/guide/analyze_pdf_invoices_snowpark_python_java/index.html?index=..%2F..index": {
         "title": "Analyze PDF Invoices using Snowpark for Java and Python",
-        "updated": "2023-09-13T12:18:11-07:00",
+        "updated": "2023-09-18T11:52:17-07:00",
         "tags": "dataengineering,datascience,unstructureddata,web"
     },
     "https://quickstarts.snowflake.com/guide/automl_with_snowflake_and_datarobot/index.html?index=..%2F..index": {
@@ -281,12 +281,12 @@
     },
     "https://quickstarts.snowflake.com/guide/frosty_llm_chatbot_on_streamlit_snowflake/index.html?index=..%2F..index": {
         "title": "Frosty: Build an LLM Chatbot in Streamlit on your Snowflake Data",
-        "updated": "2023-08-30T13:31:00-07:00",
+        "updated": "2023-09-18T11:52:17-07:00",
         "tags": "llms,openai,snowparkpython,streamlit,web"
     },
     "https://quickstarts.snowflake.com/guide/getting_started_snowpark_machine_learning/index.html?index=..%2F..index": {
         "title": "Machine Learning with Snowpark Python: - Credit Card Approval Prediction",
-        "updated": "2023-08-30T13:31:00-07:00",
+        "updated": "2023-09-18T11:52:17-07:00",
         "tags": "dataengineering,datascience,gettingstarted,machinelearning,snowpark,web"
     },
     "https://quickstarts.snowflake.com/guide/harness_the_power_of_snowflake_with_informatica_idmc/index.html?index=..%2F..index": {
@@ -306,7 +306,7 @@
     },
     "https://quickstarts.snowflake.com/guide/image_recognition_snowpark_pytorch_streamlit_openai/index.html?index=..%2F..index": {
         "title": "A Image Recognition App in Snowflake using Snowpark Python, PyTorch, Streamlit and OpenAI",
-        "updated": "2023-08-30T13:31:00-07:00",
+        "updated": "2023-09-18T11:52:17-07:00",
         "tags": "web"
     },
     "https://quickstarts.snowflake.com/guide/machine_learning_with_aws_autopilot/index.html?index=..%2F..index": {
@@ -336,7 +336,7 @@
     },
     "https://quickstarts.snowflake.com/guide/resource_optimization_billing_metrics/index.html?index=..%2F..index": {
         "title": "Resource Optimization: Billing Metrics",
-        "updated": "2023-09-15T13:03:54-07:00",
+        "updated": "2023-09-18T11:52:17-07:00",
         "tags": "billing,billingmetrics,costoptimization,monitoring,resourceoptimization,web"
     },
     "https://quickstarts.snowflake.com/guide/seamless_ML_workflows_with_snowpark_and_deepnote/index.html?index=..%2F..index": {
@@ -396,17 +396,17 @@
     },
     "https://quickstarts.snowflake.com/guide/data_apps_summit_lab/index.html?index=..%2F..index": {
         "title": "Building a data application with Snowflake Marketplace, Snowpark and Streamlit",
-        "updated": "2023-09-14T15:25:12-07:00",
+        "updated": "2023-09-18T11:52:17-07:00",
         "tags": "dataengineering,datascience,gettingstarted,twitter,web"
     },
     "https://quickstarts.snowflake.com/guide/data_engineering_pipelines_with_snowpark_python/index.html?index=..%2F..index": {
         "title": "Data Engineering Pipelines with Snowpark Python",
-        "updated": "2023-09-08T08:49:46-07:00",
+        "updated": "2023-09-18T11:52:17-07:00",
         "tags": "dataengineering,python,snowpark,web"
     },
     "https://quickstarts.snowflake.com/guide/data_engineering_with_datastage/index.html?index=..%2F..index": {
         "title": "A Data Integration Guide: Load Banking Data into Snowflake with IBM DataStage",
-        "updated": "2023-08-30T13:31:00-07:00",
+        "updated": "2023-09-18T11:52:17-07:00",
         "tags": "dataengineering,dataintegration,datastage,gettingstarted,web"
     },
     "https://quickstarts.snowflake.com/guide/geocoding_address_data_with_mapbox/index.html?index=..%2F..index": {
@@ -416,17 +416,17 @@
     },
     "https://quickstarts.snowflake.com/guide/getting_started_with_dataengineering_ml_using_snowpark_python_ja/index.html?index=..%2F..index": {
         "title": "Snowpark for Python\u3092\u4f7f\u7528\u3057\u305f\u30c7\u30fc\u30bf\u30a8\u30f3\u30b8\u30cb\u30a2\u30ea\u30f3\u30b0\u3068ML\u306e\u5165\u9580",
-        "updated": "2023-08-17T22:19:34-07:00",
+        "updated": "2023-09-18T11:52:17-07:00",
         "tags": "dataengineering,gettingstarted,ja,machinelearning,scikit-learn,snowparkpython,streamlit,web"
     },
     "https://quickstarts.snowflake.com/guide/getting_started_with_dataengineering_ml_using_snowpark_python/index.html?index=..%2F..index": {
         "title": "Getting Started with Data Engineering and ML using Snowpark for Python",
-        "updated": "2023-09-06T12:41:31-07:00",
+        "updated": "2023-09-18T11:52:17-07:00",
         "tags": "web"
     },
     "https://quickstarts.snowflake.com/guide/getting_started_with_generative_ai_snowflake_external_functions/index.html?index=..%2F..index": {
         "title": "Getting Started with Generative AI in Snowflake and Streamlit",
-        "updated": "2023-09-06T12:41:31-07:00",
+        "updated": "2023-09-18T11:52:17-07:00",
         "tags": "web"
     },
     "https://quickstarts.snowflake.com/guide/getting_started_with_snowflake/index.html?index=..%2F..index": {
@@ -434,9 +434,14 @@
         "updated": "2023-08-15T02:36:49-07:00",
         "tags": "dataengineering,datascience,gettingstarted,web"
     },
+    "https://quickstarts.snowflake.com/guide/getting_started_with_snowpark_for_python_streamlit/index.html?index=..%2F..index": {
+        "title": "Getting Started With Snowpark for Python and Streamlit",
+        "updated": "2023-09-18T12:31:04-07:00",
+        "tags": "web"
+    },
     "https://quickstarts.snowflake.com/guide/getting_started_with_snowpark_in_snowflake_python_worksheets_ja/index.html?index=..%2F..index": {
         "title": "Snowflake Python\u30ef\u30fc\u30af\u30b7\u30fc\u30c8\u306b\u3088\u308bSnowpark\u5165\u9580",
-        "updated": "2023-08-17T22:19:34-07:00",
+        "updated": "2023-09-18T11:52:17-07:00",
         "tags": "dataengineering,gettingstarted,ja,pythonworksheets,snowparkpython,web"
     },
     "https://quickstarts.snowflake.com/guide/getting_started_with_snowpark_in_snowflake_python_worksheets/index.html?index=..%2F..index": {
@@ -476,7 +481,7 @@
     },
     "https://quickstarts.snowflake.com/guide/accelerating_data_teams_with_snowflake_and_dbt_cloud_hands_on_lab/index.html?index=..%2F..index": {
         "title": "Accelerating Data Teams with Snowflake and dbt Cloud Hands On Lab",
-        "updated": "2023-08-30T13:31:00-07:00",
+        "updated": "2023-09-18T11:52:17-07:00",
         "tags": "data,dataengineering,dbt,gettingstarted,web"
     },
     "https://quickstarts.snowflake.com/guide/build_a_custom_api_in_java_on_aws/index.html?index=..%2F..index": {
@@ -521,12 +526,12 @@
     },
     "https://quickstarts.snowflake.com/guide/example_matt_marzillo/index.html?index=..%2F..index": {
         "title": "Getting Started with Snowpark for Machine Learning on AzureML",
-        "updated": "2023-08-30T13:31:00-07:00",
+        "updated": "2023-09-18T11:52:17-07:00",
         "tags": "dataengineering,datascience,gettingstarted,web"
     },
     "https://quickstarts.snowflake.com/guide/financial-services-asset-management-snowflake/index.html?index=..%2F..index": {
         "title": "Financial Services Asset Management",
-        "updated": "2023-08-30T13:31:00-07:00",
+        "updated": "2023-09-18T11:52:17-07:00",
         "tags": "dataengineering,datascience,gettingstarted,twitter,web"
     },
     "https://quickstarts.snowflake.com/guide/geo_analysis_geometry/index.html?index=..%2F..index": {
@@ -566,7 +571,7 @@
     },
     "https://quickstarts.snowflake.com/guide/getting_started_keboola/index.html?index=..%2F..index": {
         "title": "Getting Started with Keboola",
-        "updated": "2023-09-06T08:25:21-07:00",
+        "updated": "2023-09-18T11:52:17-07:00",
         "tags": "dataengineering,gettingstarted,web"
     },
     "https://quickstarts.snowflake.com/guide/getting_started_snowflake_sql_api/index.html?index=..%2F..index": {
@@ -591,7 +596,7 @@
     },
     "https://quickstarts.snowflake.com/guide/getting_started_with_native_apps/index.html?index=..%2F..index": {
         "title": "Getting Started with Snowflake Native Apps",
-        "updated": "2023-08-30T13:31:00-07:00",
+        "updated": "2023-09-18T11:52:17-07:00",
         "tags": "dataengineering,datascience,gettingstarted,nativeapps,web"
     },
     "https://quickstarts.snowflake.com/guide/getting_started_with_python/index.html?index=..%2F..index": {
@@ -621,7 +626,7 @@
     },
     "https://quickstarts.snowflake.com/guide/getting_started_with_snowpark_python_scikit/index.html?index=..%2F..index": {
         "title": "Getting Started with Snowpark for Python with Scikit-learn",
-        "updated": "2023-08-30T13:31:00-07:00",
+        "updated": "2023-09-18T11:52:17-07:00",
         "tags": "dataengineering,datascience,gettingstarted,twitter,web"
     },
     "https://quickstarts.snowflake.com/guide/getting_started_with_snowpark_scala/index.html?index=..%2F..index": {
@@ -651,7 +656,7 @@
     },
     "https://quickstarts.snowflake.com/guide/getting-started-django-snowflake/index.html?index=..%2F..index": {
         "title": "Getting Started with Snowflake as a backend for Django",
-        "updated": "2023-08-30T13:31:00-07:00",
+        "updated": "2023-09-18T11:52:17-07:00",
         "tags": "dataengineering,datascience,django,django-snowflake,gettingstarted,snowflake,twitter,web"
     },
     "https://quickstarts.snowflake.com/guide/how_to_resolve_data_with_fullcontact_and_snowflake/index.html?index=..%2F..index": {
@@ -661,7 +666,7 @@
     },
     "https://quickstarts.snowflake.com/guide/intro_to_machine_learning_with_snowpark_ml_for_python/index.html?index=..%2F..index": {
         "title": "Intro to Machine Learning with Snowpark ML for Python",
-        "updated": "2023-08-30T13:31:00-07:00",
+        "updated": "2023-09-18T11:52:17-07:00",
         "tags": "dataengineering,datascience,gettingstarted,machinelearning,snowpark,web"
     },
     "https://quickstarts.snowflake.com/guide/java_trace_events/index.html?index=..%2F..index": {
@@ -676,7 +681,7 @@
     },
     "https://quickstarts.snowflake.com/guide/mlpf_forecasting_ad/index.html?index=..%2F..index": {
         "title": "Getting Started with Anomaly Detection & Forecasting with Machine Learning Powered Functions (MLPFs)",
-        "updated": "2023-09-11T14:17:40-07:00",
+        "updated": "2023-09-18T11:52:17-07:00",
         "tags": "dataengineering,datascience,gettingstarted,twitter,web"
     },
     "https://quickstarts.snowflake.com/guide/modern_data_stack_with_fivetran_snowflake_salesforce/index.html?index=..%2F..index": {
@@ -686,17 +691,17 @@
     },
     "https://quickstarts.snowflake.com/guide/native-app-chairlift/index.html?index=..%2F..index": {
         "title": "Build a Snowflake Native App to Analyze Chairlift Sensor Data",
-        "updated": "2023-09-11T14:17:40-07:00",
+        "updated": "2023-09-18T11:52:17-07:00",
         "tags": "apps,dataengineering,datascience,gettingstarted,web"
     },
     "https://quickstarts.snowflake.com/guide/power_apps_snowflake/index.html?index=..%2F..index": {
         "title": "Getting Started with Power Apps and Snowflake",
-        "updated": "2023-08-30T13:31:00-07:00",
+        "updated": "2023-09-18T11:52:17-07:00",
         "tags": "dataengineering,gettingstarted,microsoft,powerapps,powerautomate,powerplatform,web"
     },
     "https://quickstarts.snowflake.com/guide/segment-retl-salesforce/index.html?index=..%2F..index": {
         "title": "Use Segment Reverse ETL to sync your Snowflake customer table to Salesforce",
-        "updated": "2023-09-07T11:01:55-07:00",
+        "updated": "2023-09-18T11:52:17-07:00",
         "tags": "gettingstarted,reverseetl,salesforce,segment,web"
     },
     "https://quickstarts.snowflake.com/guide/soda/index.html?index=..%2F..index": {
@@ -731,7 +736,7 @@
     },
     "https://quickstarts.snowflake.com/guide/visual_analytics_powered_by_snowflake_and_tableau/index.html?index=..%2F..index": {
         "title": "Visual Analytics powered by Snowflake and Tableau",
-        "updated": "2023-08-15T02:36:56-07:00",
+        "updated": "2023-09-18T11:52:17-07:00",
         "tags": "dataengineering,datasharing,datavisualization,embeddedanalytics,web"
     },
     "https://quickstarts.snowflake.com/guide/resource_optimization_performance_optimization/index.html?index=..%2F..index": {
@@ -786,7 +791,7 @@
     },
     "https://quickstarts.snowflake.com/guide/developing_tasty_bytes_react_native_application_with_snowflake_sql_api/index.html?index=..%2F..index": {
         "title": "Tasty Bytes - Developing React Native Data Application with SQL API",
-        "updated": "2023-08-30T13:31:00-07:00",
+        "updated": "2023-09-18T11:52:17-07:00",
         "tags": "api,dataapplications,dataengineering,gettingstarted,web"
     },
     "https://quickstarts.snowflake.com/guide/integrating_tasty_bytes_location_recommendation_ml_model_into_the_react_native_data_app/index.html?index=..%2F..index": {
@@ -811,7 +816,7 @@
     },
     "https://quickstarts.snowflake.com/guide/tasty_bytes_snowpark_101_for_data_science/index.html?index=..%2F..index": {
         "title": "Tasty Bytes - Snowpark 101 for Data Science",
-        "updated": "2023-08-30T13:31:00-07:00",
+        "updated": "2023-09-18T11:52:17-07:00",
         "tags": "dataengineering,datascience,gettingstarted,machinelearning,snowpark,streamlit,web"
     },
     "https://quickstarts.snowflake.com/guide/tasty_bytes_zero_to_snowflake_collaboration_ja/index.html?index=..%2F..index": {
