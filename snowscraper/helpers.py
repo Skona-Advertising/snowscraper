@@ -1,5 +1,15 @@
 from datetime import datetime
 
+def unix_to_datetime_utc(timestamp_millis):
+    # Convert to seconds from milliseconds
+    timestamp_seconds = timestamp_millis / 1000.0
+    
+    # Create a datetime object in UTC
+    dt_object = datetime.utcfromtimestamp(timestamp_seconds)
+    
+    # Format the datetime object as an ISO 8601 string
+    return dt_object.isoformat() + 'Z'  # 'Z' indicates UTC time
+
 
 def string_to_datetime(date_string):
     try:
