@@ -11,63 +11,30 @@ from ..scraper import BaseScraper
 LONG_QUERY = """
 query PublicationHomepageQuery($collectionId: ID!, $homepagePostsLimit: PaginationLimit = 25, $homepagePostsFrom: String, $includeDistributedResponses: Boolean = false) {
   collection(id: $collectionId) {
-    ...PublicationHomepage_collection
-  }
-}
-
-fragment PublicationHomepage_collection on Collection {
-  ...PublisherHomepagePosts_publisher
-}
-
-fragment PublisherHomepagePosts_publisher on Publisher {
-  homepagePostsConnection(
-    paging: {limit: $homepagePostsLimit, from: $homepagePostsFrom}
-    includeDistributedResponses: $includeDistributedResponses
-  ) {
-    posts {
-      ...PostPreview_post
-    }
-    pagingInfo {
-      next {
-        from
-        limit
+      homepagePostsConnection(
+      paging: {limit: $homepagePostsLimit, from: $homepagePostsFrom}
+      includeDistributedResponses: $includeDistributedResponses
+    ) {
+      posts {
+          firstPublishedAt
+          latestPublishedAt
+          title
+          uniqueSlug
+          visibility
+          mediumUrl
+          isPublished
+          tags {
+            normalizedTagSlug
+          }
+      }
+      pagingInfo {
+        next {
+          from
+          limit
+        }
       }
     }
   }
-}
-
-fragment PostPreview_post on Post {
-  firstPublishedAt
-  latestPublishedAt
-  title
-  uniqueSlug
-  ...PostFooterActionsBar_post
-  ...HighDensityPreview_post
-}
-
-fragment PostFooterActionsBar_post on Post {
-  visibility
-  ...PostSharePopover_post
-}
-              
-fragment PostSharePopover_post on Post {
-  mediumUrl
-  isPublished
-}
-
-fragment HighDensityPreview_post on Post {
-  ...HighDensityFooter_post
-}
-
-fragment HighDensityFooter_post on Post {
-  tags {
-    ...TopicPill_tag
-  }
-}
-
-fragment TopicPill_tag on Tag {
-  displayTitle
-  normalizedTagSlug
 }
 """
 
@@ -102,7 +69,7 @@ class MediumScraper(BaseScraper):
             posts, paging_info = self.make_request(query_vars)
             
             for post in posts:
-                if post["visibility"] == "PUBLIC":
+                if post["visibility"] == "PUBLIC" and post["isPublished"]:
                     self.data[post["mediumUrl"]] = {
                         "title": post["title"],
                         "published": unix_to_datetime_utc(post["firstPublishedAt"]),
