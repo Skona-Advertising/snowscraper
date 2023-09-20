@@ -5,22 +5,28 @@
         "updated": "2023-09-19T19:02:22.833000Z",
         "tags": "machine-learning,llm,generative-ai,snowflake,snowpark"
     },
+    "https://medium.com/snowflake/a-sales-assistant-powered-by-a-react-agent-and-llama-2-on-snowflake-95f6331d43db": {
+        "title": "A Sales Assistant powered by a ReAct Agent and Llama 2 on Snowflake",
+        "published": "2023-09-19T18:51:39.723000Z",
+        "updated": "2023-09-19T21:10:52.431000Z",
+        "tags": "llm,generative-ai-tools,langchain,llama-2,snowpark"
+    },
     "https://medium.com/snowflake/frostygen-a-streamlit-data-generator-tool-f28950b55c41": {
         "title": "FrostyGen: a Streamlit Data Generator Tool",
         "published": "2023-09-19T15:15:29.497000Z",
-        "updated": "2023-09-19T15:15:29.497000Z",
+        "updated": "2023-09-19T19:37:16.821000Z",
         "tags": "streamlit,data-generator,data-engineering,synthetic-data,snowflake"
     },
     "https://medium.com/snowflake/how-a-fictional-ski-resort-helped-me-understand-snowflake-native-apps-b7a6afcb36f7": {
         "title": "How a fictional ski resort helped me understand Snowflake Native Apps",
         "published": "2023-09-19T13:57:31.511000Z",
-        "updated": "2023-09-19T13:57:31.511000Z",
+        "updated": "2023-09-19T22:10:53.969000Z",
         "tags": "apps,app-development,snowflake,native-app,web-development"
     },
     "https://medium.com/snowflake/snowflake-quick-tips-how-to-create-a-snowflake-native-app-40a31d3ee4e1": {
-        "title": "[Snowflake Quick Tips] How to create a Snowflake Native App",
+        "title": "[Snowflake Quick Tips] How to create a Snowflake Native App \u2026in 5 minutes",
         "published": "2023-09-19T13:02:28.100000Z",
-        "updated": "2023-09-19T19:12:32.846000Z",
+        "updated": "2023-09-20T00:34:18.422000Z",
         "tags": "snowflake-native-app,snowflake-apps,snowflake-quick-tips,data-superhero,snowflake"
     },
     "https://medium.com/snowflake/simplifying-security-data-ingestion-recent-snowflake-features-minimize-cost-and-complexity-b72d7eba77ab": {
@@ -338,7 +344,7 @@
     "https://medium.com/snowflake/github-archive-analysis-using-snowpark-a-comprehensive-guide-to-highly-performant-46099383fe8c": {
         "title": "GitHub Archive analysis using Snowpark\u200a\u2014\u200aA comprehensive guide to highly performant\u2026",
         "published": "2023-08-22T21:35:39.207000Z",
-        "updated": "2023-09-07T01:30:49.574000Z",
+        "updated": "2023-09-19T20:11:14.394000Z",
         "tags": "data-engineering,programming,data-science,machine-learning,snowflake"
     },
     "https://medium.com/snowflake/tag-based-masking-policies-in-snowflake-67701422f851": {
@@ -404,7 +410,7 @@
     "https://medium.com/snowflake/exploratory-data-analysis-eda-of-github-archive-using-snowpark-python-dataframe-apis-1aa187713480": {
         "title": "Exploratory data analysis (EDA) of GitHub archive using Snowpark Python dataframe APIs",
         "published": "2023-08-14T20:14:31.678000Z",
-        "updated": "2023-09-19T19:07:05.369000Z",
+        "updated": "2023-09-19T20:05:52.216000Z",
         "tags": "data-science,python-programming,snowflake,data-engineering,apache-spark"
     },
     "https://medium.com/snowflake/capture-log-event-messages-using-snowflake-event-tables-10890e6c3e08": {
