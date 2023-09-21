@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/snowflakes-migration-to-envoy-for-traffic-management-fc957e50bc6f": {
+        "title": "Snowflake\u2019s migration to Envoy for traffic management",
+        "published": "2023-09-20T22:12:21.569000Z",
+        "updated": "2023-09-20T22:41:16.988000Z",
+        "tags": "snowflake,envoy-proxy,infrastructure"
+    },
+    "https://medium.com/snowflake/comparing-snowpark-vs-the-ordinary-snowflake-python-connector-1252f8493ddc": {
+        "title": "Comparing Snowpark vs the Ordinary Snowflake Python Connector.",
+        "published": "2023-09-20T17:36:30.275000Z",
+        "updated": "2023-09-20T18:17:17.114000Z",
+        "tags": "snowflake,snowpark"
+    },
     "https://medium.com/snowflake/automating-llm-deployment-in-snowflake-b80c184e0be9": {
         "title": "Automating LLM deployment in Snowflake",
         "published": "2023-09-19T19:02:22.833000Z",
@@ -8,25 +20,25 @@
     "https://medium.com/snowflake/a-sales-assistant-powered-by-a-react-agent-and-llama-2-on-snowflake-95f6331d43db": {
         "title": "A Sales Assistant powered by a ReAct Agent and Llama 2 on Snowflake",
         "published": "2023-09-19T18:51:39.723000Z",
-        "updated": "2023-09-19T21:10:52.431000Z",
+        "updated": "2023-09-20T13:21:43.653000Z",
         "tags": "llm,generative-ai-tools,langchain,llama-2,snowpark"
     },
     "https://medium.com/snowflake/frostygen-a-streamlit-data-generator-tool-f28950b55c41": {
         "title": "FrostyGen: a Streamlit Data Generator Tool",
         "published": "2023-09-19T15:15:29.497000Z",
-        "updated": "2023-09-19T19:37:16.821000Z",
+        "updated": "2023-09-20T06:31:06.742000Z",
         "tags": "streamlit,data-generator,data-engineering,synthetic-data,snowflake"
     },
     "https://medium.com/snowflake/how-a-fictional-ski-resort-helped-me-understand-snowflake-native-apps-b7a6afcb36f7": {
         "title": "How a fictional ski resort helped me understand Snowflake Native Apps",
         "published": "2023-09-19T13:57:31.511000Z",
-        "updated": "2023-09-19T22:10:53.969000Z",
+        "updated": "2023-09-20T15:40:44.290000Z",
         "tags": "apps,app-development,snowflake,native-app,web-development"
     },
     "https://medium.com/snowflake/snowflake-quick-tips-how-to-create-a-snowflake-native-app-40a31d3ee4e1": {
         "title": "[Snowflake Quick Tips] How to create a Snowflake Native App \u2026in 5 minutes",
         "published": "2023-09-19T13:02:28.100000Z",
-        "updated": "2023-09-20T00:34:18.422000Z",
+        "updated": "2023-09-20T15:40:47.383000Z",
         "tags": "snowflake-native-app,snowflake-apps,snowflake-quick-tips,data-superhero,snowflake"
     },
     "https://medium.com/snowflake/simplifying-security-data-ingestion-recent-snowflake-features-minimize-cost-and-complexity-b72d7eba77ab": {
@@ -341,12 +353,6 @@
         "updated": "2023-08-23T04:02:24.420000Z",
         "tags": "snowflake,native-app,streamlit,data-superhero"
     },
-    "https://medium.com/snowflake/github-archive-analysis-using-snowpark-a-comprehensive-guide-to-highly-performant-46099383fe8c": {
-        "title": "GitHub Archive analysis using Snowpark\u200a\u2014\u200aA comprehensive guide to highly performant\u2026",
-        "published": "2023-08-22T21:35:39.207000Z",
-        "updated": "2023-09-19T20:11:14.394000Z",
-        "tags": "data-engineering,programming,data-science,machine-learning,snowflake"
-    },
     "https://medium.com/snowflake/tag-based-masking-policies-in-snowflake-67701422f851": {
         "title": "Tag-based Masking Policies in Snowflake",
         "published": "2023-08-21T12:42:20.409000Z",
@@ -377,12 +383,6 @@
         "updated": "2023-08-18T13:02:22.818000Z",
         "tags": "snowflake,database,query-optimization"
     },
-    "https://vinodhini-sd.medium.com/iceberg-tables-on-snowflake-design-considerations-and-life-of-an-insert-query-5026ea10bbea": {
-        "title": "Iceberg Tables on Snowflake: Design considerations and Life of an INSERT query",
-        "published": "2023-08-16T19:52:35.284000Z",
-        "updated": "2023-09-14T23:18:30.547000Z",
-        "tags": "data-engineering,open-source,snowflake,data-lake,data-architecture"
-    },
     "https://medium.com/snowflake/getting-started-with-snowpark-scala-with-intellij-starter-guide-for-spark-scala-developers-260bcf6eaf76": {
         "title": "Getting Started with Snowpark Scala with IntelliJ: Starter Guide for Spark Scala Developers",
         "published": "2023-08-16T13:03:33.787000Z",
@@ -395,23 +395,11 @@
         "updated": "2023-08-16T13:56:03.540000Z",
         "tags": "snowflake,data-lake,icebergs,parquet,data-superhero"
     },
-    "https://medium.com/snowflake/step-by-step-roadmap-to-becoming-a-snowflake-data-engineer-in-2023-18c823ba8b9c": {
-        "title": "Step by step roadmap to becoming a Snowflake Data Engineer in 2023",
-        "published": "2023-08-15T03:29:42.199000Z",
-        "updated": "2023-09-01T16:01:05.318000Z",
-        "tags": "data-engineering,programming,snowflake,career-paths,big-data"
-    },
     "https://medium.com/snowflake/utilizing-the-new-aws-glue-studio-native-connector-for-snowflake-12e99f288682": {
         "title": "Utilizing the new AWS Glue Studio Native Connector for Snowflake",
         "published": "2023-08-15T00:01:55.325000Z",
         "updated": "2023-08-17T17:39:11.411000Z",
         "tags": "snowflake,aws-glue,snowflake-connector,data-engineering"
-    },
-    "https://medium.com/snowflake/exploratory-data-analysis-eda-of-github-archive-using-snowpark-python-dataframe-apis-1aa187713480": {
-        "title": "Exploratory data analysis (EDA) of GitHub archive using Snowpark Python dataframe APIs",
-        "published": "2023-08-14T20:14:31.678000Z",
-        "updated": "2023-09-19T20:05:52.216000Z",
-        "tags": "data-science,python-programming,snowflake,data-engineering,apache-spark"
     },
     "https://medium.com/snowflake/capture-log-event-messages-using-snowflake-event-tables-10890e6c3e08": {
         "title": "Capture Log & Event Messages using Snowflake Event tables",
@@ -1538,7 +1526,7 @@
     "https://medium.com/snowflake/implementing-generative-ai-in-snowflake-with-azure-openai-using-streamlit-cbcaac15773a": {
         "title": "Implementing Generative AI in Snowflake with Azure OpenAI using Streamlit",
         "published": "2023-05-15T15:40:28.980000Z",
-        "updated": "2023-07-10T23:30:12.480000Z",
+        "updated": "2023-09-20T18:31:37.631000Z",
         "tags": "openai,generative-ai,streamlit,snowflake,data-superhero"
     },
     "https://medium.com/snowflake/transfer-accountadmin-ownership-to-custom-role-336ef0e012d2": {
