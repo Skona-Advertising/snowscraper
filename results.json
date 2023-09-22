@@ -1,8 +1,32 @@
 {
+    "https://medium.com/snowflake/asset-and-identity-prioritization-e24a52caab9": {
+        "title": "Prioritizing Entities for Better Security Alerts",
+        "published": "2023-09-21T18:26:09.577000Z",
+        "updated": "2023-09-21T22:03:22.283000Z",
+        "tags": "security,threat-detection"
+    },
+    "https://medium.com/snowflake/deep-dive-into-the-internals-of-snowflake-virtual-warehouses-d6d9676127d2": {
+        "title": "Deep dive into the internals of Snowflake Virtual Warehouses",
+        "published": "2023-09-21T16:56:01.817000Z",
+        "updated": "2023-09-21T18:11:35.170000Z",
+        "tags": "snowflake"
+    },
+    "https://medium.com/snowflake/using-polars-with-snowflake-cbdd49b0ca6b": {
+        "title": "Using Polars with Snowflake",
+        "published": "2023-09-21T16:54:50.601000Z",
+        "updated": "2023-09-21T20:02:09.471000Z",
+        "tags": "snowflake"
+    },
+    "https://medium.com/snowflake/snowflakeloginoptions-an-easier-way-to-connect-using-python-2f0e726da936": {
+        "title": "SnowflakeLoginOptions \u2014An Easier Way to Connect Using Python",
+        "published": "2023-09-21T16:54:26.315000Z",
+        "updated": "2023-09-21T16:54:26.315000Z",
+        "tags": "snowflake,snowpark,snowpark-python"
+    },
     "https://medium.com/snowflake/snowflakes-migration-to-envoy-for-traffic-management-fc957e50bc6f": {
         "title": "Snowflake\u2019s migration to Envoy for traffic management",
         "published": "2023-09-20T22:12:21.569000Z",
-        "updated": "2023-09-20T22:41:16.988000Z",
+        "updated": "2023-09-21T20:30:22.459000Z",
         "tags": "snowflake,envoy-proxy,infrastructure"
     },
     "https://medium.com/snowflake/comparing-snowpark-vs-the-ordinary-snowflake-python-connector-1252f8493ddc": {
@@ -353,6 +377,12 @@
         "updated": "2023-08-23T04:02:24.420000Z",
         "tags": "snowflake,native-app,streamlit,data-superhero"
     },
+    "https://medium.com/snowflake/github-archive-analysis-using-snowpark-a-comprehensive-guide-to-highly-performant-46099383fe8c": {
+        "title": "GitHub Archive analysis using Snowpark\u200a\u2014\u200aA comprehensive guide to highly performant\u2026",
+        "published": "2023-08-22T21:35:39.207000Z",
+        "updated": "2023-09-21T04:36:21.416000Z",
+        "tags": "data-engineering,programming,data-science,machine-learning,snowflake"
+    },
     "https://medium.com/snowflake/tag-based-masking-policies-in-snowflake-67701422f851": {
         "title": "Tag-based Masking Policies in Snowflake",
         "published": "2023-08-21T12:42:20.409000Z",
@@ -383,6 +413,12 @@
         "updated": "2023-08-18T13:02:22.818000Z",
         "tags": "snowflake,database,query-optimization"
     },
+    "https://vinodhini-sd.medium.com/iceberg-tables-on-snowflake-design-considerations-and-life-of-an-insert-query-5026ea10bbea": {
+        "title": "Iceberg Tables on Snowflake: Design considerations and Life of an INSERT query",
+        "published": "2023-08-16T19:52:35.284000Z",
+        "updated": "2023-09-20T20:22:15.358000Z",
+        "tags": "data-engineering,open-source,snowflake,data-lake,data-architecture"
+    },
     "https://medium.com/snowflake/getting-started-with-snowpark-scala-with-intellij-starter-guide-for-spark-scala-developers-260bcf6eaf76": {
         "title": "Getting Started with Snowpark Scala with IntelliJ: Starter Guide for Spark Scala Developers",
         "published": "2023-08-16T13:03:33.787000Z",
@@ -395,11 +431,23 @@
         "updated": "2023-08-16T13:56:03.540000Z",
         "tags": "snowflake,data-lake,icebergs,parquet,data-superhero"
     },
+    "https://medium.com/snowflake/step-by-step-roadmap-to-becoming-a-snowflake-data-engineer-in-2023-18c823ba8b9c": {
+        "title": "Step by step roadmap to becoming a Snowflake Data Engineer in 2023",
+        "published": "2023-08-15T03:29:42.199000Z",
+        "updated": "2023-09-20T20:22:31.728000Z",
+        "tags": "data-engineering,programming,snowflake,career-paths,big-data"
+    },
     "https://medium.com/snowflake/utilizing-the-new-aws-glue-studio-native-connector-for-snowflake-12e99f288682": {
         "title": "Utilizing the new AWS Glue Studio Native Connector for Snowflake",
         "published": "2023-08-15T00:01:55.325000Z",
         "updated": "2023-08-17T17:39:11.411000Z",
         "tags": "snowflake,aws-glue,snowflake-connector,data-engineering"
+    },
+    "https://medium.com/snowflake/exploratory-data-analysis-eda-of-github-archive-using-snowpark-python-dataframe-apis-1aa187713480": {
+        "title": "Exploratory data analysis (EDA) of GitHub archive using Snowpark Python dataframe APIs",
+        "published": "2023-08-14T20:14:31.678000Z",
+        "updated": "2023-09-21T04:11:43.463000Z",
+        "tags": "data-science,python-programming,snowflake,data-engineering,apache-spark"
     },
     "https://medium.com/snowflake/capture-log-event-messages-using-snowflake-event-tables-10890e6c3e08": {
         "title": "Capture Log & Event Messages using Snowflake Event tables",
@@ -426,9 +474,9 @@
         "tags": "snowflake,snowflake-data-cloud,native-app-development,streamlit"
     },
     "https://medium.com/snowflake/best-practices-to-optimize-snowflake-spend-73b8f66d16c1": {
-        "title": "Best practices to implement FinOps to optimize Snowflake spend",
+        "title": "Best practices to optimize Snowflake spend",
         "published": "2023-08-10T06:24:21.589000Z",
-        "updated": "2023-09-17T23:16:28.109000Z",
+        "updated": "2023-09-21T23:36:40.733000Z",
         "tags": "snowflake,cost-optimization,snowflake-data-cloud,virtual-warehouse,cloud-computing"
     },
     "https://medium.com/snowflake/streamlining-devops-with-snowflake-and-git-integration-fc0b76a40a76": {
