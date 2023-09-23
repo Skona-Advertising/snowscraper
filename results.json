@@ -1,4 +1,28 @@
 {
+    "https://medium.com/snowflake/build-an-ai-powered-shopping-assistant-with-snowpark-container-services-and-llm-5659e42ed60b": {
+        "title": "Build an AI-powered shopping assistant with Snowpark Container Services and LLM",
+        "published": "2023-09-22T17:41:26.120000Z",
+        "updated": "2023-09-22T19:28:57.269000Z",
+        "tags": "diamond-jewellery,snowflake,ai-powered,llm,shopping"
+    },
+    "https://medium.com/snowflake/streamlit-erd-viewer-in-snowflake-88e33529d121": {
+        "title": "Streamlit ERD Viewer in Snowflake",
+        "published": "2023-09-22T16:54:25.817000Z",
+        "updated": "2023-09-22T16:54:25.817000Z",
+        "tags": "streamlit-in-snowflake,erd-viewer,entity-relationship-model,data-superhero,snowflake"
+    },
+    "https://medium.com/snowflake/transform-xml-files-with-xslt-in-snowflake-part-2-6a4e2b891b6e": {
+        "title": "Transform XML files with XSLT in Snowflake\u200a\u2014\u200apart 2",
+        "published": "2023-09-22T16:52:55.756000Z",
+        "updated": "2023-09-22T16:52:55.756000Z",
+        "tags": "snowflake,python,xml,unstructured-data,snowpark"
+    },
+    "https://medium.com/snowflake/how-good-is-the-snowflake-compression-7bbeb124fe55": {
+        "title": "How good is the Snowflake Compression?",
+        "published": "2023-09-22T08:02:26.900000Z",
+        "updated": "2023-09-22T16:52:34.912000Z",
+        "tags": "snowflake,compression,parquet,json,benchmark"
+    },
     "https://medium.com/snowflake/asset-and-identity-prioritization-e24a52caab9": {
         "title": "Prioritizing Entities for Better Security Alerts",
         "published": "2023-09-21T18:26:09.577000Z",
@@ -446,7 +470,7 @@
     "https://medium.com/snowflake/exploratory-data-analysis-eda-of-github-archive-using-snowpark-python-dataframe-apis-1aa187713480": {
         "title": "Exploratory data analysis (EDA) of GitHub archive using Snowpark Python dataframe APIs",
         "published": "2023-08-14T20:14:31.678000Z",
-        "updated": "2023-09-21T04:11:43.463000Z",
+        "updated": "2023-09-22T23:13:38.609000Z",
         "tags": "data-science,python-programming,snowflake,data-engineering,apache-spark"
     },
     "https://medium.com/snowflake/capture-log-event-messages-using-snowflake-event-tables-10890e6c3e08": {
