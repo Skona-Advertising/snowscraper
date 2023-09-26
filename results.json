@@ -17,12 +17,6 @@
         "updated": "2023-09-22T16:52:55.756000Z",
         "tags": "snowflake,python,xml,unstructured-data,snowpark"
     },
-    "https://medium.com/snowflake/how-good-is-the-snowflake-compression-7bbeb124fe55": {
-        "title": "How good is the Snowflake Compression?",
-        "published": "2023-09-22T08:02:26.900000Z",
-        "updated": "2023-09-22T16:52:34.912000Z",
-        "tags": "snowflake,compression,parquet,json,benchmark"
-    },
     "https://medium.com/snowflake/asset-and-identity-prioritization-e24a52caab9": {
         "title": "Prioritizing Entities for Better Security Alerts",
         "published": "2023-09-21T18:26:09.577000Z",
@@ -1166,7 +1160,7 @@
     "https://medium.com/snowflake/privacy-first-ai-harnessing-snowflake-and-skyflow-to-customize-gpt-fa07795eaf88": {
         "title": "Privacy-First AI: Harnessing Snowflake and Skyflow to Customize LLMs",
         "published": "2023-06-26T17:23:12.306000Z",
-        "updated": "2023-07-07T17:35:10.829000Z",
+        "updated": "2023-09-25T22:36:53.863000Z",
         "tags": "llm,gpt,fine-tuning,snowflake,privacy"
     },
     "https://medium.com/snowflake/open-sourcing-a-snowflake-financial-services-asset-management-system-3-billion-trades-with-1a2a0e04671a": {
