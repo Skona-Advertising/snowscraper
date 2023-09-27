@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/reading-hudi-data-lake-data-in-snowflake-d68d1d133597": {
+        "title": "Reading Hudi Data Lake data in Snowflake",
+        "published": "2023-09-26T20:02:26.188000Z",
+        "updated": "2023-09-26T20:02:26.188000Z",
+        "tags": "hudi,snowflake,data-engineering,data-lake,snowflake-data-cloud"
+    },
     "https://medium.com/snowflake/build-an-ai-powered-shopping-assistant-with-snowpark-container-services-and-llm-5659e42ed60b": {
         "title": "Build an AI-powered shopping assistant with Snowpark Container Services and LLM",
         "published": "2023-09-22T17:41:26.120000Z",
@@ -53,6 +59,12 @@
         "updated": "2023-09-20T18:17:17.114000Z",
         "tags": "snowflake,snowpark"
     },
+    "https://medium.com/snowflake/discover-the-new-snowpark-ml-toolkit-dbt-python-models-4f85b85a8c88": {
+        "title": "Discover the new Snowpark ML Toolkit + dbt Python models",
+        "published": "2023-09-20T15:58:09.573000Z",
+        "updated": "2023-09-23T04:26:03.233000Z",
+        "tags": "snowflake,data-science,machine-learning,dbt,python"
+    },
     "https://medium.com/snowflake/automating-llm-deployment-in-snowflake-b80c184e0be9": {
         "title": "Automating LLM deployment in Snowflake",
         "published": "2023-09-19T19:02:22.833000Z",
@@ -88,12 +100,6 @@
         "published": "2023-09-18T20:07:44.227000Z",
         "updated": "2023-09-18T23:50:04.696000Z",
         "tags": "security-data-lake,cybersecurity,snowflake,data-engineering,snowpipe"
-    },
-    "https://medium.com/snowflake/ip-protection-in-snowflake-native-apps-dc45173af152": {
-        "title": "IP Protection in Snowflake Native Apps",
-        "published": "2023-09-18T19:01:48.495000Z",
-        "updated": "2023-09-18T19:01:48.495000Z",
-        "tags": "snowflake,native-app"
     },
     "https://medium.com/snowflake/sis-application-development-ci-cd-setup-with-github-actions-3a4279f57287": {
         "title": "SiS Application Development: CI/CD Setup with GitHub Actions",
@@ -150,9 +156,9 @@
         "tags": "snowflake,xml,unstructured-data,semi-structured-data,python"
     },
     "https://medium.com/snowflake/3-type-of-snowflake-task-powering-orchestration-af8c13b1ac9b": {
-        "title": "3 type of Snowflake TASK powering orchestration",
+        "title": "3 types of Snowflake TASK powering orchestration",
         "published": "2023-09-11T15:43:17.606000Z",
-        "updated": "2023-09-11T16:29:14.605000Z",
+        "updated": "2023-09-26T02:42:00.762000Z",
         "tags": "snowflake,orchestration,data-and-analytics,snowflake-data-cloud,data-superhero"
     },
     "https://medium.com/snowflake/unlocking-machine-learning-potential-running-r-inside-snowpark-container-services-3ccdb2cac896": {
@@ -352,6 +358,12 @@
         "published": "2023-08-25T21:11:47.064000Z",
         "updated": "2023-08-25T22:10:13.123000Z",
         "tags": "snowflake,data-superhero"
+    },
+    "https://medium.com/snowflake/snowflake-developers-community-update-aug-2023-edition-186c576805ad": {
+        "title": "Snowflake Developers & Community Update\u200a\u2014\u200aAug 2023 Edition",
+        "published": "2023-08-25T17:33:06.920000Z",
+        "updated": "2023-09-21T18:51:24.778000Z",
+        "tags": "data,snowflake,machine-learning,technology,programming"
     },
     "https://medium.com/snowflake/event-table-logging-transactions-natively-on-snowflake-4e6fa1e1b329": {
         "title": "\u201cEVENT TABLE\u201d \u2192 Logging transactions natively on Snowflake",
@@ -5198,7 +5210,7 @@
     "https://medium.com/snowflake/how-to-generate-erds-from-a-snowflake-model-3fc53abd0669": {
         "title": "How to Generate ERDs from a Snowflake Model",
         "published": "2022-01-03T21:41:05.872000Z",
-        "updated": "2022-09-06T00:23:32.025000Z",
+        "updated": "2023-09-26T20:05:12.779000Z",
         "tags": "snowflake,snowflake-data-cloud,entity-relationship-model,data-superhero"
     },
     "https://medium.com/snowflake/snowflake-and-elvt-vs-elt-etl-case-study-part-2-real-time-availability-for-single-row-inserts-623621bc6ac5": {
