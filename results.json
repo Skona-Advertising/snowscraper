@@ -54,9 +54,9 @@
         "tags": "snowflake,envoy-proxy,infrastructure"
     },
     "https://medium.com/snowflake/comparing-snowpark-vs-the-ordinary-snowflake-python-connector-1252f8493ddc": {
-        "title": "Comparing Snowpark vs the Ordinary Snowflake Python Connector.",
+        "title": "Comparing Snowpark vs Pandas with the Ordinary Snowflake Python Connector.",
         "published": "2023-09-20T17:36:30.275000Z",
-        "updated": "2023-09-20T18:17:17.114000Z",
+        "updated": "2023-09-27T03:35:56.957000Z",
         "tags": "snowflake,snowpark"
     },
     "https://medium.com/snowflake/discover-the-new-snowpark-ml-toolkit-dbt-python-models-4f85b85a8c88": {
@@ -90,9 +90,9 @@
         "tags": "apps,app-development,snowflake,native-app,web-development"
     },
     "https://medium.com/snowflake/snowflake-quick-tips-how-to-create-a-snowflake-native-app-40a31d3ee4e1": {
-        "title": "[Snowflake Quick Tips] How to create a Snowflake Native App \u2026in 5 minutes",
+        "title": "[Snowflake Quick Tips] How to create a Snowflake Native App",
         "published": "2023-09-19T13:02:28.100000Z",
-        "updated": "2023-09-20T15:40:47.383000Z",
+        "updated": "2023-09-27T23:55:38.279000Z",
         "tags": "snowflake-native-app,snowflake-apps,snowflake-quick-tips,data-superhero,snowflake"
     },
     "https://medium.com/snowflake/simplifying-security-data-ingestion-recent-snowflake-features-minimize-cost-and-complexity-b72d7eba77ab": {
