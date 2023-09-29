@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/demystifying-the-pharma-demand-forecasting-supply-chain-using-snowpark-ml-snowflake-e232ee655901": {
+        "title": "Demystifying the Pharma Demand Forecasting & Supply chain using Snowpark ML & Snowflake",
+        "published": "2023-09-29T00:02:53.811000Z",
+        "updated": "2023-09-29T00:27:21.223000Z",
+        "tags": "snowflake,life-sciences,machine-learning,snowpark"
+    },
+    "https://medium.com/snowflake/snowflake-for-macroeconomic-data-science-part-ii-forecasting-in-the-cloud-with-cybersyn-snowpark-cddc15a280e1": {
+        "title": "Snowflake for Macroeconomic Data Science Part II: Forecasting in the Cloud with Cybersyn + Snowpark",
+        "published": "2023-09-28T15:51:33.755000Z",
+        "updated": "2023-09-28T15:51:33.755000Z",
+        "tags": "snowflake,snowpark-python,macroeconomics,cybersyn,forecasting"
+    },
     "https://medium.com/snowflake/reading-hudi-data-lake-data-in-snowflake-d68d1d133597": {
         "title": "Reading Hudi Data Lake data in Snowflake",
         "published": "2023-09-26T20:02:26.188000Z",
@@ -32,7 +44,7 @@
     "https://medium.com/snowflake/deep-dive-into-the-internals-of-snowflake-virtual-warehouses-d6d9676127d2": {
         "title": "Deep dive into the internals of Snowflake Virtual Warehouses",
         "published": "2023-09-21T16:56:01.817000Z",
-        "updated": "2023-09-21T18:11:35.170000Z",
+        "updated": "2023-09-28T22:50:57.500000Z",
         "tags": "snowflake"
     },
     "https://medium.com/snowflake/using-polars-with-snowflake-cbdd49b0ca6b": {
@@ -228,9 +240,9 @@
         "tags": "snowflake,data-engineering,data-science,github,open-data"
     },
     "https://medium.com/snowflake/snowflake-for-macroeconomic-data-science-cybersyn-snowpark-a44a9edc5fa0": {
-        "title": "Snowflake for Macroeconomic Data Science: Cybersyn + Snowpark",
+        "title": "Snowflake for Macroeconomic Data Science Part I: Cybersyn + Snowpark",
         "published": "2023-09-06T16:02:21.018000Z",
-        "updated": "2023-09-06T16:36:35.597000Z",
+        "updated": "2023-09-28T17:10:28.852000Z",
         "tags": "snowflake,cybersyn,data-science,python,macroeconomics"
     },
     "https://medium.com/snowflake/avoid-bad-data-completely-continuous-delivery-architectures-in-the-modern-data-stack-part-2-2c4240bdb973": {
@@ -506,7 +518,7 @@
     "https://medium.com/snowflake/best-practices-to-optimize-snowflake-spend-73b8f66d16c1": {
         "title": "Best practices to optimize Snowflake spend",
         "published": "2023-08-10T06:24:21.589000Z",
-        "updated": "2023-09-21T23:36:40.733000Z",
+        "updated": "2023-09-29T00:16:00.635000Z",
         "tags": "snowflake,cost-optimization,snowflake-data-cloud,virtual-warehouse,cloud-computing"
     },
     "https://medium.com/snowflake/streamlining-devops-with-snowflake-and-git-integration-fc0b76a40a76": {
