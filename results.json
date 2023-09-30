@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/json-data-profiler-as-a-live-streamlit-web-app-54096b00a615": {
+        "title": "JSON Data Profiler as a Live Streamlit Web App",
+        "published": "2023-09-29T21:01:36.842000Z",
+        "updated": "2023-09-29T21:38:38.409000Z",
+        "tags": "data-profiling,json,streamlit-app-deployment,data-superhero,snowflake"
+    },
     "https://medium.com/snowflake/demystifying-the-pharma-demand-forecasting-supply-chain-using-snowpark-ml-snowflake-e232ee655901": {
         "title": "Demystifying the Pharma Demand Forecasting & Supply chain using Snowpark ML & Snowflake",
         "published": "2023-09-29T00:02:53.811000Z",
@@ -8,7 +14,7 @@
     "https://medium.com/snowflake/snowflake-for-macroeconomic-data-science-part-ii-forecasting-in-the-cloud-with-cybersyn-snowpark-cddc15a280e1": {
         "title": "Snowflake for Macroeconomic Data Science Part II: Forecasting in the Cloud with Cybersyn + Snowpark",
         "published": "2023-09-28T15:51:33.755000Z",
-        "updated": "2023-09-28T15:51:33.755000Z",
+        "updated": "2023-09-29T16:39:06.033000Z",
         "tags": "snowflake,snowpark-python,macroeconomics,cybersyn,forecasting"
     },
     "https://medium.com/snowflake/reading-hudi-data-lake-data-in-snowflake-d68d1d133597": {
@@ -149,6 +155,12 @@
         "updated": "2023-09-15T06:15:22.329000Z",
         "tags": "snowflake,data-superhero,data-sharing"
     },
+    "https://medium.com/snowflake/value-passing-in-snowflake-tasks-3a19e10a30a4": {
+        "title": "Value Passing in Snowflake Tasks",
+        "published": "2023-09-14T15:17:37.292000Z",
+        "updated": "2023-09-29T19:20:02.134000Z",
+        "tags": "snowflake,data-superhero,tasks,data-pipeline"
+    },
     "https://medium.com/snowflake/deep-dive-into-security-and-performance-isolation-of-snowflake-virtual-warehouses-73bdecc69f4": {
         "title": "Deep dive into security and performance isolation of Snowflake virtual warehouses",
         "published": "2023-09-12T18:11:43.910000Z",
@@ -231,7 +243,7 @@
         "title": "Improve Snowflake price-performance by optimizing storage",
         "published": "2023-09-06T23:21:08.745000Z",
         "updated": "2023-09-08T14:09:06.778000Z",
-        "tags": "snowflake,cost-optimization,cloud-computing,materializedviews"
+        "tags": "snowflake,cost-optimization,cloud-computing,materializedviews,performance"
     },
     "https://medium.com/snowflake/querying-github-archive-with-snowflake-the-essentials-c1f7715133d7": {
         "title": "Querying GitHub Archive with Snowflake: The Essentials",
@@ -261,7 +273,7 @@
         "title": "Deep dive into managing latency, throughput, and cost in Snowflake",
         "published": "2023-09-05T13:02:25.479000Z",
         "updated": "2023-09-06T17:12:30.251000Z",
-        "tags": "snowflake,latency,throughput,cost-optimization,cloud-computing"
+        "tags": "snowflake,throughput,cost-optimization,cloud-computing,performance"
     },
     "https://medium.com/snowflake/external-network-access-on-snowflake-snowpark-unlocking-new-capabilities-d49654d7f7f8": {
         "title": "External Network Access On Snowflake Snowpark\u200a\u2014\u200aUnlocking New Capabilities",
@@ -315,7 +327,7 @@
         "title": "Compute primitives in Snowflake and best practices to right-size them",
         "published": "2023-08-30T22:01:48.517000Z",
         "updated": "2023-09-15T15:23:59.305000Z",
-        "tags": "snowflake,virtual-warehouse,containers,cost-optimization"
+        "tags": "snowflake,virtual-warehouse,containers,cost-optimization,performance"
     },
     "https://medium.com/snowflake/avoid-bad-data-completely-continuous-delivery-architectures-in-the-modern-data-stack-part-1-22a0d48935f6": {
         "title": "Avoid bad data completely: Continuous Delivery Architectures in the Modern Data Stack (Part 1)",
@@ -345,7 +357,7 @@
         "title": "Using Snowflake\u2019s scale-to-zero capabilities for fun & profit",
         "published": "2023-08-28T15:02:25.485000Z",
         "updated": "2023-08-28T15:02:25.485000Z",
-        "tags": "snowflake,cloud-computing,scale-to-zero,cost-optimization"
+        "tags": "snowflake,cloud-computing,scale-to-zero,cost-optimization,performance"
     },
     "https://medium.com/snowflake/why-snowflakes-clone-command-changes-the-game-for-ci-cd-in-data-ccb6fb9955ba": {
         "title": "Why Snowflake\u2019s Clone command changes the game for CI/CD in Data",
@@ -519,7 +531,7 @@
         "title": "Best practices to optimize Snowflake spend",
         "published": "2023-08-10T06:24:21.589000Z",
         "updated": "2023-09-29T00:16:00.635000Z",
-        "tags": "snowflake,cost-optimization,snowflake-data-cloud,virtual-warehouse,cloud-computing"
+        "tags": "snowflake,cost-optimization,snowflake-data-cloud,virtual-warehouse,performance"
     },
     "https://medium.com/snowflake/streamlining-devops-with-snowflake-and-git-integration-fc0b76a40a76": {
         "title": "Streamlining DevOps with Snowflake and Git Integration",
@@ -3668,7 +3680,7 @@
     "https://medium.com/snowflake/error-notifications-for-snowflake-tasks-ca5798884e67": {
         "title": "Error Notifications for Snowflake Tasks",
         "published": "2022-09-23T08:01:48.783000Z",
-        "updated": "2022-09-23T08:01:48.783000Z",
+        "updated": "2023-09-29T07:28:44.939000Z",
         "tags": "snowflake,snowflake-data-cloud,snowflake-tasks,notifications,data-superhero"
     },
     "https://medium.com/snowflake/how-snowflake-enables-its-providers-to-automatically-replicate-their-data-across-the-data-cloud-f37aedede56a": {
