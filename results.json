@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/how-to-survive-as-a-software-engineer-in-a-collaborative-research-environment-f8f411b16420": {
+        "title": "How to survive as a Software Engineer in a collaborative research environment",
+        "published": "2023-10-03T16:32:47.489000Z",
+        "updated": "2023-10-03T17:23:04.263000Z",
+        "tags": "snowflake,ai,unstructured-data,document-understanding,research-and-development"
+    },
+    "https://medium.com/snowflake/query-tagging-in-snowflake-f0f372a19d47": {
+        "title": "Query Tagging in Snowflake",
+        "published": "2023-10-03T16:17:28.665000Z",
+        "updated": "2023-10-03T19:20:43.500000Z",
+        "tags": "snowflake,snowflake-data-cloud,data-superhero"
+    },
     "https://medium.com/snowflake/how-snowflake-exclude-and-ilike-protects-you-from-bad-sql-ilike-it-like-that-d58418093a25": {
         "title": "How Snowflake EXCLUDE and ILIKE protects you from bad SQL. ILIKE it like that.",
         "published": "2023-10-01T18:02:29.982000Z",
@@ -102,9 +114,9 @@
         "tags": "snowflake,envoy-proxy,infrastructure"
     },
     "https://medium.com/snowflake/comparing-snowpark-vs-the-ordinary-snowflake-python-connector-1252f8493ddc": {
-        "title": "Comparing Snowpark vs Pandas with the Ordinary Snowflake Python Connector.",
+        "title": "Comparing Snowpark vs Pandas Performance",
         "published": "2023-09-20T17:36:30.275000Z",
-        "updated": "2023-09-27T03:35:56.957000Z",
+        "updated": "2023-10-03T01:28:49.764000Z",
         "tags": "snowflake,snowpark"
     },
     "https://medium.com/snowflake/discover-the-new-snowpark-ml-toolkit-dbt-python-models-4f85b85a8c88": {
@@ -3344,7 +3356,7 @@
     "https://medium.com/snowflake/snowflake-query-acceleration-service-393a90533ea2": {
         "title": "Snowflake: Query Acceleration Service",
         "published": "2022-11-04T10:01:52.499000Z",
-        "updated": "2022-12-11T06:05:29.253000Z",
+        "updated": "2023-10-03T19:34:00.158000Z",
         "tags": "data-superhero,snowflake,query-optimization"
     },
     "https://medium.com/snowflake/snow-cli-app-and-developer-cli-for-snowflake-%EF%B8%8F-8bc186becae0": {
