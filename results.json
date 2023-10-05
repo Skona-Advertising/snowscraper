@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/super-charge-snowflake-query-performance-with-micro-partitions-3d8ef927890d": {
+        "title": "Super-charge Snowflake Query Performance with Micro-partitions",
+        "published": "2023-10-04T21:37:42.292000Z",
+        "updated": "2023-10-04T21:37:42.292000Z",
+        "tags": "snowflake,data,data-engineering,query-performance,data-superhero"
+    },
     "https://medium.com/snowflake/how-to-survive-as-a-software-engineer-in-a-collaborative-research-environment-f8f411b16420": {
         "title": "How to survive as a Software Engineer in a collaborative research environment",
         "published": "2023-10-03T16:32:47.489000Z",
@@ -50,7 +56,7 @@
     "https://medium.com/snowflake/demystifying-the-pharma-demand-forecasting-supply-chain-using-snowpark-ml-snowflake-e232ee655901": {
         "title": "Demystifying the Pharma Demand Forecasting & Supply chain using Snowpark ML & Snowflake",
         "published": "2023-09-29T00:02:53.811000Z",
-        "updated": "2023-09-29T00:27:21.223000Z",
+        "updated": "2023-10-04T12:18:53.102000Z",
         "tags": "snowflake,life-sciences,machine-learning,snowpark"
     },
     "https://medium.com/snowflake/snowflake-for-macroeconomic-data-science-part-ii-forecasting-in-the-cloud-with-cybersyn-snowpark-cddc15a280e1": {
