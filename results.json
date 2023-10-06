@@ -1,4 +1,22 @@
 {
+    "https://medium.com/snowflake/using-astronomers-new-cosmos-to-deploy-dbt-pipelines-onto-snowflake-2e211e84690": {
+        "title": "Using Astronomer\u2019s new Cosmos to deploy dbt pipelines onto Snowflake",
+        "published": "2023-10-05T22:02:48.081000Z",
+        "updated": "2023-10-05T22:02:48.081000Z",
+        "tags": "snowflake"
+    },
+    "https://medium.com/snowflake/new-ways-to-analyze-query-performance-in-snowflake-and-optimize-costs-70981db311e1": {
+        "title": "New Ways to Analyze Query Performance in Snowflake\u200a\u2014\u200aand Optimize Costs",
+        "published": "2023-10-05T18:50:19.786000Z",
+        "updated": "2023-10-05T18:50:19.786000Z",
+        "tags": "query-optimization,cost-optimization,performance,snowflake"
+    },
+    "https://medium.com/snowflake/my-first-months-at-snowflakes-document-ai-team-b56012c07ff4": {
+        "title": "My First Months at Snowflake\u2019s Document AI Team",
+        "published": "2023-10-05T14:06:55.765000Z",
+        "updated": "2023-10-05T14:42:35.531000Z",
+        "tags": "large-language-models,snowflake,product-management,artificial-intelligence,career-change"
+    },
     "https://medium.com/snowflake/super-charge-snowflake-query-performance-with-micro-partitions-3d8ef927890d": {
         "title": "Super-charge Snowflake Query Performance with Micro-partitions",
         "published": "2023-10-04T21:37:42.292000Z",
@@ -146,7 +164,7 @@
     "https://medium.com/snowflake/frostygen-a-streamlit-data-generator-tool-f28950b55c41": {
         "title": "FrostyGen: a Streamlit Data Generator Tool",
         "published": "2023-09-19T15:15:29.497000Z",
-        "updated": "2023-09-20T06:31:06.742000Z",
+        "updated": "2023-10-05T14:48:30.879000Z",
         "tags": "streamlit,data-generator,data-engineering,synthetic-data,snowflake"
     },
     "https://medium.com/snowflake/how-a-fictional-ski-resort-helped-me-understand-snowflake-native-apps-b7a6afcb36f7": {
