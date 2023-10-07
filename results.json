@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/analyzing-ooms-in-intellij-with-bazel-bc96818ac5a9": {
+        "title": "Analyzing OOMs in IntelliJ with Bazel",
+        "published": "2023-10-06T22:02:47.984000Z",
+        "updated": "2023-10-06T22:02:47.984000Z",
+        "tags": "infrastructure,optimization,memory-management,snowflake,bazel"
+    },
+    "https://medium.com/snowflake/introduction-to-snowflakes-snowpark-by-clearpeaks-6413d0df5dc0": {
+        "title": "Introduction to Snowflake\u2019s Snowpark by ClearPeaks",
+        "published": "2023-10-06T09:02:48.468000Z",
+        "updated": "2023-10-06T09:02:48.468000Z",
+        "tags": "snowflake,snowpark,data-science"
+    },
     "https://medium.com/snowflake/using-astronomers-new-cosmos-to-deploy-dbt-pipelines-onto-snowflake-2e211e84690": {
         "title": "Using Astronomer\u2019s new Cosmos to deploy dbt pipelines onto Snowflake",
         "published": "2023-10-05T22:02:48.081000Z",
@@ -32,7 +44,7 @@
     "https://medium.com/snowflake/query-tagging-in-snowflake-f0f372a19d47": {
         "title": "Query Tagging in Snowflake",
         "published": "2023-10-03T16:17:28.665000Z",
-        "updated": "2023-10-03T19:20:43.500000Z",
+        "updated": "2023-10-06T15:07:14.398000Z",
         "tags": "snowflake,snowflake-data-cloud,data-superhero"
     },
     "https://medium.com/snowflake/how-snowflake-exclude-and-ilike-protects-you-from-bad-sql-ilike-it-like-that-d58418093a25": {
@@ -116,7 +128,7 @@
     "https://medium.com/snowflake/deep-dive-into-the-internals-of-snowflake-virtual-warehouses-d6d9676127d2": {
         "title": "Deep dive into the internals of Snowflake Virtual Warehouses",
         "published": "2023-09-21T16:56:01.817000Z",
-        "updated": "2023-09-30T01:43:04.921000Z",
+        "updated": "2023-10-06T18:24:29.477000Z",
         "tags": "snowflake"
     },
     "https://medium.com/snowflake/using-polars-with-snowflake-cbdd49b0ca6b": {
@@ -218,7 +230,7 @@
     "https://medium.com/snowflake/data-sharing-patterns-in-snowflake-3b526729efd7": {
         "title": "Data Sharing Patterns in Snowflake",
         "published": "2023-09-14T15:26:16.397000Z",
-        "updated": "2023-09-15T06:15:22.329000Z",
+        "updated": "2023-10-06T07:46:50.800000Z",
         "tags": "snowflake,data-superhero,data-sharing"
     },
     "https://medium.com/snowflake/value-passing-in-snowflake-tasks-3a19e10a30a4": {
