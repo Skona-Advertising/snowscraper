@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/fine-tuning-llama2-using-snowpark-container-services-33d7194ef49c": {
+        "title": "Fine-tuning Llama2 using Snowpark Container Services",
+        "published": "2023-10-07T22:45:40.649000Z",
+        "updated": "2023-10-07T23:18:19.576000Z",
+        "tags": "large-language-models,snowflake"
+    },
+    "https://medium.com/snowflake/transform-xml-files-with-xslt-in-snowflake-part-3-ce769979762d": {
+        "title": "Transform XML files with XSLT in Snowflake\u200a\u2014\u200apart 3",
+        "published": "2023-10-07T07:15:29.790000Z",
+        "updated": "2023-10-07T07:15:29.790000Z",
+        "tags": "snowflake,python,xml,conda,snowpark"
+    },
     "https://medium.com/snowflake/analyzing-ooms-in-intellij-with-bazel-bc96818ac5a9": {
         "title": "Analyzing OOMs in IntelliJ with Bazel",
         "published": "2023-10-06T22:02:47.984000Z",
