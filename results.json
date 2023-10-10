@@ -8,7 +8,7 @@
     "https://medium.com/snowflake/transform-xml-files-with-xslt-in-snowflake-part-3-ce769979762d": {
         "title": "Transform XML files with XSLT in Snowflake\u200a\u2014\u200apart 3",
         "published": "2023-10-07T07:15:29.790000Z",
-        "updated": "2023-10-07T07:15:29.790000Z",
+        "updated": "2023-10-09T07:59:01.307000Z",
         "tags": "snowflake,python,xml,conda,snowpark"
     },
     "https://medium.com/snowflake/analyzing-ooms-in-intellij-with-bazel-bc96818ac5a9": {
@@ -128,7 +128,7 @@
     "https://medium.com/snowflake/transform-xml-files-with-xslt-in-snowflake-part-2-6a4e2b891b6e": {
         "title": "Transform XML files with XSLT in Snowflake\u200a\u2014\u200apart 2",
         "published": "2023-09-22T16:52:55.756000Z",
-        "updated": "2023-09-22T16:52:55.756000Z",
+        "updated": "2023-10-09T07:58:32.256000Z",
         "tags": "snowflake,python,xml,unstructured-data,snowpark"
     },
     "https://medium.com/snowflake/asset-and-identity-prioritization-e24a52caab9": {
@@ -266,7 +266,7 @@
     "https://medium.com/snowflake/transform-xml-files-with-xslt-in-snowflake-part-1-c79ec486e17d": {
         "title": "Transform XML files with XSLT in Snowflake\u200a\u2014\u200apart 1",
         "published": "2023-09-11T17:04:09.977000Z",
-        "updated": "2023-09-11T17:04:09.977000Z",
+        "updated": "2023-10-09T07:57:40.243000Z",
         "tags": "snowflake,xml,unstructured-data,semi-structured-data,python"
     },
     "https://medium.com/snowflake/3-type-of-snowflake-task-powering-orchestration-af8c13b1ac9b": {
