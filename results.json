@@ -1,9 +1,27 @@
 {
+    "https://medium.com/snowflake/ai-for-ai-by-streamlit-part-i-how-streamlit-empowers-data-augmentation-7b5ab3ee3c0f": {
+        "title": "AI for AI by Streamlit Part I: How Streamlit Empowers Data Augmentation",
+        "published": "2023-10-10T18:33:52.938000Z",
+        "updated": "2023-10-10T18:33:52.938000Z",
+        "tags": ""
+    },
+    "https://medium.com/snowflake/best-practices-to-optimize-snowflake-storage-spend-4d1cef6b6fb0": {
+        "title": "Best practices to optimize Snowflake storage spend",
+        "published": "2023-10-10T17:49:43.795000Z",
+        "updated": "2023-10-10T17:49:43.795000Z",
+        "tags": "cost-optimization,snowflake,storage,cloud-computing,performance"
+    },
     "https://medium.com/snowflake/fine-tuning-llama2-using-snowpark-container-services-33d7194ef49c": {
         "title": "Fine-tuning Llama2 using Snowpark Container Services",
         "published": "2023-10-07T22:45:40.649000Z",
         "updated": "2023-10-07T23:18:19.576000Z",
         "tags": "large-language-models,snowflake"
+    },
+    "https://medium.com/snowflake/lets-go-clean-with-snowflake-data-clean-room-550b9c1924c9": {
+        "title": "Let\u2019s Go Clean with Snowflake Data Clean Room",
+        "published": "2023-10-07T09:58:43.620000Z",
+        "updated": "2023-10-10T19:31:08.409000Z",
+        "tags": "snowflake,data-clean-room,data-superhero"
     },
     "https://medium.com/snowflake/transform-xml-files-with-xslt-in-snowflake-part-3-ce769979762d": {
         "title": "Transform XML files with XSLT in Snowflake\u200a\u2014\u200apart 3",
@@ -26,7 +44,7 @@
     "https://medium.com/snowflake/using-astronomers-new-cosmos-to-deploy-dbt-pipelines-onto-snowflake-2e211e84690": {
         "title": "Using Astronomer\u2019s new Cosmos to deploy dbt pipelines onto Snowflake",
         "published": "2023-10-05T22:02:48.081000Z",
-        "updated": "2023-10-05T22:02:48.081000Z",
+        "updated": "2023-10-10T14:58:55.455000Z",
         "tags": "snowflake"
     },
     "https://medium.com/snowflake/new-ways-to-analyze-query-performance-in-snowflake-and-optimize-costs-70981db311e1": {
@@ -140,7 +158,7 @@
     "https://medium.com/snowflake/deep-dive-into-the-internals-of-snowflake-virtual-warehouses-d6d9676127d2": {
         "title": "Deep dive into the internals of Snowflake Virtual Warehouses",
         "published": "2023-09-21T16:56:01.817000Z",
-        "updated": "2023-10-06T18:24:29.477000Z",
+        "updated": "2023-10-10T10:37:27.907000Z",
         "tags": "snowflake"
     },
     "https://medium.com/snowflake/using-polars-with-snowflake-cbdd49b0ca6b": {
