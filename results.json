@@ -1,4 +1,22 @@
 {
+    "https://medium.com/snowflake/everyone-both-buys-and-sells-ads-29935db0c909": {
+        "title": "Everyone both buys and sells ads",
+        "published": "2023-10-11T21:50:50.026000Z",
+        "updated": "2023-10-11T21:55:05.574000Z",
+        "tags": ""
+    },
+    "https://medium.com/snowflake/sql-scripting-with-event-tables-59411b5f10be": {
+        "title": "SQL Scripting with Event Tables",
+        "published": "2023-10-11T19:16:48.399000Z",
+        "updated": "2023-10-11T19:16:48.399000Z",
+        "tags": "snowflake,data-superhero"
+    },
+    "https://medium.com/snowflake/load-data-in-snowflake-without-writing-code-a281891bd511": {
+        "title": "Load data in Snowflake without writing code",
+        "published": "2023-10-10T19:06:09.595000Z",
+        "updated": "2023-10-11T19:21:40.454000Z",
+        "tags": ""
+    },
     "https://medium.com/snowflake/ai-for-ai-by-streamlit-part-i-how-streamlit-empowers-data-augmentation-7b5ab3ee3c0f": {
         "title": "AI for AI by Streamlit Part I: How Streamlit Empowers Data Augmentation",
         "published": "2023-10-10T18:33:52.938000Z",
@@ -6,9 +24,9 @@
         "tags": ""
     },
     "https://medium.com/snowflake/best-practices-to-optimize-snowflake-storage-spend-4d1cef6b6fb0": {
-        "title": "Best practices to optimize Snowflake storage spend",
+        "title": "Best practices to optimize Snowflake storage cost",
         "published": "2023-10-10T17:49:43.795000Z",
-        "updated": "2023-10-10T17:49:43.795000Z",
+        "updated": "2023-10-11T04:52:15.796000Z",
         "tags": "cost-optimization,snowflake,storage,cloud-computing,performance"
     },
     "https://medium.com/snowflake/fine-tuning-llama2-using-snowpark-container-services-33d7194ef49c": {
