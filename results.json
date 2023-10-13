@@ -1,4 +1,28 @@
 {
+    "https://medium.com/snowflake/snowflake-amazon-s3-compatible-storage-with-cloudflare-11d4091bda38": {
+        "title": "Snowflake: Amazon S3-compatible Storage with Cloudflare",
+        "published": "2023-10-12T20:21:39.186000Z",
+        "updated": "2023-10-12T20:21:39.186000Z",
+        "tags": "snowflake,cloudflare,data-superhero"
+    },
+    "https://medium.com/snowflake/jira-auto-insights-using-streamlit-and-llm-35951a62b393": {
+        "title": "Jira Auto Insights using Streamlit and LLM",
+        "published": "2023-10-12T12:36:39.547000Z",
+        "updated": "2023-10-12T23:53:17.911000Z",
+        "tags": "streamlit,jira,snowflake,llm,openai"
+    },
+    "https://medium.com/snowflake/running-a-r-udf-with-snowpark-container-services-5828d1380066": {
+        "title": "Running a R UDF with Snowpark Container Services",
+        "published": "2023-10-12T11:03:58.561000Z",
+        "updated": "2023-10-12T11:03:58.561000Z",
+        "tags": "r,containers,snowpark,snowflake"
+    },
+    "https://medium.com/snowflake/deliver-personalized-recommendations-with-snowflake-and-microsoft-azure-open-ai-eedca48e88cb": {
+        "title": "Deliver Personalized Recommendations with Snowflake and Microsoft Azure Open AI",
+        "published": "2023-10-12T11:03:03.917000Z",
+        "updated": "2023-10-12T11:03:03.917000Z",
+        "tags": "snowflake,openai,personalization,azure,retail"
+    },
     "https://medium.com/snowflake/everyone-both-buys-and-sells-ads-29935db0c909": {
         "title": "Everyone both buys and sells ads",
         "published": "2023-10-11T21:50:50.026000Z",
@@ -20,7 +44,7 @@
     "https://medium.com/snowflake/ai-for-ai-by-streamlit-part-i-how-streamlit-empowers-data-augmentation-7b5ab3ee3c0f": {
         "title": "AI for AI by Streamlit Part I: How Streamlit Empowers Data Augmentation",
         "published": "2023-10-10T18:33:52.938000Z",
-        "updated": "2023-10-10T18:33:52.938000Z",
+        "updated": "2023-10-12T16:51:54.024000Z",
         "tags": ""
     },
     "https://medium.com/snowflake/best-practices-to-optimize-snowflake-storage-spend-4d1cef6b6fb0": {
