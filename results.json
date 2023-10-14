@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/3d-well-path-using-streamlit-in-snowflake-785684749b00": {
+        "title": "Plotting Well Path using Streamlit in Snowflake",
+        "published": "2023-10-13T17:43:33.626000Z",
+        "updated": "2023-10-13T20:56:26.326000Z",
+        "tags": "snowflake,streamlit,data-superhero"
+    },
     "https://medium.com/snowflake/snowflake-amazon-s3-compatible-storage-with-cloudflare-11d4091bda38": {
         "title": "Snowflake: Amazon S3-compatible Storage with Cloudflare",
         "published": "2023-10-12T20:21:39.186000Z",
@@ -68,7 +74,7 @@
     "https://medium.com/snowflake/transform-xml-files-with-xslt-in-snowflake-part-3-ce769979762d": {
         "title": "Transform XML files with XSLT in Snowflake\u200a\u2014\u200apart 3",
         "published": "2023-10-07T07:15:29.790000Z",
-        "updated": "2023-10-09T07:59:01.307000Z",
+        "updated": "2023-10-13T12:13:34.781000Z",
         "tags": "snowflake,python,xml,conda,snowpark"
     },
     "https://medium.com/snowflake/analyzing-ooms-in-intellij-with-bazel-bc96818ac5a9": {
@@ -141,7 +147,7 @@
         "title": "A deep dive into Snowflake\u2019s alerting and notification features",
         "published": "2023-10-01T13:02:34.687000Z",
         "updated": "2023-10-01T13:02:34.687000Z",
-        "tags": "snowflake,snowflake-data-cloud,data-superhero,notifications,snowflake-alerts"
+        "tags": "snowflake,snowflake-data-cloud,data-superhero,notifications,snowflake-alert"
     },
     "https://medium.com/snowflake/accelerate-digital-transformation-using-snowflake-secure-data-sharing-f841bf89bf0": {
         "title": "Accelerate Digital Transformation Using Snowflake Secure Data Sharing",
