@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/snowflake-tag-based-masking-policies-3b83f767d612": {
+        "title": "Snowflake: Tag-based Masking Policies",
+        "published": "2023-10-14T20:26:53.874000Z",
+        "updated": "2023-10-14T20:26:53.874000Z",
+        "tags": "snowflake,data-superhero"
+    },
+    "https://medium.com/snowflake/3-brand-new-ways-to-derive-query-insights-in-snowflake-247d6160d194": {
+        "title": "3 brand new ways to derive query insights in Snowflake",
+        "published": "2023-10-14T01:49:17.917000Z",
+        "updated": "2023-10-14T12:17:57.868000Z",
+        "tags": "snowflake,sql,cloud-computing,data-superhero"
+    },
     "https://medium.com/snowflake/3d-well-path-using-streamlit-in-snowflake-785684749b00": {
         "title": "Plotting Well Path using Streamlit in Snowflake",
         "published": "2023-10-13T17:43:33.626000Z",
