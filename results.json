@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/adding-new-views-tables-to-a-snowflake-native-application-without-creating-a-new-version-patch-1b21cb8805e3": {
+        "title": "Adding new views/tables to a Snowflake Native Application *without* creating a new version / patch!",
+        "published": "2023-10-15T20:02:40.202000Z",
+        "updated": "2023-10-15T20:02:40.202000Z",
+        "tags": "snowflake,native-app-development"
+    },
     "https://medium.com/snowflake/snowflake-tag-based-masking-policies-3b83f767d612": {
         "title": "Snowflake: Tag-based Masking Policies",
         "published": "2023-10-14T20:26:53.874000Z",
@@ -14,7 +20,7 @@
     "https://medium.com/snowflake/3d-well-path-using-streamlit-in-snowflake-785684749b00": {
         "title": "Plotting Well Path using Streamlit in Snowflake",
         "published": "2023-10-13T17:43:33.626000Z",
-        "updated": "2023-10-13T20:56:26.326000Z",
+        "updated": "2023-10-15T15:09:07.237000Z",
         "tags": "snowflake,streamlit,data-superhero"
     },
     "https://medium.com/snowflake/snowflake-amazon-s3-compatible-storage-with-cloudflare-11d4091bda38": {
