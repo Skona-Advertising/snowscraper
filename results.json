@@ -2,7 +2,7 @@
     "https://medium.com/snowflake/adding-new-views-tables-to-a-snowflake-native-application-without-creating-a-new-version-patch-1b21cb8805e3": {
         "title": "Adding new views/tables to a Snowflake Native Application *without* creating a new version / patch!",
         "published": "2023-10-15T20:02:40.202000Z",
-        "updated": "2023-10-15T20:02:40.202000Z",
+        "updated": "2023-10-16T21:40:10.706000Z",
         "tags": "snowflake,native-app-development"
     },
     "https://medium.com/snowflake/snowflake-tag-based-masking-policies-3b83f767d612": {
@@ -26,7 +26,7 @@
     "https://medium.com/snowflake/snowflake-amazon-s3-compatible-storage-with-cloudflare-11d4091bda38": {
         "title": "Snowflake: Amazon S3-compatible Storage with Cloudflare",
         "published": "2023-10-12T20:21:39.186000Z",
-        "updated": "2023-10-12T20:21:39.186000Z",
+        "updated": "2023-10-16T21:33:53.695000Z",
         "tags": "snowflake,cloudflare,data-superhero"
     },
     "https://medium.com/snowflake/jira-auto-insights-using-streamlit-and-llm-35951a62b393": {
@@ -80,7 +80,7 @@
     "https://medium.com/snowflake/fine-tuning-llama2-using-snowpark-container-services-33d7194ef49c": {
         "title": "Fine-tuning Llama2 using Snowpark Container Services",
         "published": "2023-10-07T22:45:40.649000Z",
-        "updated": "2023-10-07T23:18:19.576000Z",
+        "updated": "2023-10-16T17:19:10.382000Z",
         "tags": "large-language-models,snowflake"
     },
     "https://medium.com/snowflake/lets-go-clean-with-snowflake-data-clean-room-550b9c1924c9": {
