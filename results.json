@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/snowflake-startup-challenge-nyse-bell-ringing-dd26dce75ace": {
+        "title": "Snowflake Startup Challenge NYSE Bell Ringing",
+        "published": "2023-10-18T19:49:07.486000Z",
+        "updated": "2023-10-18T19:49:07.486000Z",
+        "tags": "snowflake,new-york-stock-exchange,startup,build"
+    },
     "https://medium.com/snowflake/the-democratization-of-ai-using-%EF%B8%8Fsnowflake-data-cloud-%EF%B8%8F-and-hugging-face-c58975b9db76": {
         "title": "The democratization of AI using \u2744\ufe0fSnowflake Data Cloud\u2744\ufe0f and Hugging Face",
         "published": "2023-10-17T07:19:53.499000Z",
@@ -650,7 +656,7 @@
     "https://vinodhini-sd.medium.com/iceberg-tables-on-snowflake-design-considerations-and-life-of-an-insert-query-5026ea10bbea": {
         "title": "Iceberg Tables on Snowflake: Design considerations and Life of an INSERT query",
         "published": "2023-08-16T19:52:35.284000Z",
-        "updated": "2023-09-20T20:22:15.358000Z",
+        "updated": "2023-10-18T21:12:50.386000Z",
         "tags": "data-engineering,open-source,snowflake,data-lake,data-architecture"
     },
     "https://medium.com/snowflake/getting-started-with-snowpark-scala-with-intellij-starter-guide-for-spark-scala-developers-260bcf6eaf76": {
