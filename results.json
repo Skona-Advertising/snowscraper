@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/unlocking-insights-forecasting-day-ahead-power-prices-in-north-america-with-snowpark-for-python-67a63bb32558": {
+        "title": "Unlocking Insights: Forecasting Day-Ahead Power Prices in North America with Snowpark for Python",
+        "published": "2023-10-19T16:36:43.582000Z",
+        "updated": "2023-10-19T16:36:43.582000Z",
+        "tags": "python,snowpark,forecasting,day-ahead,power-prices"
+    },
     "https://medium.com/snowflake/snowflake-startup-challenge-nyse-bell-ringing-dd26dce75ace": {
         "title": "Snowflake Startup Challenge NYSE Bell Ringing",
         "published": "2023-10-18T19:49:07.486000Z",
@@ -670,12 +676,6 @@
         "published": "2023-08-15T17:02:03.954000Z",
         "updated": "2023-08-16T13:56:03.540000Z",
         "tags": "snowflake,data-lake,icebergs,parquet,data-superhero"
-    },
-    "https://medium.com/snowflake/step-by-step-roadmap-to-becoming-a-snowflake-data-engineer-in-2023-18c823ba8b9c": {
-        "title": "Step by step roadmap to becoming a Snowflake Data Engineer in 2023",
-        "published": "2023-08-15T03:29:42.199000Z",
-        "updated": "2023-09-20T20:22:31.728000Z",
-        "tags": "data-engineering,programming,snowflake,career-paths,big-data"
     },
     "https://medium.com/snowflake/utilizing-the-new-aws-glue-studio-native-connector-for-snowflake-12e99f288682": {
         "title": "Utilizing the new AWS Glue Studio Native Connector for Snowflake",
