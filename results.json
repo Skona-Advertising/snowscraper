@@ -1,4 +1,22 @@
 {
+    "https://medium.com/snowflake/build-farm-visualizations-5a079477502d": {
+        "title": "Build farm visualizations",
+        "published": "2023-10-20T15:31:34.774000Z",
+        "updated": "2023-10-20T15:31:34.774000Z",
+        "tags": "bazel,performance,distributed-systems,troubleshooting,tuning"
+    },
+    "https://medium.com/snowflake/unlocking-real-time-insights-streaming-azure-event-hub-data-to-snowflake-4c8516539b52": {
+        "title": "Unlocking Real-Time Insights: Streaming Azure Event Hub Data to Snowflake",
+        "published": "2023-10-20T14:32:34.276000Z",
+        "updated": "2023-10-20T18:56:35.700000Z",
+        "tags": "snowflake,azure-event-hub,kafka,streamlit,kubernetes"
+    },
+    "https://medium.com/snowflake/telco-fraud-detection-on-snowflake-28d96aeff4ed": {
+        "title": "Telco Fraud Detection on Snowflake",
+        "published": "2023-10-20T14:31:13.077000Z",
+        "updated": "2023-10-20T15:32:01.364000Z",
+        "tags": "fraud-detection,streamlit,snowflake,data-engineering,data-analytics"
+    },
     "https://medium.com/snowflake/unlocking-insights-forecasting-day-ahead-power-prices-in-north-america-with-snowpark-for-python-67a63bb32558": {
         "title": "Unlocking Insights: Forecasting Day-Ahead Power Prices in North America with Snowpark for Python",
         "published": "2023-10-19T16:36:43.582000Z",
@@ -10,6 +28,12 @@
         "published": "2023-10-18T19:49:07.486000Z",
         "updated": "2023-10-18T19:49:07.486000Z",
         "tags": "snowflake,new-york-stock-exchange,startup,build"
+    },
+    "https://medium.com/snowflake/how-to-create-a-secure-audience-manager-as-a-snowflake-native-app-6f2c89bcc09a": {
+        "title": "How to create a Secure Audience Manager as a Snowflake Native App",
+        "published": "2023-10-17T12:26:21.191000Z",
+        "updated": "2023-10-20T14:40:53.271000Z",
+        "tags": "data-clean-room,snowflake,advertising,data-activation,audience-management"
     },
     "https://medium.com/snowflake/the-democratization-of-ai-using-%EF%B8%8Fsnowflake-data-cloud-%EF%B8%8F-and-hugging-face-c58975b9db76": {
         "title": "The democratization of AI using \u2744\ufe0fSnowflake Data Cloud\u2744\ufe0f and Hugging Face",
@@ -98,7 +122,7 @@
     "https://medium.com/snowflake/fine-tuning-llama2-using-snowpark-container-services-33d7194ef49c": {
         "title": "Fine-tuning Llama2 using Snowpark Container Services",
         "published": "2023-10-07T22:45:40.649000Z",
-        "updated": "2023-10-16T17:19:10.382000Z",
+        "updated": "2023-10-20T13:26:57.148000Z",
         "tags": "large-language-models,snowflake"
     },
     "https://medium.com/snowflake/lets-go-clean-with-snowflake-data-clean-room-550b9c1924c9": {
