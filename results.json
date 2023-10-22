@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/column-mappings-in-snowflake-native-apps-f4cef053e9e9": {
+        "title": "Column Mappings In Snowflake Native Apps",
+        "published": "2023-10-21T22:46:41.125000Z",
+        "updated": "2023-10-21T22:46:41.125000Z",
+        "tags": "snowflake,snowflake-native-app"
+    },
+    "https://medium.com/snowflake/how-to-build-a-vs-code-extension-using-react-webviews-0e2481ce1ba2": {
+        "title": "How to Build a VS Code Extension using React Webviews",
+        "published": "2023-10-21T06:02:33.473000Z",
+        "updated": "2023-10-21T06:02:33.473000Z",
+        "tags": "typescript,vscode-extension,react,programming,snowflake"
+    },
     "https://medium.com/snowflake/build-farm-visualizations-5a079477502d": {
         "title": "Build farm visualizations",
         "published": "2023-10-20T15:31:34.774000Z",
