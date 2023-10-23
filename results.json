@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/building-a-security-etl-platform-on-snowflake-340d171d3a94": {
+        "title": "Building a Security ETL Platform on Snowflake",
+        "published": "2023-10-22T15:02:46.715000Z",
+        "updated": "2023-10-22T15:02:46.715000Z",
+        "tags": "cloud-security,data-analytics,snowflake,data-engineering,cybersecurity"
+    },
     "https://medium.com/snowflake/column-mappings-in-snowflake-native-apps-f4cef053e9e9": {
         "title": "Column Mappings In Snowflake Native Apps",
         "published": "2023-10-21T22:46:41.125000Z",
