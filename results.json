@@ -1,4 +1,28 @@
 {
+    "https://medium.com/snowflake/convert-your-pyspark-code-to-snowpark-code-using-snowconvert-c2234691cc5e": {
+        "title": "Convert your PySpark code to Snowpark code using SnowConvert!",
+        "published": "2023-10-26T00:16:42.075000Z",
+        "updated": "2023-10-26T00:16:42.075000Z",
+        "tags": "data,spark,snowflake,programming,technology"
+    },
+    "https://medium.com/snowflake/prompt-engineering-the-gpt-4-model-and-evaluating-llm-response-using-a-streamlit-app-586730b93335": {
+        "title": "Prompt Engineering the GPT-4 model and evaluating LLM response using a Streamlit app",
+        "published": "2023-10-25T19:41:16.696000Z",
+        "updated": "2023-10-25T19:41:19.133000Z",
+        "tags": "programming,artificial-intelligence,streamlit,technology,snowflake"
+    },
+    "https://medium.com/snowflake/snowflake-in-drug-discovery-dc87a25f40a0": {
+        "title": "Snowflake in Drug Discovery: Leveraging BioNeMo as an external LLM & Snowpark container services\u2026",
+        "published": "2023-10-25T16:50:25.223000Z",
+        "updated": "2023-10-25T23:47:52.677000Z",
+        "tags": "genai,snowflake-data-cloud,llm,lifesciences-industry"
+    },
+    "https://medium.com/snowflake/snowflake-alert-and-email-notification-with-usecase-2-c633a579fbd6": {
+        "title": "Snowflake Alert and Email Notification with Usecase\u200a\u2014\u200a2",
+        "published": "2023-10-25T12:49:41.467000Z",
+        "updated": "2023-10-25T16:09:52.400000Z",
+        "tags": "snowflake,database,data,data-science,data-superhero"
+    },
     "https://medium.com/snowflake/snowflake-unix-file-validation-with-snowsql-da3f8992c076": {
         "title": "Snowflake: UNIX File validation with SnowSQL",
         "published": "2023-10-24T22:01:35.732000Z",
