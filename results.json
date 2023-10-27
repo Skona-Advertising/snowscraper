@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/understanding-snowflake-cost-10165aea767f": {
+        "title": "Understanding Snowflake Costs",
+        "published": "2023-10-26T01:56:58.724000Z",
+        "updated": "2023-10-26T02:46:48.184000Z",
+        "tags": "snowflake,data-superhero,performance"
+    },
     "https://medium.com/snowflake/convert-your-pyspark-code-to-snowpark-code-using-snowconvert-c2234691cc5e": {
         "title": "Convert your PySpark code to Snowpark code using SnowConvert!",
         "published": "2023-10-26T00:16:42.075000Z",
@@ -80,7 +86,7 @@
     "https://medium.com/snowflake/how-to-force-join-order-for-queries-with-ctes-in-snowflake-712c4025d596": {
         "title": "How to force join order for queries with CTEs in Snowflake",
         "published": "2023-10-23T04:01:37.553000Z",
-        "updated": "2023-10-23T04:01:37.553000Z",
+        "updated": "2023-10-26T09:29:13.344000Z",
         "tags": "performance,sql,snowflake,query-optimization"
     },
     "https://medium.com/snowflake/building-a-security-etl-platform-on-snowflake-340d171d3a94": {
@@ -676,12 +682,6 @@
         "published": "2023-08-28T15:02:25.485000Z",
         "updated": "2023-08-28T15:02:25.485000Z",
         "tags": "snowflake,cloud-computing,scale-to-zero,cost-optimization,performance"
-    },
-    "https://medium.com/snowflake/why-snowflakes-clone-command-changes-the-game-for-ci-cd-in-data-ccb6fb9955ba": {
-        "title": "Why Snowflake\u2019s Clone command changes the game for CI/CD in Data",
-        "published": "2023-08-28T14:02:30.421000Z",
-        "updated": "2023-08-31T07:53:04.285000Z",
-        "tags": "snowflake,data-engineering,analytics-engineering,big-data,ci-cd-pipeline"
     },
     "https://medium.com/snowflake/snowflake-dynamic-table-complete-guide-6-final-c363aa7e273a": {
         "title": "Snowflake Dynamic Table\u200a\u2014\u200aComplete Guide\u200a\u2014\u200a6 & Final",
