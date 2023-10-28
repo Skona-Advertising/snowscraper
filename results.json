@@ -1,4 +1,22 @@
 {
+    "https://medium.com/snowflake/send-slack-messages-from-snowflake-with-snowpark-external-network-access-8e3e42a7cde2": {
+        "title": "Send Slack Messages from Snowflake with Snowpark External Network Access",
+        "published": "2023-10-27T19:26:41.675000Z",
+        "updated": "2023-10-27T19:26:41.675000Z",
+        "tags": "snowflake,external-access,slack,alerts"
+    },
+    "https://medium.com/snowflake/how-we-are-making-your-rich-documents-talk-6754238b2132": {
+        "title": "How we are Making your Rich Documents Talk",
+        "published": "2023-10-27T17:12:04.612000Z",
+        "updated": "2023-10-27T17:12:04.612000Z",
+        "tags": "computer-vision,nlp,artificial-intelligence,machine-learning,question-answering"
+    },
+    "https://medium.com/snowflake/the-future-of-ai-applications-with-snowflake-landing-ai-and-aws-ny-tech-week-e2911ba23b05": {
+        "title": "The Future of AI Applications with Snowflake, Landing AI, and AWS\u200a\u2014\u200aNY Tech Week",
+        "published": "2023-10-27T13:32:43.876000Z",
+        "updated": "2023-10-27T13:32:43.876000Z",
+        "tags": "snowflake,ai,app-development,computer-vision,landing-ai"
+    },
     "https://medium.com/snowflake/understanding-snowflake-cost-10165aea767f": {
         "title": "Understanding Snowflake Costs",
         "published": "2023-10-26T01:56:58.724000Z",
@@ -578,7 +596,7 @@
     "https://medium.com/snowflake/snowflake-for-macroeconomic-data-science-cybersyn-snowpark-a44a9edc5fa0": {
         "title": "Snowflake for Macroeconomic Data Science Part I: Cybersyn + Snowpark",
         "published": "2023-09-06T16:02:21.018000Z",
-        "updated": "2023-09-28T17:10:28.852000Z",
+        "updated": "2023-10-27T12:44:06.628000Z",
         "tags": "snowflake,cybersyn,data-science,python,macroeconomics"
     },
     "https://medium.com/snowflake/avoid-bad-data-completely-continuous-delivery-architectures-in-the-modern-data-stack-part-2-2c4240bdb973": {
