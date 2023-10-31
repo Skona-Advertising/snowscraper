@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/data-ingestion-into-snowflake-and-best-practices-to-optimize-associated-spend-82a0325fff94": {
+        "title": "Best practices to optimize data ingestion spend in Snowflake",
+        "published": "2023-10-30T23:10:45.221000Z",
+        "updated": "2023-10-31T00:44:50.854000Z",
+        "tags": "cost-optimization,snowflake,data-ingestion,data-engineering,data-pipeline"
+    },
     "https://medium.com/snowflake/send-slack-messages-from-snowflake-with-snowpark-external-network-access-8e3e42a7cde2": {
         "title": "Send Slack Messages from Snowflake with Snowpark External Network Access",
         "published": "2023-10-27T19:26:41.675000Z",
@@ -20,13 +26,13 @@
     "https://medium.com/snowflake/understanding-snowflake-cost-10165aea767f": {
         "title": "Understanding Snowflake Costs",
         "published": "2023-10-26T01:56:58.724000Z",
-        "updated": "2023-10-26T02:46:48.184000Z",
+        "updated": "2023-10-30T17:50:27.759000Z",
         "tags": "snowflake,data-superhero,performance"
     },
     "https://medium.com/snowflake/convert-your-pyspark-code-to-snowpark-code-using-snowconvert-c2234691cc5e": {
         "title": "Convert your PySpark code to Snowpark code using SnowConvert!",
         "published": "2023-10-26T00:16:42.075000Z",
-        "updated": "2023-10-26T00:16:42.075000Z",
+        "updated": "2023-10-30T19:04:27.434000Z",
         "tags": "data,spark,snowflake,programming,technology"
     },
     "https://medium.com/snowflake/prompt-engineering-the-gpt-4-model-and-evaluating-llm-response-using-a-streamlit-app-586730b93335": {
@@ -364,6 +370,12 @@
         "published": "2023-09-26T20:02:26.188000Z",
         "updated": "2023-09-26T20:02:26.188000Z",
         "tags": "hudi,snowflake,data-engineering,data-lake,snowflake-data-cloud"
+    },
+    "https://medium.com/snowflake/snowflake-developers-community-update-september-2023-edition-78c93fecc57a": {
+        "title": "Snowflake Developers & Community Update\u200a\u2014\u200aSeptember 2023 Edition",
+        "published": "2023-09-26T15:01:46.182000Z",
+        "updated": "2023-09-26T18:49:18.701000Z",
+        "tags": "developer,community,snowflake"
     },
     "https://medium.com/snowflake/build-an-ai-powered-shopping-assistant-with-snowpark-container-services-and-llm-5659e42ed60b": {
         "title": "Build an AI-powered shopping assistant with Snowpark Container Services and LLM",
