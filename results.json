@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/leveraging-llama2-for-querying-summarizing-clinical-trial-protocols-on-snowflake-57e0f42400ad": {
+        "title": "Leveraging Llama2 for Querying /Summarizing Clinical Trial Protocols on Snowflake",
+        "published": "2023-11-02T13:14:29.240000Z",
+        "updated": "2023-11-02T13:24:19.277000Z",
+        "tags": "llm,life-sciences,ai,clinical-trials"
+    },
+    "https://medium.com/snowflake/snowflake-scd2-with-dynamic-tables-9bea90fefd62": {
+        "title": "Snowflake: SCD2 with Dynamic Tables",
+        "published": "2023-11-02T07:06:00.927000Z",
+        "updated": "2023-11-02T07:07:00.705000Z",
+        "tags": "snowflake,dynamic-table,data-superhero"
+    },
     "https://medium.com/snowflake/snowflake-dynamic-tables-44d361fc7ab7": {
         "title": "Snowflake Dynamic Tables",
         "published": "2023-11-01T19:02:55.614000Z",
@@ -20,7 +32,7 @@
     "https://medium.com/snowflake/unleashing-the-power-of-snowflake-with-external-network-access-024fd3cbf5a7": {
         "title": "Unleashing the Power of Snowflake with External Network Access",
         "published": "2023-10-31T22:01:38.038000Z",
-        "updated": "2023-10-31T22:01:38.038000Z",
+        "updated": "2023-11-02T21:11:18.737000Z",
         "tags": "snowpark,snowflake"
     },
     "https://medium.com/snowflake/connect-the-dots-external-apis-with-snowflakes-external-network-access-88471e8d912c": {
@@ -34,6 +46,12 @@
         "published": "2023-10-31T17:56:41.284000Z",
         "updated": "2023-10-31T18:28:29.086000Z",
         "tags": "snowflake,data,cloud-computing,json,data-superhero"
+    },
+    "https://medium.com/snowflake/asking-chatgpt-anything-using-streamlit-and-the-5w1h-method-00ff54fa1197": {
+        "title": "Asking ChatGPT Anything using Streamlit and the 5W1H Method",
+        "published": "2023-10-31T16:28:00.654000Z",
+        "updated": "2023-11-02T20:20:13.397000Z",
+        "tags": "daanalytics,streamlit,chatgpt,openai,data-superhero"
     },
     "https://medium.com/snowflake/data-ingestion-into-snowflake-and-best-practices-to-optimize-associated-spend-82a0325fff94": {
         "title": "Best practices to optimize data ingestion spend in Snowflake",
