@@ -59,6 +59,12 @@
         "updated": "2023-10-31T00:44:50.854000Z",
         "tags": "cost-optimization,snowflake,data-ingestion,data-engineering,data-pipeline"
     },
+    "https://medium.com/snowflake/empowering-analysts-and-business-users-bridging-the-gap-with-snowflake-ml-powered-anomaly-b9b314199361": {
+        "title": "Empowering Analysts and Business Users\u00a0: Bridging the Gap with Snowflake ML Powered Anomaly\u2026",
+        "published": "2023-10-30T16:07:36.018000Z",
+        "updated": "2023-11-03T22:27:25.426000Z",
+        "tags": "anomaly-detection,snowflake,machine-learning,data-analyst"
+    },
     "https://medium.com/snowflake/monitoring-snowflake-with-streamlit-in-snowflake-sis-b00fa02b0d4b": {
         "title": "Monitoring Snowflake with Streamlit-in-Snowflake (SiS)",
         "published": "2023-10-27T21:13:48.619000Z",
@@ -254,7 +260,7 @@
     "https://medium.com/snowflake/3d-well-path-using-streamlit-in-snowflake-785684749b00": {
         "title": "Plotting Well Path using Streamlit in Snowflake",
         "published": "2023-10-13T17:43:33.626000Z",
-        "updated": "2023-10-15T15:09:07.237000Z",
+        "updated": "2023-11-03T10:39:38.811000Z",
         "tags": "snowflake,streamlit,data-superhero"
     },
     "https://medium.com/snowflake/snowflake-amazon-s3-compatible-storage-with-cloudflare-11d4091bda38": {
@@ -464,7 +470,7 @@
     "https://medium.com/snowflake/deep-dive-into-the-internals-of-snowflake-virtual-warehouses-d6d9676127d2": {
         "title": "Deep dive into the internals of Snowflake Virtual Warehouses",
         "published": "2023-09-21T16:56:01.817000Z",
-        "updated": "2023-10-10T10:37:27.907000Z",
+        "updated": "2023-11-03T18:04:56.641000Z",
         "tags": "snowflake"
     },
     "https://medium.com/snowflake/using-polars-with-snowflake-cbdd49b0ca6b": {
