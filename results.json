@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/retrieval-augmented-generation-in-snowflake-nlp-semantic-search-embeddings-vector-storage-and-9f8ca5f107b2": {
+        "title": "Retrieval-Augmented Generation in Snowflake: NLP semantic search, embeddings, vector storage and\u2026",
+        "published": "2023-11-04T13:01:58.351000Z",
+        "updated": "2023-11-04T13:01:58.351000Z",
+        "tags": "ai,snowflake,generative-ai-tools,semantic-search,data-superhero"
+    },
+    "https://medium.com/snowflake/understanding-warehouse-cost-and-optimization-8fdffe2f68e6": {
+        "title": "Understanding Warehouse Cost and Optimization",
+        "published": "2023-11-02T21:52:26.256000Z",
+        "updated": "2023-11-05T00:47:46.394000Z",
+        "tags": "snowflake,data-superhero"
+    },
     "https://medium.com/snowflake/leveraging-llama2-for-querying-summarizing-clinical-trial-protocols-on-snowflake-57e0f42400ad": {
         "title": "Leveraging Llama2 for Querying /Summarizing Clinical Trial Protocols on Snowflake",
         "published": "2023-11-02T13:14:29.240000Z",
