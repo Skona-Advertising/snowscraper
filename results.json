@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/forecasting-with-snowflakes-ml-powered-functions-0914f6bd01ef": {
+        "title": "Forecasting with Snowflake\u2019s ML-Powered Functions",
+        "published": "2023-11-05T23:49:18.830000Z",
+        "updated": "2023-11-05T23:49:18.830000Z",
+        "tags": "machine-learning,time-series-forecasting,data-superhero,demand-forecasting,snowflake"
+    },
+    "https://medium.com/snowflake/building-an-in-browser-editor-with-streamlit-community-cloud-and-github-codespaces-93063124bc15": {
+        "title": "Building an In-browser editor with Streamlit community cloud and GitHub Codespaces",
+        "published": "2023-11-05T20:02:11.827000Z",
+        "updated": "2023-11-05T20:02:11.827000Z",
+        "tags": "streamlit"
+    },
     "https://medium.com/snowflake/retrieval-augmented-generation-in-snowflake-nlp-semantic-search-embeddings-vector-storage-and-9f8ca5f107b2": {
         "title": "Retrieval-Augmented Generation in Snowflake: NLP semantic search, embeddings, vector storage and\u2026",
         "published": "2023-11-04T13:01:58.351000Z",
@@ -632,7 +644,7 @@
     "https://medium.com/snowflake/running-weaviate-vector-db-in-snowflake-using-snowpark-container-services-490b1c391795": {
         "title": "Running Weaviate Vector DB in Snowflake using Snowpark Container Services",
         "published": "2023-09-09T21:47:47.860000Z",
-        "updated": "2023-10-23T20:11:58.635000Z",
+        "updated": "2023-11-05T11:45:24.652000Z",
         "tags": "ai,snowflake,llm"
     },
     "https://medium.com/snowflake/lightning-fast-elt-for-python-devs-with-aws-snowpipe-and-pulumi-4eaf056dd097": {
@@ -3884,7 +3896,7 @@
     "https://medium.com/snowflake/snowflake-micro-partitions-table-clustering-74beabaf780f": {
         "title": "Snowflake Micro-partitions & Table Clustering",
         "published": "2022-10-24T07:01:53.442000Z",
-        "updated": "2022-10-25T20:16:18.119000Z",
+        "updated": "2023-11-05T10:09:24.820000Z",
         "tags": "snowflake,data-superhero,partition-pruning,table-clustering,rajiv-gupta"
     },
     "https://medium.com/snowflake/timestamps-in-snowflake-ntz-vs-ltz-vs-tz-790e8c60a00d": {
