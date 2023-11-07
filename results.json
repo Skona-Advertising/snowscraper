@@ -1,4 +1,22 @@
 {
+    "https://medium.com/snowflake/part-1-adopting-snowpark-container-services-at-sailpoint-for-identity-security-84e9d65b0787": {
+        "title": "Part 1: Adopting Snowpark Container Services at SailPoint for Identity Security",
+        "published": "2023-11-06T22:02:37.250000Z",
+        "updated": "2023-11-06T22:02:37.250000Z",
+        "tags": "snowflake,sailpoint,security,nvidia,dask"
+    },
+    "https://medium.com/snowflake/understanding-snowflake-optimization-services-b8c8dbad1f52": {
+        "title": "Understanding Snowflake Optimization services",
+        "published": "2023-11-06T15:28:30.432000Z",
+        "updated": "2023-11-06T17:55:34.488000Z",
+        "tags": "snowflake,data-superhero"
+    },
+    "https://medium.com/snowflake/split-file-using-adf-copy-and-aws-script-89f031ce63b0": {
+        "title": "Split File using ADF COPY and AWS script",
+        "published": "2023-11-06T05:02:00.234000Z",
+        "updated": "2023-11-06T05:02:00.234000Z",
+        "tags": "snowflake,data-superhero"
+    },
     "https://medium.com/snowflake/forecasting-with-snowflakes-ml-powered-functions-0914f6bd01ef": {
         "title": "Forecasting with Snowflake\u2019s ML-Powered Functions",
         "published": "2023-11-05T23:49:18.830000Z",
@@ -14,7 +32,7 @@
     "https://medium.com/snowflake/retrieval-augmented-generation-in-snowflake-nlp-semantic-search-embeddings-vector-storage-and-9f8ca5f107b2": {
         "title": "Retrieval-Augmented Generation in Snowflake: NLP semantic search, embeddings, vector storage and\u2026",
         "published": "2023-11-04T13:01:58.351000Z",
-        "updated": "2023-11-04T13:01:58.351000Z",
+        "updated": "2023-11-06T03:40:08.152000Z",
         "tags": "ai,snowflake,generative-ai-tools,semantic-search,data-superhero"
     },
     "https://medium.com/snowflake/understanding-warehouse-cost-and-optimization-8fdffe2f68e6": {
@@ -770,7 +788,7 @@
     "https://medium.com/snowflake/compute-primitives-in-snowflake-and-best-practices-to-right-size-them-b3add53933a3": {
         "title": "Compute primitives in Snowflake and best practices to right-size them",
         "published": "2023-08-30T22:01:48.517000Z",
-        "updated": "2023-09-15T15:23:59.305000Z",
+        "updated": "2023-11-06T00:59:46.701000Z",
         "tags": "snowflake,virtual-warehouse,containers,cost-optimization,performance"
     },
     "https://medium.com/snowflake/avoid-bad-data-completely-continuous-delivery-architectures-in-the-modern-data-stack-part-1-22a0d48935f6": {
@@ -1526,7 +1544,7 @@
     "https://medium.com/snowflake/so-you-want-to-build-an-ml-model-as-quickly-as-possible-in-snowflake-d6bfe21d1751": {
         "title": "So You Want to\u2026 Build an ML Model As Quickly as Possible in Snowflake",
         "published": "2023-06-30T10:42:45.688000Z",
-        "updated": "2023-08-31T15:30:41.028000Z",
+        "updated": "2023-11-06T09:49:56.150000Z",
         "tags": "snowflake,snowpark,data-science,machine-learning,simple"
     },
     "https://medium.com/snowflake/snowflake-supports-group-by-all-1152fee3c296": {
@@ -2180,7 +2198,7 @@
     "https://medium.com/snowflake/so-you-want-to-manipulate-a-table-in-snowpark-python-3a5d4c64e499": {
         "title": "So You Want to\u2026. Manipulate a Table in Snowpark Python",
         "published": "2023-05-04T10:36:51.468000Z",
-        "updated": "2023-08-24T20:06:40.901000Z",
+        "updated": "2023-11-06T09:39:22.985000Z",
         "tags": "snowflake,snowpark,data-science,database,python"
     },
     "https://medium.com/snowflake/privacy-safe-analytics-with-snowflake-and-skyflow-7aa54d73c50f": {
@@ -4714,6 +4732,12 @@
         "published": "2022-07-04T14:01:52.112000Z",
         "updated": "2023-08-23T16:46:49.073000Z",
         "tags": "snowflake-data-cloud,python,anaconda,sql"
+    },
+    "https://medium.com/snowflake/snowflake-minimize-storage-cost-a83ddb27f51": {
+        "title": "Snowflake: Minimize Storage Cost",
+        "published": "2022-07-01T13:02:41.457000Z",
+        "updated": "2022-07-02T22:15:26.089000Z",
+        "tags": "snowflake,snowflake-data-cloud,cost-savings,data-superhero,performance"
     },
     "https://medium.com/snowflake/configure-snowflake-storage-integration-with-azure-e88eaa9c1172": {
         "title": "Configure Snowflake Storage Integration with AZURE",
