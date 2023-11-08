@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/secret-snowflake-data-modeling-features-you-need-to-know-about-1c0a1429c76b": {
+        "title": "Secret Snowflake data modeling features you need to know about",
+        "published": "2023-11-07T16:02:04.232000Z",
+        "updated": "2023-11-07T16:02:04.232000Z",
+        "tags": "data-modeling,snowflake,engineering,data-superhero"
+    },
+    "https://medium.com/snowflake/satcom-anomaly-detection-using-snowpark-6b9d47eaa784": {
+        "title": "SatCom Anomaly Detection using Snowpark",
+        "published": "2023-11-07T14:01:57.991000Z",
+        "updated": "2023-11-07T14:01:57.991000Z",
+        "tags": "machine-learning,snowpark,snowflake,scikit-learn,anomaly-detection"
+    },
     "https://medium.com/snowflake/part-1-adopting-snowpark-container-services-at-sailpoint-for-identity-security-84e9d65b0787": {
         "title": "Part 1: Adopting Snowpark Container Services at SailPoint for Identity Security",
         "published": "2023-11-06T22:02:37.250000Z",
@@ -40,6 +52,12 @@
         "published": "2023-11-02T21:52:26.256000Z",
         "updated": "2023-11-05T00:47:46.394000Z",
         "tags": "snowflake,data-superhero"
+    },
+    "https://medium.com/snowflake/snowflake-snowday-2023-the-view-ahead-cb8a0f393a4b": {
+        "title": "Snowflake Snowday 2023\u200a\u2014\u200a\u201cThe View Ahead\u201d",
+        "published": "2023-11-02T21:23:29.849000Z",
+        "updated": "2023-11-07T21:41:44.017000Z",
+        "tags": "daanalytics,snowflake,ai,application,data-superhero"
     },
     "https://medium.com/snowflake/leveraging-llama2-for-querying-summarizing-clinical-trial-protocols-on-snowflake-57e0f42400ad": {
         "title": "Leveraging Llama2 for Querying /Summarizing Clinical Trial Protocols on Snowflake",
@@ -890,7 +908,7 @@
     "https://medium.com/snowflake/github-archive-analysis-using-snowpark-a-comprehensive-guide-to-highly-performant-46099383fe8c": {
         "title": "GitHub Archive analysis using Snowpark\u200a\u2014\u200aA comprehensive guide to highly performant\u2026",
         "published": "2023-08-22T21:35:39.207000Z",
-        "updated": "2023-09-21T04:36:21.416000Z",
+        "updated": "2023-11-07T20:36:38.860000Z",
         "tags": "data-engineering,programming,data-science,machine-learning,snowflake"
     },
     "https://medium.com/snowflake/tag-based-masking-policies-in-snowflake-67701422f851": {
@@ -4732,12 +4750,6 @@
         "published": "2022-07-04T14:01:52.112000Z",
         "updated": "2023-08-23T16:46:49.073000Z",
         "tags": "snowflake-data-cloud,python,anaconda,sql"
-    },
-    "https://medium.com/snowflake/snowflake-minimize-storage-cost-a83ddb27f51": {
-        "title": "Snowflake: Minimize Storage Cost",
-        "published": "2022-07-01T13:02:41.457000Z",
-        "updated": "2022-07-02T22:15:26.089000Z",
-        "tags": "snowflake,snowflake-data-cloud,cost-savings,data-superhero,performance"
     },
     "https://medium.com/snowflake/configure-snowflake-storage-integration-with-azure-e88eaa9c1172": {
         "title": "Configure Snowflake Storage Integration with AZURE",
