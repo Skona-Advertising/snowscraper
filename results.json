@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/pytorch-model-to-detect-pneumonia-using-snowpark-container-service-and-snowflake-ml-features-e2f17a785f42": {
+        "title": "PyTorch Model to detect Pneumonia using Snowpark Container Service and Snowflake ML Features",
+        "published": "2023-11-08T18:52:35.661000Z",
+        "updated": "2023-11-08T20:17:32.620000Z",
+        "tags": "snowflake,snowpark"
+    },
     "https://medium.com/snowflake/secret-snowflake-data-modeling-features-you-need-to-know-about-1c0a1429c76b": {
         "title": "Secret Snowflake data modeling features you need to know about",
         "published": "2023-11-07T16:02:04.232000Z",
@@ -28,6 +34,12 @@
         "published": "2023-11-06T05:02:00.234000Z",
         "updated": "2023-11-06T05:02:00.234000Z",
         "tags": "snowflake,data-superhero"
+    },
+    "https://medium.com/snowflake/building-a-rag-based-blog-ai-assistant-using-streamlit-openai-and-llamaindex-304f6ffe6757": {
+        "title": "Building a RAG based Blog AI assistant using Streamlit, OpenAI and LlamaIndex",
+        "published": "2023-11-06T00:50:38.912000Z",
+        "updated": "2023-11-08T08:11:14.556000Z",
+        "tags": "llm,artificial-intelligence,machine-learning,data-science,data"
     },
     "https://medium.com/snowflake/forecasting-with-snowflakes-ml-powered-functions-0914f6bd01ef": {
         "title": "Forecasting with Snowflake\u2019s ML-Powered Functions",
@@ -6434,7 +6446,7 @@
     "https://medium.com/snowflake/snowflake-cost-at-user-or-group-level-f441208d29cf": {
         "title": "Snowflake Cost at User or Group Level",
         "published": "2021-04-23T11:28:30Z",
-        "updated": "2022-05-17T16:07:00.533000Z",
+        "updated": "2023-11-08T01:35:03.274000Z",
         "tags": "snowflake,billing,chargeback,users,account-usage"
     },
     "https://medium.com/snowflake/real-time-iot-data-ingestion-using-snowflake-snowpipe-on-azure-4a113bc4092c": {
