@@ -1,8 +1,14 @@
 {
+    "https://medium.com/snowflake/part-2-adopting-snowpark-container-services-at-sailpoint-for-identity-security-cedf0d4c2da7": {
+        "title": "Part 2: Adopting Snowpark Container Services at SailPoint for Identity Security",
+        "published": "2023-11-09T16:19:06.729000Z",
+        "updated": "2023-11-09T18:22:22.360000Z",
+        "tags": "snowflake,sailpoint,security,nvidia,dask"
+    },
     "https://medium.com/snowflake/pytorch-model-to-detect-pneumonia-using-snowpark-container-service-and-snowflake-ml-features-e2f17a785f42": {
         "title": "PyTorch Model to detect Pneumonia using Snowpark Container Service and Snowflake ML Features",
         "published": "2023-11-08T18:52:35.661000Z",
-        "updated": "2023-11-08T20:17:32.620000Z",
+        "updated": "2023-11-09T04:28:09.097000Z",
         "tags": "snowflake,snowpark"
     },
     "https://medium.com/snowflake/secret-snowflake-data-modeling-features-you-need-to-know-about-1c0a1429c76b": {
@@ -956,7 +962,7 @@
     "https://vinodhini-sd.medium.com/iceberg-tables-on-snowflake-design-considerations-and-life-of-an-insert-query-5026ea10bbea": {
         "title": "Iceberg Tables on Snowflake: Design considerations and Life of an INSERT query",
         "published": "2023-08-16T19:52:35.284000Z",
-        "updated": "2023-10-18T21:12:50.386000Z",
+        "updated": "2023-11-09T21:27:00.393000Z",
         "tags": "data-engineering,open-source,snowflake,data-lake,data-architecture"
     },
     "https://medium.com/snowflake/getting-started-with-snowpark-scala-with-intellij-starter-guide-for-spark-scala-developers-260bcf6eaf76": {
