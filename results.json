@@ -1,4 +1,22 @@
 {
+    "https://medium.com/snowflake/run-multi-node-multi-gpu-ray-inside-snowflake-76116826a414": {
+        "title": "Run multi-node, multi-GPU Ray inside Snowflake",
+        "published": "2023-11-13T23:55:04.751000Z",
+        "updated": "2023-11-13T23:55:04.751000Z",
+        "tags": "snowflake,anyscale,nvidia"
+    },
+    "https://medium.com/snowflake/snowflake-task-orchestration-framework-1dc438b3962e": {
+        "title": "Snowflake Task Orchestration Framework",
+        "published": "2023-11-12T10:03:41.122000Z",
+        "updated": "2023-11-13T19:25:31.673000Z",
+        "tags": "snowflake,tasks,data-superhero"
+    },
+    "https://medium.com/snowflake/connecting-swrcb-to-the-open-data-portal-using-snowflake-data-sharing-3ba200e325ea": {
+        "title": "Connecting SWRCB to the Open Data Portal using Snowflake Data Sharing",
+        "published": "2023-11-11T19:34:09.938000Z",
+        "updated": "2023-11-13T19:26:15.526000Z",
+        "tags": "open-data,data-sharing,api-integration,snowflake,streamlit"
+    },
     "https://medium.com/snowflake/part-2-adopting-snowpark-container-services-at-sailpoint-for-identity-security-cedf0d4c2da7": {
         "title": "Part 2: Adopting Snowpark Container Services at SailPoint for Identity Security",
         "published": "2023-11-09T16:19:06.729000Z",
@@ -80,7 +98,7 @@
     "https://medium.com/snowflake/leveraging-llama2-for-querying-summarizing-clinical-trial-protocols-on-snowflake-57e0f42400ad": {
         "title": "Leveraging Llama2 for Querying /Summarizing Clinical Trial Protocols on Snowflake",
         "published": "2023-11-02T13:14:29.240000Z",
-        "updated": "2023-11-02T13:24:19.277000Z",
+        "updated": "2023-11-13T14:24:21.812000Z",
         "tags": "llm,life-sciences,ai,clinical-trials"
     },
     "https://medium.com/snowflake/snowflake-scd2-with-dynamic-tables-9bea90fefd62": {
@@ -986,7 +1004,7 @@
     "https://medium.com/snowflake/utilizing-the-new-aws-glue-studio-native-connector-for-snowflake-12e99f288682": {
         "title": "Utilizing the new AWS Glue Studio Native Connector for Snowflake",
         "published": "2023-08-15T00:01:55.325000Z",
-        "updated": "2023-08-17T17:39:11.411000Z",
+        "updated": "2023-11-13T19:10:18.772000Z",
         "tags": "snowflake,aws-glue,snowflake-connector,data-engineering"
     },
     "https://medium.com/snowflake/exploratory-data-analysis-eda-of-github-archive-using-snowpark-python-dataframe-apis-1aa187713480": {
