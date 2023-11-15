@@ -1,8 +1,20 @@
 {
+    "https://medium.com/snowflake/5-steps-to-leverage-snowpark-ml-in-drug-discovery-research-9ffaf8e91020": {
+        "title": "5 Steps to Leverage Snowpark ML in Drug Discovery Research",
+        "published": "2023-11-14T20:01:58.053000Z",
+        "updated": "2023-11-14T22:19:11.078000Z",
+        "tags": "snowpark-python,snowflake-data-science,streamlit,life-sciences,snowflake"
+    },
+    "https://medium.com/snowflake/snowbees-streamlit-powered-no-code-api-catalog-for-snowflake-cace86259c56": {
+        "title": "SnowBees: Streamlit-Powered No-Code API Catalog for Snowflake",
+        "published": "2023-11-14T20:01:58.005000Z",
+        "updated": "2023-11-14T20:36:19.210000Z",
+        "tags": "streamlit,snowflake,data-engineering,no-code-development,api"
+    },
     "https://medium.com/snowflake/run-multi-node-multi-gpu-ray-inside-snowflake-76116826a414": {
         "title": "Run multi-node, multi-GPU Ray inside Snowflake",
         "published": "2023-11-13T23:55:04.751000Z",
-        "updated": "2023-11-13T23:55:04.751000Z",
+        "updated": "2023-11-15T00:16:41.374000Z",
         "tags": "snowflake,anyscale,nvidia"
     },
     "https://medium.com/snowflake/snowflake-task-orchestration-framework-1dc438b3962e": {
