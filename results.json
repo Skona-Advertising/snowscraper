@@ -1,4 +1,22 @@
 {
+    "https://medium.com/snowflake/snowflake-kafka-connector-and-dead-letter-queues-fb7f8e0cc5ef": {
+        "title": "Snowflake Kafka Connector and Dead Letter Queues",
+        "published": "2023-11-15T18:37:48.009000Z",
+        "updated": "2023-11-15T18:37:48.009000Z",
+        "tags": ""
+    },
+    "https://medium.com/snowflake/inside-snowflake-building-the-most-powerful-sql-llm-in-the-world-95114114aab9": {
+        "title": "Inside Snowflake: Building the most powerful SQL LLM in the world",
+        "published": "2023-11-15T17:59:25.706000Z",
+        "updated": "2023-11-15T17:59:25.706000Z",
+        "tags": ""
+    },
+    "https://medium.com/snowflake/snowflake-supports-named-and-optional-arguments-389d2500726f": {
+        "title": "Snowflake Supports Named and Optional Arguments",
+        "published": "2023-11-15T16:50:14.048000Z",
+        "updated": "2023-11-15T16:50:14.048000Z",
+        "tags": "snowflake"
+    },
     "https://medium.com/snowflake/5-steps-to-leverage-snowpark-ml-in-drug-discovery-research-9ffaf8e91020": {
         "title": "5 Steps to Leverage Snowpark ML in Drug Discovery Research",
         "published": "2023-11-14T20:01:58.053000Z",
@@ -8,7 +26,7 @@
     "https://medium.com/snowflake/snowbees-streamlit-powered-no-code-api-catalog-for-snowflake-cace86259c56": {
         "title": "SnowBees: Streamlit-Powered No-Code API Catalog for Snowflake",
         "published": "2023-11-14T20:01:58.005000Z",
-        "updated": "2023-11-14T20:36:19.210000Z",
+        "updated": "2023-11-15T11:26:20.876000Z",
         "tags": "streamlit,snowflake,data-engineering,no-code-development,api"
     },
     "https://medium.com/snowflake/run-multi-node-multi-gpu-ray-inside-snowflake-76116826a414": {
