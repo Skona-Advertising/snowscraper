@@ -1,4 +1,22 @@
 {
+    "https://medium.com/snowflake/building-data-applications-in-snowflake-leveraging-hybrid-search-with-weaviate-62d361ddee4a": {
+        "title": "Building Healthcare Applications in Snowflake Leveraging Hybrid Search with Weaviate",
+        "published": "2023-11-16T23:15:48.999000Z",
+        "updated": "2023-11-16T23:16:14.872000Z",
+        "tags": "snowflake,weaviate,vector-database"
+    },
+    "https://medium.com/snowflake/devops-in-snowflake-how-git-and-database-change-management-enable-a-file-based-object-lifecycle-1f61a0d5257c": {
+        "title": "DevOps in Snowflake: How Git and Database Change Management enable a file-based object lifecycle",
+        "published": "2023-11-16T19:16:51.892000Z",
+        "updated": "2023-11-16T19:16:51.892000Z",
+        "tags": "snowflake,devops,git,jinja2,configuration-as-code"
+    },
+    "https://medium.com/snowflake/announcing-the-ga-release-of-snowflake-python-connector-with-nanoarrow-1d70fd8ba3b1": {
+        "title": "Announcing the GA release of Snowflake Python Connector with nanoarrow!",
+        "published": "2023-11-16T17:29:15.307000Z",
+        "updated": "2023-11-16T21:48:21.675000Z",
+        "tags": "python,arrow,snowflake,developer,api"
+    },
     "https://medium.com/snowflake/snowflake-kafka-connector-and-dead-letter-queues-fb7f8e0cc5ef": {
         "title": "Snowflake Kafka Connector and Dead Letter Queues",
         "published": "2023-11-15T18:37:48.009000Z",
@@ -56,7 +74,7 @@
     "https://medium.com/snowflake/pytorch-model-to-detect-pneumonia-using-snowpark-container-service-and-snowflake-ml-features-e2f17a785f42": {
         "title": "PyTorch Model to detect Pneumonia using Snowpark Container Service and Snowflake ML Features",
         "published": "2023-11-08T18:52:35.661000Z",
-        "updated": "2023-11-11T01:54:55.195000Z",
+        "updated": "2023-11-16T02:48:25.831000Z",
         "tags": "snowflake,snowpark"
     },
     "https://medium.com/snowflake/secret-snowflake-data-modeling-features-you-need-to-know-about-1c0a1429c76b": {
@@ -96,9 +114,9 @@
         "tags": "llm,artificial-intelligence,machine-learning,data-science,data"
     },
     "https://medium.com/snowflake/forecasting-with-snowflakes-ml-powered-functions-0914f6bd01ef": {
-        "title": "Forecasting with Snowflake\u2019s ML-Powered Functions",
+        "title": "Forecasting with Snowflake Cortex ML-based Functions",
         "published": "2023-11-05T23:49:18.830000Z",
-        "updated": "2023-11-05T23:49:18.830000Z",
+        "updated": "2023-11-16T18:42:52.106000Z",
         "tags": "machine-learning,time-series-forecasting,data-superhero,demand-forecasting,snowflake"
     },
     "https://medium.com/snowflake/building-an-in-browser-editor-with-streamlit-community-cloud-and-github-codespaces-93063124bc15": {
