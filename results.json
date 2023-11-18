@@ -1,8 +1,14 @@
 {
+    "https://medium.com/snowflake/%EF%B8%8Fsnowflake-in-a-nutshell-streamlit-performance-tip-f994b066af3b": {
+        "title": "\u2744\ufe0fSnowflake in a Nutshell: Streamlit performance tip",
+        "published": "2023-11-17T18:28:07.777000Z",
+        "updated": "2023-11-17T18:28:07.777000Z",
+        "tags": "streamlit-app-development,performance-optimization,data-superhero,data-architecture,snowflake"
+    },
     "https://medium.com/snowflake/building-data-applications-in-snowflake-leveraging-hybrid-search-with-weaviate-62d361ddee4a": {
         "title": "Building Healthcare Applications in Snowflake Leveraging Hybrid Search with Weaviate",
         "published": "2023-11-16T23:15:48.999000Z",
-        "updated": "2023-11-16T23:16:14.872000Z",
+        "updated": "2023-11-17T12:09:21.400000Z",
         "tags": "snowflake,weaviate,vector-database"
     },
     "https://medium.com/snowflake/devops-in-snowflake-how-git-and-database-change-management-enable-a-file-based-object-lifecycle-1f61a0d5257c": {
@@ -14,7 +20,7 @@
     "https://medium.com/snowflake/announcing-the-ga-release-of-snowflake-python-connector-with-nanoarrow-1d70fd8ba3b1": {
         "title": "Announcing the GA release of Snowflake Python Connector with nanoarrow!",
         "published": "2023-11-16T17:29:15.307000Z",
-        "updated": "2023-11-16T21:48:21.675000Z",
+        "updated": "2023-11-17T17:27:24.524000Z",
         "tags": "python,arrow,snowflake,developer,api"
     },
     "https://medium.com/snowflake/snowflake-kafka-connector-and-dead-letter-queues-fb7f8e0cc5ef": {
