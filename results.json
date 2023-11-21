@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/snowflake-native-apps-scalability-2587dea795e0": {
+        "title": "Snowflake Native Apps Scalability",
+        "published": "2023-11-20T17:51:47.495000Z",
+        "updated": "2023-11-20T17:51:47.495000Z",
+        "tags": "snowflake,snowflake-native-app,data-superhero,scalability"
+    },
+    "https://medium.com/snowflake/asking-chatgpt-anything-using-streamlit-in-snowflake-and-the-5w1h-method-54ac8db5d333": {
+        "title": "Asking ChatGPT Anything using Streamlit in Snowflake and the 5W1H Method",
+        "published": "2023-11-19T13:06:24.897000Z",
+        "updated": "2023-11-20T17:50:13.761000Z",
+        "tags": "daanalytics,streamlit,openai,snowflake,data-superhero"
+    },
     "https://medium.com/snowflake/%EF%B8%8Fsnowflake-in-a-nutshell-streamlit-performance-tip-f994b066af3b": {
         "title": "\u2744\ufe0fSnowflake in a Nutshell: Streamlit performance tip",
         "published": "2023-11-17T18:28:07.777000Z",
@@ -22,6 +34,12 @@
         "published": "2023-11-16T17:29:15.307000Z",
         "updated": "2023-11-17T17:27:24.524000Z",
         "tags": "python,arrow,snowflake,developer,api"
+    },
+    "https://medium.com/snowflake/implementing-snowflakes-cost-optimization-techniques-b5778249b5f7": {
+        "title": "Implementing Snowflake\u2019s Cost Optimization techniques",
+        "published": "2023-11-16T17:04:37.777000Z",
+        "updated": "2023-11-20T17:50:35.717000Z",
+        "tags": "snowflake,data-superhero"
     },
     "https://medium.com/snowflake/snowflake-kafka-connector-and-dead-letter-queues-fb7f8e0cc5ef": {
         "title": "Snowflake Kafka Connector and Dead Letter Queues",
@@ -112,12 +130,6 @@
         "published": "2023-11-06T05:02:00.234000Z",
         "updated": "2023-11-06T05:02:00.234000Z",
         "tags": "snowflake,data-superhero"
-    },
-    "https://medium.com/snowflake/building-a-rag-based-blog-ai-assistant-using-streamlit-openai-and-llamaindex-304f6ffe6757": {
-        "title": "Building a RAG based Blog AI assistant using Streamlit, OpenAI and LlamaIndex",
-        "published": "2023-11-06T00:50:38.912000Z",
-        "updated": "2023-11-08T08:11:14.556000Z",
-        "tags": "llm,artificial-intelligence,machine-learning,data-science,data"
     },
     "https://medium.com/snowflake/forecasting-with-snowflakes-ml-powered-functions-0914f6bd01ef": {
         "title": "Forecasting with Snowflake Cortex ML-based Functions",
