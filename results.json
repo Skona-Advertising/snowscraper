@@ -1,8 +1,26 @@
 {
+    "https://medium.com/snowflake/the-ungifted-amateurs-guide-to-snowflake-449284e4bd72": {
+        "title": "The Ungifted Amateur\u2019s Guide to Snowflake",
+        "published": "2023-11-21T22:02:15.628000Z",
+        "updated": "2023-11-21T22:02:15.628000Z",
+        "tags": "snowflake,streamlit,data,cloud-computing,tutorial"
+    },
+    "https://medium.com/snowflake/custom-packages-in-streamlit-in-snowflake-2-easy-ways-e70b453c57b8": {
+        "title": "Custom Packages in Streamlit-in-Snowflake\u200a\u2014\u200a 2 easy ways",
+        "published": "2023-11-21T14:01:43.853000Z",
+        "updated": "2023-11-21T14:01:43.853000Z",
+        "tags": "snowflake,streamlit"
+    },
+    "https://medium.com/snowflake/whats-in-a-name-model-naming-versioning-in-snowpark-model-registry-b5f7105fd6f6": {
+        "title": "\u201cWhat\u2019s in a name?\u201d Model Naming & Versioning in Snowpark Model Registry",
+        "published": "2023-11-21T01:01:44.228000Z",
+        "updated": "2023-11-21T01:01:44.228000Z",
+        "tags": "snowpark,snowflake,mlops,machine-learning,ai"
+    },
     "https://medium.com/snowflake/snowflake-native-apps-scalability-2587dea795e0": {
-        "title": "Snowflake Native Apps Scalability",
+        "title": "Benchmarking Snowflake Native Apps",
         "published": "2023-11-20T17:51:47.495000Z",
-        "updated": "2023-11-20T17:51:47.495000Z",
+        "updated": "2023-11-21T10:21:47.284000Z",
         "tags": "snowflake,snowflake-native-app,data-superhero,scalability"
     },
     "https://medium.com/snowflake/asking-chatgpt-anything-using-streamlit-in-snowflake-and-the-5w1h-method-54ac8db5d333": {
@@ -16,6 +34,12 @@
         "published": "2023-11-17T18:28:07.777000Z",
         "updated": "2023-11-17T18:28:07.777000Z",
         "tags": "streamlit-app-development,performance-optimization,data-superhero,data-architecture,snowflake"
+    },
+    "https://medium.com/snowflake/snowflake-api-comprehensive-guide-to-3-methods-with-examples-c633f4eb35e1": {
+        "title": "Snowflake API: Comprehensive Guide to 3 Methods With Examples",
+        "published": "2023-11-16T23:38:58.835000Z",
+        "updated": "2023-11-21T18:04:21.448000Z",
+        "tags": "snowflake,data-engineering,python,data-warehouse,data"
     },
     "https://medium.com/snowflake/building-data-applications-in-snowflake-leveraging-hybrid-search-with-weaviate-62d361ddee4a": {
         "title": "Building Healthcare Applications in Snowflake Leveraging Hybrid Search with Weaviate",
@@ -50,7 +74,7 @@
     "https://medium.com/snowflake/inside-snowflake-building-the-most-powerful-sql-llm-in-the-world-95114114aab9": {
         "title": "Inside Snowflake: Building the most powerful SQL LLM in the world",
         "published": "2023-11-15T17:59:25.706000Z",
-        "updated": "2023-11-15T17:59:25.706000Z",
+        "updated": "2023-11-21T06:23:21.736000Z",
         "tags": ""
     },
     "https://medium.com/snowflake/snowflake-supports-named-and-optional-arguments-389d2500726f": {
@@ -58,6 +82,12 @@
         "published": "2023-11-15T16:50:14.048000Z",
         "updated": "2023-11-15T16:50:14.048000Z",
         "tags": "snowflake"
+    },
+    "https://medium.com/snowflake/python-connector-for-snowflake-v-3-5-0-ea6d19400864": {
+        "title": "Python Connector for Snowflake v 3.5.0",
+        "published": "2023-11-15T14:57:10.864000Z",
+        "updated": "2023-11-21T16:57:47.579000Z",
+        "tags": "snowflake,python"
     },
     "https://medium.com/snowflake/5-steps-to-leverage-snowpark-ml-in-drug-discovery-research-9ffaf8e91020": {
         "title": "5 Steps to Leverage Snowpark ML in Drug Discovery Research",
@@ -70,6 +100,12 @@
         "published": "2023-11-14T20:01:58.005000Z",
         "updated": "2023-11-15T11:26:20.876000Z",
         "tags": "streamlit,snowflake,data-engineering,no-code-development,api"
+    },
+    "https://medium.com/snowflake/pulling-data-from-an-external-api-into-snowflake-with-python-dcc1ba6ecc69": {
+        "title": "Pulling Data from an External API into Snowflake with Python",
+        "published": "2023-11-14T17:39:51.981000Z",
+        "updated": "2023-11-21T16:56:26.453000Z",
+        "tags": "snowflake,python,external-api"
     },
     "https://medium.com/snowflake/run-multi-node-multi-gpu-ray-inside-snowflake-76116826a414": {
         "title": "Run multi-node, multi-GPU Ray inside Snowflake",
