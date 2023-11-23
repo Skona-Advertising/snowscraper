@@ -1,9 +1,21 @@
 {
+    "https://medium.com/snowflake/snowflake-dynamic-tables-vs-tasks-comparing-and-refactoring-3179e5aac0d0": {
+        "title": "Snowflake Dynamic Tables vs. Tasks: Comparing and Refactoring",
+        "published": "2023-11-22T17:51:32.368000Z",
+        "updated": "2023-11-22T19:08:40.690000Z",
+        "tags": "snowflake,data-superhero,dynamic-table"
+    },
     "https://medium.com/snowflake/the-ungifted-amateurs-guide-to-snowflake-449284e4bd72": {
         "title": "The Ungifted Amateur\u2019s Guide to Snowflake",
         "published": "2023-11-21T22:02:15.628000Z",
         "updated": "2023-11-21T22:02:15.628000Z",
         "tags": "snowflake,streamlit,data,cloud-computing,tutorial"
+    },
+    "https://medium.com/snowflake/monitoring-governing-through-snowflake-alerts-ff3280f7cc78": {
+        "title": "Monitoring & governing through Snowflake \u201cALERTS\u201d",
+        "published": "2023-11-21T17:02:33.430000Z",
+        "updated": "2023-11-22T19:09:13.539000Z",
+        "tags": "snowflake,alerts,cloud,data-superhero,data-and-analytics"
     },
     "https://medium.com/snowflake/custom-packages-in-streamlit-in-snowflake-2-easy-ways-e70b453c57b8": {
         "title": "Custom Packages in Streamlit-in-Snowflake\u200a\u2014\u200a 2 easy ways",
