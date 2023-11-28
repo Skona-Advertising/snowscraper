@@ -1,14 +1,50 @@
 {
+    "https://medium.com/snowflake/meet-the-vcs-emea-snowflake-startup-demo-day-5cf5b0265a72": {
+        "title": "Meet the VCs\u200a\u2014\u200aEMEA Snowflake Startup Demo Day",
+        "published": "2023-11-27T20:01:47.101000Z",
+        "updated": "2023-11-27T20:01:47.101000Z",
+        "tags": "vc,snowflake,startup"
+    },
+    "https://medium.com/snowflake/using-node-with-promises-to-asynchronously-call-snowflake-82e8e9b1aa8f": {
+        "title": "Using Node with Promises to Asynchronously Call Snowflake",
+        "published": "2023-11-27T16:31:58.958000Z",
+        "updated": "2023-11-27T16:31:58.958000Z",
+        "tags": "javascript,nodejs,snowflake,asynchronous,promises"
+    },
+    "https://medium.com/snowflake/navigating-the-journey-from-spl-to-sql-532de4999bac": {
+        "title": "Navigating the Journey from SPL to SQL",
+        "published": "2023-11-27T16:09:35.447000Z",
+        "updated": "2023-11-27T16:09:35.447000Z",
+        "tags": "security-data-lake,sql,security"
+    },
+    "https://medium.com/snowflake/the-definitive-guide-to-using-snowflake-tasks-2db0747168f0": {
+        "title": "The definitive guide to using Snowflake Tasks",
+        "published": "2023-11-27T13:01:49.119000Z",
+        "updated": "2023-11-27T13:01:49.119000Z",
+        "tags": "snowflake,snowflake-data-cloud,data-superhero,snowflake-tasks,data-pipeline"
+    },
+    "https://medium.com/snowflake/secure-text-to-image-processing-in-snowflake-with-stable-diffusion-and-snowpark-container-services-b52523a7e3ee": {
+        "title": "Secure Text-To-Image Processing in Snowflake with Stable Diffusion and Snowpark Container Services",
+        "published": "2023-11-24T19:11:14.489000Z",
+        "updated": "2023-11-27T18:48:56.202000Z",
+        "tags": "snowflake,stable-diffusion,text-to-image-generation,data-privacy,snowpark"
+    },
     "https://medium.com/snowflake/snowflake-dynamic-tables-vs-tasks-comparing-and-refactoring-3179e5aac0d0": {
         "title": "Snowflake Dynamic Tables vs. Tasks: Comparing and Refactoring",
         "published": "2023-11-22T17:51:32.368000Z",
         "updated": "2023-11-22T19:08:40.690000Z",
         "tags": "snowflake,data-superhero,dynamic-table"
     },
+    "https://medium.com/snowflake/using-lifecycle-configuration-scripts-with-amazon-sagemaker-for-snowpark-4c988afcb33c": {
+        "title": "Using Lifecycle Configuration Scripts with Amazon SageMaker for Snowpark",
+        "published": "2023-11-22T15:57:24.030000Z",
+        "updated": "2023-11-27T16:12:56.841000Z",
+        "tags": "snowflake,sagemaker,snowpark,libraries"
+    },
     "https://medium.com/snowflake/the-ungifted-amateurs-guide-to-snowflake-449284e4bd72": {
         "title": "The Ungifted Amateur\u2019s Guide to Snowflake",
         "published": "2023-11-21T22:02:15.628000Z",
-        "updated": "2023-11-21T22:02:15.628000Z",
+        "updated": "2023-11-27T18:52:30.431000Z",
         "tags": "snowflake,streamlit,data,cloud-computing,tutorial"
     },
     "https://medium.com/snowflake/monitoring-governing-through-snowflake-alerts-ff3280f7cc78": {
@@ -2810,7 +2846,7 @@
     "https://medium.com/snowflake/introducing-snowpark-project-templates-12ca0965d77c": {
         "title": "Introducing: Snowpark Project Templates",
         "published": "2023-03-22T03:15:46.442000Z",
-        "updated": "2023-03-24T22:32:34.227000Z",
+        "updated": "2023-11-27T19:20:51.047000Z",
         "tags": "snowpark,devops,ci-cd-pipeline,github-actions,snowflake"
     },
     "https://medium.com/snowflake/data-cloud-deployment-framework-architecture-e2fdb5f1c942": {
