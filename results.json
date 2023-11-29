@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/introducing-sedonasnow-5c228b950e69": {
+        "title": "Introducing SedonaSnow",
+        "published": "2023-11-28T16:22:39.589000Z",
+        "updated": "2023-11-28T16:22:39.589000Z",
+        "tags": "geospatial,sedona,snowflake"
+    },
+    "https://medium.com/snowflake/getting-started-with-snowflake-table-schema-evolution-cf59915ae74e": {
+        "title": "Getting Started with Snowflake Table Schema Evolution",
+        "published": "2023-11-28T10:02:02.509000Z",
+        "updated": "2023-11-28T10:38:26.055000Z",
+        "tags": "snowflake,schema-evolution,data-engineering,hands-on-tutorials,sql"
+    },
     "https://medium.com/snowflake/meet-the-vcs-emea-snowflake-startup-demo-day-5cf5b0265a72": {
         "title": "Meet the VCs\u200a\u2014\u200aEMEA Snowflake Startup Demo Day",
         "published": "2023-11-27T20:01:47.101000Z",
@@ -3646,6 +3658,12 @@
         "published": "2022-12-29T09:21:01.604000Z",
         "updated": "2022-12-29T18:06:20.646000Z",
         "tags": "snowflake,disaster-recovery,business-continuity,replication,data-superhero"
+    },
+    "https://medium.com/snowflake/exploring-ddl-dml-clone-operation-impact-on-snowflake-storage-8f4804ae5c43": {
+        "title": "Exploring DDL/DML/CLONE Operation Impact on Snowflake Storage",
+        "published": "2022-12-24T22:30:42.258000Z",
+        "updated": "2023-11-28T03:04:33.934000Z",
+        "tags": "snowflake,data-superhero,storage,clones"
     },
     "https://medium.com/snowflake/a-sentiment-analysis-example-with-snowflake-marketplace-cybersyn-github-archive-events-data-ae0a6a1828bf": {
         "title": "A Sentiment Analysis example with Snowflake Marketplace Cybersyn Github Archive Events Data",
