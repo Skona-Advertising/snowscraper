@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/reducing-costs-by-doing-more-in-snowflake-79852dfc444b": {
+        "title": "Reducing Costs by Doing More in Snowflake",
+        "published": "2023-11-30T17:11:40.342000Z",
+        "updated": "2023-11-30T17:11:40.342000Z",
+        "tags": "snowflake"
+    },
+    "https://medium.com/snowflake/honeydew-where-are-they-now-snowflake-startup-challenge-finalists-3dd92209a0c6": {
+        "title": "Honeydew: Where are they now?\u200a\u2014\u200aSnowflake Startup Challenge Finalists",
+        "published": "2023-11-30T14:01:05.219000Z",
+        "updated": "2023-11-30T14:01:05.219000Z",
+        "tags": "snowflake,startup"
+    },
     "https://medium.com/snowflake/from-logs-to-detection-using-snowflake-and-panther-to-detect-k8s-threats-d72f70a504d7": {
         "title": "From Logs to Detection: Using Snowflake and Panther to Detect K8s Threats",
         "published": "2023-11-29T18:02:11.561000Z",
