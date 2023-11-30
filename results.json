@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/from-logs-to-detection-using-snowflake-and-panther-to-detect-k8s-threats-d72f70a504d7": {
+        "title": "From Logs to Detection: Using Snowflake and Panther to Detect K8s Threats",
+        "published": "2023-11-29T18:02:11.561000Z",
+        "updated": "2023-11-29T18:02:11.561000Z",
+        "tags": "cybersecurity,kubernetes,threat-detection,incident-response,snowflake"
+    },
+    "https://medium.com/snowflake/road-to-snowflake-snowpro-advanced-data-analyst-certification-f87a7ab47051": {
+        "title": "Road to Snowflake SnowPro Advanced Data Analyst certification",
+        "published": "2023-11-29T17:08:31.502000Z",
+        "updated": "2023-11-29T17:08:31.502000Z",
+        "tags": "snowflake,certification,snowpro,data-analysis,data-analyst"
+    },
     "https://medium.com/snowflake/introducing-sedonasnow-5c228b950e69": {
         "title": "Introducing SedonaSnow",
         "published": "2023-11-28T16:22:39.589000Z",
@@ -8,7 +20,7 @@
     "https://medium.com/snowflake/getting-started-with-snowflake-table-schema-evolution-cf59915ae74e": {
         "title": "Getting Started with Snowflake Table Schema Evolution",
         "published": "2023-11-28T10:02:02.509000Z",
-        "updated": "2023-11-28T10:38:26.055000Z",
+        "updated": "2023-11-29T10:42:09.364000Z",
         "tags": "snowflake,schema-evolution,data-engineering,hands-on-tutorials,sql"
     },
     "https://medium.com/snowflake/meet-the-vcs-emea-snowflake-startup-demo-day-5cf5b0265a72": {
@@ -530,7 +542,7 @@
     "https://medium.com/snowflake/jira-auto-insights-using-streamlit-and-llm-35951a62b393": {
         "title": "Jira Auto Insights using Streamlit and LLM",
         "published": "2023-10-12T12:36:39.547000Z",
-        "updated": "2023-10-12T23:53:17.911000Z",
+        "updated": "2023-11-30T00:10:50.927000Z",
         "tags": "streamlit,jira,snowflake,llm,openai"
     },
     "https://medium.com/snowflake/running-a-r-udf-with-snowpark-container-services-5828d1380066": {
