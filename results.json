@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/inside-snowflake-building-the-most-powerful-sql-llm-in-the-world-1a33b3ee0d37": {
+        "title": "Inside Snowflake: Building the most powerful SQL LLM in the world",
+        "published": "2023-11-30T19:33:26.291000Z",
+        "updated": "2023-12-01T21:39:34.647000Z",
+        "tags": "text-to-sql,language-model,evaluation,talk-to-your-data,machine-learning"
+    },
     "https://medium.com/snowflake/reducing-costs-by-doing-more-in-snowflake-79852dfc444b": {
         "title": "Reducing Costs by Doing More in Snowflake",
         "published": "2023-11-30T17:11:40.342000Z",
@@ -32,7 +38,7 @@
     "https://medium.com/snowflake/getting-started-with-snowflake-table-schema-evolution-cf59915ae74e": {
         "title": "Getting Started with Snowflake Table Schema Evolution",
         "published": "2023-11-28T10:02:02.509000Z",
-        "updated": "2023-11-29T10:42:09.364000Z",
+        "updated": "2023-12-01T10:35:12.756000Z",
         "tags": "snowflake,schema-evolution,data-engineering,hands-on-tutorials,sql"
     },
     "https://medium.com/snowflake/meet-the-vcs-emea-snowflake-startup-demo-day-5cf5b0265a72": {
