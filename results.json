@@ -1,8 +1,14 @@
 {
+    "https://medium.com/snowflake/create-a-mini-time-dimension-on-the-fly-with-a-snowflake-udtf-e2fd3a3a61e9": {
+        "title": "Create a mini Time Dimension on the Fly with a Snowflake UDTF",
+        "published": "2023-12-02T02:02:53.745000Z",
+        "updated": "2023-12-02T02:02:53.745000Z",
+        "tags": "snowflake"
+    },
     "https://medium.com/snowflake/inside-snowflake-building-the-most-powerful-sql-llm-in-the-world-1a33b3ee0d37": {
         "title": "Inside Snowflake: Building the most powerful SQL LLM in the world",
         "published": "2023-11-30T19:33:26.291000Z",
-        "updated": "2023-12-01T21:39:34.647000Z",
+        "updated": "2023-12-02T01:27:10.115000Z",
         "tags": "text-to-sql,language-model,evaluation,talk-to-your-data,machine-learning"
     },
     "https://medium.com/snowflake/reducing-costs-by-doing-more-in-snowflake-79852dfc444b": {
@@ -200,7 +206,7 @@
     "https://medium.com/snowflake/run-multi-node-multi-gpu-ray-inside-snowflake-76116826a414": {
         "title": "Run multi-node, multi-GPU Ray inside Snowflake",
         "published": "2023-11-13T23:55:04.751000Z",
-        "updated": "2023-11-15T00:16:41.374000Z",
+        "updated": "2023-12-02T01:31:06.946000Z",
         "tags": "snowflake,anyscale,nvidia"
     },
     "https://medium.com/snowflake/snowflake-task-orchestration-framework-1dc438b3962e": {
@@ -256,6 +262,12 @@
         "published": "2023-11-06T05:02:00.234000Z",
         "updated": "2023-11-06T05:02:00.234000Z",
         "tags": "snowflake,data-superhero"
+    },
+    "https://medium.com/snowflake/building-a-rag-based-blog-ai-assistant-using-streamlit-openai-and-llamaindex-304f6ffe6757": {
+        "title": "Building a RAG based Blog AI assistant using Streamlit, OpenAI and LlamaIndex",
+        "published": "2023-11-06T00:50:38.912000Z",
+        "updated": "2023-12-02T17:38:38.259000Z",
+        "tags": "llm,artificial-intelligence,machine-learning,data-science,data"
     },
     "https://medium.com/snowflake/forecasting-with-snowflakes-ml-powered-functions-0914f6bd01ef": {
         "title": "Forecasting with Snowflake Cortex ML-based Functions",
