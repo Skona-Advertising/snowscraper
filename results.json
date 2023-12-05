@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/machine-learning-based-alerts-for-snowflake-finops-8ec640fb1cee": {
+        "title": "Machine Learning-Based Alerts for Snowflake FinOps",
+        "published": "2023-12-04T23:51:49.950000Z",
+        "updated": "2023-12-04T23:51:49.950000Z",
+        "tags": "snowflake,mlops,finops,cost-optimization,ai"
+    },
+    "https://medium.com/snowflake/snowflake-performance-tips-and-tricks-part-2-general-advice-980210168f76": {
+        "title": "Snowflake performance tips and tricks - Part 2: general advice",
+        "published": "2023-12-04T14:01:56.093000Z",
+        "updated": "2023-12-04T14:01:56.093000Z",
+        "tags": "snowflake,optimization,performance"
+    },
     "https://medium.com/snowflake/create-a-mini-time-dimension-on-the-fly-with-a-snowflake-udtf-e2fd3a3a61e9": {
         "title": "Create a mini Time Dimension on the Fly with a Snowflake UDTF",
         "published": "2023-12-02T02:02:53.745000Z",
