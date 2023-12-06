@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/how-to-integrate-databricks-with-snowflake-managed-iceberg-tables-7a8895c2c724": {
+        "title": "How to integrate Databricks with Snowflake-managed Iceberg Tables",
+        "published": "2023-12-05T13:31:51.050000Z",
+        "updated": "2023-12-05T15:15:14.376000Z",
+        "tags": "snowflake,apache-iceberg,databricks"
+    },
     "https://medium.com/snowflake/machine-learning-based-alerts-for-snowflake-finops-8ec640fb1cee": {
         "title": "Machine Learning-Based Alerts for Snowflake FinOps",
         "published": "2023-12-04T23:51:49.950000Z",
