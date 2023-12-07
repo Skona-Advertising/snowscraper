@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/optimizing-snowflake-cloud-services-costs-de10f0b15444": {
+        "title": "Optimizing Snowflake Cloud Services costs",
+        "published": "2023-12-06T20:45:42.078000Z",
+        "updated": "2023-12-06T20:45:42.078000Z",
+        "tags": "cost-optimization,snowflake,cloud-computing,finops,performance"
+    },
+    "https://medium.com/snowflake/snowflake-hybrid-connected-native-apps-featuring-snowplow-e704314bcc90": {
+        "title": "Snowflake Hybrid Connected / Native Apps\u200a\u2014\u200afeaturing Snowplow",
+        "published": "2023-12-06T19:43:27.862000Z",
+        "updated": "2023-12-06T20:48:34.888000Z",
+        "tags": "snowflake,digital-analytics,snowplow-analytics,clickstream,marketing-analytics"
+    },
     "https://medium.com/snowflake/how-to-integrate-databricks-with-snowflake-managed-iceberg-tables-7a8895c2c724": {
         "title": "How to integrate Databricks with Snowflake-managed Iceberg Tables",
         "published": "2023-12-05T13:31:51.050000Z",
@@ -32,7 +44,7 @@
     "https://medium.com/snowflake/reducing-costs-by-doing-more-in-snowflake-79852dfc444b": {
         "title": "Reducing Costs by Doing More in Snowflake",
         "published": "2023-11-30T17:11:40.342000Z",
-        "updated": "2023-11-30T17:11:40.342000Z",
+        "updated": "2023-12-06T16:39:45.366000Z",
         "tags": "snowflake"
     },
     "https://medium.com/snowflake/honeydew-where-are-they-now-snowflake-startup-challenge-finalists-3dd92209a0c6": {
@@ -44,7 +56,7 @@
     "https://medium.com/snowflake/from-logs-to-detection-using-snowflake-and-panther-to-detect-k8s-threats-d72f70a504d7": {
         "title": "From Logs to Detection: Using Snowflake and Panther to Detect K8s Threats",
         "published": "2023-11-29T18:02:11.561000Z",
-        "updated": "2023-11-29T18:02:11.561000Z",
+        "updated": "2023-12-06T15:58:36.924000Z",
         "tags": "cybersecurity,kubernetes,threat-detection,incident-response,snowflake"
     },
     "https://medium.com/snowflake/road-to-snowflake-snowpro-advanced-data-analyst-certification-f87a7ab47051": {
@@ -104,7 +116,7 @@
     "https://medium.com/snowflake/using-lifecycle-configuration-scripts-with-amazon-sagemaker-for-snowpark-4c988afcb33c": {
         "title": "Using Lifecycle Configuration Scripts with Amazon SageMaker for Snowpark",
         "published": "2023-11-22T15:57:24.030000Z",
-        "updated": "2023-11-27T16:12:56.841000Z",
+        "updated": "2023-12-06T18:47:06.661000Z",
         "tags": "snowflake,sagemaker,snowpark,libraries"
     },
     "https://medium.com/snowflake/the-ungifted-amateurs-guide-to-snowflake-449284e4bd72": {
@@ -3809,6 +3821,12 @@
         "updated": "2022-12-11T14:02:04.299000Z",
         "tags": "snowflake,unstructured-data"
     },
+    "https://medium.com/snowflake/snowflake-performance-snowflake-search-optimization-service-vs-table-clustering-5b111a58e1b1": {
+        "title": "Snowflake Performance: Snowflake Search Optimization Service Vs Table Clustering",
+        "published": "2022-12-10T20:04:14.003000Z",
+        "updated": "2023-12-06T05:03:49.469000Z",
+        "tags": "snowflake,rajiv-gupta,data-superhero,searchoptimizationservice,clustering"
+    },
     "https://medium.com/snowflake/are-you-providing-a-generic-customer-experience-see-how-snowflake-can-help-ca97f4c90f3e": {
         "title": "Are you providing a generic customer experience? See how Snowflake can help!",
         "published": "2022-12-09T22:05:44.475000Z",
@@ -3872,7 +3890,7 @@
     "https://medium.com/snowflake/snowflake-performance-query-acceleration-service-88ef2415b64f": {
         "title": "Snowflake Performance: Query Acceleration Service",
         "published": "2022-11-27T14:53:50.007000Z",
-        "updated": "2023-03-13T07:35:48.771000Z",
+        "updated": "2023-12-06T13:07:04.796000Z",
         "tags": "snowflake,queryaccelerationservice,performance,warehouse,data-superhero"
     },
     "https://medium.com/snowflake/exclude-select-exclude-fc4fc96f03a6": {
