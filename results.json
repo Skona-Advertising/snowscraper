@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/snowflake-and-power-bi-best-practices-and-recent-improvements-183e2d970c0c": {
+        "title": "Snowflake and Power BI: Best Practices and Recent Improvements",
+        "published": "2023-12-07T23:02:08.677000Z",
+        "updated": "2023-12-07T23:02:08.677000Z",
+        "tags": "snowflake,microsoft-power-bi,snowflake-data-cloud,power-bi-desktop,performance"
+    },
     "https://medium.com/snowflake/optimizing-snowflake-cloud-services-costs-de10f0b15444": {
         "title": "Optimizing Snowflake Cloud Services costs",
         "published": "2023-12-06T20:45:42.078000Z",
@@ -44,7 +50,7 @@
     "https://medium.com/snowflake/reducing-costs-by-doing-more-in-snowflake-79852dfc444b": {
         "title": "Reducing Costs by Doing More in Snowflake",
         "published": "2023-11-30T17:11:40.342000Z",
-        "updated": "2023-12-06T16:39:45.366000Z",
+        "updated": "2023-12-07T21:31:45.526000Z",
         "tags": "snowflake"
     },
     "https://medium.com/snowflake/honeydew-where-are-they-now-snowflake-startup-challenge-finalists-3dd92209a0c6": {
@@ -3754,6 +3760,12 @@
         "published": "2022-12-19T23:57:55.074000Z",
         "updated": "2022-12-23T05:01:32.087000Z",
         "tags": "data-science,snowpark,ai"
+    },
+    "https://medium.com/snowflake/database-role-v-s-account-role-in-snowflake-49e960b3924a": {
+        "title": "Database Role V/S Account Role in Snowflake",
+        "published": "2022-12-19T19:15:22.776000Z",
+        "updated": "2023-12-07T04:20:41.847000Z",
+        "tags": "snowflake,rajiv-gupta,security,database-role,data-superhero"
     },
     "https://medium.com/snowflake/snowflake-access-control-lets-make-it-easy-for-all-8a71e90d500f": {
         "title": "Snowflake Access Control, Let make it easy for all",
