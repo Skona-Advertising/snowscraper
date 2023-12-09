@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/snowflake-query-performance-tips-and-tricks-part-3-window-function-optimization-48fe825fb786": {
+        "title": "Snowflake query performance tips and tricks - Part 3: window function optimization",
+        "published": "2023-12-08T23:01:56.775000Z",
+        "updated": "2023-12-08T23:01:56.775000Z",
+        "tags": "snowflake,performance,optimization"
+    },
     "https://medium.com/snowflake/snowflake-and-power-bi-best-practices-and-recent-improvements-183e2d970c0c": {
         "title": "Snowflake and Power BI: Best Practices and Recent Improvements",
         "published": "2023-12-07T23:02:08.677000Z",
@@ -320,7 +326,7 @@
     "https://medium.com/snowflake/retrieval-augmented-generation-in-snowflake-nlp-semantic-search-embeddings-vector-storage-and-9f8ca5f107b2": {
         "title": "Retrieval-Augmented Generation in Snowflake: NLP semantic search, embeddings, vector storage and\u2026",
         "published": "2023-11-04T13:01:58.351000Z",
-        "updated": "2023-11-06T03:40:08.152000Z",
+        "updated": "2023-12-08T06:38:00.305000Z",
         "tags": "ai,snowflake,generative-ai-tools,semantic-search,data-superhero"
     },
     "https://medium.com/snowflake/understanding-warehouse-cost-and-optimization-8fdffe2f68e6": {
@@ -3040,6 +3046,18 @@
         "published": "2023-03-15T22:02:04.759000Z",
         "updated": "2023-03-15T22:02:04.759000Z",
         "tags": "snowflake,snowflake-data-cloud,data-superhero,snowpro,snowpro-core-exam"
+    },
+    "https://medium.com/snowflake/power-bi-snowflake-part-2-hybrid-tables-in-power-bi-with-snowflake-b3a497a79d44": {
+        "title": "Power BI & Snowflake Part 2: Hybrid Tables in Power BI with Snowflake",
+        "published": "2023-03-15T01:01:44.106000Z",
+        "updated": "2023-12-08T06:07:05.478000Z",
+        "tags": ""
+    },
+    "https://medium.com/snowflake/power-bi-snowflake-part-1-connecting-power-bi-to-snowflake-e09a5d1b244": {
+        "title": "Power BI & Snowflake Part 1: Connecting Power BI to Snowflake",
+        "published": "2023-03-15T00:01:20.392000Z",
+        "updated": "2023-12-08T05:21:51.740000Z",
+        "tags": ""
     },
     "https://medium.com/snowflake/mta-vs-sales-lift-understanding-the-differences-in-measurement-models-2f0d6ebc1c0f": {
         "title": "MTA vs Sales Lift: Understanding the Differences in Measurement Models",
