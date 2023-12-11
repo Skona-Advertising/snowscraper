@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/implement-cost-monitoring-alerting-using-snowsight-b54ee0d269dc": {
+        "title": "Implement Cost Monitoring Dashboards using Snowsight",
+        "published": "2023-12-09T18:44:23.762000Z",
+        "updated": "2023-12-10T20:54:05.220000Z",
+        "tags": "snowflake,data-superhero"
+    },
     "https://medium.com/snowflake/snowflake-query-performance-tips-and-tricks-part-3-window-function-optimization-48fe825fb786": {
         "title": "Snowflake query performance tips and tricks - Part 3: window function optimization",
         "published": "2023-12-08T23:01:56.775000Z",
@@ -554,7 +560,7 @@
     "https://medium.com/snowflake/telco-fraud-detection-on-snowflake-28d96aeff4ed": {
         "title": "Telco Fraud Detection on Snowflake",
         "published": "2023-10-20T14:31:13.077000Z",
-        "updated": "2023-10-20T15:32:01.364000Z",
+        "updated": "2023-12-10T19:27:33.851000Z",
         "tags": "fraud-detection,streamlit,snowflake,data-engineering,data-analytics"
     },
     "https://medium.com/snowflake/unlocking-insights-forecasting-day-ahead-power-prices-in-north-america-with-snowpark-for-python-67a63bb32558": {
