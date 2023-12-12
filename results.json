@@ -1,4 +1,28 @@
 {
+    "https://medium.com/snowflake/3-tips-to-speed-up-your-snowflake-native-app-development-and-deployment-processes-41211afcb2c7": {
+        "title": "3 Tips to Speed Up Your Snowflake Native App Development and Deployment Processes",
+        "published": "2023-12-11T22:36:09.970000Z",
+        "updated": "2023-12-11T22:36:09.970000Z",
+        "tags": "snowflake-native-app,snowflake,native-app-development,developer-productivity,developer-experience"
+    },
+    "https://medium.com/snowflake/building-real-time-cross-region-usage-metrics-for-snowflake-native-apps-using-direct-callback-46ff9db56f8e": {
+        "title": "Building Real-Time, Cross-Region Usage Metrics for Snowflake Native Apps using Direct Callback\u2026",
+        "published": "2023-12-11T20:01:54.080000Z",
+        "updated": "2023-12-11T20:01:54.080000Z",
+        "tags": "snowflake-native-app,cross-region,near-real-time,external-access"
+    },
+    "https://medium.com/snowflake/create-and-test-snowpark-dataframes-locally-pupr-de1211958b4b": {
+        "title": "Create and Test Snowpark DataFrames Locally (PuPr)",
+        "published": "2023-12-11T16:23:20.962000Z",
+        "updated": "2023-12-11T16:23:20.962000Z",
+        "tags": "snowpark,python,devops,software-testing,snowflake"
+    },
+    "https://medium.com/snowflake/controlling-costs-in-snowflake-the-iron-triangle-423aab40cfda": {
+        "title": "Controlling costs in Snowflake\u200a\u2014\u200athe Iron Triangle",
+        "published": "2023-12-11T08:26:09.905000Z",
+        "updated": "2023-12-11T17:46:19.194000Z",
+        "tags": "snowflake,finops,data-superhero"
+    },
     "https://medium.com/snowflake/implement-cost-monitoring-alerting-using-snowsight-b54ee0d269dc": {
         "title": "Implement Cost Monitoring Dashboards using Snowsight",
         "published": "2023-12-09T18:44:23.762000Z",
