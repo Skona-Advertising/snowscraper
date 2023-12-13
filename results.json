@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/super-charging-sql-analysts-with-coffee-and-ml-e28bdac94f6e": {
+        "title": "ML, sip, repeat: Fueling SQL analysts with coffee and Machine Learning",
+        "published": "2023-12-12T16:57:29.072000Z",
+        "updated": "2023-12-12T19:34:48.616000Z",
+        "tags": "machine-learning,snowflake,sql"
+    },
+    "https://medium.com/snowflake/semantha-ai-where-are-they-now-snowflake-startup-challenge-finalist-152c57d6abf5": {
+        "title": "Semantha.AI: Where are they now?\u200a\u2014\u200aSnowflake Startup Challenge Finalist",
+        "published": "2023-12-12T14:01:04.525000Z",
+        "updated": "2023-12-12T14:01:04.525000Z",
+        "tags": "startup,snowflake"
+    },
     "https://medium.com/snowflake/3-tips-to-speed-up-your-snowflake-native-app-development-and-deployment-processes-41211afcb2c7": {
         "title": "3 Tips to Speed Up Your Snowflake Native App Development and Deployment Processes",
         "published": "2023-12-11T22:36:09.970000Z",
@@ -5276,7 +5288,7 @@
     "https://medium.com/snowflake/best-practices-for-using-power-bi-in-directquery-mode-with-snowflake-bfd1312ca7ab": {
         "title": "Best Practices For Using Power BI In DirectQuery Mode With Snowflake",
         "published": "2022-06-08T20:07:50.238000Z",
-        "updated": "2022-08-10T00:16:59.642000Z",
+        "updated": "2023-12-12T01:15:22.734000Z",
         "tags": "power-bi,snowflake,performance-optimization,direct-query,best-practices"
     },
     "https://medium.com/snowflake/hightouch-the-reverse-etl-and-data-activation-solution-powered-by-snowflake-71309d65114c": {
