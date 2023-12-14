@@ -1,9 +1,21 @@
 {
+    "https://medium.com/snowflake/unlocking-snowflake-native-app-potential-with-external-api-calls-e6a1c130bac3": {
+        "title": "Unlocking Snowflake Native App Potential with External API Calls",
+        "published": "2023-12-13T17:01:58.013000Z",
+        "updated": "2023-12-13T17:01:58.013000Z",
+        "tags": "snowflake,snowflake-native-app,api,data-superhero"
+    },
     "https://medium.com/snowflake/super-charging-sql-analysts-with-coffee-and-ml-e28bdac94f6e": {
         "title": "ML, sip, repeat: Fueling SQL analysts with coffee and Machine Learning",
         "published": "2023-12-12T16:57:29.072000Z",
         "updated": "2023-12-12T19:34:48.616000Z",
         "tags": "machine-learning,snowflake,sql"
+    },
+    "https://medium.com/snowflake/how-to-architect-snowflake-near-real-time-dashboards-dec-2023-d07cef268f65": {
+        "title": "How to Architect Snowflake Near-Real-Time Dashboards (Dec 2023)",
+        "published": "2023-12-12T15:53:57.885000Z",
+        "updated": "2023-12-13T17:32:40.072000Z",
+        "tags": "snowflake,dashboard,business-intelligence,big-data"
     },
     "https://medium.com/snowflake/semantha-ai-where-are-they-now-snowflake-startup-challenge-finalist-152c57d6abf5": {
         "title": "Semantha.AI: Where are they now?\u200a\u2014\u200aSnowflake Startup Challenge Finalist",
@@ -442,6 +454,12 @@
         "published": "2023-10-30T23:10:45.221000Z",
         "updated": "2023-10-31T00:44:50.854000Z",
         "tags": "cost-optimization,snowflake,data-ingestion,data-engineering,data-pipeline"
+    },
+    "https://medium.com/snowflake/snowflake-developers-community-update-october-2023-edition-c863148f223e": {
+        "title": "Snowflake Developers & Community Update\u200a\u2014\u200aOctober 2023 Edition \ud83c\udf83",
+        "published": "2023-10-30T23:09:43.599000Z",
+        "updated": "2023-11-08T17:26:58.682000Z",
+        "tags": "snowflake,developer-newsletter,community,builders"
     },
     "https://medium.com/snowflake/empowering-analysts-and-business-users-bridging-the-gap-with-snowflake-ml-powered-anomaly-b9b314199361": {
         "title": "Empowering Analysts and Business Users\u00a0: Bridging the Gap with Snowflake ML Powered Anomaly\u2026",
@@ -926,7 +944,7 @@
     "https://medium.com/snowflake/sis-application-development-ci-cd-setup-with-github-actions-3a4279f57287": {
         "title": "SiS Application Development: CI/CD Setup with GitHub Actions",
         "published": "2023-09-15T18:56:52.761000Z",
-        "updated": "2023-09-15T19:48:20.672000Z",
+        "updated": "2023-12-13T19:33:26.257000Z",
         "tags": "snowflake,streamlit,github,devops,python"
     },
     "https://medium.com/snowflake/improving-llms-management-in-snowflake-e7e5c045f2db": {
