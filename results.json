@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/end-to-end-snowflake-unified-analytics-platform-from-snowpipe-to-snowpark-ml-24adc45e498b": {
+        "title": "End-to-end Snowflake unified analytics platform from Snowpipe to Snowpark ML",
+        "published": "2023-12-17T18:37:20.965000Z",
+        "updated": "2023-12-17T18:37:20.965000Z",
+        "tags": "snowflake,snowpark"
+    },
     "https://medium.com/snowflake/streamlit-in-snowflake-generally-available-for-aws-commercial-73ea1da1bdf2": {
         "title": "Streamlit in Snowflake: Generally available for AWS commercial",
         "published": "2023-12-16T01:01:59.383000Z",
