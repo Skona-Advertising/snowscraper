@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/accessing-snowflake-with-r-studio-via-odbc-on-spcs-546ccc9067ef": {
+        "title": "Accessing Snowflake with R Studio via ODBC on SPCS",
+        "published": "2023-12-18T19:26:02.518000Z",
+        "updated": "2023-12-18T19:48:45.027000Z",
+        "tags": "snowflake,spc,rstudio,odbc"
+    },
     "https://medium.com/snowflake/end-to-end-snowflake-unified-analytics-platform-from-snowpipe-to-snowpark-ml-24adc45e498b": {
         "title": "End-to-end Snowflake unified analytics platform from Snowpipe to Snowpark ML",
         "published": "2023-12-17T18:37:20.965000Z",
