@@ -1,8 +1,26 @@
 {
+    "https://medium.com/snowflake/the-complete-guide-to-dynamic-tables-in-snowsight-ui-38a82444bb7a": {
+        "title": "The Complete Guide to Dynamic Tables in Snowsight UI",
+        "published": "2023-12-19T21:02:07.287000Z",
+        "updated": "2023-12-19T21:02:07.287000Z",
+        "tags": "dynamic-table,streaming,data-engineering,snowflake,data-pipeline"
+    },
+    "https://medium.com/snowflake/generating-product-descriptions-with-mistral-7b-instruct-v0-2-with-vllm-serving-3fe7110b048b": {
+        "title": "Generating Product Descriptions with Mistral-7B-Instruct-v0.2 with vLLM Serving",
+        "published": "2023-12-19T20:00:13.812000Z",
+        "updated": "2023-12-19T20:00:13.812000Z",
+        "tags": "llm,snowflake"
+    },
+    "https://medium.com/snowflake/9-snowflake-tables-a-briefing-as-of-2023-3cf0c0e4f50f": {
+        "title": "9 Snowflake Tables- A briefing(as of 2023)",
+        "published": "2023-12-19T18:48:35.755000Z",
+        "updated": "2023-12-19T18:56:06.085000Z",
+        "tags": "data-and-analytics,snowflake,snowflake-data-cloud,cloud-computing,data-superhero"
+    },
     "https://medium.com/snowflake/accessing-snowflake-with-r-studio-via-odbc-on-spcs-546ccc9067ef": {
         "title": "Accessing Snowflake with R Studio via ODBC on SPCS",
         "published": "2023-12-18T19:26:02.518000Z",
-        "updated": "2023-12-18T19:48:45.027000Z",
+        "updated": "2023-12-19T20:52:41.803000Z",
         "tags": "snowflake,spc,rstudio,odbc"
     },
     "https://medium.com/snowflake/end-to-end-snowflake-unified-analytics-platform-from-snowpipe-to-snowpark-ml-24adc45e498b": {
@@ -1862,7 +1880,7 @@
     "https://medium.com/snowflake/snowpark-container-services-a-tech-primer-99ff2ca8e741": {
         "title": "Snowpark Container Services\u200a\u2014\u200aA Tech Primer",
         "published": "2023-07-07T15:55:22.905000Z",
-        "updated": "2023-07-07T16:21:20.871000Z",
+        "updated": "2023-12-19T20:30:37.562000Z",
         "tags": "snowpark,snowflake,containers,application,ai"
     },
     "https://medium.com/snowflake/snowpark-ml-a-machine-learning-toolkit-for-snowflake-4119b0bf204": {
