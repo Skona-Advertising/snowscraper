@@ -8,7 +8,7 @@
     "https://medium.com/snowflake/generating-product-descriptions-with-mistral-7b-instruct-v0-2-with-vllm-serving-3fe7110b048b": {
         "title": "Generating Product Descriptions with Mistral-7B-Instruct-v0.2 with vLLM Serving",
         "published": "2023-12-19T20:00:13.812000Z",
-        "updated": "2023-12-19T20:00:13.812000Z",
+        "updated": "2023-12-20T22:20:09.018000Z",
         "tags": "llm,snowflake"
     },
     "https://medium.com/snowflake/9-snowflake-tables-a-briefing-as-of-2023-3cf0c0e4f50f": {
@@ -3938,7 +3938,7 @@
     "https://medium.com/snowflake/snowflake-admin-series-session-policies-a51f35fc0ac6": {
         "title": "Snowflake Admin Series: Session Policies",
         "published": "2022-12-13T19:57:31.476000Z",
-        "updated": "2023-01-02T21:06:42.014000Z",
+        "updated": "2023-12-20T04:31:55.629000Z",
         "tags": "snowflake,rajiv-gupta,data-superhero,administration,security"
     },
     "https://medium.com/snowflake/a-new-powerful-way-to-display-role-privileges-in-snowflake-5d77eb6e5b13": {
