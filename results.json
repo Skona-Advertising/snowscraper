@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/connecting-to-snowflake-from-snowpark-container-services-cfc3a133480e": {
+        "title": "Connecting to Snowflake from Snowpark Container Services",
+        "published": "2023-12-22T19:27:50.764000Z",
+        "updated": "2023-12-23T00:05:04.418000Z",
+        "tags": "snowflake,snowpark,containers"
+    },
     "https://medium.com/snowflake/native-apps-the-why-of-versioning-and-upgrade-314cb5fe6925": {
         "title": "Native Apps: The \u201cWhy\u201d of Versioning and Upgrade",
         "published": "2023-12-21T16:21:25.454000Z",
