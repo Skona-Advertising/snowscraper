@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/leveraging-snowpark-container-services-for-advanced-q-a-retrieval-5bf5d2686fa6": {
+        "title": "Leveraging Snowpark Container Services for Advanced Q&A Retrieval",
+        "published": "2024-01-07T19:01:30.633000Z",
+        "updated": "2024-01-07T19:01:30.633000Z",
+        "tags": "snowpark,llm,python,sentence-embedding,snowflake"
+    },
     "https://medium.com/snowflake/security-data-lakes-normalization-and-ocsf-ec94b70fcdc9": {
         "title": "Security Data Lakes, Normalization and OCSF",
         "published": "2024-01-04T18:06:43.511000Z",
