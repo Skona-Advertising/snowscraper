@@ -1,14 +1,32 @@
 {
+    "https://medium.com/snowflake/an-overview-of-data-loading-options-in-snowflake-712e6ae4a6d2": {
+        "title": "An overview of data loading options in Snowflake",
+        "published": "2024-01-08T16:47:36.456000Z",
+        "updated": "2024-01-08T16:47:36.456000Z",
+        "tags": "snowflake,snowpipe-streaming,data-ingestion,data-superhero"
+    },
+    "https://medium.com/snowflake/llm-fine-tuning-with-autotrain-in-snowflake-bc045efd37b1": {
+        "title": "LLM Fine-Tuning with AutoTrain in Snowflake",
+        "published": "2024-01-08T16:01:44.471000Z",
+        "updated": "2024-01-08T17:59:08.297000Z",
+        "tags": "ai,llm,snowflake"
+    },
     "https://medium.com/snowflake/leveraging-snowpark-container-services-for-advanced-q-a-retrieval-5bf5d2686fa6": {
         "title": "Leveraging Snowpark Container Services for Advanced Q&A Retrieval",
         "published": "2024-01-07T19:01:30.633000Z",
         "updated": "2024-01-07T19:01:30.633000Z",
         "tags": "snowpark,llm,python,sentence-embedding,snowflake"
     },
+    "https://medium.com/snowflake/2024-revisiting-snowflakes-architecture-in-a-nutshell-01f0970701a6": {
+        "title": "[2024] Revisiting Snowflake\u2019s Architecture in a Nutshell",
+        "published": "2024-01-07T06:28:41.791000Z",
+        "updated": "2024-01-08T16:49:06.852000Z",
+        "tags": "snowflake,data,data-superhero,cloud,data-engineering"
+    },
     "https://medium.com/snowflake/security-data-lakes-normalization-and-ocsf-ec94b70fcdc9": {
         "title": "Security Data Lakes, Normalization and OCSF",
         "published": "2024-01-04T18:06:43.511000Z",
-        "updated": "2024-01-05T18:29:02.350000Z",
+        "updated": "2024-01-08T04:53:11.387000Z",
         "tags": "security,snowflake,data-lake,ocsf,cybersecurity"
     },
     "https://medium.com/snowflake/moving-off-of-spark-the-advantages-of-a-modern-ml-stack-built-on-snowflake-64f164a29df6": {
@@ -196,6 +214,12 @@
         "published": "2023-12-04T23:51:49.950000Z",
         "updated": "2023-12-04T23:51:49.950000Z",
         "tags": "snowflake,mlops,finops,cost-optimization,ai"
+    },
+    "https://medium.com/snowflake/end-to-end-ml-on-snowflake-7693fd7d4936": {
+        "title": "End-to-End ML on Snowflake",
+        "published": "2023-12-04T15:54:33.185000Z",
+        "updated": "2024-01-08T16:46:56.438000Z",
+        "tags": "snowflake,snowpark,mlops,ml-training,fosfor"
     },
     "https://medium.com/snowflake/snowflake-performance-tips-and-tricks-part-2-general-advice-980210168f76": {
         "title": "Snowflake performance tips and tricks - Part 2: general advice",
@@ -1234,12 +1258,6 @@
         "published": "2023-09-01T15:02:30.235000Z",
         "updated": "2023-09-02T13:49:22.185000Z",
         "tags": "snowflake,snowpark,python,tpc,data-superhero"
-    },
-    "https://medium.com/snowflake/data-loading-overview-strategy-selection-45039d5cceca": {
-        "title": "Data Loading Overview: Strategy Selection",
-        "published": "2023-09-01T07:06:02.110000Z",
-        "updated": "2023-09-01T07:06:02.110000Z",
-        "tags": "snowflake,snowflake-data-cloud,data-ingestion,data,data-superhero"
     },
     "https://medium.com/snowflake/ci-cd-for-machine-learning-within-snowflake-a-simple-approach-390cc4cbf8ef": {
         "title": "Automated End to End Machine Learning Workflow in Snowflake",
