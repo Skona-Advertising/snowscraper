@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/the-one-billion-row-challenge-with-snowflake-f612ae76dbd5": {
+        "title": "The One Billion Row Challenge with Snowflake",
+        "published": "2024-01-09T18:22:15.476000Z",
+        "updated": "2024-01-09T18:22:15.476000Z",
+        "tags": "snowflake,data-superhero"
+    },
+    "https://medium.com/snowflake/modifying-release-directives-in-snowflake-native-apps-9c1edbb0d7bf": {
+        "title": "Modifying Release Directives in Snowflake Native Apps",
+        "published": "2024-01-09T18:11:03.814000Z",
+        "updated": "2024-01-09T18:11:03.814000Z",
+        "tags": ""
+    },
     "https://medium.com/snowflake/an-overview-of-data-loading-options-in-snowflake-712e6ae4a6d2": {
         "title": "An overview of data loading options in Snowflake",
         "published": "2024-01-08T16:47:36.456000Z",
@@ -8,7 +20,7 @@
     "https://medium.com/snowflake/llm-fine-tuning-with-autotrain-in-snowflake-bc045efd37b1": {
         "title": "LLM Fine-Tuning with AutoTrain in Snowflake",
         "published": "2024-01-08T16:01:44.471000Z",
-        "updated": "2024-01-08T17:59:08.297000Z",
+        "updated": "2024-01-09T14:15:03.635000Z",
         "tags": "ai,llm,snowflake"
     },
     "https://medium.com/snowflake/leveraging-snowpark-container-services-for-advanced-q-a-retrieval-5bf5d2686fa6": {
@@ -5054,7 +5066,7 @@
     "https://medium.com/snowflake/the-snowflake-lakehouse-b583746d686b": {
         "title": "The Snowflake Lakehouse?",
         "published": "2022-07-30T00:01:08.380000Z",
-        "updated": "2022-07-30T23:19:34.668000Z",
+        "updated": "2024-01-09T19:52:46.582000Z",
         "tags": "snowflake,data-lakehouse"
     },
     "https://medium.com/snowflake/securing-your-snowflake-database-with-teleport-database-access-3aa9da08593d": {
