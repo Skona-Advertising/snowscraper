@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/enhancing-quality-control-for-manufacturing-the-cutting-edge-of-computer-vision-in-snowflake-6683ea639dae": {
+        "title": "Enhancing Quality Control for Manufacturing: The Cutting Edge of Computer Vision in Snowflake",
+        "published": "2024-01-10T17:57:29.546000Z",
+        "updated": "2024-01-10T17:57:29.546000Z",
+        "tags": "snowflake,computer-vision,manufacturing"
+    },
+    "https://medium.com/snowflake/schema-evolution-with-csv-256b187326f8": {
+        "title": "Schema Evolution with CSV",
+        "published": "2024-01-10T03:02:14.479000Z",
+        "updated": "2024-01-10T03:02:14.479000Z",
+        "tags": "snowflake,schema"
+    },
     "https://medium.com/snowflake/the-one-billion-row-challenge-with-snowflake-f612ae76dbd5": {
         "title": "The One Billion Row Challenge with Snowflake",
         "published": "2024-01-09T18:22:15.476000Z",
@@ -10,6 +22,12 @@
         "published": "2024-01-09T18:11:03.814000Z",
         "updated": "2024-01-09T18:11:03.814000Z",
         "tags": ""
+    },
+    "https://medium.com/snowflake/a-dbt-cloud-alternative-with-no-code-elt-end-to-end-data-pipelines-in-coalesce-on-snowflake-e4e623d1643b": {
+        "title": "A dbt cloud alternative with no-code ELT: end-to-end data pipelines in Coalesce on Snowflake",
+        "published": "2024-01-08T16:50:33.060000Z",
+        "updated": "2024-01-10T08:58:41.242000Z",
+        "tags": "snowflake,data-engineering,data-science,ai,software-development"
     },
     "https://medium.com/snowflake/an-overview-of-data-loading-options-in-snowflake-712e6ae4a6d2": {
         "title": "An overview of data loading options in Snowflake",
@@ -34,6 +52,12 @@
         "published": "2024-01-07T06:28:41.791000Z",
         "updated": "2024-01-08T16:49:06.852000Z",
         "tags": "snowflake,data,data-superhero,cloud,data-engineering"
+    },
+    "https://medium.com/snowflake/revolutionizing-insurance-fraud-detection-with-ai-a-snowflake-success-story-70aeba3985e7": {
+        "title": "Revolutionizing Insurance Fraud Detection with AI: A Snowflake Success Story",
+        "published": "2024-01-05T16:16:44.140000Z",
+        "updated": "2024-01-10T14:25:47.075000Z",
+        "tags": "insurance,fraud-detection,ai,data-science,snowflake"
     },
     "https://medium.com/snowflake/security-data-lakes-normalization-and-ocsf-ec94b70fcdc9": {
         "title": "Security Data Lakes, Normalization and OCSF",
@@ -110,13 +134,13 @@
     "https://medium.com/snowflake/end-to-end-snowflake-unified-analytics-platform-from-snowpipe-to-snowpark-ml-24adc45e498b": {
         "title": "End-to-end Snowflake unified analytics platform from Snowpipe to Snowpark ML",
         "published": "2023-12-17T18:37:20.965000Z",
-        "updated": "2023-12-17T18:37:20.965000Z",
+        "updated": "2024-01-10T01:38:01.271000Z",
         "tags": "snowflake,snowpark"
     },
     "https://medium.com/snowflake/streamlit-in-snowflake-generally-available-for-aws-commercial-73ea1da1bdf2": {
         "title": "Streamlit in Snowflake: Generally available for AWS commercial",
         "published": "2023-12-16T01:01:59.383000Z",
-        "updated": "2023-12-16T01:01:59.383000Z",
+        "updated": "2024-01-10T21:28:26.521000Z",
         "tags": "snowflake,streamlit"
     },
     "https://medium.com/snowflake/random-forest-classifier-for-football-players-positions-b99890ffef50": {
@@ -304,12 +328,6 @@
         "published": "2023-11-27T16:09:35.447000Z",
         "updated": "2023-11-27T16:09:35.447000Z",
         "tags": "security-data-lake,sql,security"
-    },
-    "https://medium.com/snowflake/the-definitive-guide-to-using-snowflake-tasks-2db0747168f0": {
-        "title": "The definitive guide to using Snowflake Tasks",
-        "published": "2023-11-27T13:01:49.119000Z",
-        "updated": "2023-11-27T13:01:49.119000Z",
-        "tags": "snowflake,snowflake-data-cloud,data-superhero,snowflake-tasks,data-pipeline"
     },
     "https://medium.com/snowflake/secure-text-to-image-processing-in-snowflake-with-stable-diffusion-and-snowpark-container-services-b52523a7e3ee": {
         "title": "Secure Text-To-Image Processing in Snowflake with Stable Diffusion and Snowpark Container Services",
@@ -1088,7 +1106,7 @@
     "https://medium.com/snowflake/sis-application-development-ci-cd-setup-with-github-actions-3a4279f57287": {
         "title": "SiS Application Development: CI/CD Setup with GitHub Actions",
         "published": "2023-09-15T18:56:52.761000Z",
-        "updated": "2023-12-13T19:33:26.257000Z",
+        "updated": "2024-01-10T14:28:23.307000Z",
         "tags": "snowflake,streamlit,github,devops,python"
     },
     "https://medium.com/snowflake/improving-llms-management-in-snowflake-e7e5c045f2db": {
