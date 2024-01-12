@@ -1,9 +1,21 @@
 {
+    "https://medium.com/snowflake/snowflake-connector-for-kafka-with-snowpipe-streaming-upgrade-b5bd06f21be3": {
+        "title": "Snowflake Connector for Kafka with Snowpipe Streaming Upgrade",
+        "published": "2024-01-11T18:05:54.880000Z",
+        "updated": "2024-01-11T18:05:54.880000Z",
+        "tags": "snowflake,snowpipe,streaming,kafka"
+    },
     "https://medium.com/snowflake/enhancing-quality-control-for-manufacturing-the-cutting-edge-of-computer-vision-in-snowflake-6683ea639dae": {
         "title": "Enhancing Quality Control for Manufacturing: The Cutting Edge of Computer Vision in Snowflake",
         "published": "2024-01-10T17:57:29.546000Z",
         "updated": "2024-01-10T17:57:29.546000Z",
         "tags": "snowflake,computer-vision,manufacturing"
+    },
+    "https://medium.com/snowflake/testing-the-snowflake-query-acceleration-service-with-a-17-tb-table-21677a0d6de6": {
+        "title": "Testing the Snowflake Query Acceleration Service with a 17 TB table",
+        "published": "2024-01-10T17:02:24.158000Z",
+        "updated": "2024-01-10T17:02:24.158000Z",
+        "tags": "snowflake,sql,data-engineering,data-science,github"
     },
     "https://medium.com/snowflake/schema-evolution-with-csv-256b187326f8": {
         "title": "Schema Evolution with CSV",
@@ -590,7 +602,7 @@
     "https://medium.com/snowflake/unleashing-the-power-of-snowflake-with-external-network-access-024fd3cbf5a7": {
         "title": "Unleashing the Power of Snowflake with External Network Access",
         "published": "2023-10-31T22:01:38.038000Z",
-        "updated": "2023-11-02T21:11:18.737000Z",
+        "updated": "2024-01-11T19:28:20.750000Z",
         "tags": "snowpark,snowflake"
     },
     "https://medium.com/snowflake/connect-the-dots-external-apis-with-snowflakes-external-network-access-88471e8d912c": {
