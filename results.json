@@ -1,9 +1,21 @@
 {
+    "https://medium.com/snowflake/snowflake-to-snowflake-establishing-secure-cross-account-connectivity-46122e0e7482": {
+        "title": "Snowflake to Snowflake: Establishing Secure Cross-Account Connectivity",
+        "published": "2024-01-13T00:41:30.217000Z",
+        "updated": "2024-01-13T00:41:30.217000Z",
+        "tags": "snowflake,oauth,federated-queries,snowpark,sql-api"
+    },
     "https://medium.com/snowflake/snowflake-connector-for-kafka-with-snowpipe-streaming-upgrade-b5bd06f21be3": {
         "title": "Snowflake Connector for Kafka with Snowpipe Streaming Upgrade",
         "published": "2024-01-11T18:05:54.880000Z",
         "updated": "2024-01-11T18:05:54.880000Z",
         "tags": "snowflake,snowpipe,streaming,kafka"
+    },
+    "https://medium.com/snowflake/asking-questions-to-your-own-documents-with-snowflake-cortex-56c67922bed8": {
+        "title": "Asking Questions to Your Own Documents with Snowflake Cortex",
+        "published": "2024-01-11T15:34:16.532000Z",
+        "updated": "2024-01-12T17:56:47.408000Z",
+        "tags": "embedding,generative-ai-tools,snowflake,vector-database"
     },
     "https://medium.com/snowflake/enhancing-quality-control-for-manufacturing-the-cutting-edge-of-computer-vision-in-snowflake-6683ea639dae": {
         "title": "Enhancing Quality Control for Manufacturing: The Cutting Edge of Computer Vision in Snowflake",
@@ -62,7 +74,7 @@
     "https://medium.com/snowflake/2024-revisiting-snowflakes-architecture-in-a-nutshell-01f0970701a6": {
         "title": "[2024] Revisiting Snowflake\u2019s Architecture in a Nutshell",
         "published": "2024-01-07T06:28:41.791000Z",
-        "updated": "2024-01-08T16:49:06.852000Z",
+        "updated": "2024-01-12T10:32:21.203000Z",
         "tags": "snowflake,data,data-superhero,cloud,data-engineering"
     },
     "https://medium.com/snowflake/revolutionizing-insurance-fraud-detection-with-ai-a-snowflake-success-story-70aeba3985e7": {
@@ -70,6 +82,12 @@
         "published": "2024-01-05T16:16:44.140000Z",
         "updated": "2024-01-10T14:25:47.075000Z",
         "tags": "insurance,fraud-detection,ai,data-science,snowflake"
+    },
+    "https://medium.com/snowflake/start-leveraging-snowflake-ml-features-to-speed-up-your-ml-projects-db2b5308c662": {
+        "title": "Start Leveraging Snowflake ML Features to Speed Up your ML Projects!",
+        "published": "2024-01-05T08:01:51.894000Z",
+        "updated": "2024-01-12T01:17:30.684000Z",
+        "tags": "machine-learning,snowflake,data-scientist"
     },
     "https://medium.com/snowflake/security-data-lakes-normalization-and-ocsf-ec94b70fcdc9": {
         "title": "Security Data Lakes, Normalization and OCSF",
@@ -396,9 +414,9 @@
         "tags": "daanalytics,streamlit,openai,snowflake,data-superhero"
     },
     "https://medium.com/snowflake/%EF%B8%8Fsnowflake-in-a-nutshell-streamlit-performance-tip-f994b066af3b": {
-        "title": "\u2744\ufe0fSnowflake in a Nutshell: Streamlit performance tip",
+        "title": "\u2744\ufe0fSnowflake in a Nutshell -Streamlit performance tip",
         "published": "2023-11-17T18:28:07.777000Z",
-        "updated": "2023-11-17T18:28:07.777000Z",
+        "updated": "2024-01-12T06:07:16.164000Z",
         "tags": "streamlit-app-development,performance-optimization,data-superhero,data-architecture,snowflake"
     },
     "https://medium.com/snowflake/snowflake-api-comprehensive-guide-to-3-methods-with-examples-c633f4eb35e1": {
