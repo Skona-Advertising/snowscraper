@@ -1,4 +1,28 @@
 {
+    "https://medium.com/snowflake/how-informatica-superpipe-leverages-snowpipe-streaming-for-scalable-and-real-time-ingestion-into-ca40be68d8cb": {
+        "title": "How Informatica SuperPipe leverages Snowpipe Streaming for scalable and real-time ingestion into\u2026",
+        "published": "2024-01-16T18:01:33.171000Z",
+        "updated": "2024-01-16T18:01:33.171000Z",
+        "tags": "snowpipe-streaming,informatica,data-engineering,oracle,sap"
+    },
+    "https://medium.com/snowflake/optimizing-performance-in-snowflake-the-power-of-table-clustering-a64e34c0f148": {
+        "title": "Optimizing Performance in Snowflake: The Power of Table Clustering",
+        "published": "2024-01-16T17:01:38.239000Z",
+        "updated": "2024-01-16T17:01:38.239000Z",
+        "tags": "snowflake,data-warehouse,performance,data,data-engineering"
+    },
+    "https://medium.com/snowflake/no-code-elt-and-basic-data-modelling-in-coalesce-dos-donts-and-tips-8557f2096b40": {
+        "title": "No-code ELT and Basic Data Modelling in Coalesce: dos, dont\u2019s and tips",
+        "published": "2024-01-16T12:52:14.427000Z",
+        "updated": "2024-01-16T12:52:14.427000Z",
+        "tags": "data-engineering,data-science,analytics-engineering,software-engineering,snowflake"
+    },
+    "https://medium.com/snowflake/execute-immediate-from-stage-c51b294f1447": {
+        "title": "Execute Immediate From Stage",
+        "published": "2024-01-16T02:02:31.063000Z",
+        "updated": "2024-01-16T02:02:31.063000Z",
+        "tags": "snowflake,data-superhero"
+    },
     "https://medium.com/snowflake/snowflake-to-snowflake-establishing-secure-cross-account-connectivity-46122e0e7482": {
         "title": "Snowflake to Snowflake: Establishing Secure Cross-Account Connectivity",
         "published": "2024-01-13T00:41:30.217000Z",
@@ -140,7 +164,7 @@
     "https://medium.com/snowflake/the-complete-guide-to-dynamic-tables-in-snowsight-ui-38a82444bb7a": {
         "title": "The Complete Guide to Dynamic Tables in Snowsight UI",
         "published": "2023-12-19T21:02:07.287000Z",
-        "updated": "2023-12-19T21:02:07.287000Z",
+        "updated": "2024-01-16T12:27:09.748000Z",
         "tags": "dynamic-table,streaming,data-engineering,snowflake,data-pipeline"
     },
     "https://medium.com/snowflake/generating-product-descriptions-with-mistral-7b-instruct-v0-2-with-vllm-serving-3fe7110b048b": {
@@ -154,6 +178,12 @@
         "published": "2023-12-19T18:48:35.755000Z",
         "updated": "2023-12-19T18:56:06.085000Z",
         "tags": "data-and-analytics,snowflake,snowflake-data-cloud,cloud-computing,data-superhero"
+    },
+    "https://medium.com/snowflake/snowflake-external-network-access-d2bb671e181a": {
+        "title": "Snowflake External Network Access",
+        "published": "2023-12-19T18:31:29.783000Z",
+        "updated": "2024-01-16T04:39:11.414000Z",
+        "tags": "snowflake"
     },
     "https://medium.com/snowflake/accessing-snowflake-with-r-studio-via-odbc-on-spcs-546ccc9067ef": {
         "title": "Accessing Snowflake with R Studio via ODBC on SPCS",
@@ -728,7 +758,7 @@
     "https://medium.com/snowflake/how-i-prepped-a-dataset-for-advanced-analytics-without-a-single-line-of-code-using-snowflake-as-my-c25cb198e50e": {
         "title": "How I prepped a dataset for advanced analytics without a single line of code, using Snowflake as my\u2026",
         "published": "2023-10-24T17:01:39.698000Z",
-        "updated": "2023-10-24T17:01:39.698000Z",
+        "updated": "2024-01-16T15:53:24.069000Z",
         "tags": "snowflake,alteryx,analytics,data-science,tutorial"
     },
     "https://medium.com/snowflake/replication-failover-in-snowflake-and-best-practices-to-optimize-associated-spend-53cb8ffa1776": {
