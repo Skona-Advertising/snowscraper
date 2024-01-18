@@ -14,7 +14,7 @@
     "https://medium.com/snowflake/no-code-elt-and-basic-data-modelling-in-coalesce-dos-donts-and-tips-8557f2096b40": {
         "title": "No-code ELT and Basic Data Modelling in Coalesce: dos, dont\u2019s and tips",
         "published": "2024-01-16T12:52:14.427000Z",
-        "updated": "2024-01-16T12:52:14.427000Z",
+        "updated": "2024-01-17T14:45:11.084000Z",
         "tags": "data-engineering,data-science,analytics-engineering,software-engineering,snowflake"
     },
     "https://medium.com/snowflake/execute-immediate-from-stage-c51b294f1447": {
@@ -1130,7 +1130,7 @@
     "https://medium.com/snowflake/automating-llm-deployment-in-snowflake-b80c184e0be9": {
         "title": "Automating LLM deployment in Snowflake",
         "published": "2023-09-19T19:02:22.833000Z",
-        "updated": "2023-09-19T19:02:22.833000Z",
+        "updated": "2024-01-17T21:09:07.280000Z",
         "tags": "machine-learning,llm,generative-ai,snowflake,snowpark"
     },
     "https://medium.com/snowflake/a-sales-assistant-powered-by-a-react-agent-and-llama-2-on-snowflake-95f6331d43db": {
@@ -1172,7 +1172,7 @@
     "https://medium.com/snowflake/improving-llms-management-in-snowflake-e7e5c045f2db": {
         "title": "Improving LLMs management in Snowflake",
         "published": "2023-09-15T17:01:58.209000Z",
-        "updated": "2023-09-15T17:01:58.209000Z",
+        "updated": "2024-01-17T21:09:57.785000Z",
         "tags": "snowflake,snowpark,llm,machine-learning,generative-ai-use-cases"
     },
     "https://medium.com/snowflake/7-guardrails-against-common-mistakes-that-inflate-snowflake-credit-usage-cc2bf5421681": {
@@ -1718,7 +1718,7 @@
     "https://medium.com/snowflake/5-practical-things-you-can-do-today-to-optimize-cost-in-your-snowflake-deployment-8fc7c9f2dbb4": {
         "title": "4 practical things you can do today to optimize cost in your Snowflake deployment",
         "published": "2023-07-27T15:01:54.091000Z",
-        "updated": "2023-09-13T19:54:44.517000Z",
+        "updated": "2024-01-17T21:55:52.563000Z",
         "tags": "snowflake,snowflake-cost-management,snowflake-billing"
     },
     "https://medium.com/snowflake/3-pillars-of-snowflake-summit-2023-9579cbd38b12": {
