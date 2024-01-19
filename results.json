@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/inside-snowflake-building-the-most-powerful-sql-llm-in-the-world-fd8339c0e6b8": {
+        "title": "Inside Snowflake: Building the most powerful SQL LLM in the world",
+        "published": "2024-01-18T14:55:37.734000Z",
+        "updated": "2024-01-18T21:07:18.210000Z",
+        "tags": "snowflake,llm,fine-tuning,data,sql"
+    },
     "https://medium.com/snowflake/how-informatica-superpipe-leverages-snowpipe-streaming-for-scalable-and-real-time-ingestion-into-ca40be68d8cb": {
         "title": "How Informatica SuperPipe leverages Snowpipe Streaming for scalable and real-time ingestion into\u2026",
         "published": "2024-01-16T18:01:33.171000Z",
@@ -146,7 +152,7 @@
     "https://medium.com/snowflake/a-step-by-step-guide-to-building-a-ml-pipeline-for-demand-forecasting-in-snowflake-5f8da0a4bc70": {
         "title": "A Step-by-Step Guide to Building an end-to-end ML Pipeline for Demand Forecasting in Snowflake",
         "published": "2023-12-22T23:20:46.677000Z",
-        "updated": "2024-01-04T20:52:05.713000Z",
+        "updated": "2024-01-18T16:47:27.830000Z",
         "tags": ""
     },
     "https://medium.com/snowflake/connecting-to-snowflake-from-snowpark-container-services-cfc3a133480e": {
@@ -1166,7 +1172,7 @@
     "https://medium.com/snowflake/sis-application-development-ci-cd-setup-with-github-actions-3a4279f57287": {
         "title": "SiS Application Development: CI/CD Setup with GitHub Actions",
         "published": "2023-09-15T18:56:52.761000Z",
-        "updated": "2024-01-10T14:28:23.307000Z",
+        "updated": "2024-01-18T21:52:18.984000Z",
         "tags": "snowflake,streamlit,github,devops,python"
     },
     "https://medium.com/snowflake/improving-llms-management-in-snowflake-e7e5c045f2db": {
@@ -1568,7 +1574,7 @@
     "https://medium.com/snowflake/streamlining-devops-with-snowflake-and-git-integration-fc0b76a40a76": {
         "title": "Streamlining DevOps with Snowflake and Git Integration",
         "published": "2023-08-09T18:02:06.490000Z",
-        "updated": "2023-08-09T18:02:06.490000Z",
+        "updated": "2024-01-18T22:58:56.862000Z",
         "tags": "snowflake,snowpark,github,gitlab,devops"
     },
     "https://medium.com/snowflake/table-stage-simplifying-data-load-on-data-cloud-d32f87ddd669": {
