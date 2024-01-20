@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/advancing-semantic-search-custom-embeddings-with-snowpark-container-services-and-multi-gpu-setup-adb236b5b224": {
+        "title": "Advancing Semantic Search: Custom Embeddings with Snowpark Container Services and multi-GPU setup.",
+        "published": "2024-01-19T16:01:52.767000Z",
+        "updated": "2024-01-19T16:01:52.767000Z",
+        "tags": "snowflake,embedding,python,llm,containers"
+    },
     "https://medium.com/snowflake/inside-snowflake-building-the-most-powerful-sql-llm-in-the-world-fd8339c0e6b8": {
         "title": "Inside Snowflake: Building the most powerful SQL LLM in the world",
         "published": "2024-01-18T14:55:37.734000Z",
@@ -4160,7 +4166,7 @@
     "https://medium.com/snowflake/parallel-hyperparameter-tuning-using-snowpark-53cdec2faf77": {
         "title": "Parallel Hyperparameter tuning using Snowpark",
         "published": "2022-12-06T20:46:13.578000Z",
-        "updated": "2023-07-24T14:15:32.582000Z",
+        "updated": "2024-01-19T13:30:10.225000Z",
         "tags": "snowpark"
     },
     "https://medium.com/snowflake/tips-for-clustering-in-snowflake-d83aa32f4a6f": {
