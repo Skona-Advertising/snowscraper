@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/automate-copy-load-audit-process-21a153d7ae2b": {
+        "title": "Automate COPY Load Audit Process",
+        "published": "2024-01-20T05:01:46.389000Z",
+        "updated": "2024-01-20T05:01:46.389000Z",
+        "tags": "snowflake,data-superhero"
+    },
     "https://medium.com/snowflake/advancing-semantic-search-custom-embeddings-with-snowpark-container-services-and-multi-gpu-setup-adb236b5b224": {
         "title": "Advancing Semantic Search: Custom Embeddings with Snowpark Container Services and multi-GPU setup.",
         "published": "2024-01-19T16:01:52.767000Z",
