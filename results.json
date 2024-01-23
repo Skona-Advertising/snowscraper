@@ -1,9 +1,39 @@
 {
+    "https://medium.com/snowflake/natural-language-semantic-search-on-snowflake-using-text-embeddings-vector-search-on-aws-d42e10453143": {
+        "title": "Natural language semantic search on Snowflake\u200a\u2014\u200ausing Text embeddings & Vector search on AWS",
+        "published": "2024-01-22T19:01:37.706000Z",
+        "updated": "2024-01-22T19:01:37.706000Z",
+        "tags": "vector-similarity-search,snowflake,sagemaker,aws"
+    },
+    "https://medium.com/snowflake/swire-coca-cola-usa-data-science-team-identifies-millions-in-savings-with-snowflake-accelerating-8c9666a39e3b": {
+        "title": "Swire Coca-Cola, USA data science team identifies millions in savings with Snowflake, accelerating\u2026",
+        "published": "2024-01-22T18:20:25.396000Z",
+        "updated": "2024-01-22T18:29:41.485000Z",
+        "tags": ""
+    },
+    "https://medium.com/snowflake/developing-intelligent-data-apps-with-microsoft-and-snowflake-53071d715359": {
+        "title": "Developing Intelligent Data Apps with Microsoft and Snowflake",
+        "published": "2024-01-22T16:01:47.442000Z",
+        "updated": "2024-01-22T16:01:47.442000Z",
+        "tags": "openai,snowpark,azure,microsoft,data-superhero"
+    },
+    "https://medium.com/snowflake/so-you-just-heard-about-snowflake-e1c6bc1fe9b3": {
+        "title": "So you just heard about Snowflake",
+        "published": "2024-01-21T11:31:37.952000Z",
+        "updated": "2024-01-22T06:26:59.892000Z",
+        "tags": "snowflake,ai,data-superhero"
+    },
     "https://medium.com/snowflake/automate-copy-load-audit-process-21a153d7ae2b": {
         "title": "Automate COPY Load Audit Process",
         "published": "2024-01-20T05:01:46.389000Z",
         "updated": "2024-01-20T05:01:46.389000Z",
         "tags": "snowflake,data-superhero"
+    },
+    "https://medium.com/snowflake/using-reference-on-objects-f0a560e10469": {
+        "title": "Using Reference on Objects",
+        "published": "2024-01-19T17:25:16.915000Z",
+        "updated": "2024-01-22T23:03:10.694000Z",
+        "tags": "table-reference,snowflake,data-superhero"
     },
     "https://medium.com/snowflake/advancing-semantic-search-custom-embeddings-with-snowpark-container-services-and-multi-gpu-setup-adb236b5b224": {
         "title": "Advancing Semantic Search: Custom Embeddings with Snowpark Container Services and multi-GPU setup.",
@@ -76,6 +106,12 @@
         "published": "2024-01-10T03:02:14.479000Z",
         "updated": "2024-01-10T03:02:14.479000Z",
         "tags": "snowflake,schema"
+    },
+    "https://medium.com/snowflake/revolutionizing-ai-with-data-mastery-the-strategic-edge-of-snowflake-c78783856911": {
+        "title": "Revolutionizing AI with Data Mastery: The Strategic Edge of Snowflake",
+        "published": "2024-01-09T21:06:00.488000Z",
+        "updated": "2024-01-22T18:18:16.083000Z",
+        "tags": "ai,data,cloud,snowflake"
     },
     "https://medium.com/snowflake/the-one-billion-row-challenge-with-snowflake-f612ae76dbd5": {
         "title": "The One Billion Row Challenge with Snowflake",
@@ -406,6 +442,12 @@
         "published": "2023-11-27T16:09:35.447000Z",
         "updated": "2023-11-27T16:09:35.447000Z",
         "tags": "security-data-lake,sql,security"
+    },
+    "https://medium.com/snowflake/the-definitive-guide-to-using-snowflake-tasks-2db0747168f0": {
+        "title": "The definitive guide to using Snowflake Tasks",
+        "published": "2023-11-27T13:01:49.119000Z",
+        "updated": "2023-11-27T13:01:49.119000Z",
+        "tags": "snowflake,snowflake-data-cloud,data-superhero,snowflake-tasks,data-pipeline"
     },
     "https://medium.com/snowflake/secure-text-to-image-processing-in-snowflake-with-stable-diffusion-and-snowpark-container-services-b52523a7e3ee": {
         "title": "Secure Text-To-Image Processing in Snowflake with Stable Diffusion and Snowpark Container Services",
