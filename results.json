@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/unleashing-the-full-potential-of-real-time-streaming-with-amazon-kinesis-data-firehose-and-snowpipe-0283fb599364": {
+        "title": "Unleashing the Full Potential of Real-Time Streaming with Amazon Kinesis Data Firehose and Snowpipe\u2026",
+        "published": "2024-01-23T16:47:46.079000Z",
+        "updated": "2024-01-23T20:44:34.057000Z",
+        "tags": "snowflake,amazon,snowpipe"
+    },
     "https://medium.com/snowflake/natural-language-semantic-search-on-snowflake-using-text-embeddings-vector-search-on-aws-d42e10453143": {
         "title": "Natural language semantic search on Snowflake\u200a\u2014\u200ausing Text embeddings & Vector search on AWS",
         "published": "2024-01-22T19:01:37.706000Z",
@@ -44,7 +50,7 @@
     "https://medium.com/snowflake/inside-snowflake-building-the-most-powerful-sql-llm-in-the-world-fd8339c0e6b8": {
         "title": "Inside Snowflake: Building the most powerful SQL LLM in the world",
         "published": "2024-01-18T14:55:37.734000Z",
-        "updated": "2024-01-18T21:07:18.210000Z",
+        "updated": "2024-01-23T04:26:36.445000Z",
         "tags": "snowflake,llm,fine-tuning,data,sql"
     },
     "https://medium.com/snowflake/how-informatica-superpipe-leverages-snowpipe-streaming-for-scalable-and-real-time-ingestion-into-ca40be68d8cb": {
@@ -242,7 +248,7 @@
     "https://medium.com/snowflake/accessing-snowflake-with-r-studio-via-odbc-on-spcs-546ccc9067ef": {
         "title": "Accessing Snowflake with R Studio via ODBC on SPCS",
         "published": "2023-12-18T19:26:02.518000Z",
-        "updated": "2023-12-19T20:52:41.803000Z",
+        "updated": "2024-01-23T17:08:41.209000Z",
         "tags": "snowflake,spc,rstudio,odbc"
     },
     "https://medium.com/snowflake/end-to-end-snowflake-unified-analytics-platform-from-snowpipe-to-snowpark-ml-24adc45e498b": {
