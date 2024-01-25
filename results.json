@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/snowflake-observability-on-dml-transactions-and-tables-affected-46d812a97e9a": {
+        "title": "Snowflake: Observability on DML Transactions and Tables Affected",
+        "published": "2024-01-24T14:06:56.427000Z",
+        "updated": "2024-01-24T14:06:56.427000Z",
+        "tags": "snowflake,observability,sql,monitoring,metadata"
+    },
     "https://medium.com/snowflake/unleashing-the-full-potential-of-real-time-streaming-with-amazon-kinesis-data-firehose-and-snowpipe-0283fb599364": {
         "title": "Unleashing the Full Potential of Real-Time Streaming with Amazon Kinesis Data Firehose and Snowpipe\u2026",
         "published": "2024-01-23T16:47:46.079000Z",
@@ -146,7 +152,7 @@
     "https://medium.com/snowflake/llm-fine-tuning-with-autotrain-in-snowflake-bc045efd37b1": {
         "title": "LLM Fine-Tuning with AutoTrain in Snowflake",
         "published": "2024-01-08T16:01:44.471000Z",
-        "updated": "2024-01-09T14:15:03.635000Z",
+        "updated": "2024-01-24T22:25:28.986000Z",
         "tags": "ai,llm,snowflake"
     },
     "https://medium.com/snowflake/leveraging-snowpark-container-services-for-advanced-q-a-retrieval-5bf5d2686fa6": {
@@ -362,7 +368,7 @@
     "https://medium.com/snowflake/how-to-integrate-databricks-with-snowflake-managed-iceberg-tables-7a8895c2c724": {
         "title": "How to integrate Databricks with Snowflake-managed Iceberg Tables",
         "published": "2023-12-05T13:31:51.050000Z",
-        "updated": "2023-12-05T15:15:14.376000Z",
+        "updated": "2024-01-24T19:00:10.615000Z",
         "tags": "snowflake,apache-iceberg,databricks"
     },
     "https://medium.com/snowflake/machine-learning-based-alerts-for-snowflake-finops-8ec640fb1cee": {
@@ -788,7 +794,7 @@
     "https://medium.com/snowflake/convert-your-pyspark-code-to-snowpark-code-using-snowconvert-c2234691cc5e": {
         "title": "Convert your PySpark code to Snowpark code using SnowConvert!",
         "published": "2023-10-26T00:16:42.075000Z",
-        "updated": "2023-10-30T19:04:27.434000Z",
+        "updated": "2024-01-24T17:09:40.023000Z",
         "tags": "data,spark,snowflake,programming,technology"
     },
     "https://medium.com/snowflake/prompt-engineering-the-gpt-4-model-and-evaluating-llm-response-using-a-streamlit-app-586730b93335": {
@@ -1196,7 +1202,7 @@
     "https://medium.com/snowflake/automating-llm-deployment-in-snowflake-b80c184e0be9": {
         "title": "Automating LLM deployment in Snowflake",
         "published": "2023-09-19T19:02:22.833000Z",
-        "updated": "2024-01-17T21:09:07.280000Z",
+        "updated": "2024-01-24T15:42:49.318000Z",
         "tags": "machine-learning,llm,generative-ai,snowflake,snowpark"
     },
     "https://medium.com/snowflake/a-sales-assistant-powered-by-a-react-agent-and-llama-2-on-snowflake-95f6331d43db": {
@@ -1238,7 +1244,7 @@
     "https://medium.com/snowflake/improving-llms-management-in-snowflake-e7e5c045f2db": {
         "title": "Improving LLMs management in Snowflake",
         "published": "2023-09-15T17:01:58.209000Z",
-        "updated": "2024-01-17T21:09:57.785000Z",
+        "updated": "2024-01-24T15:43:59.096000Z",
         "tags": "snowflake,snowpark,llm,machine-learning,generative-ai-use-cases"
     },
     "https://medium.com/snowflake/7-guardrails-against-common-mistakes-that-inflate-snowflake-credit-usage-cc2bf5421681": {
@@ -3410,7 +3416,7 @@
     "https://medium.com/snowflake/working-with-semi-structured-data-in-snowflake-e74525c5514": {
         "title": "Working with semi structured data in Snowflake",
         "published": "2023-03-13T09:01:36.031000Z",
-        "updated": "2023-03-13T09:01:36.031000Z",
+        "updated": "2024-01-24T08:06:03.601000Z",
         "tags": "snowflake,snowflake-data-cloud,json,semi-structured-data,data-superhero"
     },
     "https://medium.com/snowflake/editable-snowflake-tables-in-streamlit-a-demo-79c18b5a4099": {
@@ -7486,6 +7492,12 @@
         "published": "2019-08-21T12:08:49.464000Z",
         "updated": "2020-08-06T01:01:32.986000Z",
         "tags": "machine-learning,statistics,snowflake-computing,clustering,big-data"
+    },
+    "https://medium.com/snowflake/monetize-yet-protect-you-data-assets-3ca8d67cd961": {
+        "title": "Monetize, yet Protect you Data Assets",
+        "published": "2019-07-10T05:35:07.543000Z",
+        "updated": "2019-07-11T04:29:09.896000Z",
+        "tags": "privacy,monetization,data-warehouse,data-science,big-data"
     },
     "https://medium.com/snowflake/using-snowalert-to-improve-security-training-and-awareness-compliance-deeed6d0fdca": {
         "title": "USING SNOWALERT TO IMPROVE SECURITY TRAINING AND AWARENESS COMPLIANCE",
