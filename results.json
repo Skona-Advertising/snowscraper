@@ -2,7 +2,7 @@
     "https://medium.com/snowflake/snowflake-observability-on-dml-transactions-and-tables-affected-46d812a97e9a": {
         "title": "Snowflake: Observability on DML Transactions and Tables Affected",
         "published": "2024-01-24T14:06:56.427000Z",
-        "updated": "2024-01-24T14:06:56.427000Z",
+        "updated": "2024-01-25T08:28:52.466000Z",
         "tags": "snowflake,observability,sql,monitoring,metadata"
     },
     "https://medium.com/snowflake/unleashing-the-full-potential-of-real-time-streaming-with-amazon-kinesis-data-firehose-and-snowpipe-0283fb599364": {
@@ -218,7 +218,7 @@
     "https://medium.com/snowflake/connecting-to-snowflake-from-snowpark-container-services-cfc3a133480e": {
         "title": "Connecting to Snowflake from Snowpark Container Services",
         "published": "2023-12-22T19:27:50.764000Z",
-        "updated": "2023-12-23T00:05:04.418000Z",
+        "updated": "2024-01-25T17:01:16.579000Z",
         "tags": "snowflake,snowpark,containers"
     },
     "https://medium.com/snowflake/native-apps-the-why-of-versioning-and-upgrade-314cb5fe6925": {
@@ -500,7 +500,7 @@
     "https://medium.com/snowflake/whats-in-a-name-model-naming-versioning-in-snowpark-model-registry-b5f7105fd6f6": {
         "title": "\u201cWhat\u2019s in a name?\u201d Model Naming & Versioning in Snowpark Model Registry",
         "published": "2023-11-21T01:01:44.228000Z",
-        "updated": "2023-11-21T01:01:44.228000Z",
+        "updated": "2024-01-25T17:16:26.775000Z",
         "tags": "snowpark,snowflake,mlops,machine-learning,ai"
     },
     "https://medium.com/snowflake/snowflake-native-apps-scalability-2587dea795e0": {
@@ -1148,7 +1148,7 @@
     "https://medium.com/snowflake/streamlit-erd-viewer-in-snowflake-88e33529d121": {
         "title": "Streamlit ERD Viewer in Snowflake",
         "published": "2023-09-22T16:54:25.817000Z",
-        "updated": "2023-09-23T22:34:56.140000Z",
+        "updated": "2024-01-25T18:40:33.702000Z",
         "tags": "streamlit-in-snowflake,erd-viewer,entity-relationship-model,data-superhero,snowflake"
     },
     "https://medium.com/snowflake/transform-xml-files-with-xslt-in-snowflake-part-2-6a4e2b891b6e": {
@@ -1454,7 +1454,7 @@
     "https://medium.com/snowflake/how-to-visualize-the-data-lineage-graph-in-snowflake-f0a356046380": {
         "title": "How to Visualize the Data Lineage Graph in Snowflake",
         "published": "2023-08-29T14:02:33.222000Z",
-        "updated": "2023-09-05T20:12:59.227000Z",
+        "updated": "2024-01-25T18:41:38.564000Z",
         "tags": "column-data-lineage,data-lineage,data-lineage-tools,data-superhero,snowflake"
     },
     "https://medium.com/snowflake/integrating-azure-openai-with-snowflake-architecture-and-implementation-patterns-52b14d27b0c2": {
@@ -2120,7 +2120,7 @@
     "https://medium.com/snowflake/snowpark-ml-a-machine-learning-toolkit-for-snowflake-4119b0bf204": {
         "title": "Snowpark ML, A Machine Learning Toolkit for Snowflake",
         "published": "2023-07-07T12:24:21.104000Z",
-        "updated": "2023-08-23T12:19:41.645000Z",
+        "updated": "2024-01-25T07:19:17.903000Z",
         "tags": "snowflake,data-science,machine-learning,snowpark,python"
     },
     "https://medium.com/snowflake/five-days-inside-snowflake-summit-2023-wrap-up-2320d509dea6": {
@@ -6698,7 +6698,7 @@
     "https://medium.com/snowflake/12-misconceptions-about-virtual-warehouses-in-snowflake-6463ee65cc": {
         "title": "12 Misconceptions about Virtual Warehouses in Snowflake",
         "published": "2021-09-16T22:33:44.741000Z",
-        "updated": "2022-06-25T17:42:15.816000Z",
+        "updated": "2024-01-25T18:39:12.929000Z",
         "tags": "snowflake,data-engineering,data-warehouse,database,data"
     },
     "https://medium.com/snowflake/threat-detection-maturity-framework-23bbb74db2bc": {
