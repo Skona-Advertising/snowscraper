@@ -1,4 +1,28 @@
 {
+    "https://medium.com/snowflake/understanding-snowflake-behavior-change-releases-aa3cb98af529": {
+        "title": "Understanding Snowflake Behavior Change Releases",
+        "published": "2024-01-27T00:16:55.918000Z",
+        "updated": "2024-01-27T00:29:10.087000Z",
+        "tags": "snowflake,behavior-change,releases,snowflake-data-cloud,operations"
+    },
+    "https://medium.com/snowflake/migrate-existing-amazon-s3-data-lake-tables-to-snowflake-unmanaged-iceberg-tables-using-aws-glue-09b7f4015e8d": {
+        "title": "Migrate existing Amazon S3 data lake tables to Snowflake Unmanaged Iceberg tables using AWS Glue",
+        "published": "2024-01-26T18:02:02.865000Z",
+        "updated": "2024-01-26T18:02:02.865000Z",
+        "tags": "snowflake,amazon,icebergs,aws-glue"
+    },
+    "https://medium.com/snowflake/the-cost-saving-benefits-of-faster-scoring-in-snowflake-with-h2o-ai-0964c8d0c3e9": {
+        "title": "The Cost-Saving Benefits of Faster Scoring in Snowflake with H2O.ai:",
+        "published": "2024-01-26T16:02:39.516000Z",
+        "updated": "2024-01-26T16:02:39.516000Z",
+        "tags": "cost-optimization,workload-migration,ai,perfomance,inferencing"
+    },
+    "https://medium.com/snowflake/python-data-ingestion-with-snowpark-in-5-steps-d5dbd305ad69": {
+        "title": "Python data ingestion with Snowpark, in 5 steps",
+        "published": "2024-01-25T17:00:46.713000Z",
+        "updated": "2024-01-26T19:19:40.914000Z",
+        "tags": "snowflake,snowpark,data-ingestion,python,data-superhero"
+    },
     "https://medium.com/snowflake/snowflake-observability-on-dml-transactions-and-tables-affected-46d812a97e9a": {
         "title": "Snowflake: Observability on DML Transactions and Tables Affected",
         "published": "2024-01-24T14:06:56.427000Z",
@@ -264,9 +288,9 @@
         "tags": "snowflake,snowpark"
     },
     "https://medium.com/snowflake/streamlit-in-snowflake-generally-available-for-aws-commercial-73ea1da1bdf2": {
-        "title": "Streamlit in Snowflake: Generally available for AWS commercial",
+        "title": "Streamlit in Snowflake: Generally available for AWS, Azure commercial",
         "published": "2023-12-16T01:01:59.383000Z",
-        "updated": "2024-01-10T21:28:26.521000Z",
+        "updated": "2024-01-26T04:14:26.198000Z",
         "tags": "snowflake,streamlit"
     },
     "https://medium.com/snowflake/random-forest-classifier-for-football-players-positions-b99890ffef50": {
