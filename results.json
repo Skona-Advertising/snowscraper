@@ -1,21 +1,21 @@
 {
+    "https://medium.com/snowflake/tic-tac-snow-o-x-game-on-snowpark-container-services-d76f3e9ff0c1": {
+        "title": "Tic-Tac-Snow: O-X Game on Snowpark Container Services",
+        "published": "2024-01-30T10:02:39.273000Z",
+        "updated": "2024-01-30T10:47:10.756000Z",
+        "tags": "snowflake,docker,data,coding,programming"
+    },
+    "https://medium.com/snowflake/using-snowpark-container-services-to-run-dbt-securely-ae72fb963298": {
+        "title": "Using Snowpark Container Services to run DBT securely",
+        "published": "2024-01-29T23:15:28.746000Z",
+        "updated": "2024-01-30T05:28:15.656000Z",
+        "tags": "snowflake,snowpark,containers,dbt"
+    },
     "https://medium.com/snowflake/fidelity-optimizes-feature-engineering-with-snowpark-ml-551228325eef": {
         "title": "Fidelity Optimizes Feature Engineering With Snowpark ML",
         "published": "2024-01-29T19:00:41.582000Z",
         "updated": "2024-01-29T19:00:41.582000Z",
         "tags": "snowflake,snowpark,machine-learning"
-    },
-    "https://medium.com/snowflake/just-the-gist-using-langchain-to-invoke-llm-hosted-in-snowpark-containers-348aebfb3d1a": {
-        "title": "Just the Gist: Using Langchain to invoke LLM, hosted in Snowpark Containers",
-        "published": "2024-01-29T16:28:18.003000Z",
-        "updated": "2024-01-29T16:30:21.226000Z",
-        "tags": "llm,langchain,vllm,snowpark-container,snowpark-python"
-    },
-    "https://medium.com/snowflake/just-the-gist-connect-to-api-hosted-in-snowpark-containers-1ee7a71e78c2": {
-        "title": "Just the Gist: Connect to API, hosted in Snowpark Containers",
-        "published": "2024-01-29T16:28:02.806000Z",
-        "updated": "2024-01-29T16:28:02.806000Z",
-        "tags": "snowflake-snowpark,containers,api"
     },
     "https://medium.com/snowflake/seamless-data-pipeline-integrating-kinesis-streams-with-snowflake-for-real-time-analytics-61ce304754d0": {
         "title": "Seamless Data Pipeline: Integrating Kinesis Streams with Snowflake for Real-Time Analytics",
@@ -26,7 +26,7 @@
     "https://medium.com/snowflake/understanding-snowflake-behavior-change-releases-aa3cb98af529": {
         "title": "Understanding Snowflake Behavior Change Releases",
         "published": "2024-01-27T00:16:55.918000Z",
-        "updated": "2024-01-29T18:05:55.101000Z",
+        "updated": "2024-01-30T23:42:46.940000Z",
         "tags": "snowflake,behavior-change,releases,snowflake-data-cloud,operations"
     },
     "https://medium.com/snowflake/migrate-existing-amazon-s3-data-lake-tables-to-snowflake-unmanaged-iceberg-tables-using-aws-glue-09b7f4015e8d": {
@@ -68,7 +68,7 @@
     "https://medium.com/snowflake/unleashing-the-full-potential-of-real-time-streaming-with-amazon-kinesis-data-firehose-and-snowpipe-0283fb599364": {
         "title": "Unleashing the Full Potential of Real-Time Streaming with Amazon Kinesis Data Firehose and Snowpipe\u2026",
         "published": "2024-01-23T16:47:46.079000Z",
-        "updated": "2024-01-23T20:44:34.057000Z",
+        "updated": "2024-01-30T03:13:06.780000Z",
         "tags": "snowflake,amazon,snowpipe"
     },
     "https://medium.com/snowflake/natural-language-semantic-search-on-snowflake-using-text-embeddings-vector-search-on-aws-d42e10453143": {
@@ -2420,7 +2420,7 @@
     "https://medium.com/snowflake/data-loading-schematization-with-snowflake-d75d9bbd3bee": {
         "title": "Data Loading Schematization with Snowflake",
         "published": "2023-06-21T16:31:01.026000Z",
-        "updated": "2023-06-21T18:56:16.684000Z",
+        "updated": "2024-01-31T00:01:17.899000Z",
         "tags": "snowflake,data-ingestion,snowflake-data-ingestion,schema-evolution,data-pipeline"
     },
     "https://medium.com/snowflake/how-to-create-a-complex-query-with-snowpark-dataframe-in-python-2d31b9e0961b": {
