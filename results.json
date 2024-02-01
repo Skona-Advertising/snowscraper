@@ -1,4 +1,76 @@
 {
+    "https://medium.com/snowflake/semantic-search-in-sql-powered-by-rest-api-and-snowpark-container-services-f5ce91a2656e": {
+        "title": "Semantic Search in SQL powered by REST API and Snowpark Container Services",
+        "published": "2024-02-01T19:31:54.749000Z",
+        "updated": "2024-02-01T19:31:54.749000Z",
+        "tags": "llm,semantic-search,snowflake,python,fastapi"
+    },
+    "https://medium.com/snowflake/java-17-now-on-snowflake-pupr-57fc0a10c8ec": {
+        "title": "Java 17 now on Snowflake! (PuPr)",
+        "published": "2024-02-01T18:43:03.166000Z",
+        "updated": "2024-02-01T18:43:03.166000Z",
+        "tags": "java,snowflake,data-engineering"
+    },
+    "https://medium.com/snowflake/ai-for-ai-by-streamlit-part-ii-0a1bdd7a679f": {
+        "title": "AI for AI by Streamlit Part II",
+        "published": "2024-02-01T16:53:22.843000Z",
+        "updated": "2024-02-01T17:12:17.262000Z",
+        "tags": "streamlit,ai,snowflake,streamlit-app,ai-alignment-and-safety"
+    },
+    "https://medium.com/snowflake/hi-streamlit-in-snowflake-lets-visualize-access-control-privileges-3dfe9f2a971a": {
+        "title": "Hi Streamlit in Snowflake, Let\u2019s Visualize Access Control Privileges!",
+        "published": "2024-02-01T15:34:45.051000Z",
+        "updated": "2024-02-01T17:24:48.396000Z",
+        "tags": "snowflake,data-superhero,streamlit,data-governance,visualization"
+    },
+    "https://medium.com/snowflake/an-overview-of-snowflake-python-udfs-cf038ea6375f": {
+        "title": "An Overview of Snowflake Python UDFs",
+        "published": "2024-02-01T11:01:56.258000Z",
+        "updated": "2024-02-01T11:01:56.258000Z",
+        "tags": "snowflake,data-superhero,python,udf"
+    },
+    "https://medium.com/snowflake/dynamic-copy-process-cd69c3bd95cb": {
+        "title": "Dynamic Copy Process",
+        "published": "2024-02-01T07:01:38.658000Z",
+        "updated": "2024-02-01T07:01:38.658000Z",
+        "tags": "snowflake,data-superhero"
+    },
+    "https://medium.com/snowflake/just-the-gist-capturing-llm-interactions-in-snowflake-with-langchain-f1fc9ccd9343": {
+        "title": "Just the Gist: Capturing LLM interactions in Snowflake, with Langchain",
+        "published": "2024-02-01T03:00:07.713000Z",
+        "updated": "2024-02-01T13:51:22.850000Z",
+        "tags": "snowflake,llm,llmops,langchain"
+    },
+    "https://medium.com/snowflake/just-the-gist-snowflake-cortex-llm-with-langchain-llm-5a91647f18c8": {
+        "title": "Just the Gist: Snowflake Cortex LLM with Langchain LLM",
+        "published": "2024-02-01T01:01:38.590000Z",
+        "updated": "2024-02-01T01:01:38.590000Z",
+        "tags": "snowflake,cortex,langchain,llm"
+    },
+    "https://medium.com/snowflake/dynamic-table-a-declarative-approach-with-cdc-capabilities-b5b1e530dca9": {
+        "title": "Dynamic Table: A declarative approach with CDC capabilities",
+        "published": "2024-01-31T17:32:44.694000Z",
+        "updated": "2024-01-31T18:02:44.893000Z",
+        "tags": "data-superhero,snowflake,cloud,data-and-analytics,cloud-computing"
+    },
+    "https://medium.com/snowflake/unlocking-revenue-streams-4-use-cases-for-monetizing-with-the-snowflake-native-app-framework-c70443b52d98": {
+        "title": "Unlocking Revenue Streams: 4 Use Cases for Monetizing with the Snowflake Native App Framework",
+        "published": "2024-01-31T06:02:59.242000Z",
+        "updated": "2024-01-31T06:02:59.242000Z",
+        "tags": "apps,app-development,native-app,snowflake"
+    },
+    "https://medium.com/snowflake/just-the-gist-developing-a-custom-langchain-tool-that-uses-snowpark-session-6dd86316c464": {
+        "title": "Just the Gist: Developing a custom Langchain Tool, that uses Snowpark session",
+        "published": "2024-01-31T02:25:18.888000Z",
+        "updated": "2024-01-31T02:25:18.888000Z",
+        "tags": "snowflake,langchain-agents,langchain,snowpark-python"
+    },
+    "https://medium.com/snowflake/using-llms-to-navigate-government-websites-c1668036c05a": {
+        "title": "Using LLMs to Navigate Government Websites",
+        "published": "2024-01-30T20:42:35.061000Z",
+        "updated": "2024-02-01T18:54:43.501000Z",
+        "tags": "snowflake,public-sector,llm"
+    },
     "https://medium.com/snowflake/tic-tac-snow-o-x-game-on-snowpark-container-services-d76f3e9ff0c1": {
         "title": "Tic-Tac-Snow: O-X Game on Snowpark Container Services",
         "published": "2024-01-30T10:02:39.273000Z",
@@ -26,7 +98,7 @@
     "https://medium.com/snowflake/understanding-snowflake-behavior-change-releases-aa3cb98af529": {
         "title": "Understanding Snowflake Behavior Change Releases",
         "published": "2024-01-27T00:16:55.918000Z",
-        "updated": "2024-01-30T23:42:46.940000Z",
+        "updated": "2024-02-01T19:01:55.824000Z",
         "tags": "snowflake,behavior-change,releases,snowflake-data-cloud,operations"
     },
     "https://medium.com/snowflake/migrate-existing-amazon-s3-data-lake-tables-to-snowflake-unmanaged-iceberg-tables-using-aws-glue-09b7f4015e8d": {
@@ -968,7 +1040,7 @@
     "https://medium.com/snowflake/unlocking-real-time-insights-streaming-azure-event-hub-data-to-snowflake-4c8516539b52": {
         "title": "Unlocking Real-Time Insights: Streaming Azure Event Hub Data to Snowflake",
         "published": "2023-10-20T14:32:34.276000Z",
-        "updated": "2023-10-20T18:56:35.700000Z",
+        "updated": "2024-01-31T22:32:34.894000Z",
         "tags": "snowflake,azure-event-hub,kafka,streamlit,kubernetes"
     },
     "https://medium.com/snowflake/telco-fraud-detection-on-snowflake-28d96aeff4ed": {
@@ -2414,7 +2486,7 @@
     "https://medium.com/snowflake/accelerating-drug-discovery-research-with-ai-ml-building-blocks-and-streamlit-751e0cf92844": {
         "title": "Accelerating Drug Discovery Research with AI/ML Building Blocks and Streamlit",
         "published": "2023-06-21T17:14:05.007000Z",
-        "updated": "2023-06-21T17:14:05.007000Z",
+        "updated": "2024-01-31T23:27:31.816000Z",
         "tags": "snowflake,drug-discovery,data-analytics,streamlit,life-sciences"
     },
     "https://medium.com/snowflake/data-loading-schematization-with-snowflake-d75d9bbd3bee": {
@@ -5312,7 +5384,7 @@
     "https://medium.com/snowflake/working-with-large-json-files-in-snowflake-part-iii-a62207c93580": {
         "title": "Working with large JSON files in Snowflake\u200a\u2014\u200aPart III",
         "published": "2022-07-25T22:27:27.511000Z",
-        "updated": "2023-03-16T05:41:45.995000Z",
+        "updated": "2024-01-31T17:42:45.372000Z",
         "tags": "snowflake,json"
     },
     "https://medium.com/snowflake/automl-with-aws-sagemaker-canvas-and-snowflake-e8af9074a000": {
@@ -7570,6 +7642,12 @@
         "published": "2019-07-09T17:17:40.239000Z",
         "updated": "2019-07-11T23:22:17.275000Z",
         "tags": "cybersecurity,snowflake,security-training"
+    },
+    "https://medium.com/snowflake/bootstrapping-at-scale-in-snowflake-27840503ced6": {
+        "title": "Bootstrapping at scale in Snowflake",
+        "published": "2019-07-09T12:34:55.306000Z",
+        "updated": "2019-07-09T20:38:06.475000Z",
+        "tags": "data-science,statistics,snowflake,sql,machine-learning"
     },
     "https://medium.com/snowflake/intelligent-computing-in-snowflake-130b6bbe9ecf": {
         "title": "Intelligent computing in Snowflake",
