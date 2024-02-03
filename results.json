@@ -1,4 +1,22 @@
 {
+    "https://medium.com/snowflake/key-pair-authentication-in-snowflake-%EF%B8%8F-4854cbc0481a": {
+        "title": "Key-pair Authentication in Snowflake \u2744\ufe0f",
+        "published": "2024-02-02T23:43:51.204000Z",
+        "updated": "2024-02-02T23:44:34.543000Z",
+        "tags": "keypair,snowflake,authentication"
+    },
+    "https://medium.com/snowflake/saas-provider-best-practices-unlocking-the-power-of-data-sharing-with-snowflake-dad169b88029": {
+        "title": "SaaS Provider Best Practices: Unlocking the Power of Data Sharing with Snowflake",
+        "published": "2024-02-02T21:01:42.383000Z",
+        "updated": "2024-02-02T21:01:42.383000Z",
+        "tags": "data-sharing,dynamic-table,iceberg-table,listings,collaboration"
+    },
+    "https://medium.com/snowflake/snowsight-dashboard-in-streamlit-7c3bb37d829f": {
+        "title": "Snowsight Dashboard in Streamlit",
+        "published": "2024-02-02T02:21:39.659000Z",
+        "updated": "2024-02-02T02:21:39.659000Z",
+        "tags": "snowflake,streamlit,snowsight,data-superhero"
+    },
     "https://medium.com/snowflake/semantic-search-in-sql-powered-by-rest-api-and-snowpark-container-services-f5ce91a2656e": {
         "title": "Semantic Search in SQL powered by REST API and Snowpark Container Services",
         "published": "2024-02-01T19:31:54.749000Z",
@@ -68,7 +86,7 @@
     "https://medium.com/snowflake/using-llms-to-navigate-government-websites-c1668036c05a": {
         "title": "Using LLMs to Navigate Government Websites",
         "published": "2024-01-30T20:42:35.061000Z",
-        "updated": "2024-02-01T18:54:43.501000Z",
+        "updated": "2024-02-02T01:14:43.146000Z",
         "tags": "snowflake,public-sector,llm"
     },
     "https://medium.com/snowflake/tic-tac-snow-o-x-game-on-snowpark-container-services-d76f3e9ff0c1": {
@@ -100,6 +118,12 @@
         "published": "2024-01-27T00:16:55.918000Z",
         "updated": "2024-02-01T19:01:55.824000Z",
         "tags": "snowflake,behavior-change,releases,snowflake-data-cloud,operations"
+    },
+    "https://medium.com/snowflake/snowflake-worksheets-versioning-made-easy-4512d8ee5cc2": {
+        "title": "Snowflake Worksheets Versioning made easy",
+        "published": "2024-01-26T23:01:25.985000Z",
+        "updated": "2024-02-02T03:43:11.303000Z",
+        "tags": "snowflake,git,open-source"
     },
     "https://medium.com/snowflake/migrate-existing-amazon-s3-data-lake-tables-to-snowflake-unmanaged-iceberg-tables-using-aws-glue-09b7f4015e8d": {
         "title": "Migrate existing Amazon S3 data lake tables to Snowflake Unmanaged Iceberg tables using AWS Glue",
