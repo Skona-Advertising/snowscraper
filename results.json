@@ -3008,7 +3008,7 @@
     "https://medium.com/snowflake/how-qualify-works-with-in-depth-explanation-and-examples-bbde9fc742db": {
         "title": "How QUALIFY Works\u200a\u2014\u200aWith In-Depth Explanation and Examples",
         "published": "2023-05-04T13:01:50.518000Z",
-        "updated": "2023-05-06T00:05:20.227000Z",
+        "updated": "2024-02-04T15:11:57.622000Z",
         "tags": "snowflake,snowflake-data-cloud,data-superhero,sql"
     },
     "https://medium.com/snowflake/so-you-want-to-manipulate-a-table-in-snowpark-python-3a5d4c64e499": {
@@ -5552,7 +5552,7 @@
     "https://medium.com/snowflake/all-about-the-new-snowflake-hybrid-tables-fe8d09c448e4": {
         "title": "All about the new Snowflake Hybrid Tables",
         "published": "2022-07-12T14:17:05.733000Z",
-        "updated": "2023-03-21T18:47:10.910000Z",
+        "updated": "2024-02-04T15:12:21.352000Z",
         "tags": "snowflake,hybrid-tables,unistore,data-superhero"
     },
     "https://medium.com/snowflake/driving-dashboard-adoption-through-better-data-visualization-and-design-debd7888623": {
@@ -6176,7 +6176,7 @@
     "https://medium.com/snowflake/how-to-properly-generate-a-dynamic-pivot-query-in-snowflake-921bde88b300": {
         "title": "How to Properly Generate a Dynamic Pivot Query in Snowflake",
         "published": "2022-04-02T22:03:37.149000Z",
-        "updated": "2022-04-02T22:03:37.149000Z",
+        "updated": "2024-02-04T15:11:33.042000Z",
         "tags": "snowflake-data-cloud,pivot-tables,crosstab"
     },
     "https://medium.com/snowflake/guide-snowflake-continual-87dceae84c8a": {
@@ -6536,7 +6536,7 @@
     "https://medium.com/snowflake/how-to-generate-erds-from-a-snowflake-model-3fc53abd0669": {
         "title": "How to Generate ERDs from a Snowflake Model",
         "published": "2022-01-03T21:41:05.872000Z",
-        "updated": "2023-09-26T20:05:12.779000Z",
+        "updated": "2024-02-04T15:11:13.879000Z",
         "tags": "snowflake,snowflake-data-cloud,entity-relationship-model,data-superhero"
     },
     "https://medium.com/snowflake/snowflake-and-elvt-vs-elt-etl-case-study-part-2-real-time-availability-for-single-row-inserts-623621bc6ac5": {
