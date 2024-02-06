@@ -1,4 +1,40 @@
 {
+    "https://medium.com/snowflake/how-you-can-use-the-snowflake-query-acceleration-service-to-balance-price-and-performance-00a10fc81340": {
+        "title": "How you can use the Snowflake Query Acceleration Service to balance price and performance",
+        "published": "2024-02-05T22:31:39.809000Z",
+        "updated": "2024-02-05T22:31:39.809000Z",
+        "tags": "snowflake,queryaccelerationservice"
+    },
+    "https://medium.com/snowflake/snowflake-new-dataops-related-features-2024-a2d04a2395cc": {
+        "title": "Snowflake New DataOps Related Features (2024)",
+        "published": "2024-02-05T22:01:41.070000Z",
+        "updated": "2024-02-05T22:13:04.487000Z",
+        "tags": "snowflake,data-superhero"
+    },
+    "https://medium.com/snowflake/transforming-manufacturing-through-data-evolving-a-traditional-industry-through-machine-learning-7dca79a10f59": {
+        "title": "Transforming Manufacturing Through Data: Evolving a Traditional Industry through Machine Learning",
+        "published": "2024-02-05T19:36:29.710000Z",
+        "updated": "2024-02-05T21:10:01.166000Z",
+        "tags": "manufacturing,machine-learning,data-platforms,snowflake,innovation"
+    },
+    "https://medium.com/snowflake/just-the-gist-parsing-lidar-pointcloud-files-natively-in-snowflake-ee10d580bbe1": {
+        "title": "Just the Gist: Parsing LiDar (PointCloud) files natively in Snowflake",
+        "published": "2024-02-05T18:05:40.082000Z",
+        "updated": "2024-02-05T18:05:40.082000Z",
+        "tags": "snowflake,lidar,point-cloud,snowpark-python"
+    },
+    "https://medium.com/snowflake/snowsight-worksheet-shortcuts-f1aeb5ece85a": {
+        "title": "Snowsight Worksheet Shortcuts",
+        "published": "2024-02-05T15:53:35.826000Z",
+        "updated": "2024-02-05T15:53:35.826000Z",
+        "tags": "snowflake,snowsight,data-analysis,sql,behavior-change"
+    },
+    "https://medium.com/snowflake/an-example-of-solving-health-care-identity-management-with-snowflake-and-openai-api-2f92004dd5cb": {
+        "title": "An Example of Solving Health Care Identity Management with Snowflake and openai API",
+        "published": "2024-02-05T13:01:52.933000Z",
+        "updated": "2024-02-05T13:01:52.933000Z",
+        "tags": "snowflake,snowpark,openai,identity-management,data-superhero"
+    },
     "https://medium.com/snowflake/add-column-comments-dynamically-7880c951f096": {
         "title": "Add Column Comments Dynamically",
         "published": "2024-02-03T02:01:53.946000Z",
@@ -50,7 +86,7 @@
     "https://medium.com/snowflake/an-overview-of-snowflake-python-udfs-cf038ea6375f": {
         "title": "An Overview of Snowflake Python UDFs",
         "published": "2024-02-01T11:01:56.258000Z",
-        "updated": "2024-02-01T11:01:56.258000Z",
+        "updated": "2024-02-05T21:21:07.717000Z",
         "tags": "snowflake,data-superhero,python,udf"
     },
     "https://medium.com/snowflake/dynamic-copy-process-cd69c3bd95cb": {
