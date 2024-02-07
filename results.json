@@ -1,8 +1,20 @@
 {
+    "https://medium.com/snowflake/snowflake-cortex-ml-matillion-low-code-ml-elt-new-skill-unlocked-for-data-teams-d46fa16bf983": {
+        "title": "Snowflake Cortex ML + Matillion = Low Code ML + ELT = new skill unlocked for data teams",
+        "published": "2024-02-06T13:01:33.871000Z",
+        "updated": "2024-02-06T16:25:28.321000Z",
+        "tags": "data-engineering,machine-learning,anomaly-detection,forecasting,snowflake"
+    },
+    "https://medium.com/snowflake/snowflake-in-drug-discovery-fine-tuned-chemberta-for-toxicity-prediction-e9a799d65362": {
+        "title": "Snowflake in drug discovery: Fine tuned ChemBerta for toxicity prediction",
+        "published": "2024-02-06T11:18:54.465000Z",
+        "updated": "2024-02-06T11:18:54.465000Z",
+        "tags": "lifesciences-industry,llm,drug-discovery,snowflake,gen-ai-for-business"
+    },
     "https://medium.com/snowflake/how-you-can-use-the-snowflake-query-acceleration-service-to-balance-price-and-performance-00a10fc81340": {
         "title": "How you can use the Snowflake Query Acceleration Service to balance price and performance",
         "published": "2024-02-05T22:31:39.809000Z",
-        "updated": "2024-02-05T22:31:39.809000Z",
+        "updated": "2024-02-06T14:25:35.391000Z",
         "tags": "snowflake,queryaccelerationservice"
     },
     "https://medium.com/snowflake/snowflake-new-dataops-related-features-2024-a2d04a2395cc": {
@@ -14,7 +26,7 @@
     "https://medium.com/snowflake/transforming-manufacturing-through-data-evolving-a-traditional-industry-through-machine-learning-7dca79a10f59": {
         "title": "Transforming Manufacturing Through Data: Evolving a Traditional Industry through Machine Learning",
         "published": "2024-02-05T19:36:29.710000Z",
-        "updated": "2024-02-05T21:10:01.166000Z",
+        "updated": "2024-02-06T03:21:33.759000Z",
         "tags": "manufacturing,machine-learning,data-platforms,snowflake,innovation"
     },
     "https://medium.com/snowflake/just-the-gist-parsing-lidar-pointcloud-files-natively-in-snowflake-ee10d580bbe1": {
@@ -164,7 +176,7 @@
     "https://medium.com/snowflake/snowflake-worksheets-versioning-made-easy-4512d8ee5cc2": {
         "title": "Snowflake Worksheets Versioning made easy",
         "published": "2024-01-26T23:01:25.985000Z",
-        "updated": "2024-02-02T03:43:11.303000Z",
+        "updated": "2024-02-06T19:30:26.154000Z",
         "tags": "snowflake,git,open-source"
     },
     "https://medium.com/snowflake/migrate-existing-amazon-s3-data-lake-tables-to-snowflake-unmanaged-iceberg-tables-using-aws-glue-09b7f4015e8d": {
@@ -188,7 +200,7 @@
     "https://medium.com/snowflake/python-data-ingestion-with-snowpark-in-5-steps-d5dbd305ad69": {
         "title": "Python data ingestion with Snowpark, in 5 steps",
         "published": "2024-01-25T17:00:46.713000Z",
-        "updated": "2024-01-29T14:59:26.746000Z",
+        "updated": "2024-02-06T17:35:58.339000Z",
         "tags": "snowflake,snowpark,data-ingestion,python,data-superhero"
     },
     "https://medium.com/snowflake/snowflake-observability-on-dml-transactions-and-tables-affected-46d812a97e9a": {
