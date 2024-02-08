@@ -1,4 +1,34 @@
 {
+    "https://medium.com/snowflake/an-overview-of-snowflake-apache-iceberg-tables-d5e85864ac99": {
+        "title": "An Overview of Snowflake Apache Iceberg Tables",
+        "published": "2024-02-08T00:35:21.186000Z",
+        "updated": "2024-02-08T00:35:21.186000Z",
+        "tags": "apache-iceberg,snowflake,data-superhero,data"
+    },
+    "https://medium.com/snowflake/security-analytics-with-wiz-and-snowflake-44c4383a83c7": {
+        "title": "Security Analytics with Wiz and Snowflake",
+        "published": "2024-02-07T22:01:47.101000Z",
+        "updated": "2024-02-07T22:01:47.101000Z",
+        "tags": "snowflake,cspm,security,cybersecurity,wiz"
+    },
+    "https://medium.com/snowflake/just-the-gist-parsing-geotiffs-natively-in-snowflake-47a0a3b88c02": {
+        "title": "Just the Gist: Parsing GeoTiffs natively in Snowflake",
+        "published": "2024-02-07T19:33:55.024000Z",
+        "updated": "2024-02-07T19:37:06.637000Z",
+        "tags": "geotiff,raster,geospatial-analytics,snowflake"
+    },
+    "https://medium.com/snowflake/productionize-your-ml-workflow-using-snowflake-task-dag-apis-8470aa33172c": {
+        "title": "Productionize your ML workflow using Snowflake Task/DAG APIs",
+        "published": "2024-02-07T17:04:30.760000Z",
+        "updated": "2024-02-07T23:30:52.179000Z",
+        "tags": "python,da\u011f,snowpark-python,mlops,snowflake"
+    },
+    "https://medium.com/snowflake/streamlining-data-applications-with-amazon-bedrock-streamlit-and-snowflake-a-comprehensive-guide-a414bf01d2c9": {
+        "title": "Streamlining Data Applications with Amazon Bedrock, Streamlit, and Snowflake: A Comprehensive Guide",
+        "published": "2024-02-06T19:02:17.312000Z",
+        "updated": "2024-02-07T22:06:02.016000Z",
+        "tags": "snowflake,streamlit"
+    },
     "https://medium.com/snowflake/snowflake-cortex-ml-matillion-low-code-ml-elt-new-skill-unlocked-for-data-teams-d46fa16bf983": {
         "title": "Snowflake Cortex ML + Matillion = Low Code ML + ELT = new skill unlocked for data teams",
         "published": "2024-02-06T13:01:33.871000Z",
@@ -46,6 +76,12 @@
         "published": "2024-02-05T13:01:52.933000Z",
         "updated": "2024-02-05T13:01:52.933000Z",
         "tags": "snowflake,snowpark,openai,identity-management,data-superhero"
+    },
+    "https://medium.com/snowflake/how-to-redact-pii-in-snowflake-with-aws-comprehend-and-external-net-access-857f7990bcec": {
+        "title": "How to Redact PII in Snowflake with AWS Comprehend and External Net Access",
+        "published": "2024-02-05T04:37:55.892000Z",
+        "updated": "2024-02-07T19:34:28.689000Z",
+        "tags": "snowflake,pii,aws-comprehend,unstructured-data"
     },
     "https://medium.com/snowflake/add-column-comments-dynamically-7880c951f096": {
         "title": "Add Column Comments Dynamically",
@@ -160,6 +196,12 @@
         "published": "2024-01-29T19:00:41.582000Z",
         "updated": "2024-01-29T19:00:41.582000Z",
         "tags": "snowflake,snowpark,machine-learning"
+    },
+    "https://medium.com/snowflake/re-imagine-data-governance-with-snowflake-horizon-and-powered-by-ai-9ac1ead51b6f": {
+        "title": "Re-Imagine Data Governance with Snowflake Horizon and Powered by AI",
+        "published": "2024-01-29T13:34:59.647000Z",
+        "updated": "2024-02-07T19:34:45.106000Z",
+        "tags": "snowflake-horizon,llm,data-governance,snowflake"
     },
     "https://medium.com/snowflake/seamless-data-pipeline-integrating-kinesis-streams-with-snowflake-for-real-time-analytics-61ce304754d0": {
         "title": "Seamless Data Pipeline: Integrating Kinesis Streams with Snowflake for Real-Time Analytics",
@@ -1008,9 +1050,9 @@
         "tags": "snowflake,data-superhero,performance"
     },
     "https://medium.com/snowflake/convert-your-pyspark-code-to-snowpark-code-using-snowconvert-c2234691cc5e": {
-        "title": "Convert your PySpark code to Snowpark code using SnowConvert!",
+        "title": "Convert your PySpark code to Snowpark code using Snowpark Migration Accelerator!",
         "published": "2023-10-26T00:16:42.075000Z",
-        "updated": "2024-01-24T17:09:40.023000Z",
+        "updated": "2024-02-07T20:34:00.324000Z",
         "tags": "data,spark,snowflake,programming,technology"
     },
     "https://medium.com/snowflake/prompt-engineering-the-gpt-4-model-and-evaluating-llm-response-using-a-streamlit-app-586730b93335": {
