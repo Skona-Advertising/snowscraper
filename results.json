@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/data-sharing-with-listing-in-snowflake-3a20d8d37afb": {
+        "title": "Data Sharing with Listing in Snowflake",
+        "published": "2024-02-09T17:01:48.669000Z",
+        "updated": "2024-02-09T17:01:48.669000Z",
+        "tags": "snowflake,data-superhero"
+    },
+    "https://medium.com/snowflake/intro-to-data-engineering-with-snowpark-for-python-hands-on-lab-faqs-3820ae98ffc7": {
+        "title": "Intro to Data Engineering with Snowpark for Python: Hands-on lab & FAQs",
+        "published": "2024-02-09T06:31:11.991000Z",
+        "updated": "2024-02-09T06:31:11.991000Z",
+        "tags": "data-engineering,programming,snowflake,apache-spark,machine-learning"
+    },
     "https://medium.com/snowflake/enrich-your-user-analytics-using-llm-cortex-functions-b934de2660d2": {
         "title": "Enrich your user analytics using LLM Cortex Functions!",
         "published": "2024-02-08T16:31:29.432000Z",
@@ -14,7 +26,7 @@
     "https://medium.com/snowflake/an-overview-of-snowflake-apache-iceberg-tables-d5e85864ac99": {
         "title": "An Overview of Snowflake Apache Iceberg Tables",
         "published": "2024-02-08T00:35:21.186000Z",
-        "updated": "2024-02-08T05:23:14.144000Z",
+        "updated": "2024-02-09T13:41:58.098000Z",
         "tags": "apache-iceberg,snowflake,data-superhero,data"
     },
     "https://medium.com/snowflake/security-analytics-with-wiz-and-snowflake-44c4383a83c7": {
