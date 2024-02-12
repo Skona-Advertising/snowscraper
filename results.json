@@ -29,6 +29,12 @@
         "updated": "2024-02-09T13:41:58.098000Z",
         "tags": "apache-iceberg,snowflake,data-superhero,data"
     },
+    "https://medium.com/snowflake/execute-immediate-from-file-abso-85869ba5021c": {
+        "title": "EXECUTE IMMEDIATE FROM file-Abso",
+        "published": "2024-02-07T22:21:52.816000Z",
+        "updated": "2024-02-11T01:50:13.373000Z",
+        "tags": "data-superhero,cloud-computing,data,data-science,snowflake"
+    },
     "https://medium.com/snowflake/security-analytics-with-wiz-and-snowflake-44c4383a83c7": {
         "title": "Security Analytics with Wiz and Snowflake",
         "published": "2024-02-07T22:01:47.101000Z",
@@ -5495,6 +5501,12 @@
         "updated": "2022-08-02T19:07:30.534000Z",
         "tags": "data-superhero,snowflake"
     },
+    "https://medium.com/snowflake/snowflake-dynamic-data-masking-explained-4e8e3b48b835": {
+        "title": "Snowflake Dynamic Data Masking Best Practices",
+        "published": "2022-08-02T00:00:13.350000Z",
+        "updated": "2024-02-11T09:14:28.961000Z",
+        "tags": ""
+    },
     "https://medium.com/snowflake/snowflake-quick-tips-how-to-make-interesting-visualizations-in-snowsight-and-tableau-edf54ba46273": {
         "title": "[Snowflake Quick Tips] How to make interesting visualizations in Snowsight and Tableau",
         "published": "2022-08-01T00:25:23.756000Z",
@@ -6304,6 +6316,12 @@
         "published": "2022-04-02T03:46:43.500000Z",
         "updated": "2022-04-06T02:39:26.413000Z",
         "tags": "snowflake,dbt,continual,mlops,data-scie"
+    },
+    "https://medium.com/snowflake/introducing-snowflake-role-based-access-control-76f90fbd100b": {
+        "title": "Introducing Snowflake Role Based Access Control",
+        "published": "2022-04-02T00:00:25.944000Z",
+        "updated": "2024-02-11T08:51:24.936000Z",
+        "tags": ""
     },
     "https://medium.com/snowflake/how-zeta-is-powered-by-snowflake-a57b4cca89d5": {
         "title": "The Zeta Marketing Platform Powered by Snowflake:",
