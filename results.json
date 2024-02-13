@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/turbo-charge-snowflake-query-performance-by-avoiding-spilling-to-storage-d693def762c2": {
+        "title": "Turbo-charge Snowflake Query Performance by Avoiding Spilling to Storage",
+        "published": "2024-02-12T14:01:49.128000Z",
+        "updated": "2024-02-12T14:01:49.128000Z",
+        "tags": "snowflake,performance,optimization,data-superhero"
+    },
     "https://medium.com/snowflake/data-sharing-with-listing-in-snowflake-3a20d8d37afb": {
         "title": "Data Sharing with Listing in Snowflake",
         "published": "2024-02-09T17:01:48.669000Z",
@@ -26,7 +32,7 @@
     "https://medium.com/snowflake/an-overview-of-snowflake-apache-iceberg-tables-d5e85864ac99": {
         "title": "An Overview of Snowflake Apache Iceberg Tables",
         "published": "2024-02-08T00:35:21.186000Z",
-        "updated": "2024-02-09T13:41:58.098000Z",
+        "updated": "2024-02-12T19:04:43.401000Z",
         "tags": "apache-iceberg,snowflake,data-superhero,data"
     },
     "https://medium.com/snowflake/execute-immediate-from-file-abso-85869ba5021c": {
@@ -50,7 +56,7 @@
     "https://medium.com/snowflake/productionize-your-ml-workflow-using-snowflake-task-dag-apis-8470aa33172c": {
         "title": "Productionize your ML workflow using Snowflake Task/DAG APIs",
         "published": "2024-02-07T17:04:30.760000Z",
-        "updated": "2024-02-08T19:15:21.684000Z",
+        "updated": "2024-02-12T17:36:53.107000Z",
         "tags": "python,da\u011f,snowpark-python,mlops,snowflake"
     },
     "https://medium.com/snowflake/streamlining-data-applications-with-amazon-bedrock-streamlit-and-snowflake-a-comprehensive-guide-a414bf01d2c9": {
@@ -86,7 +92,7 @@
     "https://medium.com/snowflake/transforming-manufacturing-through-data-evolving-a-traditional-industry-through-machine-learning-7dca79a10f59": {
         "title": "Transforming Manufacturing Through Data: Evolving a Traditional Industry through Machine Learning",
         "published": "2024-02-05T19:36:29.710000Z",
-        "updated": "2024-02-06T03:21:33.759000Z",
+        "updated": "2024-02-12T16:22:14.826000Z",
         "tags": "manufacturing,machine-learning,data-platforms,snowflake,innovation"
     },
     "https://medium.com/snowflake/just-the-gist-parsing-lidar-pointcloud-files-natively-in-snowflake-ee10d580bbe1": {
@@ -254,7 +260,7 @@
     "https://medium.com/snowflake/migrate-existing-amazon-s3-data-lake-tables-to-snowflake-unmanaged-iceberg-tables-using-aws-glue-09b7f4015e8d": {
         "title": "Migrate existing Amazon S3 data lake tables to Snowflake Unmanaged Iceberg tables using AWS Glue",
         "published": "2024-01-26T18:02:02.865000Z",
-        "updated": "2024-01-26T18:02:02.865000Z",
+        "updated": "2024-02-12T20:36:34.235000Z",
         "tags": "snowflake,amazon,icebergs,aws-glue"
     },
     "https://medium.com/snowflake/the-cost-saving-benefits-of-faster-scoring-in-snowflake-with-h2o-ai-0964c8d0c3e9": {
@@ -452,7 +458,7 @@
     "https://medium.com/snowflake/revolutionizing-insurance-fraud-detection-with-ai-a-snowflake-success-story-70aeba3985e7": {
         "title": "Revolutionizing Insurance Fraud Detection with AI: A Snowflake Success Story",
         "published": "2024-01-05T16:16:44.140000Z",
-        "updated": "2024-01-10T14:25:47.075000Z",
+        "updated": "2024-02-12T16:08:20.348000Z",
         "tags": "insurance,fraud-detection,ai,data-science,snowflake"
     },
     "https://medium.com/snowflake/start-leveraging-snowflake-ml-features-to-speed-up-your-ml-projects-db2b5308c662": {
@@ -508,6 +514,12 @@
         "published": "2023-12-21T16:21:25.454000Z",
         "updated": "2023-12-21T16:21:25.454000Z",
         "tags": "native-app,native-app-development,snowflake"
+    },
+    "https://medium.com/snowflake/snowflake-developers-community-update-december-2023-edition-2a250f205f27": {
+        "title": "Snowflake Developers & Community Update\u200a\u2014\u200aDecember 2023 Edition \u26c4",
+        "published": "2023-12-21T16:02:20.156000Z",
+        "updated": "2023-12-21T18:58:06.162000Z",
+        "tags": "snowflake,developer-newsletter,community,builders"
     },
     "https://medium.com/snowflake/the-complete-guide-to-dynamic-tables-in-snowsight-ui-38a82444bb7a": {
         "title": "The Complete Guide to Dynamic Tables in Snowsight UI",
@@ -3701,12 +3713,6 @@
         "updated": "2023-03-21T15:02:08.337000Z",
         "tags": "snowflake,advertising,ad-measurement,attribution"
     },
-    "https://medium.com/snowflake/working-with-semi-structured-data-in-snowflake-e74525c5514": {
-        "title": "Working with semi structured data in Snowflake",
-        "published": "2023-03-13T09:01:36.031000Z",
-        "updated": "2024-01-29T14:51:11.809000Z",
-        "tags": "snowflake,snowflake-data-cloud,json,semi-structured-data,data-superhero"
-    },
     "https://medium.com/snowflake/editable-snowflake-tables-in-streamlit-a-demo-79c18b5a4099": {
         "title": "Editable Snowflake Tables in Streamlit (a Demo)",
         "published": "2023-03-13T07:36:44.913000Z",
@@ -3796,12 +3802,6 @@
         "published": "2023-02-27T11:32:39.661000Z",
         "updated": "2023-02-27T11:32:39.661000Z",
         "tags": "jupyter,python,data-science,snowflake"
-    },
-    "https://medium.com/snowflake/semi-structured-data-and-snowflake-1723bae79392": {
-        "title": "Semi structured data and Snowflake",
-        "published": "2023-02-27T11:01:32.025000Z",
-        "updated": "2024-01-29T14:48:01.766000Z",
-        "tags": "snowflake,semi-structured-data,json,parquet,data-superhero"
     },
     "https://medium.com/snowflake/snowflake-data-sharing-across-regions-and-cloud-platforms-part-2-46a87ef9e9d8": {
         "title": "Snowflake Data Sharing Across Regions and Cloud Platforms\u200a\u2014\u200aPart 2",
