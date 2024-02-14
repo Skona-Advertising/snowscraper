@@ -1,9 +1,33 @@
 {
+    "https://medium.com/snowflake/large-scale-file-processing-using-snowpark-multi-threading-and-asynch-jobs-capability-1af96f5996ca": {
+        "title": "Large-scale file processing using Snowpark multi-threading and Asynch Jobs capability",
+        "published": "2024-02-13T16:56:51.872000Z",
+        "updated": "2024-02-13T16:56:51.872000Z",
+        "tags": "snowflake,snowpark,file-processing,lidar,data-lake-solutions"
+    },
+    "https://medium.com/snowflake/clinical-trial-copilot-a-rag-based-approach-on-snowflake-leveraging-cortex-capabilities-series-ef78cba5b59d": {
+        "title": "Clinical trial Assistant \u2014 a RAG based approach on Snowflake leveraging Cortex capabilities \u2014\u2026",
+        "published": "2024-02-13T15:12:03.920000Z",
+        "updated": "2024-02-13T22:26:23.170000Z",
+        "tags": ""
+    },
+    "https://medium.com/snowflake/clinical-trial-assistant-a-rag-based-approach-on-snowflake-leveraging-cortex-capabilities-part-7d0e548a1156": {
+        "title": "Clinical trial Assistant\u200a\u2014\u200aa RAG based approach on Snowflake leveraging Cortex capabilities -Part\u2026",
+        "published": "2024-02-13T15:10:19.239000Z",
+        "updated": "2024-02-13T17:52:06.693000Z",
+        "tags": "life-sciences,clinical-trials,snowflake,llm,genai"
+    },
     "https://medium.com/snowflake/turbo-charge-snowflake-query-performance-by-avoiding-spilling-to-storage-d693def762c2": {
         "title": "Turbo-charge Snowflake Query Performance by Avoiding Spilling to Storage",
         "published": "2024-02-12T14:01:49.128000Z",
         "updated": "2024-02-12T14:01:49.128000Z",
         "tags": "snowflake,performance,optimization,data-superhero"
+    },
+    "https://medium.com/snowflake/execute-immediate-from-file-rfp-relative-file-path-ebcbe0ba5cab": {
+        "title": "EXECUTE IMMEDIATE FROM file-RFP (Relative File Path)",
+        "published": "2024-02-10T06:48:22.890000Z",
+        "updated": "2024-02-13T20:56:42.813000Z",
+        "tags": "data-superhero,data-science,database,cloud-computing,snowflake"
     },
     "https://medium.com/snowflake/data-sharing-with-listing-in-snowflake-3a20d8d37afb": {
         "title": "Data Sharing with Listing in Snowflake",
@@ -56,7 +80,7 @@
     "https://medium.com/snowflake/productionize-your-ml-workflow-using-snowflake-task-dag-apis-8470aa33172c": {
         "title": "Productionize your ML workflow using Snowflake Task/DAG APIs",
         "published": "2024-02-07T17:04:30.760000Z",
-        "updated": "2024-02-12T17:36:53.107000Z",
+        "updated": "2024-02-13T06:05:07.466000Z",
         "tags": "python,da\u011f,snowpark-python,mlops,snowflake"
     },
     "https://medium.com/snowflake/streamlining-data-applications-with-amazon-bedrock-streamlit-and-snowflake-a-comprehensive-guide-a414bf01d2c9": {
@@ -74,7 +98,7 @@
     "https://medium.com/snowflake/snowflake-in-drug-discovery-fine-tuned-chemberta-for-toxicity-prediction-e9a799d65362": {
         "title": "Snowflake in drug discovery: Fine tuned ChemBerta for toxicity prediction",
         "published": "2024-02-06T11:18:54.465000Z",
-        "updated": "2024-02-06T11:18:54.465000Z",
+        "updated": "2024-02-13T17:55:56.263000Z",
         "tags": "lifesciences-industry,llm,drug-discovery,snowflake,gen-ai-for-business"
     },
     "https://medium.com/snowflake/how-you-can-use-the-snowflake-query-acceleration-service-to-balance-price-and-performance-00a10fc81340": {
@@ -5710,6 +5734,12 @@
         "published": "2022-07-04T14:01:52.112000Z",
         "updated": "2023-08-23T16:46:49.073000Z",
         "tags": "snowflake-data-cloud,python,anaconda,sql"
+    },
+    "https://medium.com/snowflake/snowflake-minimize-storage-cost-a83ddb27f51": {
+        "title": "Snowflake: Minimize Storage Cost",
+        "published": "2022-07-01T13:02:41.457000Z",
+        "updated": "2022-07-02T22:15:26.089000Z",
+        "tags": "snowflake,snowflake-data-cloud,cost-savings,data-superhero,performance"
     },
     "https://medium.com/snowflake/configure-snowflake-storage-integration-with-azure-e88eaa9c1172": {
         "title": "Configure Snowflake Storage Integration with AZURE",
