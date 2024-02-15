@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/macos-ci-cd-with-tart-d3c0e511f3c9": {
+        "title": "MacOS CI/CD with Tart",
+        "published": "2024-02-14T20:01:30.095000Z",
+        "updated": "2024-02-14T20:01:30.095000Z",
+        "tags": "cybersecurity,snowflake,macos,ci-cd-pipeline"
+    },
+    "https://medium.com/snowflake/snowflake-batch-data-loading-best-practices-in-2024-e4d26b9ec7a1": {
+        "title": "Snowflake Batch Data Loading | Best Practices in 2024",
+        "published": "2024-02-14T13:01:45.972000Z",
+        "updated": "2024-02-14T13:01:45.972000Z",
+        "tags": "snowflake,snowflake-data-cloud,data-ingestion,virtual-warehouse,data-superhero"
+    },
     "https://medium.com/snowflake/large-scale-file-processing-using-snowpark-multi-threading-and-asynch-jobs-capability-1af96f5996ca": {
         "title": "Large-scale file processing using Snowpark multi-threading and Asynch Jobs capability",
         "published": "2024-02-13T16:56:51.872000Z",
@@ -8,8 +20,8 @@
     "https://medium.com/snowflake/clinical-trial-copilot-a-rag-based-approach-on-snowflake-leveraging-cortex-capabilities-series-ef78cba5b59d": {
         "title": "Clinical trial Assistant \u2014 a RAG based approach on Snowflake leveraging Cortex capabilities \u2014\u2026",
         "published": "2024-02-13T15:12:03.920000Z",
-        "updated": "2024-02-13T22:26:23.170000Z",
-        "tags": ""
+        "updated": "2024-02-14T01:56:58.479000Z",
+        "tags": "llm,llama-2,generative-ai-use-cases,life-sciences,snowflake"
     },
     "https://medium.com/snowflake/clinical-trial-assistant-a-rag-based-approach-on-snowflake-leveraging-cortex-capabilities-part-7d0e548a1156": {
         "title": "Clinical trial Assistant\u200a\u2014\u200aa RAG based approach on Snowflake leveraging Cortex capabilities -Part\u2026",
