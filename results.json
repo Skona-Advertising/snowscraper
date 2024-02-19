@@ -1,8 +1,14 @@
 {
+    "https://medium.com/snowflake/snowflake-copying-files-between-your-stages-ad059684c2ff": {
+        "title": "SNOWFLAKE: Copying files between your Stages",
+        "published": "2024-02-18T02:41:47.156000Z",
+        "updated": "2024-02-18T02:41:47.156000Z",
+        "tags": "snowflake,copy,sql,stage,release-notes"
+    },
     "https://medium.com/snowflake/snowflake-in-drug-discovery-fine-tuned-chemberta-for-toxicity-prediction-a-deep-dive-a3f6d6c09822": {
         "title": "Snowflake in Drug Discovery: Fine-tuned ChemBERTa for Toxicity Prediction, a Deep Dive",
         "published": "2024-02-16T22:04:52.404000Z",
-        "updated": "2024-02-16T22:32:12.037000Z",
+        "updated": "2024-02-18T06:48:51.867000Z",
         "tags": "deep-learning,llm,drug-discovery,life-sciences,snowflake"
     },
     "https://medium.com/snowflake/a-peek-inside-how-snowflakes-new-universal-search-feature-was-built-dfd1188176d0": {
