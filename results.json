@@ -1,4 +1,40 @@
 {
+    "https://medium.com/snowflake/putting-snowflake-hybrid-tables-to-the-test-at-marketwise-solutions-9ea7b449c82e": {
+        "title": "Putting Snowflake Hybrid Tables to the Test at MarketWise Solutions",
+        "published": "2024-02-20T21:31:58.311000Z",
+        "updated": "2024-02-20T21:31:58.311000Z",
+        "tags": "snowflake,hybrid-tables,unistore,performance"
+    },
+    "https://medium.com/snowflake/sis-logging-framework-a-manual-approach-9b09548158a2": {
+        "title": "SiS Logging Framework: A Manual Approach",
+        "published": "2024-02-20T18:21:01.743000Z",
+        "updated": "2024-02-20T20:06:11.564000Z",
+        "tags": "snowflake,streamlit,python,sql,application-development"
+    },
+    "https://medium.com/snowflake/virtual-warehouse-know-the-unknown-11c5f17d6f03": {
+        "title": "Virtual Warehouse: Know the Unknown\u00a0!!",
+        "published": "2024-02-20T15:59:02.839000Z",
+        "updated": "2024-02-20T17:22:56.416000Z",
+        "tags": "snowflake,snowflake-data-cloud,data-analysis,cloud-computing,data-superhero"
+    },
+    "https://medium.com/snowflake/a-goldilocks-story-how-snowflake-automatically-optimizes-micro-partition-size-for-just-right-d595ce3e4dc7": {
+        "title": "A Goldilocks Story: How Snowflake automatically optimizes micro-partition size for \u201cjust right\u201d\u2026",
+        "published": "2024-02-20T14:01:49.839000Z",
+        "updated": "2024-02-20T20:16:30.905000Z",
+        "tags": "snowflake"
+    },
+    "https://medium.com/snowflake/snowflake-admin-series-authentication-policies-2687b797c17b": {
+        "title": "Snowflake Admin Series: Authentication Policies",
+        "published": "2024-02-20T10:36:41.323000Z",
+        "updated": "2024-02-20T17:21:53.599000Z",
+        "tags": "data-superhero,snowflake,rajiv-gupta,administration,security"
+    },
+    "https://medium.com/snowflake/is-your-data-ready-to-fine-tune-your-business-specific-large-language-models-bfda147bfd62": {
+        "title": "Is Your Data Ready to Fine-Tune your Business Specific Large Language Models?",
+        "published": "2024-02-19T11:03:23.896000Z",
+        "updated": "2024-02-20T21:45:09.387000Z",
+        "tags": "genai,data,fine-tuning,snowflake"
+    },
     "https://medium.com/snowflake/snowflake-copying-files-between-your-stages-ad059684c2ff": {
         "title": "SNOWFLAKE: Copying files between your Stages",
         "published": "2024-02-18T02:41:47.156000Z",
@@ -10,6 +46,12 @@
         "published": "2024-02-16T22:04:52.404000Z",
         "updated": "2024-02-18T06:48:51.867000Z",
         "tags": "deep-learning,llm,drug-discovery,life-sciences,snowflake"
+    },
+    "https://medium.com/snowflake/bringing-data-to-the-house-58caed0331eb": {
+        "title": "Bringing Data to the House",
+        "published": "2024-02-16T21:19:40.540000Z",
+        "updated": "2024-02-20T05:42:07.948000Z",
+        "tags": "data-engineering,snowflake,etl,python,sql"
     },
     "https://medium.com/snowflake/a-peek-inside-how-snowflakes-new-universal-search-feature-was-built-dfd1188176d0": {
         "title": "A peek inside how Snowflake\u2019s new Universal Search feature was built",
@@ -44,7 +86,7 @@
     "https://medium.com/snowflake/clinical-trial-assistant-a-rag-based-approach-on-snowflake-leveraging-cortex-capabilities-part-7d0e548a1156": {
         "title": "Clinical trial Assistant\u200a\u2014\u200aa RAG based approach on Snowflake leveraging Cortex capabilities -Part\u2026",
         "published": "2024-02-13T15:10:19.239000Z",
-        "updated": "2024-02-13T17:52:06.693000Z",
+        "updated": "2024-02-20T18:42:54.734000Z",
         "tags": "life-sciences,clinical-trials,snowflake,llm,genai"
     },
     "https://medium.com/snowflake/turbo-charge-snowflake-query-performance-by-avoiding-spilling-to-storage-d693def762c2": {
