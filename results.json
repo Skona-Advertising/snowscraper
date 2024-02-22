@@ -1,4 +1,28 @@
 {
+    "https://medium.com/snowflake/getting-started-with-snowpark-model-registry-131e5a2783c4": {
+        "title": "Getting Started with Snowpark Model Registry",
+        "published": "2024-02-22T00:01:59.816000Z",
+        "updated": "2024-02-22T00:01:59.816000Z",
+        "tags": "snowflake,snowpark,mlops"
+    },
+    "https://medium.com/snowflake/snowflake-unistore-bridging-analytic-and-transactional-databases-1f1282d932a0": {
+        "title": "Snowflake Unistore: Bridging Analytic and Transactional Databases",
+        "published": "2024-02-21T23:31:49.158000Z",
+        "updated": "2024-02-21T23:31:49.158000Z",
+        "tags": "snowflake,unistore"
+    },
+    "https://medium.com/snowflake/easily-showcase-your-stores-sales-with-dynamic-charts-using-snowflake-in-just-minutes-ae07aade3746": {
+        "title": "Easily showcase your store\u2019s sales with dynamic charts using Snowflake in just minutes",
+        "published": "2024-02-21T22:02:00.350000Z",
+        "updated": "2024-02-21T22:02:00.350000Z",
+        "tags": "snowflake,data-superhero,streamlit,json,python"
+    },
+    "https://medium.com/snowflake/tracking-sis-application-usage-the-ga-update-36109395980d": {
+        "title": "Tracking SiS Application Usage: The GA Update",
+        "published": "2024-02-20T22:26:14.814000Z",
+        "updated": "2024-02-21T16:19:52.488000Z",
+        "tags": "snowflake,streamlit,python,sql,application-development"
+    },
     "https://medium.com/snowflake/putting-snowflake-hybrid-tables-to-the-test-at-marketwise-solutions-9ea7b449c82e": {
         "title": "Putting Snowflake Hybrid Tables to the Test at MarketWise Solutions",
         "published": "2024-02-20T21:31:58.311000Z",
@@ -44,7 +68,7 @@
     "https://medium.com/snowflake/snowflake-in-drug-discovery-fine-tuned-chemberta-for-toxicity-prediction-a-deep-dive-a3f6d6c09822": {
         "title": "Snowflake in Drug Discovery: Fine-tuned ChemBERTa for Toxicity Prediction, a Deep Dive",
         "published": "2024-02-16T22:04:52.404000Z",
-        "updated": "2024-02-18T06:48:51.867000Z",
+        "updated": "2024-02-21T16:20:47.610000Z",
         "tags": "deep-learning,llm,drug-discovery,life-sciences,snowflake"
     },
     "https://medium.com/snowflake/bringing-data-to-the-house-58caed0331eb": {
@@ -88,6 +112,12 @@
         "published": "2024-02-13T15:10:19.239000Z",
         "updated": "2024-02-20T18:42:54.734000Z",
         "tags": "life-sciences,clinical-trials,snowflake,llm,genai"
+    },
+    "https://medium.com/snowflake/near-real-time-cdc-in-snowflake-cf471807d72d": {
+        "title": "Near-real time CDC in Snowflake",
+        "published": "2024-02-12T23:33:52.147000Z",
+        "updated": "2024-02-21T22:57:31.260000Z",
+        "tags": "snowflake,change-data-capture,scd-type-2,database-migration,snowflake-data-cloud"
     },
     "https://medium.com/snowflake/turbo-charge-snowflake-query-performance-by-avoiding-spilling-to-storage-d693def762c2": {
         "title": "Turbo-charge Snowflake Query Performance by Avoiding Spilling to Storage",
