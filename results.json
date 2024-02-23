@@ -1,4 +1,22 @@
 {
+    "https://medium.com/snowflake/snowflake-collaboration-dynamic-tables-managing-provider-costs-when-sharing-multi-tenant-data-ed77d66fac6d": {
+        "title": "Snowflake Collaboration & Dynamic Tables: Managing Provider Costs When Sharing Multi-Tenant Data",
+        "published": "2024-02-22T20:01:51.155000Z",
+        "updated": "2024-02-22T20:01:51.155000Z",
+        "tags": "dynamic-table,collaboration,data-sharing,cost-optimization,snowflake"
+    },
+    "https://medium.com/snowflake/unlocking-the-future-of-data-analytics-how-query-history-powers-text-to-sql-transformation-508cd18fac39": {
+        "title": "Unlocking the Future of Data Analytics: How Query History Powers Text-to-SQL Transformation",
+        "published": "2024-02-22T16:30:07.759000Z",
+        "updated": "2024-02-22T16:30:07.759000Z",
+        "tags": "machine-learning,genai,text-to-sql,large-language-models,machine-learning-ai"
+    },
+    "https://medium.com/snowflake/snowflake-secrets-explained-bbdb537b6684": {
+        "title": "Snowflake Secrets Explained",
+        "published": "2024-02-22T15:01:53.685000Z",
+        "updated": "2024-02-22T15:01:53.685000Z",
+        "tags": "data-superhero,snowflake,data,security,secrets"
+    },
     "https://medium.com/snowflake/getting-started-with-snowpark-model-registry-131e5a2783c4": {
         "title": "Getting Started with Snowpark Model Registry",
         "published": "2024-02-22T00:01:59.816000Z",
@@ -1508,7 +1526,7 @@
     "https://medium.com/snowflake/how-snowflake-exclude-and-ilike-protects-you-from-bad-sql-ilike-it-like-that-d58418093a25": {
         "title": "How Snowflake EXCLUDE and ILIKE protects you from bad SQL. ILIKE it like that.",
         "published": "2023-10-01T18:02:29.982000Z",
-        "updated": "2023-10-01T18:02:29.982000Z",
+        "updated": "2024-02-22T16:03:47.752000Z",
         "tags": "snowflake,sql,performance,data-superhero"
     },
     "https://medium.com/snowflake/snowflake-alert-and-email-notification-with-usecase-1-c8034562b3e1": {
@@ -1676,7 +1694,7 @@
     "https://medium.com/snowflake/7-guardrails-against-common-mistakes-that-inflate-snowflake-credit-usage-cc2bf5421681": {
         "title": "7 guardrails against common mistakes that inflate Snowflake credit usage",
         "published": "2023-09-15T16:13:01.391000Z",
-        "updated": "2023-09-15T16:13:01.391000Z",
+        "updated": "2024-02-22T16:32:36.844000Z",
         "tags": "snowflake,data-superhero,cost-optimization,sql"
     },
     "https://medium.com/snowflake/finops-for-snowflake-f37d531eb8e2": {
