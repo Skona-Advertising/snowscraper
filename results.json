@@ -1,4 +1,22 @@
 {
+    "https://medium.com/snowflake/quote-manipulation-detection-in-the-finance-industry-using-snowflake-e87e73a60952": {
+        "title": "Quote Manipulation Detection in the Finance Industry using Snowflake",
+        "published": "2024-02-23T22:07:32.305000Z",
+        "updated": "2024-02-23T22:07:32.305000Z",
+        "tags": "snowflake,snowpark,machine-learning,data-pipeline,finance"
+    },
+    "https://medium.com/snowflake/access-azure-key-vault-from-snowflake-through-external-network-access-5fd57d1a955f": {
+        "title": "Access Azure Key Vault from Snowflake through External Network Access",
+        "published": "2024-02-23T20:51:32.469000Z",
+        "updated": "2024-02-23T20:51:32.469000Z",
+        "tags": "snowflake,snowpark-python,udf,external-network-access"
+    },
+    "https://medium.com/snowflake/snowflake-data-governance-directly-from-snowsight-9e4504675565": {
+        "title": "Snowflake Data Governance directly from Snowsight",
+        "published": "2024-02-22T22:58:07.327000Z",
+        "updated": "2024-02-23T18:48:50.491000Z",
+        "tags": "daanalytics,data-superhero,data-governance,snowsight,snowflake"
+    },
     "https://medium.com/snowflake/snowflake-collaboration-dynamic-tables-managing-provider-costs-when-sharing-multi-tenant-data-ed77d66fac6d": {
         "title": "Snowflake Collaboration & Dynamic Tables: Managing Provider Costs When Sharing Multi-Tenant Data",
         "published": "2024-02-22T20:01:51.155000Z",
@@ -70,6 +88,12 @@
         "published": "2024-02-20T10:36:41.323000Z",
         "updated": "2024-02-20T17:21:53.599000Z",
         "tags": "data-superhero,snowflake,rajiv-gupta,administration,security"
+    },
+    "https://medium.com/snowflake/how-to-use-ydata-profiling-in-snowflake-e04ba00deedb": {
+        "title": "How to use YData Profiling in Snowflake",
+        "published": "2024-02-20T00:48:16.425000Z",
+        "updated": "2024-02-23T18:49:37.697000Z",
+        "tags": "snowflake,ydata-profiling,snowpark"
     },
     "https://medium.com/snowflake/is-your-data-ready-to-fine-tune-your-business-specific-large-language-models-bfda147bfd62": {
         "title": "Is Your Data Ready to Fine-Tune your Business Specific Large Language Models?",
@@ -772,6 +796,12 @@
         "published": "2023-12-11T08:26:09.905000Z",
         "updated": "2023-12-11T17:46:19.194000Z",
         "tags": "snowflake,finops,data-superhero"
+    },
+    "https://medium.com/snowflake/snowflake-python-procedures-calling-other-python-procedures-ed3abdd77675": {
+        "title": "Snowflake Python procedures: Calling other Python procedures reusing variables",
+        "published": "2023-12-09T22:02:45.984000Z",
+        "updated": "2024-02-23T18:50:02.399000Z",
+        "tags": "snowflake,python,snowpark,procedure,variables"
     },
     "https://medium.com/snowflake/implement-cost-monitoring-alerting-using-snowsight-b54ee0d269dc": {
         "title": "Implement Cost Monitoring Dashboards using Snowsight",
