@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/empowering-retailers-a-comprehensive-guide-to-market-basket-analysis-with-snowflake-3c5f5ce28298": {
+        "title": "Empowering Retailers: A Comprehensive Guide to Market Basket Analysis with Snowflake",
+        "published": "2024-02-24T17:42:02.013000Z",
+        "updated": "2024-02-24T17:42:02.013000Z",
+        "tags": "snowflake,machine-learning,retail,snowpark"
+    },
     "https://medium.com/snowflake/quote-manipulation-detection-in-the-finance-industry-using-snowflake-e87e73a60952": {
         "title": "Quote Manipulation Detection in the Finance Industry using Snowflake",
         "published": "2024-02-23T22:07:32.305000Z",
@@ -650,7 +656,7 @@
     "https://medium.com/snowflake/streamlit-in-snowflake-analytics-made-easy-using-query-tags-bcf728c86802": {
         "title": "Streamlit in Snowflake Analytics Made Easy Using Query Tags",
         "published": "2024-01-02T21:02:08.055000Z",
-        "updated": "2024-01-05T13:56:31.359000Z",
+        "updated": "2024-02-24T08:25:48.964000Z",
         "tags": "streamlit,streamlit-in-snowflake,analytics,snowflake"
     },
     "https://medium.com/snowflake/requesting-snowflake-native-app-references-in-a-consumer-account-b5230341575d": {
