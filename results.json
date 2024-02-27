@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/using-snowflake-to-predict-call-center-escalation-54261ea9bc84": {
+        "title": "Using Snowflake to Predict Call Center Escalation",
+        "published": "2024-02-26T21:10:13.669000Z",
+        "updated": "2024-02-26T21:21:52.372000Z",
+        "tags": "data-science,snowflake,logistic-regression,data-analytics"
+    },
+    "https://medium.com/snowflake/handling-sensitive-data-with-llms-aa765f8ce840": {
+        "title": "Handling sensitive data with LLMs",
+        "published": "2024-02-26T16:23:10.263000Z",
+        "updated": "2024-02-26T16:23:10.263000Z",
+        "tags": "llm,snowflake,data-privacy"
+    },
     "https://medium.com/snowflake/empowering-retailers-a-comprehensive-guide-to-market-basket-analysis-with-snowflake-3c5f5ce28298": {
         "title": "Empowering Retailers: A Comprehensive Guide to Market Basket Analysis with Snowflake",
         "published": "2024-02-24T17:42:02.013000Z",
