@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/now-in-public-preview-snowflakes-asof-join-functionality-will-accelerate-your-time-series-ba6cc3a8aad0": {
+        "title": "Now in Public Preview, Snowflake\u2019s ASOF JOIN functionality will accelerate your Time Series\u2026",
+        "published": "2024-02-28T20:12:01.188000Z",
+        "updated": "2024-02-28T20:26:57.327000Z",
+        "tags": "data-warehouse,sql,timeseries,data-analysis,data-analytics"
+    },
+    "https://medium.com/snowflake/snowflake-hybrid-tables-all-you-need-to-know-58fd73426698": {
+        "title": "Snowflake Hybrid Tables: All You Need to Know",
+        "published": "2024-02-28T19:01:36.173000Z",
+        "updated": "2024-02-28T19:01:36.173000Z",
+        "tags": "snowflake,real-time-analytics,data-superhero,data,hybrid-tables"
+    },
     "https://medium.com/snowflake/moving-data-from-snowflake-to-elasticsearch-using-snowpark-external-network-access-c682142920a5": {
         "title": "Moving Data from Snowflake to Elasticsearch using Snowpark External Network Access",
         "published": "2024-02-27T19:47:36.199000Z",
@@ -23,11 +35,23 @@
         "updated": "2024-02-27T01:08:12.127000Z",
         "tags": "data-science,snowflake,logistic-regression,data-analytics"
     },
+    "https://medium.com/snowflake/predictive-maintenance-failure-prediction-powered-by-snowflake-9e49a29f2287": {
+        "title": "Predictive Maintenance\u200a\u2014\u200aFailure Prediction powered by Snowflake",
+        "published": "2024-02-26T16:24:23.850000Z",
+        "updated": "2024-02-28T17:41:15.679000Z",
+        "tags": "snowflake,machine-learning,predictive-maintenance,snowpark,data-science"
+    },
     "https://medium.com/snowflake/handling-sensitive-data-with-llms-aa765f8ce840": {
         "title": "Handling sensitive data with LLMs",
         "published": "2024-02-26T16:23:10.263000Z",
-        "updated": "2024-02-26T16:23:10.263000Z",
+        "updated": "2024-02-28T07:05:03.120000Z",
         "tags": "llm,snowflake,data-privacy"
+    },
+    "https://medium.com/snowflake/developing-a-product-chatbot-with-airmiles-in-snowflake-6b197d3fc424": {
+        "title": "Developing a Product Chatbot with AirMiles in Snowflake",
+        "published": "2024-02-26T14:07:37.169000Z",
+        "updated": "2024-02-28T17:41:37.706000Z",
+        "tags": "llm,snowflake,open-source,ai"
     },
     "https://medium.com/snowflake/snowflake-admin-series-identifier-first-login-50fc07965da8": {
         "title": "Snowflake Admin Series: Identifier-First Login",
