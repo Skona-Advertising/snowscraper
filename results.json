@@ -32,7 +32,7 @@
     "https://medium.com/snowflake/snowflake-hybrid-tables-all-you-need-to-know-58fd73426698": {
         "title": "Snowflake Hybrid Tables: All You Need to Know",
         "published": "2024-02-28T19:01:36.173000Z",
-        "updated": "2024-02-28T19:01:36.173000Z",
+        "updated": "2024-03-01T18:48:48.303000Z",
         "tags": "snowflake,real-time-analytics,data-superhero,data,hybrid-tables"
     },
     "https://medium.com/snowflake/moving-data-from-snowflake-to-elasticsearch-using-snowpark-external-network-access-c682142920a5": {
@@ -1808,7 +1808,7 @@
     "https://medium.com/snowflake/improving-llms-management-in-snowflake-e7e5c045f2db": {
         "title": "Improving LLMs management in Snowflake",
         "published": "2023-09-15T17:01:58.209000Z",
-        "updated": "2024-01-24T15:43:59.096000Z",
+        "updated": "2024-03-01T16:50:25.932000Z",
         "tags": "snowflake,snowpark,llm,machine-learning,generative-ai-use-cases"
     },
     "https://medium.com/snowflake/7-guardrails-against-common-mistakes-that-inflate-snowflake-credit-usage-cc2bf5421681": {
@@ -3104,7 +3104,7 @@
     "https://medium.com/snowflake/load-shapefiles-into-snowflake-the-easy-way-2af966a17c9a": {
         "title": "Load Shapefiles Into Snowflake\u200a\u2014\u200aThe Easy Way",
         "published": "2023-06-05T12:51:50.574000Z",
-        "updated": "2023-08-04T00:44:41.019000Z",
+        "updated": "2024-03-01T15:11:12.447000Z",
         "tags": "snowflake,geospatial,shapefile"
     },
     "https://medium.com/snowflake/designing-data-mesh-with-snowflake-aecb5583f591": {
