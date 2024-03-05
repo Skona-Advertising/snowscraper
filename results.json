@@ -1,4 +1,40 @@
 {
+    "https://medium.com/snowflake/call-centre-analytics-with-snowflake-cortex-function-and-snowpark-container-services-5e06b4baef46": {
+        "title": "Call Centre Analytics with Snowflake Cortex Function and Snowpark Container Services",
+        "published": "2024-03-04T20:09:16.997000Z",
+        "updated": "2024-03-04T20:13:55.505000Z",
+        "tags": "snowflake-snowpark,containers,snowflake"
+    },
+    "https://medium.com/snowflake/boost-your-visibility-with-snowflake-native-apps-3b2fe76541c2": {
+        "title": "Boost your visibility with Snowflake Native Apps",
+        "published": "2024-03-04T19:01:40.276000Z",
+        "updated": "2024-03-04T19:01:40.276000Z",
+        "tags": "snowflake,data-superhero,native-app,marketplaces,streamlit-app-deployment"
+    },
+    "https://medium.com/snowflake/frostytracking-monitor-user-activities-in-snowflake-661143d5ae1d": {
+        "title": "FrostyTracking: Monitor User Activities in Snowflake",
+        "published": "2024-03-04T18:11:35.044000Z",
+        "updated": "2024-03-04T18:25:48.302000Z",
+        "tags": "snowflake,data,streamlit,python,data-engineering"
+    },
+    "https://medium.com/snowflake/low-code-spatial-analysis-based-on-h3-with-carto-and-snowflake-e28b883b0ffa": {
+        "title": "Low-code spatial analysis based on H3 with CARTO and Snowflake",
+        "published": "2024-03-04T12:08:58.508000Z",
+        "updated": "2024-03-04T17:14:26.411000Z",
+        "tags": "h3,geospatial,carto,snowflake"
+    },
+    "https://medium.com/snowflake/snowflake-well-architected-framework-unofficial-guide-1663f43619c6": {
+        "title": "Snowflake Well-Architected Framework\u200a\u2014\u200aUnofficial Guide",
+        "published": "2024-03-04T00:49:32.648000Z",
+        "updated": "2024-03-04T02:18:32.436000Z",
+        "tags": "snowflake,data-superhero,architecture"
+    },
+    "https://medium.com/snowflake/simple-data-sharing-application-using-snowflake-native-apps-4d46463b75d4": {
+        "title": "Simple Data Sharing Application Using Snowflake Native Apps",
+        "published": "2024-03-03T23:42:54.920000Z",
+        "updated": "2024-03-04T04:09:10.893000Z",
+        "tags": "snowflake-computing,native-app,data-sharing,streamlit"
+    },
     "https://medium.com/snowflake/announcing-snowflake-marketplace-requirements-for-snowflake-native-apps-f3a8e5d88e04": {
         "title": "Announcing Snowflake Marketplace Requirements for Snowflake Native Apps",
         "published": "2024-02-29T22:30:03.113000Z",
