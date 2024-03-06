@@ -1,8 +1,20 @@
 {
+    "https://medium.com/snowflake/automated-marketing-lead-screening-pipelines-using-snowflake-cortex-llms-b278fc1c4ef1": {
+        "title": "Automated Marketing Lead Screening Pipelines Using Snowflake Cortex LLMs",
+        "published": "2024-03-05T17:02:10.042000Z",
+        "updated": "2024-03-05T17:02:10.042000Z",
+        "tags": "snowflake,generative-ai-use-cases,marketing,data-science"
+    },
+    "https://medium.com/snowflake/transforming-csv-files-during-data-loading-in-snowflake-fa1309cccd9a": {
+        "title": "Transforming CSV Files During Data Loading in Snowflake",
+        "published": "2024-03-05T15:02:29.132000Z",
+        "updated": "2024-03-05T15:02:29.132000Z",
+        "tags": "snowflake,data-transformation,etl,salesforce,data-superhero"
+    },
     "https://medium.com/snowflake/call-centre-analytics-with-snowflake-cortex-function-and-snowpark-container-services-5e06b4baef46": {
         "title": "Call Centre Analytics with Snowflake Cortex Function and Snowpark Container Services",
         "published": "2024-03-04T20:09:16.997000Z",
-        "updated": "2024-03-04T20:13:55.505000Z",
+        "updated": "2024-03-05T08:29:28.904000Z",
         "tags": "snowflake-snowpark,containers,snowflake"
     },
     "https://medium.com/snowflake/boost-your-visibility-with-snowflake-native-apps-3b2fe76541c2": {
@@ -14,7 +26,7 @@
     "https://medium.com/snowflake/frostytracking-monitor-user-activities-in-snowflake-661143d5ae1d": {
         "title": "FrostyTracking: Monitor User Activities in Snowflake",
         "published": "2024-03-04T18:11:35.044000Z",
-        "updated": "2024-03-04T18:25:48.302000Z",
+        "updated": "2024-03-05T08:06:38.980000Z",
         "tags": "snowflake,data,streamlit,python,data-engineering"
     },
     "https://medium.com/snowflake/low-code-spatial-analysis-based-on-h3-with-carto-and-snowflake-e28b883b0ffa": {
@@ -70,6 +82,12 @@
         "published": "2024-02-28T19:01:36.173000Z",
         "updated": "2024-03-01T18:48:48.303000Z",
         "tags": "snowflake,real-time-analytics,data-superhero,data,hybrid-tables"
+    },
+    "https://medium.com/snowflake/run-3-useful-llm-inference-jobs-in-minutes-with-snowflake-cortex-743a6096fff8": {
+        "title": "Run 3 useful LLM inference jobs in minutes with Snowflake Cortex",
+        "published": "2024-02-28T17:03:13.925000Z",
+        "updated": "2024-03-05T15:42:42.623000Z",
+        "tags": "snowflake,genai,llm,nlp,a\u0131"
     },
     "https://medium.com/snowflake/moving-data-from-snowflake-to-elasticsearch-using-snowpark-external-network-access-c682142920a5": {
         "title": "Moving Data from Snowflake to Elasticsearch using Snowpark External Network Access",
@@ -680,7 +698,7 @@
     "https://medium.com/snowflake/asking-questions-to-your-own-documents-with-snowflake-cortex-56c67922bed8": {
         "title": "Asking Questions to Your Own Documents with Snowflake Cortex",
         "published": "2024-01-11T15:34:16.532000Z",
-        "updated": "2024-01-12T17:56:47.408000Z",
+        "updated": "2024-03-05T22:54:11.780000Z",
         "tags": "embedding,generative-ai-tools,snowflake,vector-database"
     },
     "https://medium.com/snowflake/enhancing-quality-control-for-manufacturing-the-cutting-edge-of-computer-vision-in-snowflake-6683ea639dae": {
