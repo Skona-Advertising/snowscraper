@@ -1,4 +1,40 @@
 {
+    "https://medium.com/snowflake/announcing-public-preview-of-custom-classification-and-new-sql-interfaces-8602ea89d588": {
+        "title": "Announcing Public Preview of Custom Classification and new SQL interfaces",
+        "published": "2024-03-06T20:48:22.690000Z",
+        "updated": "2024-03-06T21:20:45.923000Z",
+        "tags": "data-governance,data-classification,snowflake"
+    },
+    "https://medium.com/snowflake/datawash-an-advanced-snowflake-data-quality-tool-powered-by-snowpark-part-2-c6395d0ac588": {
+        "title": "DataWash: An Advanced Snowflake Data Quality Tool Powered by Snowpark\u200a\u2014\u200aPart 2",
+        "published": "2024-03-06T17:51:32.201000Z",
+        "updated": "2024-03-06T17:51:32.201000Z",
+        "tags": "data-quality,snowflake,data-governance"
+    },
+    "https://medium.com/snowflake/datawash-an-advanced-snowflake-data-quality-tool-powered-by-snowpark-part-1-36e9cadd30de": {
+        "title": "DataWash: An Advanced Snowflake Data Quality Tool Powered by Snowpark\u200a\u2014\u200aPart 1",
+        "published": "2024-03-06T17:46:39.323000Z",
+        "updated": "2024-03-06T17:46:39.323000Z",
+        "tags": "data-quality,snowflake,data-governance"
+    },
+    "https://medium.com/snowflake/2024-snowflake-cortex-sentiment-function-88ced892a818": {
+        "title": "[2024] Snowflake Cortex\u200a\u2014\u200aSENTIMENT Function",
+        "published": "2024-03-06T07:07:00.620000Z",
+        "updated": "2024-03-06T22:50:14.970000Z",
+        "tags": "snowflake,data-superhero,llm,genai,artificial-intelligence"
+    },
+    "https://medium.com/snowflake/2024-snowflake-cortex-extract-answer-function-5ec4e110e4aa": {
+        "title": "[2024] Snowflake Cortex\u200a\u2014\u200aEXTRACT_ANSWER function",
+        "published": "2024-03-06T06:46:23.918000Z",
+        "updated": "2024-03-06T22:50:11.216000Z",
+        "tags": "snowflake,data-superhero,llm,machine-learning,python"
+    },
+    "https://medium.com/snowflake/2024-snowflake-cortex-complete-function-6849fb59374d": {
+        "title": "[2024 ] Snowflake Cortex\u200a\u2014\u200aCOMPLETE Function",
+        "published": "2024-03-06T06:24:52.048000Z",
+        "updated": "2024-03-06T22:50:06.215000Z",
+        "tags": "snowflake,data-superhero,llm,artificial-intelligence,snowpark"
+    },
     "https://medium.com/snowflake/automated-marketing-lead-screening-pipelines-using-snowflake-cortex-llms-b278fc1c4ef1": {
         "title": "Automated Marketing Lead Screening Pipelines Using Snowflake Cortex LLMs",
         "published": "2024-03-05T17:02:10.042000Z",
@@ -68,7 +104,7 @@
     "https://medium.com/snowflake/2024-get-started-with-snowflake-native-apps-a394ff02e135": {
         "title": "[2024] Get Started with Snowflake Native Apps",
         "published": "2024-02-29T10:29:23.065000Z",
-        "updated": "2024-03-01T00:24:48.780000Z",
+        "updated": "2024-03-06T08:38:06.699000Z",
         "tags": "snowflake,data-superhero,data,application,big-data"
     },
     "https://medium.com/snowflake/now-in-public-preview-snowflakes-asof-join-functionality-will-accelerate-your-time-series-ba6cc3a8aad0": {
@@ -86,7 +122,7 @@
     "https://medium.com/snowflake/run-3-useful-llm-inference-jobs-in-minutes-with-snowflake-cortex-743a6096fff8": {
         "title": "Run 3 useful LLM inference jobs in minutes with Snowflake Cortex",
         "published": "2024-02-28T17:03:13.925000Z",
-        "updated": "2024-03-05T15:42:42.623000Z",
+        "updated": "2024-03-06T17:55:43.678000Z",
         "tags": "snowflake,genai,llm,nlp,a\u0131"
     },
     "https://medium.com/snowflake/moving-data-from-snowflake-to-elasticsearch-using-snowpark-external-network-access-c682142920a5": {
