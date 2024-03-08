@@ -74,7 +74,7 @@
     "https://medium.com/snowflake/snowflake-well-architected-framework-unofficial-guide-1663f43619c6": {
         "title": "Snowflake Well-Architected Framework\u200a\u2014\u200aUnofficial Guide",
         "published": "2024-03-04T00:49:32.648000Z",
-        "updated": "2024-03-04T02:18:32.436000Z",
+        "updated": "2024-03-07T14:06:13.340000Z",
         "tags": "snowflake,data-superhero,architecture"
     },
     "https://medium.com/snowflake/simple-data-sharing-application-using-snowflake-native-apps-4d46463b75d4": {
@@ -1898,7 +1898,7 @@
     "https://medium.com/snowflake/improving-llms-management-in-snowflake-e7e5c045f2db": {
         "title": "Improving LLMs management in Snowflake",
         "published": "2023-09-15T17:01:58.209000Z",
-        "updated": "2024-03-01T16:50:25.932000Z",
+        "updated": "2024-03-07T22:09:20.519000Z",
         "tags": "snowflake,snowpark,llm,machine-learning,generative-ai-use-cases"
     },
     "https://medium.com/snowflake/7-guardrails-against-common-mistakes-that-inflate-snowflake-credit-usage-cc2bf5421681": {
