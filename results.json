@@ -1829,12 +1829,6 @@
         "updated": "2023-09-21T20:02:09.471000Z",
         "tags": "snowflake"
     },
-    "https://medium.com/snowflake/snowflakeloginoptions-an-easier-way-to-connect-using-python-2f0e726da936": {
-        "title": "SnowflakeLoginOptions \u2014An Easier Way to Connect Using Python",
-        "published": "2023-09-21T16:54:26.315000Z",
-        "updated": "2023-09-21T16:54:26.315000Z",
-        "tags": "snowflake,snowpark,snowpark-python"
-    },
     "https://medium.com/snowflake/snowflakes-migration-to-envoy-for-traffic-management-fc957e50bc6f": {
         "title": "Snowflake\u2019s migration to Envoy for traffic management",
         "published": "2023-09-20T22:12:21.569000Z",
@@ -1856,7 +1850,7 @@
     "https://medium.com/snowflake/automating-llm-deployment-in-snowflake-b80c184e0be9": {
         "title": "Automating LLM deployment in Snowflake",
         "published": "2023-09-19T19:02:22.833000Z",
-        "updated": "2024-01-24T15:42:49.318000Z",
+        "updated": "2024-03-08T15:09:05.648000Z",
         "tags": "machine-learning,llm,generative-ai,snowflake,snowpark"
     },
     "https://medium.com/snowflake/a-sales-assistant-powered-by-a-react-agent-and-llama-2-on-snowflake-95f6331d43db": {
@@ -1898,7 +1892,7 @@
     "https://medium.com/snowflake/improving-llms-management-in-snowflake-e7e5c045f2db": {
         "title": "Improving LLMs management in Snowflake",
         "published": "2023-09-15T17:01:58.209000Z",
-        "updated": "2024-03-07T22:09:20.519000Z",
+        "updated": "2024-03-08T15:05:13.129000Z",
         "tags": "snowflake,snowpark,llm,machine-learning,generative-ai-use-cases"
     },
     "https://medium.com/snowflake/7-guardrails-against-common-mistakes-that-inflate-snowflake-credit-usage-cc2bf5421681": {
@@ -3352,12 +3346,6 @@
         "published": "2023-05-17T18:02:56.122000Z",
         "updated": "2023-05-24T21:34:24.248000Z",
         "tags": "data,data-engineering,data-governance,snowflake,data-superhero"
-    },
-    "https://medium.com/snowflake/securely-automating-snowcli-in-github-actions-b25ae1505bbd": {
-        "title": "Securely Automating SnowCLI in GitHub Actions",
-        "published": "2023-05-17T17:18:55.169000Z",
-        "updated": "2023-05-17T17:18:55.169000Z",
-        "tags": "snowflake,github-actions,cli"
     },
     "https://medium.com/snowflake/about-the-implicit-hidden-group-by-clause-in-a-pivot-query-66324b5237fa": {
         "title": "About the Implicit Hidden GROUP BY Clause in a PIVOT Query",
