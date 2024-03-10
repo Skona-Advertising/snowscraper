@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/snowflake-observability-on-ddl-transactions-part-2-databases-schemas-tables-views-and-f140474d5843": {
+        "title": "Snowflake: Observability on DDL Transactions (Part 2)\u2014 Databases, Schemas, Tables, Views and\u2026",
+        "published": "2024-03-09T01:45:44.132000Z",
+        "updated": "2024-03-09T01:45:44.132000Z",
+        "tags": "snowflake,observability,sql,monitoring,insights"
+    },
     "https://medium.com/snowflake/announcing-public-preview-of-custom-classification-and-new-sql-interfaces-8602ea89d588": {
         "title": "Announcing Public Preview of Custom Classification and new SQL interfaces",
         "published": "2024-03-06T20:48:22.690000Z",
@@ -16,6 +22,24 @@
         "published": "2024-03-06T17:46:39.323000Z",
         "updated": "2024-03-06T17:46:39.323000Z",
         "tags": "data-quality,snowflake,data-governance"
+    },
+    "https://medium.com/snowflake/2024-exploring-llm-capabilities-using-snowflake-cortex-5ffa0c51ba44": {
+        "title": "[2024] Exploring LLM Capabilities Using Snowflake Cortex",
+        "published": "2024-03-06T07:47:52.898000Z",
+        "updated": "2024-03-09T01:46:14.548000Z",
+        "tags": "snowflake,llm,data-superhero,python,data"
+    },
+    "https://medium.com/snowflake/2024-snowflake-cortex-translate-function-44a159fcc367": {
+        "title": "[2024] Snowflake Cortex\u200a\u2014\u200aTRANSLATE Function",
+        "published": "2024-03-06T07:35:20.719000Z",
+        "updated": "2024-03-09T01:46:10.741000Z",
+        "tags": "snowflake,data-superhero,snowpark,llm,artificial-intelligence"
+    },
+    "https://medium.com/snowflake/2024-snowflake-cortex-summarize-function-8c124359b5eb": {
+        "title": "[2024] Snowflake Cortex\u200a\u2014\u200aSUMMARIZE Function",
+        "published": "2024-03-06T07:20:40.706000Z",
+        "updated": "2024-03-09T01:46:06.916000Z",
+        "tags": "snowflake,data-superhero,llm,big-data,cloud"
     },
     "https://medium.com/snowflake/2024-snowflake-cortex-sentiment-function-88ced892a818": {
         "title": "[2024] Snowflake Cortex\u200a\u2014\u200aSENTIMENT Function",
