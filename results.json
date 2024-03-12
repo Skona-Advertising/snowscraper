@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/streamlit-in-snowpark-container-services-0e28e07fdc26": {
+        "title": "Streamlit in Snowpark Container Services",
+        "published": "2024-03-11T15:18:19.145000Z",
+        "updated": "2024-03-11T15:30:18.302000Z",
+        "tags": "snowflake,streamlit,snowpark,docker"
+    },
+    "https://medium.com/snowflake/frostylibrary-a-snowflake-cortex-llm-demo-bff6d8c2f736": {
+        "title": "FrostyLibrary: A Snowflake Cortex LLM Demo",
+        "published": "2024-03-11T13:32:08.551000Z",
+        "updated": "2024-03-11T15:02:58.391000Z",
+        "tags": "snowflake,summarization,data-science,ai"
+    },
     "https://medium.com/snowflake/snowflake-observability-on-ddl-transactions-part-2-databases-schemas-tables-views-and-f140474d5843": {
         "title": "Snowflake: Observability on DDL Transactions (Part 2)\u2014 Databases, Schemas, Tables, Views and\u2026",
         "published": "2024-03-09T01:45:44.132000Z",
