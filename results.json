@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/surrogate-key-snowflake-adc9855fd94d": {
+        "title": "Surrogate key & Snowflake",
+        "published": "2024-03-12T15:44:07.814000Z",
+        "updated": "2024-03-12T17:12:46.167000Z",
+        "tags": "snowflake,cloud,data-and-analytics,data-warehouse,data-superhero"
+    },
+    "https://medium.com/snowflake/nativeapp-and-snowflake-series-how-to-build-an-xgboost-forecasting-app-86a6860b8318": {
+        "title": "NativeApp and Snowflake Series\u200a\u2014\u200aHow to build an XGboost Forecasting App",
+        "published": "2024-03-12T12:01:40.684000Z",
+        "updated": "2024-03-12T12:01:40.684000Z",
+        "tags": "forecasting,data-science,snowpark-python,manufacturing,snowflake"
+    },
     "https://medium.com/snowflake/streamlit-in-snowpark-container-services-0e28e07fdc26": {
         "title": "Streamlit in Snowpark Container Services",
         "published": "2024-03-11T15:18:19.145000Z",
@@ -8,7 +20,7 @@
     "https://medium.com/snowflake/frostylibrary-a-snowflake-cortex-llm-demo-bff6d8c2f736": {
         "title": "FrostyLibrary: A Snowflake Cortex LLM Demo",
         "published": "2024-03-11T13:32:08.551000Z",
-        "updated": "2024-03-11T15:02:58.391000Z",
+        "updated": "2024-03-12T09:33:47.026000Z",
         "tags": "snowflake,summarization,data-science,ai"
     },
     "https://medium.com/snowflake/snowflake-observability-on-ddl-transactions-part-2-databases-schemas-tables-views-and-f140474d5843": {
@@ -16,6 +28,12 @@
         "published": "2024-03-09T01:45:44.132000Z",
         "updated": "2024-03-09T01:45:44.132000Z",
         "tags": "snowflake,observability,sql,monitoring,insights"
+    },
+    "https://medium.com/snowflake/working-with-large-json-files-in-snowflake-part-iv-now-in-python-e6e9ecafc7ff": {
+        "title": "Working with large JSON files in Snowflake\u200a\u2014\u200aPart IV! (Now in Python)",
+        "published": "2024-03-08T03:00:29.073000Z",
+        "updated": "2024-03-12T22:14:24.932000Z",
+        "tags": "json,snowpark-python,udtf"
     },
     "https://medium.com/snowflake/announcing-public-preview-of-custom-classification-and-new-sql-interfaces-8602ea89d588": {
         "title": "Announcing Public Preview of Custom Classification and new SQL interfaces",
@@ -110,7 +128,7 @@
     "https://medium.com/snowflake/snowflake-well-architected-framework-unofficial-guide-1663f43619c6": {
         "title": "Snowflake Well-Architected Framework\u200a\u2014\u200aUnofficial Guide",
         "published": "2024-03-04T00:49:32.648000Z",
-        "updated": "2024-03-07T14:06:13.340000Z",
+        "updated": "2024-03-12T10:27:29.137000Z",
         "tags": "snowflake,data-superhero,architecture"
     },
     "https://medium.com/snowflake/simple-data-sharing-application-using-snowflake-native-apps-4d46463b75d4": {
@@ -608,7 +626,7 @@
     "https://medium.com/snowflake/using-snowpark-container-services-to-run-dbt-securely-ae72fb963298": {
         "title": "Using Snowpark Container Services to run DBT securely",
         "published": "2024-01-29T23:15:28.746000Z",
-        "updated": "2024-01-30T05:28:15.656000Z",
+        "updated": "2024-03-12T15:15:02.181000Z",
         "tags": "snowflake,snowpark,containers,dbt"
     },
     "https://medium.com/snowflake/fidelity-optimizes-feature-engineering-with-snowpark-ml-551228325eef": {
