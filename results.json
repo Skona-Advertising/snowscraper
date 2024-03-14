@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/snowflake-supports-trailing-comma-for-the-select-clause-407eb46271ba": {
+        "title": "Snowflake Supports Trailing Comma for the SELECT Clause",
+        "published": "2024-03-13T19:17:11.973000Z",
+        "updated": "2024-03-13T19:17:11.973000Z",
+        "tags": "snowflake,sql"
+    },
+    "https://medium.com/snowflake/building-snowflake-native-applications-with-external-apis-9f39e4f71555": {
+        "title": "Building Snowflake Native Applications with external APIs",
+        "published": "2024-03-13T01:01:43.445000Z",
+        "updated": "2024-03-13T01:01:43.445000Z",
+        "tags": "snowflake"
+    },
     "https://medium.com/snowflake/surrogate-key-snowflake-adc9855fd94d": {
         "title": "Surrogate key & Snowflake",
         "published": "2024-03-12T15:44:07.814000Z",
@@ -344,7 +356,7 @@
     "https://medium.com/snowflake/snowflake-in-drug-discovery-fine-tuned-chemberta-for-toxicity-prediction-a-deep-dive-a3f6d6c09822": {
         "title": "Snowflake in Drug Discovery: Fine-tuned ChemBERTa for Toxicity Prediction, a Deep Dive",
         "published": "2024-02-16T22:04:52.404000Z",
-        "updated": "2024-02-21T16:20:47.610000Z",
+        "updated": "2024-03-13T04:44:15.527000Z",
         "tags": "deep-learning,llm,drug-discovery,life-sciences,snowflake"
     },
     "https://medium.com/snowflake/bringing-data-to-the-house-58caed0331eb": {
