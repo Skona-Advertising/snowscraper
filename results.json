@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/strengthen-your-security-posture-using-cortex-llm-functions-39530457266d": {
+        "title": "Strengthen your security posture using Cortex LLM Functions",
+        "published": "2024-03-15T15:33:04.479000Z",
+        "updated": "2024-03-15T15:44:46.733000Z",
+        "tags": "snowflake,llm,security,mistral,llama-2"
+    },
     "https://medium.com/snowflake/2024-understanding-setup-script-for-snowflake-native-apps-0fdfdef4e41a": {
         "title": "[2024] Understanding Setup Script for Snowflake Native Apps",
         "published": "2024-03-14T11:32:25.295000Z",
@@ -230,7 +236,7 @@
     "https://medium.com/snowflake/handling-sensitive-data-with-llms-aa765f8ce840": {
         "title": "Handling sensitive data with LLMs",
         "published": "2024-02-26T16:23:10.263000Z",
-        "updated": "2024-02-28T07:05:03.120000Z",
+        "updated": "2024-03-15T10:22:12.034000Z",
         "tags": "llm,snowflake,data-privacy"
     },
     "https://medium.com/snowflake/developing-a-product-chatbot-with-airmiles-in-snowflake-6b197d3fc424": {
