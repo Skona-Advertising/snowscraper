@@ -1,4 +1,22 @@
 {
+    "https://medium.com/snowflake/snowflake-building-a-data-cloud-8995627ce785": {
+        "title": "Snowflake: Building a Data Cloud",
+        "published": "2024-03-20T19:33:10.995000Z",
+        "updated": "2024-03-20T19:33:10.995000Z",
+        "tags": "snowflake,architecture,snowflake-data-cloud"
+    },
+    "https://medium.com/snowflake/protein-similarity-search-in-snowflake-with-nvidia-bionemo-f31fbb800554": {
+        "title": "Protein Similarity Search in Snowflake with NVIDIA BioNeMo",
+        "published": "2024-03-20T09:57:45.331000Z",
+        "updated": "2024-03-20T09:57:45.331000Z",
+        "tags": "snowflake,life-sciences"
+    },
+    "https://medium.com/snowflake/understanding-snowflake-cortex-functions-93d6eb695ed7": {
+        "title": "Understanding Snowflake Cortex functions",
+        "published": "2024-03-18T23:21:46.002000Z",
+        "updated": "2024-03-20T15:43:54.143000Z",
+        "tags": "snowflake,data-superhero"
+    },
     "https://medium.com/snowflake/ensuring-high-usage-readiness-and-disaster-preparedness-with-snowflake-4ea6ce35b566": {
         "title": "Ensuring High Usage Readiness and Disaster Preparedness with Snowflake",
         "published": "2024-03-18T22:38:37.189000Z",
@@ -1756,12 +1774,6 @@
         "published": "2023-10-10T17:49:43.795000Z",
         "updated": "2023-10-11T04:52:15.796000Z",
         "tags": "cost-optimization,snowflake,storage,cloud-computing,performance"
-    },
-    "https://medium.com/snowflake/fine-tuning-llama2-using-snowpark-container-services-33d7194ef49c": {
-        "title": "Fine-tuning Llama2 using Snowpark Container Services",
-        "published": "2023-10-07T22:45:40.649000Z",
-        "updated": "2023-10-20T13:26:57.148000Z",
-        "tags": "large-language-models,snowflake"
     },
     "https://medium.com/snowflake/lets-go-clean-with-snowflake-data-clean-room-550b9c1924c9": {
         "title": "Let\u2019s Go Clean with Snowflake Data Clean Room",
