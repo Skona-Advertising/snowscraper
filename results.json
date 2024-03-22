@@ -1,9 +1,21 @@
 {
+    "https://medium.com/snowflake/mistral-snowflake-the-new-frontier-in-sql-copilot-products-f71b8a939899": {
+        "title": "Mistral & Snowflake: The New Frontier in SQL Copilot Products",
+        "published": "2024-03-21T16:32:46.326000Z",
+        "updated": "2024-03-21T16:41:30.806000Z",
+        "tags": "snowflake-copilot,text-2-sql,llm,genai,snowflake"
+    },
+    "https://medium.com/snowflake/joining-time-series-data-with-the-snowflake-asof-join-cfe6d8c38c80": {
+        "title": "Joining Time-Series Data with the Snowflake ASOF Join",
+        "published": "2024-03-21T15:02:26.793000Z",
+        "updated": "2024-03-21T15:02:26.793000Z",
+        "tags": "snowflake,sql,time-series-data,data-superhero"
+    },
     "https://medium.com/snowflake/snowflake-building-a-data-cloud-8995627ce785": {
         "title": "Snowflake: Building a Data Cloud",
         "published": "2024-03-20T19:33:10.995000Z",
         "updated": "2024-03-20T19:33:10.995000Z",
-        "tags": "snowflake,architecture,snowflake-data-cloud"
+        "tags": "snowflake,architecture,snowflake-data-cloud,infrastructure"
     },
     "https://medium.com/snowflake/protein-similarity-search-in-snowflake-with-nvidia-bionemo-f31fbb800554": {
         "title": "Protein Similarity Search in Snowflake with NVIDIA BioNeMo",
@@ -28,6 +40,12 @@
         "published": "2024-03-18T21:09:53.676000Z",
         "updated": "2024-03-18T22:37:30.586000Z",
         "tags": ""
+    },
+    "https://medium.com/snowflake/how-to-use-llama-2-on-iceberg-tables-for-sentiment-analysis-with-snowflake-cortex-32c030a8102b": {
+        "title": "How to use LLMs on an open lakehouse for sentiment analysis with Iceberg and Snowflake Cortex",
+        "published": "2024-03-18T17:43:23.968000Z",
+        "updated": "2024-03-21T19:02:53.373000Z",
+        "tags": "apache-iceberg,data-lake,data-lakehouse,data-engineering,artificial-intelligence"
     },
     "https://medium.com/snowflake/strengthen-your-security-posture-using-cortex-llm-functions-39530457266d": {
         "title": "Strengthen your security posture using Cortex LLM Functions",
