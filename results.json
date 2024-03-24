@@ -1949,12 +1949,6 @@
         "updated": "2023-11-03T18:04:56.641000Z",
         "tags": "snowflake"
     },
-    "https://medium.com/snowflake/using-polars-with-snowflake-cbdd49b0ca6b": {
-        "title": "Using Polars with Snowflake",
-        "published": "2023-09-21T16:54:50.601000Z",
-        "updated": "2023-09-21T20:02:09.471000Z",
-        "tags": "snowflake"
-    },
     "https://medium.com/snowflake/snowflakes-migration-to-envoy-for-traffic-management-fc957e50bc6f": {
         "title": "Snowflake\u2019s migration to Envoy for traffic management",
         "published": "2023-09-20T22:12:21.569000Z",
