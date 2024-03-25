@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/enhancing-quality-control-for-manufacturing-implementing-edge-intelligence-6e27095916b9": {
+        "title": "Enhancing Quality Control for Manufacturing: Implementing Edge Intelligence",
+        "published": "2024-03-24T05:04:51.091000Z",
+        "updated": "2024-03-24T23:31:57.876000Z",
+        "tags": "computer-vision,snowflake,machine-learning,edge-computing,nvidia"
+    },
     "https://medium.com/snowflake/using-snowflake-cortex-complete-function-to-generate-responses-to-prompt-de9bbde869fa": {
         "title": "Using Snowflake Cortex\u200a\u2014\u200aCOMPLETE function to generate responses to prompt",
         "published": "2024-03-22T16:52:17.090000Z",
@@ -280,6 +286,12 @@
         "published": "2024-02-26T21:10:13.669000Z",
         "updated": "2024-02-27T01:08:12.127000Z",
         "tags": "data-science,snowflake,logistic-regression,data-analytics"
+    },
+    "https://medium.com/snowflake/guide-to-create-snowflake-managed-iceberg-tables-0a5929761d37": {
+        "title": "Guide to Create Snowflake managed Iceberg Tables",
+        "published": "2024-02-26T19:11:43.755000Z",
+        "updated": "2024-03-24T23:31:38.265000Z",
+        "tags": "snowflake,data-superhero,data-lake,iceberg-table"
     },
     "https://medium.com/snowflake/predictive-maintenance-failure-prediction-powered-by-snowflake-9e49a29f2287": {
         "title": "Predictive Maintenance\u200a\u2014\u200aFailure Prediction powered by Snowflake",
