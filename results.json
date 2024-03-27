@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/snowflake-sharing-masked-data-using-database-roles-1fdd04e401b9": {
+        "title": "Snowflake: Sharing Masked data using Database Roles",
+        "published": "2024-03-26T19:02:29.131000Z",
+        "updated": "2024-03-26T19:02:29.131000Z",
+        "tags": "snowflake,data-goverance,dynamic-data-masking,data-sharing"
+    },
+    "https://medium.com/snowflake/integrating-machine-learning-models-with-snowpark-ml-a-guide-for-azureml-and-sagemaker-users-735292843a7b": {
+        "title": "Integrating Machine Learning Models with Snowpark ML: A Guide for AzureML and SageMaker Users",
+        "published": "2024-03-26T15:35:46.278000Z",
+        "updated": "2024-03-26T15:35:46.278000Z",
+        "tags": "ai,azure,aws,snowflake,deployment"
+    },
     "https://medium.com/snowflake/making-batch-api-calls-in-snowflake-with-vectorized-udfs-b9a15c7c0704": {
         "title": "Making Batch API Calls in Snowflake with Vectorized UDFs",
         "published": "2024-03-25T23:45:01.695000Z",
@@ -8,8 +20,8 @@
     "https://medium.com/snowflake/snowflake-cli-tutorial-upload-and-use-non-snowflake-anaconda-channel-packages-in-snowflake-888eea8a9742": {
         "title": "Snowflake CLI Tutorial: Upload and Use Non-Snowflake Anaconda Channel Packages in Snowflake",
         "published": "2024-03-25T21:06:52.663000Z",
-        "updated": "2024-03-25T21:06:52.663000Z",
-        "tags": "snowflake,command-line-interface,python,sql"
+        "updated": "2024-03-26T15:43:51.896000Z",
+        "tags": "snowflake,command-line-interface,python,sql,snowpark"
     },
     "https://medium.com/snowflake/dataiku-with-snowflake-joint-value-proposition-by-leveraging-snowpark-and-snowpark-ml-172421fde3f7": {
         "title": "Dataiku with Snowflake Joint Value Proposition by leveraging Snowpark and Snowpark ML",
@@ -20,7 +32,7 @@
     "https://medium.com/snowflake/enhancing-quality-control-for-manufacturing-implementing-edge-intelligence-6e27095916b9": {
         "title": "Enhancing Quality Control for Manufacturing: Implementing Edge Intelligence",
         "published": "2024-03-24T05:04:51.091000Z",
-        "updated": "2024-03-25T02:01:29.841000Z",
+        "updated": "2024-03-26T21:04:05.217000Z",
         "tags": "computer-vision,snowflake,machine-learning,edge-computing,nvidia"
     },
     "https://medium.com/snowflake/using-snowflake-cortex-complete-function-to-generate-responses-to-prompt-de9bbde869fa": {
@@ -32,7 +44,7 @@
     "https://medium.com/snowflake/mistral-snowflake-the-new-frontier-in-sql-copilot-products-f71b8a939899": {
         "title": "Mistral & Snowflake: The New Frontier in SQL Copilot Products",
         "published": "2024-03-21T16:32:46.326000Z",
-        "updated": "2024-03-25T16:17:11.218000Z",
+        "updated": "2024-03-26T17:53:41.623000Z",
         "tags": "snowflake-copilot,text-2-sql,llm,genai,snowflake"
     },
     "https://medium.com/snowflake/joining-time-series-data-with-the-snowflake-asof-join-cfe6d8c38c80": {
@@ -82,6 +94,12 @@
         "published": "2024-03-15T15:33:04.479000Z",
         "updated": "2024-03-15T15:44:46.733000Z",
         "tags": "snowflake,llm,security,mistral,llama-2"
+    },
+    "https://medium.com/snowflake/snowflake-unistore-powered-by-hybrid-tables-8872b6666a15": {
+        "title": "Snowflake Unistore\u200a\u2014\u200aPowered by Hybrid Tables",
+        "published": "2024-03-15T04:04:48.948000Z",
+        "updated": "2024-03-26T15:36:16.070000Z",
+        "tags": "snowflake,snowpro,data-superhero,unistore,hybrid-tables"
     },
     "https://medium.com/snowflake/2024-understanding-setup-script-for-snowflake-native-apps-0fdfdef4e41a": {
         "title": "[2024] Understanding Setup Script for Snowflake Native Apps",
@@ -896,7 +914,7 @@
     "https://medium.com/snowflake/asking-questions-to-your-own-documents-with-snowflake-cortex-56c67922bed8": {
         "title": "Asking Questions to Your Own Documents with Snowflake Cortex",
         "published": "2024-01-11T15:34:16.532000Z",
-        "updated": "2024-03-05T22:54:11.780000Z",
+        "updated": "2024-03-26T15:46:43.262000Z",
         "tags": "embedding,generative-ai-tools,snowflake,vector-database"
     },
     "https://medium.com/snowflake/enhancing-quality-control-for-manufacturing-the-cutting-edge-of-computer-vision-in-snowflake-6683ea639dae": {
@@ -2744,7 +2762,7 @@
     "https://medium.com/snowflake/ml-on-snowflake-at-scale-with-snowpark-python-and-snowpark-ml-part-2-6491d72a9903": {
         "title": "ML on Snowflake at scale with Snowpark (Part-2)",
         "published": "2023-07-18T19:32:55.365000Z",
-        "updated": "2023-08-24T01:16:07.411000Z",
+        "updated": "2024-03-26T19:47:08.584000Z",
         "tags": "snowflake,snowpark"
     },
     "https://medium.com/snowflake/snowflake-streams-on-views-62ced27072": {
