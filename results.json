@@ -1,4 +1,40 @@
 {
+    "https://medium.com/snowflake/getting-started-with-snowpark-in-hex-37d06de4b263": {
+        "title": "Getting Started with Snowpark in Hex",
+        "published": "2024-03-27T23:23:00.845000Z",
+        "updated": "2024-03-27T23:23:00.845000Z",
+        "tags": "snowflake,snowpark,hex,data-science,exploratory-data-analysis"
+    },
+    "https://medium.com/snowflake/time-series-analysis-using-snowpark-be49786b381e": {
+        "title": "Time Series Analysis Using Snowpark",
+        "published": "2024-03-27T23:20:28.572000Z",
+        "updated": "2024-03-27T23:20:28.572000Z",
+        "tags": "snowflake,hex,snowpark,machine-learning,data-science"
+    },
+    "https://medium.com/snowflake/introduction-to-snowflake-cortex-faqs-6340314e5c8d": {
+        "title": "Introduction to Snowflake Cortex: FAQs",
+        "published": "2024-03-27T23:14:17.415000Z",
+        "updated": "2024-03-27T23:14:49.825000Z",
+        "tags": "snowflake,artificial-intelligence,data-science,machine-learning,data-engineering"
+    },
+    "https://medium.com/snowflake/lean-analytics-with-snowflake-cortex-and-dbt-cloud-the-openspace-ai-way-1360fad0e763": {
+        "title": "Lean Analytics with Snowflake Cortex and dbt Cloud\u200a\u2014\u200athe OpenSpace.ai way",
+        "published": "2024-03-27T17:46:42.494000Z",
+        "updated": "2024-03-27T17:46:42.494000Z",
+        "tags": "dbt,analytics-engineering,modern-data-stack,mistral,snowflake"
+    },
+    "https://medium.com/snowflake/demystifying-network-security-in-snowflake-a4686d73a52a": {
+        "title": "Demystifying Network Security in Snowflake",
+        "published": "2024-03-27T17:24:22.355000Z",
+        "updated": "2024-03-27T17:39:41.831000Z",
+        "tags": "snowflake,network-security,cloud-computing,data-and-analytics,data-superhero"
+    },
+    "https://medium.com/snowflake/adding-memory-to-your-streamlit-chatbot-app-with-chat-elements-and-snowflake-cortex-e6a9a76142fa": {
+        "title": "Adding Memory to your Streamlit Chatbot App with Chat Elements and Snowflake Cortex",
+        "published": "2024-03-27T15:48:02.807000Z",
+        "updated": "2024-03-27T16:44:12.595000Z",
+        "tags": "llm,genai,snowflake,chatbots"
+    },
     "https://medium.com/snowflake/snowflake-sharing-masked-data-using-database-roles-1fdd04e401b9": {
         "title": "Snowflake: Sharing Masked data using Database Roles",
         "published": "2024-03-26T19:02:29.131000Z",
@@ -26,8 +62,14 @@
     "https://medium.com/snowflake/dataiku-with-snowflake-joint-value-proposition-by-leveraging-snowpark-and-snowpark-ml-172421fde3f7": {
         "title": "Dataiku with Snowflake Joint Value Proposition by leveraging Snowpark and Snowpark ML",
         "published": "2024-03-25T11:22:27.375000Z",
-        "updated": "2024-03-25T18:16:48.850000Z",
+        "updated": "2024-03-27T16:27:54.603000Z",
         "tags": "snowpark,snowpark-ml,dataiku,ai,best-practices"
+    },
+    "https://medium.com/snowflake/snowflake-hybrid-tables-guide-to-create-and-explore-14af9de7997a": {
+        "title": "Snowflake Hybrid Tables\u200a\u2014\u200aGuide to Create and Explore",
+        "published": "2024-03-24T17:23:15.062000Z",
+        "updated": "2024-03-27T16:43:59.798000Z",
+        "tags": "snowflake,snowpro,data-superhero,unistore,constraints"
     },
     "https://medium.com/snowflake/enhancing-quality-control-for-manufacturing-implementing-edge-intelligence-6e27095916b9": {
         "title": "Enhancing Quality Control for Manufacturing: Implementing Edge Intelligence",
