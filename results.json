@@ -1,4 +1,34 @@
 {
+    "https://medium.com/snowflake/how-to-automate-externally-managed-iceberg-tables-with-the-snowflake-object-store-catalog-fc863e646370": {
+        "title": "How to automate externally managed Iceberg Tables with the Snowflake Catalog integration",
+        "published": "2024-03-28T22:20:10.293000Z",
+        "updated": "2024-03-28T23:20:55.500000Z",
+        "tags": "icebergs,spark,snowflake"
+    },
+    "https://medium.com/snowflake/integrating-langchain-with-snowflake-cortex-0367f934f1c1": {
+        "title": "Integrating Langchain with Snowflake Cortex",
+        "published": "2024-03-28T20:09:24.616000Z",
+        "updated": "2024-03-28T20:09:24.616000Z",
+        "tags": "llm,langchain,snowflake,cortex,python"
+    },
+    "https://medium.com/snowflake/using-snowpark-ml-to-maximize-marketing-budget-5fbd6333a338": {
+        "title": "Using Snowpark ML to Maximize Marketing Budget",
+        "published": "2024-03-28T20:07:57.955000Z",
+        "updated": "2024-03-28T20:07:57.955000Z",
+        "tags": "snowflake,snowpark,hex,machine-learning,data-science"
+    },
+    "https://medium.com/snowflake/snowflake-supports-greatest-least-ignore-nulls-b59c8ccf232a": {
+        "title": "Snowflake Supports GREATEST/LEAST_IGNORE_NULLS",
+        "published": "2024-03-28T17:37:56.136000Z",
+        "updated": "2024-03-28T17:37:56.136000Z",
+        "tags": "snowflake,sql"
+    },
+    "https://medium.com/snowflake/how-to-build-a-state-of-the-art-text-embedding-model-a8cd0c86a19e": {
+        "title": "How to Build a State-of-the-art Text Embedding Model",
+        "published": "2024-03-28T16:27:00.698000Z",
+        "updated": "2024-03-28T16:27:00.698000Z",
+        "tags": "text-embedding,nlp,ai,machine-learning,snowflake"
+    },
     "https://medium.com/snowflake/getting-started-with-snowpark-in-hex-37d06de4b263": {
         "title": "Getting Started with Snowpark in Hex",
         "published": "2024-03-27T23:23:00.845000Z",
@@ -14,14 +44,26 @@
     "https://medium.com/snowflake/introduction-to-snowflake-cortex-faqs-6340314e5c8d": {
         "title": "Introduction to Snowflake Cortex: FAQs",
         "published": "2024-03-27T23:14:17.415000Z",
-        "updated": "2024-03-27T23:14:49.825000Z",
+        "updated": "2024-03-28T17:50:46.487000Z",
         "tags": "snowflake,artificial-intelligence,data-science,machine-learning,data-engineering"
+    },
+    "https://medium.com/snowflake/live-syncs-on-snowflake-real-time-data-on-your-current-infrastructure-402388f5f084": {
+        "title": "Live Syncs on Snowflake: Real-time data on your current infrastructure",
+        "published": "2024-03-27T21:06:48.204000Z",
+        "updated": "2024-03-28T20:08:47.428000Z",
+        "tags": "snowflake,martech,data-activation,real-time-data"
     },
     "https://medium.com/snowflake/lean-analytics-with-snowflake-cortex-and-dbt-cloud-the-openspace-ai-way-1360fad0e763": {
         "title": "Lean Analytics with Snowflake Cortex and dbt Cloud\u200a\u2014\u200athe OpenSpace.ai way",
         "published": "2024-03-27T17:46:42.494000Z",
         "updated": "2024-03-27T17:46:42.494000Z",
         "tags": "dbt,analytics-engineering,modern-data-stack,mistral,snowflake"
+    },
+    "https://medium.com/snowflake/pysparkml-vs-snowpark-ml-for-an-end-to-end-ml-use-case-cf477c8d9ddf": {
+        "title": "PysparkML vs Snowpark ML for an End-To-End ML use case",
+        "published": "2024-03-27T17:45:03.233000Z",
+        "updated": "2024-03-28T20:08:31.753000Z",
+        "tags": "snowpark-ml,pyspark-ml-feature,ai,mlops,snowflake"
     },
     "https://medium.com/snowflake/demystifying-network-security-in-snowflake-a4686d73a52a": {
         "title": "Demystifying Network Security in Snowflake",
@@ -32,7 +74,7 @@
     "https://medium.com/snowflake/adding-memory-to-your-streamlit-chatbot-app-with-chat-elements-and-snowflake-cortex-e6a9a76142fa": {
         "title": "Adding Memory to your Streamlit Chatbot App with Chat Elements and Snowflake Cortex",
         "published": "2024-03-27T15:48:02.807000Z",
-        "updated": "2024-03-27T16:44:12.595000Z",
+        "updated": "2024-03-28T22:39:11.500000Z",
         "tags": "llm,genai,snowflake,chatbots"
     },
     "https://medium.com/snowflake/snowflake-sharing-masked-data-using-database-roles-1fdd04e401b9": {
@@ -44,7 +86,7 @@
     "https://medium.com/snowflake/integrating-machine-learning-models-with-snowpark-ml-a-guide-for-azureml-and-sagemaker-users-735292843a7b": {
         "title": "Integrating Machine Learning Models with Snowpark ML: A Guide for AzureML and SageMaker Users",
         "published": "2024-03-26T15:35:46.278000Z",
-        "updated": "2024-03-26T15:35:46.278000Z",
+        "updated": "2024-03-28T14:23:05.714000Z",
         "tags": "ai,azure,aws,snowflake,deployment"
     },
     "https://medium.com/snowflake/making-batch-api-calls-in-snowflake-with-vectorized-udfs-b9a15c7c0704": {
@@ -182,7 +224,7 @@
     "https://medium.com/snowflake/frostylibrary-a-snowflake-cortex-llm-demo-bff6d8c2f736": {
         "title": "FrostyLibrary: A Snowflake Cortex LLM Demo",
         "published": "2024-03-11T13:32:08.551000Z",
-        "updated": "2024-03-12T09:33:47.026000Z",
+        "updated": "2024-03-28T09:28:59.955000Z",
         "tags": "snowflake,summarization,data-science,ai"
     },
     "https://medium.com/snowflake/snowflake-observability-on-ddl-transactions-part-2-databases-schemas-tables-views-and-f140474d5843": {
