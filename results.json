@@ -1,8 +1,14 @@
 {
+    "https://medium.com/snowflake/snowpark-or-pyspark-for-local-environment-setup-f4f4e68ae3aa": {
+        "title": "Snowpark or Pyspark for Local Environment Setup?",
+        "published": "2024-03-29T14:42:59.171000Z",
+        "updated": "2024-03-29T15:27:24.289000Z",
+        "tags": "snowflake,snowpark,data-superhero,spark,pyspark"
+    },
     "https://medium.com/snowflake/how-to-automate-externally-managed-iceberg-tables-with-the-snowflake-object-store-catalog-fc863e646370": {
         "title": "How to automate externally managed Iceberg Tables with the Snowflake Catalog integration",
         "published": "2024-03-28T22:20:10.293000Z",
-        "updated": "2024-03-28T23:20:55.500000Z",
+        "updated": "2024-03-29T21:46:02.365000Z",
         "tags": "icebergs,spark,snowflake"
     },
     "https://medium.com/snowflake/integrating-langchain-with-snowflake-cortex-0367f934f1c1": {
@@ -62,8 +68,8 @@
     "https://medium.com/snowflake/pysparkml-vs-snowpark-ml-for-an-end-to-end-ml-use-case-cf477c8d9ddf": {
         "title": "PysparkML vs Snowpark ML for an End-To-End ML use case",
         "published": "2024-03-27T17:45:03.233000Z",
-        "updated": "2024-03-28T20:08:31.753000Z",
-        "tags": "snowpark-ml,pyspark-ml-feature,ai,mlops,snowflake"
+        "updated": "2024-03-29T19:01:25.124000Z",
+        "tags": "snowpark"
     },
     "https://medium.com/snowflake/demystifying-network-security-in-snowflake-a4686d73a52a": {
         "title": "Demystifying Network Security in Snowflake",
@@ -380,7 +386,7 @@
     "https://medium.com/snowflake/run-3-useful-llm-inference-jobs-in-minutes-with-snowflake-cortex-743a6096fff8": {
         "title": "Run 3 useful LLM inference jobs in minutes with Snowflake Cortex",
         "published": "2024-02-28T17:03:13.925000Z",
-        "updated": "2024-03-06T17:55:43.678000Z",
+        "updated": "2024-03-29T18:31:34.626000Z",
         "tags": "snowflake,genai,llm,nlp,a\u0131"
     },
     "https://medium.com/snowflake/moving-data-from-snowflake-to-elasticsearch-using-snowpark-external-network-access-c682142920a5": {
