@@ -1,4 +1,28 @@
 {
+    "https://medium.com/snowflake/snowpark-is-your-data-librarian-28be45ff04af": {
+        "title": "Snowpark Is Your Data Librarian",
+        "published": "2024-04-01T19:51:57.202000Z",
+        "updated": "2024-04-01T19:51:57.202000Z",
+        "tags": "snowflake,hex,data-science,analytics,sql"
+    },
+    "https://medium.com/snowflake/instant-insights-snowflakes-scalability-meets-amazon-q-in-quicksight-for-effortless-bi-discovery-8d7290bee660": {
+        "title": "Instant Insights: Snowflake\u2019s Scalability Meets Amazon Q in Quicksight for Effortless BI Discovery",
+        "published": "2024-04-01T16:51:57.826000Z",
+        "updated": "2024-04-02T00:38:39.587000Z",
+        "tags": "snowflake-data-cloud,quicksight,businesss-intelligence,genai,llm"
+    },
+    "https://medium.com/snowflake/seeing-through-the-cloud-34dd865058db": {
+        "title": "Seeing through the Cloud",
+        "published": "2024-04-01T13:13:53.833000Z",
+        "updated": "2024-04-01T13:13:53.833000Z",
+        "tags": "machine-learning,semantic-search,generative-ai-tools,clustering,streamlit"
+    },
+    "https://medium.com/snowflake/using-snowflake-cortex-llm-functions-b3130ee3d40b": {
+        "title": "Using Snowflake Cortex-LLM Functions",
+        "published": "2024-03-30T12:55:56.412000Z",
+        "updated": "2024-04-01T17:06:15.704000Z",
+        "tags": "snowflake,genai,data-superhero"
+    },
     "https://medium.com/snowflake/snowpark-or-pyspark-for-local-environment-setup-f4f4e68ae3aa": {
         "title": "Snowpark or Pyspark for Local Environment Setup?",
         "published": "2024-03-29T14:42:59.171000Z",
@@ -146,7 +170,7 @@
     "https://medium.com/snowflake/snowflake-building-a-data-cloud-8995627ce785": {
         "title": "Snowflake: Building a Data Cloud",
         "published": "2024-03-20T19:33:10.995000Z",
-        "updated": "2024-03-20T19:33:10.995000Z",
+        "updated": "2024-04-01T16:59:52.970000Z",
         "tags": "snowflake,architecture,snowflake-data-cloud,infrastructure"
     },
     "https://medium.com/snowflake/protein-similarity-search-in-snowflake-with-nvidia-bionemo-f31fbb800554": {
@@ -302,7 +326,7 @@
     "https://medium.com/snowflake/automated-marketing-lead-screening-pipelines-using-snowflake-cortex-llms-b278fc1c4ef1": {
         "title": "Automated Marketing Lead Screening Pipelines Using Snowflake Cortex LLMs",
         "published": "2024-03-05T17:02:10.042000Z",
-        "updated": "2024-03-05T17:02:10.042000Z",
+        "updated": "2024-04-01T20:52:31.897000Z",
         "tags": "snowflake,generative-ai-use-cases,marketing,data-science"
     },
     "https://medium.com/snowflake/transforming-csv-files-during-data-loading-in-snowflake-fa1309cccd9a": {
@@ -890,7 +914,7 @@
     "https://medium.com/snowflake/snowpark-ml-plus-aws-and-azure-for-ai-and-ml-3eb8b82d97a0": {
         "title": "Snowpark ML plus AWS and Azure for AI and ML",
         "published": "2024-01-25T22:34:57.792000Z",
-        "updated": "2024-01-29T18:00:43.474000Z",
+        "updated": "2024-04-01T16:05:21.928000Z",
         "tags": "snowflake,snowpark,aws,azure,ai"
     },
     "https://medium.com/snowflake/python-data-ingestion-with-snowpark-in-5-steps-d5dbd305ad69": {
