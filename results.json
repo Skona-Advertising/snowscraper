@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/choosing-the-right-case-insensitive-collation-in-snowflake-a-deep-dive-into-upper-and-lower-67cf94d17a4e": {
+        "title": "Choosing the Right Case Insensitive Collation in Snowflake: A Deep Dive into Upper and Lower\u2026",
+        "published": "2024-04-02T15:21:05.501000Z",
+        "updated": "2024-04-02T16:33:05.130000Z",
+        "tags": ""
+    },
+    "https://medium.com/snowflake/efficiency-at-snowflake-free-pool-management-9dd7a0bd34d1": {
+        "title": "Efficiency at Snowflake: Free Pool Management",
+        "published": "2024-04-02T11:01:58.689000Z",
+        "updated": "2024-04-02T11:01:58.689000Z",
+        "tags": "snowflake,architecture,infrastructure,efficiency,cloud-computing"
+    },
     "https://medium.com/snowflake/snowpark-is-your-data-librarian-28be45ff04af": {
         "title": "Snowpark Is Your Data Librarian",
         "published": "2024-04-01T19:51:57.202000Z",
@@ -866,7 +878,7 @@
     "https://medium.com/snowflake/using-snowpark-container-services-to-run-dbt-securely-ae72fb963298": {
         "title": "Using Snowpark Container Services to run DBT securely",
         "published": "2024-01-29T23:15:28.746000Z",
-        "updated": "2024-03-12T15:15:02.181000Z",
+        "updated": "2024-04-02T03:16:44.858000Z",
         "tags": "snowflake,snowpark,containers,dbt"
     },
     "https://medium.com/snowflake/fidelity-optimizes-feature-engineering-with-snowpark-ml-551228325eef": {
@@ -1310,7 +1322,7 @@
     "https://medium.com/snowflake/how-to-integrate-databricks-with-snowflake-managed-iceberg-tables-7a8895c2c724": {
         "title": "How to integrate Databricks with Snowflake-managed Iceberg Tables",
         "published": "2023-12-05T13:31:51.050000Z",
-        "updated": "2024-01-24T19:00:10.615000Z",
+        "updated": "2024-04-02T21:07:04.606000Z",
         "tags": "snowflake,apache-iceberg,databricks"
     },
     "https://medium.com/snowflake/machine-learning-based-alerts-for-snowflake-finops-8ec640fb1cee": {
@@ -1370,7 +1382,7 @@
     "https://medium.com/snowflake/introducing-sedonasnow-5c228b950e69": {
         "title": "Introducing SedonaSnow",
         "published": "2023-11-28T16:22:39.589000Z",
-        "updated": "2023-11-28T16:22:39.589000Z",
+        "updated": "2024-04-02T14:11:36.565000Z",
         "tags": "geospatial,sedona,snowflake"
     },
     "https://medium.com/snowflake/getting-started-with-snowflake-table-schema-evolution-cf59915ae74e": {
