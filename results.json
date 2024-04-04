@@ -1,4 +1,22 @@
 {
+    "https://medium.com/snowflake/auto-retry-on-typescript-caching-for-web-apps-61ffcc3cecbf": {
+        "title": "Auto retry on typescript caching for web apps",
+        "published": "2024-04-03T19:52:28.097000Z",
+        "updated": "2024-04-03T19:52:28.097000Z",
+        "tags": "nodejs,cache,nodecache,web-development,snowflake"
+    },
+    "https://medium.com/snowflake/snowflake-101-working-with-stored-procedures-14ec8ab2f527": {
+        "title": "Snowflake 101: Working with Stored Procedures",
+        "published": "2024-04-03T15:58:18.775000Z",
+        "updated": "2024-04-03T15:58:18.775000Z",
+        "tags": "snowflake,data-superhero,snowflake-data-cloud,data-engineering,stored-procedure"
+    },
+    "https://medium.com/snowflake/connect-git-to-snowflake-now-in-public-preview-25b0456ce02c": {
+        "title": "Connect Git to Snowflake, now in Public Preview",
+        "published": "2024-04-03T14:36:34.937000Z",
+        "updated": "2024-04-03T14:36:34.937000Z",
+        "tags": "git,snowflake,snowpark,streamlit,devops"
+    },
     "https://medium.com/snowflake/choosing-the-right-case-insensitive-collation-in-snowflake-a-deep-dive-into-upper-and-lower-67cf94d17a4e": {
         "title": "Choosing the Right Case Insensitive Collation in Snowflake: A Deep Dive into Upper and Lower\u2026",
         "published": "2024-04-02T15:21:05.501000Z",
@@ -8,7 +26,7 @@
     "https://medium.com/snowflake/efficiency-at-snowflake-free-pool-management-9dd7a0bd34d1": {
         "title": "Efficiency at Snowflake: Free Pool Management",
         "published": "2024-04-02T11:01:58.689000Z",
-        "updated": "2024-04-02T11:01:58.689000Z",
+        "updated": "2024-04-03T01:58:08.440000Z",
         "tags": "snowflake,architecture,infrastructure,efficiency,cloud-computing"
     },
     "https://medium.com/snowflake/snowpark-is-your-data-librarian-28be45ff04af": {
@@ -20,7 +38,7 @@
     "https://medium.com/snowflake/instant-insights-snowflakes-scalability-meets-amazon-q-in-quicksight-for-effortless-bi-discovery-8d7290bee660": {
         "title": "Instant Insights: Snowflake\u2019s Scalability Meets Amazon Q in Quicksight for Effortless BI Discovery",
         "published": "2024-04-01T16:51:57.826000Z",
-        "updated": "2024-04-02T00:38:39.587000Z",
+        "updated": "2024-04-03T08:23:06.820000Z",
         "tags": "snowflake-data-cloud,quicksight,businesss-intelligence,genai,llm"
     },
     "https://medium.com/snowflake/seeing-through-the-cloud-34dd865058db": {
@@ -212,7 +230,7 @@
     "https://medium.com/snowflake/how-to-use-llama-2-on-iceberg-tables-for-sentiment-analysis-with-snowflake-cortex-32c030a8102b": {
         "title": "How to use LLMs on an open lakehouse for sentiment analysis with Iceberg and Snowflake Cortex",
         "published": "2024-03-18T17:43:23.968000Z",
-        "updated": "2024-03-21T19:02:53.373000Z",
+        "updated": "2024-04-03T04:49:14.165000Z",
         "tags": "apache-iceberg,data-lake,data-lakehouse,data-engineering,artificial-intelligence"
     },
     "https://medium.com/snowflake/strengthen-your-security-posture-using-cortex-llm-functions-39530457266d": {
@@ -914,7 +932,7 @@
     "https://medium.com/snowflake/migrate-existing-amazon-s3-data-lake-tables-to-snowflake-unmanaged-iceberg-tables-using-aws-glue-09b7f4015e8d": {
         "title": "Migrate existing Amazon S3 data lake tables to Snowflake Unmanaged Iceberg tables using AWS Glue",
         "published": "2024-01-26T18:02:02.865000Z",
-        "updated": "2024-02-12T20:36:34.235000Z",
+        "updated": "2024-04-03T21:11:03.707000Z",
         "tags": "snowflake,amazon,icebergs,aws-glue"
     },
     "https://medium.com/snowflake/the-cost-saving-benefits-of-faster-scoring-in-snowflake-with-h2o-ai-0964c8d0c3e9": {
@@ -6152,7 +6170,7 @@
     "https://medium.com/snowflake/the-snowflake-lakehouse-b583746d686b": {
         "title": "The Snowflake Lakehouse?",
         "published": "2022-07-30T00:01:08.380000Z",
-        "updated": "2024-01-09T19:52:46.582000Z",
+        "updated": "2024-04-03T01:35:10.222000Z",
         "tags": "snowflake,data-lakehouse"
     },
     "https://medium.com/snowflake/securing-your-snowflake-database-with-teleport-database-access-3aa9da08593d": {
@@ -7718,7 +7736,7 @@
     "https://medium.com/snowflake/importing-and-exporting-snowsight-dashboards-and-worksheets-3cd8e34d29c8": {
         "title": "Importing and Exporting Snowsight Dashboards and Worksheets",
         "published": "2021-08-26T00:46:55.793000Z",
-        "updated": "2021-08-26T01:21:01.623000Z",
+        "updated": "2024-04-03T15:53:42.354000Z",
         "tags": "snowflake,data-engineering,open-source"
     },
     "https://medium.com/snowflake/snowflake-data-governance-object-tagging-overview-3f9acf431a0": {
