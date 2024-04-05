@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/announcing-snowflake-cli-pupr-unleashing-the-power-of-our-command-line-interface-6e22105a3441": {
+        "title": "Announcing Snowflake CLI PuPr\u200a\u2014\u200aUnleashing the Power of our Command-Line Interface! \ud83d\ude80",
+        "published": "2024-04-04T20:02:02.689000Z",
+        "updated": "2024-04-04T20:02:02.689000Z",
+        "tags": "snowpark,cli,devops,python,ci-cd-pipeline"
+    },
+    "https://medium.com/snowflake/how-to-prepare-data-to-build-a-text-embedding-model-942ae458cb27": {
+        "title": "How to Prepare Data to Build a Text Embedding Model",
+        "published": "2024-04-04T15:40:21.973000Z",
+        "updated": "2024-04-04T15:40:21.973000Z",
+        "tags": "text-embedding,data-infrastructure,snowflake"
+    },
     "https://medium.com/snowflake/auto-retry-on-typescript-caching-for-web-apps-61ffcc3cecbf": {
         "title": "Auto retry on typescript caching for web apps",
         "published": "2024-04-03T19:52:28.097000Z",
@@ -14,7 +26,7 @@
     "https://medium.com/snowflake/connect-git-to-snowflake-now-in-public-preview-25b0456ce02c": {
         "title": "Connect Git to Snowflake, now in Public Preview",
         "published": "2024-04-03T14:36:34.937000Z",
-        "updated": "2024-04-03T14:36:34.937000Z",
+        "updated": "2024-04-05T00:35:56.823000Z",
         "tags": "git,snowflake,snowpark,streamlit,devops"
     },
     "https://medium.com/snowflake/choosing-the-right-case-insensitive-collation-in-snowflake-a-deep-dive-into-upper-and-lower-67cf94d17a4e": {
@@ -46,6 +58,12 @@
         "published": "2024-04-01T13:13:53.833000Z",
         "updated": "2024-04-01T13:13:53.833000Z",
         "tags": "machine-learning,semantic-search,generative-ai-tools,clustering,streamlit"
+    },
+    "https://medium.com/snowflake/snowflake-cortex-function-complete-guide-1-4b0a050517c0": {
+        "title": "Snowflake Cortex Function\u200a\u2014\u200aComplete Guide\u200a\u2014\u200a1",
+        "published": "2024-04-01T09:49:14.721000Z",
+        "updated": "2024-04-04T22:45:10.917000Z",
+        "tags": "data-science,programming,machine-learning,artificial-intelligence,data-superhero"
     },
     "https://medium.com/snowflake/using-snowflake-cortex-llm-functions-b3130ee3d40b": {
         "title": "Using Snowflake Cortex-LLM Functions",
@@ -98,7 +116,7 @@
     "https://medium.com/snowflake/time-series-analysis-using-snowpark-be49786b381e": {
         "title": "Time Series Analysis Using Snowpark",
         "published": "2024-03-27T23:20:28.572000Z",
-        "updated": "2024-03-27T23:20:28.572000Z",
+        "updated": "2024-04-04T13:34:22.845000Z",
         "tags": "snowflake,hex,snowpark,machine-learning,data-science"
     },
     "https://medium.com/snowflake/introduction-to-snowflake-cortex-faqs-6340314e5c8d": {
@@ -352,6 +370,18 @@
         "published": "2024-03-06T06:24:52.048000Z",
         "updated": "2024-03-06T22:50:06.215000Z",
         "tags": "snowflake,data-superhero,llm,artificial-intelligence,snowpark"
+    },
+    "https://medium.com/snowflake/using-snowpark-and-model-registry-for-machine-learning-part-1-a04c274dc140": {
+        "title": "Using Snowpark and Model Registry for Machine Learning\u200a\u2014\u200aPart 1",
+        "published": "2024-03-06T00:03:09.203000Z",
+        "updated": "2024-04-04T17:02:48.435000Z",
+        "tags": "snowflake,snowpark,machine-learning,model-registry"
+    },
+    "https://medium.com/snowflake/using-snowpark-and-model-registry-for-machine-learning-part-2-6623780d9e31": {
+        "title": "Using Snowpark and Model Registry for Machine Learning\u200a\u2014\u200aPart 2",
+        "published": "2024-03-06T00:00:50.130000Z",
+        "updated": "2024-04-04T17:11:58.615000Z",
+        "tags": "snowflake,snowpark,machine-learning,model-registry"
     },
     "https://medium.com/snowflake/automated-marketing-lead-screening-pipelines-using-snowflake-cortex-llms-b278fc1c4ef1": {
         "title": "Automated Marketing Lead Screening Pipelines Using Snowflake Cortex LLMs",
