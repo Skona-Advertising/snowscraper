@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/snowflake-observability-on-dml-transactions-in-affected-columns-part-2-0d5456b2a409": {
+        "title": "Snowflake: Observability on DML Transactions in Affected Columns (Part 2)",
+        "published": "2024-04-06T16:37:02.072000Z",
+        "updated": "2024-04-06T16:37:02.072000Z",
+        "tags": "snowflake,observability,monitoring,sql,insights"
+    },
     "https://medium.com/snowflake/announcing-snowflake-cli-pupr-unleashing-the-power-of-our-command-line-interface-6e22105a3441": {
         "title": "Announcing Snowflake CLI PuPr\u200a\u2014\u200aUnleashing the Power of our Command-Line Interface! \ud83d\ude80",
         "published": "2024-04-04T20:02:02.689000Z",
@@ -698,7 +704,7 @@
     "https://medium.com/snowflake/near-real-time-cdc-in-snowflake-cf471807d72d": {
         "title": "Near-real time CDC in Snowflake",
         "published": "2024-02-12T23:33:52.147000Z",
-        "updated": "2024-02-27T21:18:37.796000Z",
+        "updated": "2024-04-06T12:06:15.591000Z",
         "tags": "snowflake,change-data-capture,scd-type-2,database-migration,snowflake-data-cloud"
     },
     "https://medium.com/snowflake/turbo-charge-snowflake-query-performance-by-avoiding-spilling-to-storage-d693def762c2": {
