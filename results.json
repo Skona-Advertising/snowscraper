@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/end-to-end-machine-learning-with-snowpark-ml-in-snowflake-notebooks-faa42f1f57fc": {
+        "title": "End-to-End Machine Learning with Snowpark ML in Snowflake Notebooks",
+        "published": "2024-04-08T17:59:03.602000Z",
+        "updated": "2024-04-08T17:59:03.602000Z",
+        "tags": "snowpark-ml,snowflake,notebook,mlops"
+    },
     "https://medium.com/snowflake/snowflake-observability-on-dml-transactions-in-affected-columns-part-2-0d5456b2a409": {
         "title": "Snowflake: Observability on DML Transactions in Affected Columns (Part 2)",
         "published": "2024-04-06T16:37:02.072000Z",
@@ -206,7 +212,7 @@
     "https://medium.com/snowflake/enhancing-quality-control-for-manufacturing-implementing-edge-intelligence-6e27095916b9": {
         "title": "Enhancing Quality Control for Manufacturing: Implementing Edge Intelligence",
         "published": "2024-03-24T05:04:51.091000Z",
-        "updated": "2024-03-26T21:04:05.217000Z",
+        "updated": "2024-04-08T05:08:32.719000Z",
         "tags": "computer-vision,snowflake,machine-learning,edge-computing,nvidia"
     },
     "https://medium.com/snowflake/using-snowflake-cortex-complete-function-to-generate-responses-to-prompt-de9bbde869fa": {
@@ -494,7 +500,7 @@
     "https://medium.com/snowflake/detecting-anomalies-with-snowflake-cortex-ml-based-functions-869c209d152d": {
         "title": "Detecting Anomalies with Snowflake Cortex ML-based Functions",
         "published": "2024-02-27T16:02:02.314000Z",
-        "updated": "2024-02-27T16:19:18.729000Z",
+        "updated": "2024-04-08T19:59:03.049000Z",
         "tags": "machine-learning,anomaly-detection,data-superhero,forecasting,snowflake"
     },
     "https://medium.com/snowflake/snowflake-snowpipe-the-definitive-guide-2024-228a49f9ec12": {
@@ -2506,6 +2512,12 @@
         "published": "2023-08-25T13:01:02.960000Z",
         "updated": "2023-08-29T19:18:28.799000Z",
         "tags": "snowflake,caching,modern-data-architecture,business-intelligence,olap-cube"
+    },
+    "https://medium.com/snowflake/when-direct-share-meets-governance-policies-7672da2acf8f": {
+        "title": "When direct share meets governance policies",
+        "published": "2023-08-25T03:26:54.195000Z",
+        "updated": "2024-04-08T16:52:14.056000Z",
+        "tags": "direct-share,masking-policy,row-access-policy,snowflake,data-superhero"
     },
     "https://medium.com/snowflake/snowflake-achieving-lightning-fast-end-to-end-data-pipeline-86193e00ceb9": {
         "title": "Snowflake: Achieving Lightning-Fast End-to-End Data Pipeline",
