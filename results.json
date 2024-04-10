@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/change-data-capture-cdc-with-nifi-and-snowflake-9e93f4ee7b8f": {
+        "title": "Change Data Capture (CDC) with NiFi and Snowflake",
+        "published": "2024-04-09T15:24:11.567000Z",
+        "updated": "2024-04-09T15:24:11.567000Z",
+        "tags": "snowflake,change-data-capture,apache-nifi"
+    },
     "https://medium.com/snowflake/end-to-end-machine-learning-with-snowpark-ml-in-snowflake-notebooks-faa42f1f57fc": {
         "title": "End-to-End Machine Learning with Snowpark ML in Snowflake Notebooks",
         "published": "2024-04-08T17:59:03.602000Z",
@@ -27,7 +33,7 @@
         "title": "Iceberg Tables in Snowflake",
         "published": "2024-04-03T21:00:54.240000Z",
         "updated": "2024-04-05T15:36:03.988000Z",
-        "tags": "iceberg-table,snowflake-advocate,datasuperhero"
+        "tags": "iceberg-table,snowflake-advocate,data-superhero"
     },
     "https://medium.com/snowflake/auto-retry-on-typescript-caching-for-web-apps-61ffcc3cecbf": {
         "title": "Auto retry on typescript caching for web apps",
