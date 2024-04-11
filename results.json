@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/snowflake-cortex-optimizing-root-cause-analysis-in-financial-services-58501d82904c": {
+        "title": "Snowflake Cortex: Optimizing Root Cause Analysis in Financial Services",
+        "published": "2024-04-10T21:32:22.484000Z",
+        "updated": "2024-04-10T21:32:22.484000Z",
+        "tags": "snowflake"
+    },
+    "https://medium.com/snowflake/snowflake-built-in-quality-metrics-3417d7d9f040": {
+        "title": "Snowflake Built-in Quality Metrics",
+        "published": "2024-04-10T20:19:36.799000Z",
+        "updated": "2024-04-10T20:19:36.799000Z",
+        "tags": "data,snowflake,data-superhero,data-quality"
+    },
     "https://medium.com/snowflake/change-data-capture-cdc-with-nifi-and-snowflake-9e93f4ee7b8f": {
         "title": "Change Data Capture (CDC) with NiFi and Snowflake",
         "published": "2024-04-09T15:24:11.567000Z",
@@ -1226,7 +1238,7 @@
     "https://medium.com/snowflake/a-step-by-step-guide-to-building-a-ml-pipeline-for-demand-forecasting-in-snowflake-5f8da0a4bc70": {
         "title": "A Step-by-Step Guide to Building an end-to-end ML Pipeline for Demand Forecasting in Snowflake",
         "published": "2023-12-22T23:20:46.677000Z",
-        "updated": "2024-01-18T16:47:27.830000Z",
+        "updated": "2024-04-10T08:11:45.643000Z",
         "tags": ""
     },
     "https://medium.com/snowflake/connecting-to-snowflake-from-snowpark-container-services-cfc3a133480e": {
@@ -2714,7 +2726,7 @@
     "https://medium.com/snowflake/anomaly-detection-for-time-series-data-in-snowflake-data-cloud-8a41ceeab8fe": {
         "title": "Anomaly Detection for Time series Data in Snowflake Data Cloud",
         "published": "2023-08-04T17:36:10.026000Z",
-        "updated": "2023-08-09T12:56:28.481000Z",
+        "updated": "2024-04-10T08:05:22.926000Z",
         "tags": "anomaly-detection,snowpark,snowflake-data-cloud,iiot,manufacturing"
     },
     "https://medium.com/snowflake/snowflake-supports-select-ilike-replace-fc71aacd7ef1": {
@@ -7838,7 +7850,7 @@
     "https://medium.com/snowflake/monitoring-snowflake-with-snowsight-e9990a2898f1": {
         "title": "Monitoring Snowflake with Snowsight",
         "published": "2021-08-17T20:51:04.999000Z",
-        "updated": "2021-11-09T16:35:05.807000Z",
+        "updated": "2024-04-10T15:29:59.280000Z",
         "tags": "snowsight,snowflake,snowflake-data-cloud,admin,administration"
     },
     "https://medium.com/snowflake/iterating-over-metadata-with-snowpark-aa59598169bf": {
