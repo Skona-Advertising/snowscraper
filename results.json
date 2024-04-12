@@ -1,4 +1,28 @@
 {
+    "https://medium.com/snowflake/take-control-of-your-snowflake-spend-with-budgets-now-generally-available-00943f9d8ad6": {
+        "title": "Take control of your Snowflake spend with Budgets (now Generally Available)",
+        "published": "2024-04-11T22:51:17.761000Z",
+        "updated": "2024-04-12T00:18:39.241000Z",
+        "tags": "snowflake,cost-management,snowflake-cost-management,budget"
+    },
+    "https://medium.com/snowflake/from-data-to-llm-snowflake-made-it-easy-085ed203be11": {
+        "title": "From Data to LLM: Snowflake made it Easy",
+        "published": "2024-04-11T22:31:15.453000Z",
+        "updated": "2024-04-11T22:31:15.453000Z",
+        "tags": "snowflake,cortex,sql,python,llm"
+    },
+    "https://medium.com/snowflake/how-pfizer-achieved-self-service-data-mesh-with-snowflake-and-azure-8e2c383538d8": {
+        "title": "How Pfizer Achieved Self-Service Data Mesh with Snowflake and Azure",
+        "published": "2024-04-11T20:21:45.218000Z",
+        "updated": "2024-04-11T20:21:45.218000Z",
+        "tags": "azure,terraform,data-architecture,power-bi,snowflake"
+    },
+    "https://medium.com/snowflake/reduce-your-equipment-downtime-with-snowflake-cortex-and-streamlit-a-rag-based-approach-071ff4f3347e": {
+        "title": "Reduce your equipment downtime with Snowflake Cortex and Streamlit. (a rag based approach)",
+        "published": "2024-04-11T15:32:44.257000Z",
+        "updated": "2024-04-11T16:46:58.738000Z",
+        "tags": "snowflake-data-cloud,large-language-models,retrieval-augmented-gen,streamlit,manufacturing"
+    },
     "https://medium.com/snowflake/snowflake-cortex-optimizing-root-cause-analysis-in-financial-services-58501d82904c": {
         "title": "Snowflake Cortex: Optimizing Root Cause Analysis in Financial Services",
         "published": "2024-04-10T21:32:22.484000Z",
@@ -8,7 +32,7 @@
     "https://medium.com/snowflake/snowflake-built-in-quality-metrics-3417d7d9f040": {
         "title": "Snowflake Built-in Quality Metrics",
         "published": "2024-04-10T20:19:36.799000Z",
-        "updated": "2024-04-10T20:19:36.799000Z",
+        "updated": "2024-04-11T08:22:03.887000Z",
         "tags": "data,snowflake,data-superhero,data-quality"
     },
     "https://medium.com/snowflake/change-data-capture-cdc-with-nifi-and-snowflake-9e93f4ee7b8f": {
@@ -18,9 +42,9 @@
         "tags": "snowflake,change-data-capture,apache-nifi"
     },
     "https://medium.com/snowflake/end-to-end-machine-learning-with-snowpark-ml-in-snowflake-notebooks-faa42f1f57fc": {
-        "title": "End-to-End Machine Learning with Snowpark ML in Snowflake Notebooks",
+        "title": "Diamond Quality Prediction: End-to-End Machine Learning with Snowpark ML in Snowflake Notebooks",
         "published": "2024-04-08T17:59:03.602000Z",
-        "updated": "2024-04-08T17:59:03.602000Z",
+        "updated": "2024-04-11T17:11:01.843000Z",
         "tags": "snowpark-ml,snowflake,notebook,mlops"
     },
     "https://medium.com/snowflake/snowflake-observability-on-dml-transactions-in-affected-columns-part-2-0d5456b2a409": {
