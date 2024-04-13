@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/securing-workload-access-snowflakes-journey-to-workload-identity-and-access-management-workload-7c10f3021986": {
+        "title": "Securing Workload Access: Snowflake\u2019s Journey to Workload Identity and Access Management (Workload\u2026",
+        "published": "2024-04-12T23:36:54.518000Z",
+        "updated": "2024-04-12T23:36:54.518000Z",
+        "tags": "snowflake"
+    },
+    "https://medium.com/snowflake/snowflake-document-ai-%EF%B8%8F-a28f7416c858": {
+        "title": "Snowflake Document AI\u2744\ufe0f",
+        "published": "2024-04-12T13:02:05.669000Z",
+        "updated": "2024-04-12T13:02:05.669000Z",
+        "tags": "llm,gen-ai-for-business,machine-learning,snowflake"
+    },
     "https://medium.com/snowflake/take-control-of-your-snowflake-spend-with-budgets-now-generally-available-00943f9d8ad6": {
         "title": "Take control of your Snowflake spend with Budgets (now Generally Available)",
         "published": "2024-04-11T22:51:17.761000Z",
@@ -230,7 +242,7 @@
     "https://medium.com/snowflake/making-batch-api-calls-in-snowflake-with-vectorized-udfs-b9a15c7c0704": {
         "title": "Making Batch API Calls in Snowflake with Vectorized UDFs",
         "published": "2024-03-25T23:45:01.695000Z",
-        "updated": "2024-03-25T23:45:01.695000Z",
+        "updated": "2024-04-12T15:41:23.151000Z",
         "tags": "external-api,snowpark,vectorized-udfs,python,data-superhero"
     },
     "https://medium.com/snowflake/snowflake-cli-tutorial-upload-and-use-non-snowflake-anaconda-channel-packages-in-snowflake-888eea8a9742": {
@@ -953,6 +965,12 @@
         "updated": "2024-02-01T01:01:38.590000Z",
         "tags": "snowflake,cortex,langchain,llm"
     },
+    "https://medium.com/snowflake/retrieval-augmented-generation-rag-application-using-snowflake-cortex-and-streamlit-9cb261e81c2e": {
+        "title": "Retrieval-Augmented Generation (RAG) Application Using Snowflake Cortex and Streamlit",
+        "published": "2024-01-31T22:17:40.263000Z",
+        "updated": "2024-04-12T16:27:47.899000Z",
+        "tags": "snowflake,llm,artificial-intelligence,streamlit"
+    },
     "https://medium.com/snowflake/dynamic-table-a-declarative-approach-with-cdc-capabilities-b5b1e530dca9": {
         "title": "Dynamic Table: A declarative approach with CDC capabilities",
         "published": "2024-01-31T17:32:44.694000Z",
@@ -1412,7 +1430,7 @@
     "https://medium.com/snowflake/snowflake-and-power-bi-best-practices-and-recent-improvements-183e2d970c0c": {
         "title": "Snowflake and Power BI: Best Practices and Recent Improvements",
         "published": "2023-12-07T23:02:08.677000Z",
-        "updated": "2024-01-21T21:53:15.753000Z",
+        "updated": "2024-04-12T23:03:10.406000Z",
         "tags": "snowflake,microsoft-power-bi,snowflake-data-cloud,power-bi-desktop,performance"
     },
     "https://medium.com/snowflake/optimizing-snowflake-cloud-services-costs-de10f0b15444": {
