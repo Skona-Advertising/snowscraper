@@ -1,15 +1,21 @@
 {
+    "https://medium.com/snowflake/how-to-save-costs-by-elt-from-web-apis-into-a-snowflake-data-lake-with-python-883bb64ef231": {
+        "title": "How to save costs by ELT from web APIs into a Snowflake data lake with Python",
+        "published": "2024-04-13T21:40:47.876000Z",
+        "updated": "2024-04-14T00:11:42.099000Z",
+        "tags": "data-engineering,snowflake,data-lake,json"
+    },
+    "https://medium.com/snowflake/how-to-etl-from-web-apis-into-an-open-data-lakehouse-with-python-iceberg-and-snowflake-5cc1e9b08d8f": {
+        "title": "How to ETL from web APIs into an open data lakehouse with Python, Iceberg, and Snowflake",
+        "published": "2024-04-13T21:38:13.064000Z",
+        "updated": "2024-04-14T00:11:38.055000Z",
+        "tags": "apache-iceberg,snowflake,data-engineering,etl"
+    },
     "https://medium.com/snowflake/securing-workload-access-snowflakes-journey-to-workload-identity-and-access-management-workload-7c10f3021986": {
         "title": "Securing Workload Access: Snowflake\u2019s Journey to Workload Identity and Access Management (Workload\u2026",
         "published": "2024-04-12T23:36:54.518000Z",
         "updated": "2024-04-12T23:36:54.518000Z",
         "tags": "snowflake"
-    },
-    "https://medium.com/snowflake/snowflake-document-ai-%EF%B8%8F-a28f7416c858": {
-        "title": "Snowflake Document AI\u2744\ufe0f",
-        "published": "2024-04-12T13:02:05.669000Z",
-        "updated": "2024-04-12T13:02:05.669000Z",
-        "tags": "llm,gen-ai-for-business,machine-learning,snowflake"
     },
     "https://medium.com/snowflake/take-control-of-your-snowflake-spend-with-budgets-now-generally-available-00943f9d8ad6": {
         "title": "Take control of your Snowflake spend with Budgets (now Generally Available)",
