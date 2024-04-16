@@ -1,4 +1,22 @@
 {
+    "https://medium.com/snowflake/salesforce-connect-rest-api-adapter-for-snowflake-368ad8f7b3a7": {
+        "title": "Salesforce Connect REST API Adapter for Snowflake",
+        "published": "2024-04-16T00:02:10.155000Z",
+        "updated": "2024-04-16T00:02:10.155000Z",
+        "tags": "salesforce-integration,snowflake-data-cloud,salesforce-connect,zero-etl,snowflake"
+    },
+    "https://medium.com/snowflake/snowflakes-key-trends-from-the-braze-2024-global-customer-engagement-review-b7ff0f7c8110": {
+        "title": "Snowflake\u2019s Key Trends from the Braze 2024 Global Customer Engagement Review",
+        "published": "2024-04-15T21:41:58.552000Z",
+        "updated": "2024-04-15T21:50:24.565000Z",
+        "tags": "braze,customer-engagement,martech,marketing,snowflake"
+    },
+    "https://medium.com/snowflake/1-1-3-how-snowflake-and-mistral-push-the-boundary-in-text2sql-169bfa391331": {
+        "title": "1+1=3: How Snowflake and Mistral push the boundary in Text2SQL",
+        "published": "2024-04-15T15:42:05.375000Z",
+        "updated": "2024-04-15T17:00:53.883000Z",
+        "tags": "ai,llm,snowflake,mistral"
+    },
     "https://medium.com/snowflake/how-to-save-costs-by-elt-from-web-apis-into-a-snowflake-data-lake-with-python-883bb64ef231": {
         "title": "How to save costs by ELT from web APIs into a Snowflake data lake with Python",
         "published": "2024-04-13T21:40:47.876000Z",
@@ -1436,7 +1454,7 @@
     "https://medium.com/snowflake/snowflake-and-power-bi-best-practices-and-recent-improvements-183e2d970c0c": {
         "title": "Snowflake and Power BI: Best Practices and Recent Improvements",
         "published": "2023-12-07T23:02:08.677000Z",
-        "updated": "2024-04-15T01:14:35.263000Z",
+        "updated": "2024-04-15T18:33:28.864000Z",
         "tags": "snowflake,microsoft-power-bi,snowflake-data-cloud,power-bi-desktop,performance"
     },
     "https://medium.com/snowflake/optimizing-snowflake-cloud-services-costs-de10f0b15444": {
