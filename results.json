@@ -1,9 +1,21 @@
 {
+    "https://medium.com/snowflake/unveiling-customer-communities-harnessing-social-graphs-for-community-detection-with-014fb35dc696": {
+        "title": "Unveiling Customer Communities: Harnessing Social Graphs for Community Detection with\u2026",
+        "published": "2024-04-17T23:01:26.974000Z",
+        "updated": "2024-04-17T23:07:06.927000Z",
+        "tags": "graph-algorithms,relationalai,snowflake,louvain,python"
+    },
+    "https://medium.com/snowflake/testing-and-publishing-your-snowflake-native-app-085fd3857196": {
+        "title": "Testing and Publishing Your Snowflake Native App",
+        "published": "2024-04-17T16:01:38.054000Z",
+        "updated": "2024-04-17T16:01:38.054000Z",
+        "tags": "snowflake,data-superhero,native-app,native-app-development,python"
+    },
     "https://medium.com/snowflake/%EF%B8%8Fsnowflake-in-a-nutshell-cost-optimization-tip-for-budgets-b1ff8f20326f": {
         "title": "\u2744\ufe0fSnowflake in a Nutshell\u00a0: Cost optimization tip for budgets",
         "published": "2024-04-16T16:39:48.376000Z",
-        "updated": "2024-04-16T18:28:59.345000Z",
-        "tags": "cost-optimization,cost-optimisation,data-superhero,data-architecture,snowflake-data-cloud"
+        "updated": "2024-04-17T15:12:33.187000Z",
+        "tags": "cost-optimization,cost-optimisation,data-superhero,data-architecture,snowflake"
     },
     "https://medium.com/snowflake/snowflake-performance-tips-and-tricks-part-4-stored-procedure-f6d8393ccfed": {
         "title": "Snowflake performance tips and tricks\u200a\u2014\u200aPart 4: Stored Procedure",
@@ -12,9 +24,9 @@
         "tags": "snowflake,performance,stored-procedure"
     },
     "https://medium.com/snowflake/addressing-privacy-and-security-challenges-in-life-sciences-with-snowflake-and-a-vault-based-861ef56e71d3": {
-        "title": "Addressing Privacy and Security Challenges in Life Sciences with Snowflake and a vault based\u2026",
+        "title": "Securing Life Sciences Data with Snowflake and Skyflow Vaults",
         "published": "2024-04-16T02:35:40.953000Z",
-        "updated": "2024-04-16T02:46:33.861000Z",
+        "updated": "2024-04-17T14:56:04.867000Z",
         "tags": "snowflake,data-privacy,data-vault,pharmaceutical,lifesciences-industry"
     },
     "https://medium.com/snowflake/salesforce-connect-rest-api-adapter-for-snowflake-368ad8f7b3a7": {
@@ -3740,7 +3752,7 @@
     "https://medium.com/snowflake/simplifying-real-time-data-ingestion-stream-azure-event-hubs-events-into-snowflake-with-snowpipe-62010d8f479a": {
         "title": "Simplifying Real-Time Data Ingestion: Stream Azure Event Hubs events into Snowflake with Snowpipe\u2026",
         "published": "2023-05-25T13:22:29.812000Z",
-        "updated": "2023-05-28T15:50:59.087000Z",
+        "updated": "2024-04-17T16:57:08.662000Z",
         "tags": "snowpipe,streaming,azure-event-hub"
     },
     "https://medium.com/snowflake/activate-local-development-environment-for-snowpark-%EF%B8%8F-1ae1a6d7e00d": {
