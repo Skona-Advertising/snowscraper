@@ -1,8 +1,14 @@
 {
+    "https://medium.com/snowflake/exploring-world-wide-address-data-with-snowflake-copilot-6d53b84b0b0e": {
+        "title": "Exploring World Wide Address Data with Snowflake CoPilot",
+        "published": "2024-04-18T15:48:23.753000Z",
+        "updated": "2024-04-18T15:48:23.753000Z",
+        "tags": "snowflake,llm,data,analytics,ai"
+    },
     "https://medium.com/snowflake/unveiling-customer-communities-harnessing-social-graphs-for-community-detection-with-014fb35dc696": {
         "title": "Unveiling Customer Communities: Harnessing Social Graphs for Community Detection with\u2026",
         "published": "2024-04-17T23:01:26.974000Z",
-        "updated": "2024-04-17T23:07:06.927000Z",
+        "updated": "2024-04-18T18:27:43.991000Z",
         "tags": "graph-algorithms,relationalai,snowflake,louvain,python"
     },
     "https://medium.com/snowflake/testing-and-publishing-your-snowflake-native-app-085fd3857196": {
