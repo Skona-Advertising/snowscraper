@@ -1,4 +1,28 @@
 {
+    "https://medium.com/snowflake/churn-prediction-with-the-snowflake-cortex-classification-ml-function-6bb7c901cf31": {
+        "title": "Churn Prediction with the Snowflake Cortex Classification ML Function",
+        "published": "2024-04-19T16:18:02.260000Z",
+        "updated": "2024-04-19T16:56:04.742000Z",
+        "tags": "machine-learning,classification,snowflake,data-superhero,churn-prediction"
+    },
+    "https://medium.com/snowflake/snowflakes-new-python-api-empowers-data-engineers-to-build-modern-data-pipelines-with-ease-1f4a591b1e5e": {
+        "title": "Snowflake\u2019s New Python API Empowers Data Engineers to Build Modern Data Pipelines with Ease",
+        "published": "2024-04-19T16:17:38.053000Z",
+        "updated": "2024-04-19T16:17:38.053000Z",
+        "tags": "python,devops,data-engineering,developer,snowflake"
+    },
+    "https://medium.com/snowflake/snowflake-security-to-protect-sensitive-data-gdpr-in-access-layer-e25a79005083": {
+        "title": "Snowflake: Security to protect Sensitive Data (GDPR) in Access Layer",
+        "published": "2024-04-19T10:01:46.922000Z",
+        "updated": "2024-04-19T10:01:46.922000Z",
+        "tags": "snowflake,security,gdpr,tag,visualization"
+    },
+    "https://medium.com/snowflake/langchain-snowpark-openai-in-streamlit-%EF%B8%8F-33a9c019dc24": {
+        "title": "LangChain + Snowpark + OpenAI in Streamlit \u2744\ufe0f",
+        "published": "2024-04-19T01:17:58.930000Z",
+        "updated": "2024-04-19T03:59:56.277000Z",
+        "tags": "openai,snowpark,streamlit,snowflake"
+    },
     "https://medium.com/snowflake/exploring-world-wide-address-data-with-snowflake-copilot-6d53b84b0b0e": {
         "title": "Exploring World Wide Address Data with Snowflake CoPilot",
         "published": "2024-04-18T15:48:23.753000Z",
@@ -12,9 +36,9 @@
         "tags": "graph-algorithms,relationalai,snowflake,louvain,python"
     },
     "https://medium.com/snowflake/testing-and-publishing-your-snowflake-native-app-085fd3857196": {
-        "title": "Testing and Publishing Your Snowflake Native App",
+        "title": "Test and PublishYour Snowflake Native App",
         "published": "2024-04-17T16:01:38.054000Z",
-        "updated": "2024-04-17T16:01:38.054000Z",
+        "updated": "2024-04-19T16:25:36.655000Z",
         "tags": "snowflake,data-superhero,native-app,native-app-development,python"
     },
     "https://medium.com/snowflake/%EF%B8%8Fsnowflake-in-a-nutshell-cost-optimization-tip-for-budgets-b1ff8f20326f": {
@@ -2918,7 +2942,7 @@
     "https://medium.com/snowflake/snowflake-unlock-the-power-of-openai-using-snowpark-ebfb19437087": {
         "title": "Snowflake: Unlock the Power of OpenAI using Snowpark",
         "published": "2023-07-28T19:01:55.300000Z",
-        "updated": "2023-07-28T19:01:55.300000Z",
+        "updated": "2024-04-19T18:58:52.300000Z",
         "tags": "snowflake,machine-learning,llm,openai,snowpark"
     },
     "https://medium.com/snowflake/%EF%B8%8Fsnowflake-in-a-nutshell-summit-live-stream-interview-generative-ai-governance-c5747d462ad4": {
@@ -3758,7 +3782,7 @@
     "https://medium.com/snowflake/simplifying-real-time-data-ingestion-stream-azure-event-hubs-events-into-snowflake-with-snowpipe-62010d8f479a": {
         "title": "Simplifying Real-Time Data Ingestion: Stream Azure Event Hubs events into Snowflake with Snowpipe\u2026",
         "published": "2023-05-25T13:22:29.812000Z",
-        "updated": "2024-04-17T16:57:08.662000Z",
+        "updated": "2024-04-19T08:44:58.420000Z",
         "tags": "snowpipe,streaming,azure-event-hub"
     },
     "https://medium.com/snowflake/activate-local-development-environment-for-snowpark-%EF%B8%8F-1ae1a6d7e00d": {
