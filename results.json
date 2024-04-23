@@ -1,4 +1,28 @@
 {
+    "https://medium.com/snowflake/langchain-and-streamlit-rag-c5f53af8f6ba": {
+        "title": "LangChain and Streamlit RAG",
+        "published": "2024-04-22T17:34:05.822000Z",
+        "updated": "2024-04-22T19:54:02.761000Z",
+        "tags": "hybrid-search,retrieval-augmented-gen,langchain,streamlit,large-language-models"
+    },
+    "https://medium.com/snowflake/the-art-of-efficient-search-scalar-quantization-and-vectors-f912fd2e9bb7": {
+        "title": "The Art of Efficient Search: Scalar Quantization and Vectors",
+        "published": "2024-04-22T15:51:29.639000Z",
+        "updated": "2024-04-22T15:51:29.639000Z",
+        "tags": "ai,vector-search,retrieval-augmented-gen,performance-optimization,snowflake"
+    },
+    "https://medium.com/snowflake/snowflake-native-apps-a-new-way-to-put-data-to-work-8d01816701db": {
+        "title": "Snowflake Native Apps: A New Way to Put Data to Work",
+        "published": "2024-04-22T01:21:20.221000Z",
+        "updated": "2024-04-22T16:49:25.955000Z",
+        "tags": "snowflake,snowflake-native-app,snowflake-data-cloud,data-superhero"
+    },
+    "https://medium.com/snowflake/snowflake-cortex-function-complete-guide-3-e23f331ccb52": {
+        "title": "Snowflake Cortex Function\u200a\u2014\u200aComplete Guide\u200a\u2014\u200a3",
+        "published": "2024-04-21T01:06:02.283000Z",
+        "updated": "2024-04-22T05:36:20.794000Z",
+        "tags": "data-science,programming,machine-learning,snowflake,data-superhero"
+    },
     "https://medium.com/snowflake/churn-prediction-with-the-snowflake-cortex-classification-ml-function-6bb7c901cf31": {
         "title": "Churn Prediction with the Snowflake Cortex Classification ML Function",
         "published": "2024-04-19T16:18:02.260000Z",
