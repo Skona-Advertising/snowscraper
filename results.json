@@ -1,9 +1,27 @@
 {
+    "https://medium.com/snowflake/how-does-it-work-python-package-versions-snowpark-and-how-to-avoid-dependency-purgatory-7fa3e83bb4cd": {
+        "title": "How Does It Work? Python Package Versions, Snowpark and How to Avoid Dependency Purgatory",
+        "published": "2024-04-23T19:27:13.791000Z",
+        "updated": "2024-04-23T19:27:13.791000Z",
+        "tags": "snowflake,snowpark"
+    },
+    "https://medium.com/snowflake/execute-complete-data-report-pipelines-with-a-single-query-using-snowflake-cortex-1b415e9db8b0": {
+        "title": "Execute complete data report pipelines with a single query using Snowflake Cortex!",
+        "published": "2024-04-23T14:47:20.933000Z",
+        "updated": "2024-04-23T14:47:20.933000Z",
+        "tags": "snowflake,snowflake-cortex,llm,snowflake-data-cloud,ai"
+    },
     "https://medium.com/snowflake/langchain-and-streamlit-rag-c5f53af8f6ba": {
         "title": "LangChain and Streamlit RAG",
         "published": "2024-04-22T17:34:05.822000Z",
         "updated": "2024-04-22T19:54:02.761000Z",
         "tags": "hybrid-search,retrieval-augmented-gen,langchain,streamlit,large-language-models"
+    },
+    "https://medium.com/snowflake/pick-your-fighter-easy-model-comparisons-with-streamlit-cortex-244530a2d3bf": {
+        "title": "Pick Your Fighter\u00a0: Easy Model Comparisons with Streamlit & Cortex",
+        "published": "2024-04-22T16:18:19.499000Z",
+        "updated": "2024-04-23T15:57:28.564000Z",
+        "tags": "generative-ai,streamlit,snowflake,snowflake-cortex,llm"
     },
     "https://medium.com/snowflake/the-art-of-efficient-search-scalar-quantization-and-vectors-f912fd2e9bb7": {
         "title": "The Art of Efficient Search: Scalar Quantization and Vectors",
@@ -1544,7 +1562,7 @@
     "https://medium.com/snowflake/snowflake-and-power-bi-best-practices-and-recent-improvements-183e2d970c0c": {
         "title": "Snowflake and Power BI: Best Practices and Recent Improvements",
         "published": "2023-12-07T23:02:08.677000Z",
-        "updated": "2024-04-16T17:55:11.019000Z",
+        "updated": "2024-04-23T15:49:34.191000Z",
         "tags": "snowflake,microsoft-power-bi,snowflake-data-cloud,power-bi-desktop,performance"
     },
     "https://medium.com/snowflake/optimizing-snowflake-cloud-services-costs-de10f0b15444": {
