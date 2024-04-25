@@ -1,14 +1,26 @@
 {
+    "https://medium.com/snowflake/h2o-ai-launches-snowflake-native-apps-integration-with-snowpark-container-services-in-private-f18cb45cfe5c": {
+        "title": "H2O.ai Launches Snowflake Native Apps integration with Snowpark Container Services in private\u2026",
+        "published": "2024-04-24T16:01:45.082000Z",
+        "updated": "2024-04-24T16:01:45.082000Z",
+        "tags": "snowflake-native-app,snowpark,h2oai"
+    },
+    "https://medium.com/snowflake/snowflake-arctic-cookbook-series-building-an-efficient-training-system-for-arctic-6658b9bdfcae": {
+        "title": "Snowflake Arctic Cookbook Series: Building an Efficient Training System for Arctic",
+        "published": "2024-04-24T12:44:11.493000Z",
+        "updated": "2024-04-24T14:04:15.693000Z",
+        "tags": "llm-training,llm"
+    },
     "https://medium.com/snowflake/how-does-it-work-python-package-versions-snowpark-and-how-to-avoid-dependency-purgatory-7fa3e83bb4cd": {
         "title": "How Does It Work? Python Package Versions, Snowpark and How to Avoid Dependency Purgatory",
         "published": "2024-04-23T19:27:13.791000Z",
-        "updated": "2024-04-23T19:27:13.791000Z",
+        "updated": "2024-04-24T16:57:40.805000Z",
         "tags": "snowflake,snowpark"
     },
     "https://medium.com/snowflake/execute-complete-data-report-pipelines-with-a-single-query-using-snowflake-cortex-1b415e9db8b0": {
         "title": "Execute complete data report pipelines with a single query using Snowflake Cortex!",
         "published": "2024-04-23T14:47:20.933000Z",
-        "updated": "2024-04-23T14:47:20.933000Z",
+        "updated": "2024-04-24T12:12:34.787000Z",
         "tags": "snowflake,snowflake-cortex,llm,snowflake-data-cloud,ai"
     },
     "https://medium.com/snowflake/langchain-and-streamlit-rag-c5f53af8f6ba": {
@@ -928,6 +940,12 @@
         "published": "2024-02-08T16:31:29.432000Z",
         "updated": "2024-02-08T16:31:29.432000Z",
         "tags": "snowflake,llm,cortex"
+    },
+    "https://medium.com/snowflake/introducing-the-2024-snowflake-data-superheroes-1962bc20079f": {
+        "title": "Introducing the 2024 Snowflake Data Superheroes!",
+        "published": "2024-02-08T13:01:49.264000Z",
+        "updated": "2024-02-08T18:48:58.199000Z",
+        "tags": "snowflake,data-superhero,community,developer"
     },
     "https://medium.com/snowflake/object-privileges-in-clone-1dbfff333890": {
         "title": "Object Privileges in CLONE",
