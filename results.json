@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/writing-robust-procedures-with-snowpark-07c12b7650f2": {
+        "title": "Writing Robust Procedures with Snowpark",
+        "published": "2024-04-25T16:58:00.546000Z",
+        "updated": "2024-04-25T16:58:00.546000Z",
+        "tags": "snowpark,snowflake,native-app-development,stored-procedure,user-defined-functions"
+    },
+    "https://medium.com/snowflake/iris-flower-classification-with-snowflake-cortex-ui-f167c591125c": {
+        "title": "Iris Flower Classification with Snowflake Cortex UI",
+        "published": "2024-04-25T15:02:39.447000Z",
+        "updated": "2024-04-25T15:02:39.447000Z",
+        "tags": "snowflake,data-science,mls,classification,biology"
+    },
     "https://medium.com/snowflake/h2o-ai-launches-snowflake-native-apps-integration-with-snowpark-container-services-in-private-f18cb45cfe5c": {
         "title": "H2O.ai Launches Snowflake Native Apps integration with Snowpark Container Services in private\u2026",
         "published": "2024-04-24T16:01:45.082000Z",
@@ -174,9 +186,9 @@
         "tags": "azure,terraform,data-architecture,power-bi,snowflake"
     },
     "https://medium.com/snowflake/reduce-your-equipment-downtime-with-snowflake-cortex-and-streamlit-a-rag-based-approach-071ff4f3347e": {
-        "title": "Reduce your equipment downtime with Snowflake Cortex and Streamlit. (a rag based approach)",
+        "title": "Reduce your equipment downtime with Snowflake Cortex and Streamlit. (a RAG based approach)",
         "published": "2024-04-11T15:32:44.257000Z",
-        "updated": "2024-04-11T16:46:58.738000Z",
+        "updated": "2024-04-25T22:04:20.340000Z",
         "tags": "snowflake-data-cloud,large-language-models,retrieval-augmented-gen,streamlit,manufacturing"
     },
     "https://medium.com/snowflake/snowflake-cortex-optimizing-root-cause-analysis-in-financial-services-58501d82904c": {
@@ -198,9 +210,9 @@
         "tags": "snowflake,change-data-capture,apache-nifi"
     },
     "https://medium.com/snowflake/end-to-end-machine-learning-with-snowpark-ml-in-snowflake-notebooks-faa42f1f57fc": {
-        "title": "Diamond Quality Prediction: End-to-End Machine Learning with Snowpark ML in Snowflake Notebooks",
+        "title": "Diamond Price Prediction: End-to-End Machine Learning with Snowpark ML in Snowflake Notebooks",
         "published": "2024-04-08T17:59:03.602000Z",
-        "updated": "2024-04-11T17:11:01.843000Z",
+        "updated": "2024-04-25T17:30:34.658000Z",
         "tags": "snowpark-ml,snowflake,notebook,mlops"
     },
     "https://medium.com/snowflake/snowflake-observability-on-dml-transactions-in-affected-columns-part-2-0d5456b2a409": {
