@@ -1,4 +1,22 @@
 {
+    "https://medium.com/snowflake/the-art-and-science-of-nested-polymorphic-json-transformation-in-snowflake-0864478da413": {
+        "title": "The art and science of nested, polymorphic JSON transformation in Snowflake",
+        "published": "2024-04-26T19:32:12.055000Z",
+        "updated": "2024-04-26T19:32:12.055000Z",
+        "tags": "json-flattening,polymorphic,native-app,data-engineering,snowflake"
+    },
+    "https://medium.com/snowflake/snowflake-arctic-cookbook-series-arctics-approach-to-data-b81a8a0958bd": {
+        "title": "Snowflake Arctic Cookbook Series: Arctic\u2019s Approach to Data",
+        "published": "2024-04-26T14:45:09.310000Z",
+        "updated": "2024-04-26T14:46:14.995000Z",
+        "tags": "arctic-llm,snowflake-arctic,large-language-models,llm-training"
+    },
+    "https://medium.com/snowflake/sql-snowflake-new-capabilities-9fa28c64384b": {
+        "title": "SQL & Snowflake- New capabilities",
+        "published": "2024-04-26T04:04:44.184000Z",
+        "updated": "2024-04-26T04:21:40.002000Z",
+        "tags": "snowflake,sql,data-and-analytics,snowflake-data-cloud,data-superhero"
+    },
     "https://medium.com/snowflake/writing-robust-procedures-with-snowpark-07c12b7650f2": {
         "title": "Writing Robust Procedures with Snowpark",
         "published": "2024-04-25T16:58:00.546000Z",
