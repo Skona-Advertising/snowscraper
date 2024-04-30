@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/introducing-caps-your-snowflake-arctic-powered-retail-ai-agent-24b9bf9cb117": {
+        "title": "Introducing CAPS, your Snowflake Arctic-powered Retail AI Agent",
+        "published": "2024-04-29T20:42:50.611000Z",
+        "updated": "2024-04-29T21:12:57.994000Z",
+        "tags": "snowflake,ai,cortex,llm,arctic"
+    },
+    "https://medium.com/snowflake/turning-a-streamlit-in-snowflake-into-a-native-app-my-april-month-goal-9e30fe8bb64c": {
+        "title": "Turning a Streamlit in Snowflake into a Native App\u200a\u2014\u200aMy April Month Goal",
+        "published": "2024-04-29T15:51:36.913000Z",
+        "updated": "2024-04-29T15:51:36.913000Z",
+        "tags": "native-app,snowflake,apps,streamlit,app-development"
+    },
     "https://medium.com/snowflake/the-art-and-science-of-nested-polymorphic-json-transformation-in-snowflake-0864478da413": {
         "title": "The art and science of nested, polymorphic JSON transformation in Snowflake",
         "published": "2024-04-26T19:32:12.055000Z",
