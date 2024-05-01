@@ -1,4 +1,28 @@
 {
+    "https://medium.com/snowflake/supply-chain-network-optimization-on-snowflake-%EF%B8%8F-521bfc05d4ce": {
+        "title": "Supply Chain Network Optimization on Snowflake \u2744\ufe0f",
+        "published": "2024-04-30T16:22:12.178000Z",
+        "updated": "2024-04-30T16:22:12.178000Z",
+        "tags": "linear-programming,optimization,supply-chain,snowflake,mathematical-optimization"
+    },
+    "https://medium.com/snowflake/snowpark-ml-an-example-project-5627e212520c": {
+        "title": "Snowpark ML\u200a\u2014\u200aAn Example Project",
+        "published": "2024-04-30T15:05:16.850000Z",
+        "updated": "2024-04-30T16:07:36.094000Z",
+        "tags": "snowflake,snowpark"
+    },
+    "https://medium.com/snowflake/using-snowflake-dynamic-tables-in-lieu-of-traditional-materialized-views-2bcc29d7a654": {
+        "title": "Using Snowflake Dynamic Tables in Lieu of Traditional Materialized Views",
+        "published": "2024-04-30T15:04:41.668000Z",
+        "updated": "2024-04-30T15:04:41.668000Z",
+        "tags": "snowflake,dynamic-table,data-superhero"
+    },
+    "https://medium.com/snowflake/snowflake-copilot-exciting-news-its-here-04e1bb0974a5": {
+        "title": "Snowflake Copilot: Exciting News\u200a\u2014\u200aIt\u2019s Here!",
+        "published": "2024-04-30T08:03:30.750000Z",
+        "updated": "2024-04-30T14:59:12.985000Z",
+        "tags": "data-science,llm,data-superhero,snowflake,data"
+    },
     "https://medium.com/snowflake/introducing-caps-your-snowflake-arctic-powered-retail-ai-agent-24b9bf9cb117": {
         "title": "Introducing CAPS, your Snowflake Arctic-powered Retail AI Agent",
         "published": "2024-04-29T20:42:50.611000Z",
@@ -8,7 +32,7 @@
     "https://medium.com/snowflake/turning-a-streamlit-in-snowflake-into-a-native-app-my-april-month-goal-9e30fe8bb64c": {
         "title": "Turning a Streamlit in Snowflake into a Native App\u200a\u2014\u200aMy April Month Goal",
         "published": "2024-04-29T15:51:36.913000Z",
-        "updated": "2024-04-29T15:51:36.913000Z",
+        "updated": "2024-04-30T09:15:25.090000Z",
         "tags": "native-app,snowflake,apps,streamlit,app-development"
     },
     "https://medium.com/snowflake/the-art-and-science-of-nested-polymorphic-json-transformation-in-snowflake-0864478da413": {
@@ -2516,7 +2540,7 @@
     "https://medium.com/snowflake/finops-for-snowflake-f37d531eb8e2": {
         "title": "FinOps for Snowflake",
         "published": "2023-09-15T02:54:46.885000Z",
-        "updated": "2023-09-15T17:40:31.497000Z",
+        "updated": "2024-04-30T21:44:41.761000Z",
         "tags": "snowflake,optimization"
     },
     "https://medium.com/snowflake/simplifying-data-ingestion-creating-a-data-pipeline-in-snowflake-with-sftp-e99033f230c2": {
@@ -2900,7 +2924,7 @@
     "https://medium.com/snowflake/best-practices-to-optimize-snowflake-spend-73b8f66d16c1": {
         "title": "Best practices to optimize Snowflake spend",
         "published": "2023-08-10T06:24:21.589000Z",
-        "updated": "2023-09-29T00:16:00.635000Z",
+        "updated": "2024-04-30T13:43:09.452000Z",
         "tags": "snowflake,cost-optimization,snowflake-data-cloud,virtual-warehouse,performance"
     },
     "https://medium.com/snowflake/streamlining-devops-with-snowflake-and-git-integration-fc0b76a40a76": {
