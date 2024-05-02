@@ -1,4 +1,28 @@
 {
+    "https://medium.com/snowflake/snowpark-migration-accelerator-the-ultimate-solution-to-all-your-spark-to-snowflake-migration-woes-aa91ca628faf": {
+        "title": "Snowpark Migration Accelerator \u2014The Ultimate Solution to All Your Spark to Snowflake Migration Woes",
+        "published": "2024-05-01T16:15:38.701000Z",
+        "updated": "2024-05-01T16:15:38.701000Z",
+        "tags": "snowflake,data-superhero,snowpark,migration"
+    },
+    "https://medium.com/snowflake/manage-how-consumers-use-your-native-app-d8eeb4af8f5c": {
+        "title": "Manage How Consumers Use your Native App",
+        "published": "2024-05-01T16:10:41.145000Z",
+        "updated": "2024-05-01T19:38:40.961000Z",
+        "tags": "snowflake,snowflake-native-app,identity-resolution,data-enrichment,streamlit"
+    },
+    "https://medium.com/snowflake/snowflake-data-ingestion-include-metadata-583511727b6e": {
+        "title": "Snowflake Data Ingestion INCLUDE_METADATA",
+        "published": "2024-05-01T16:10:20.606000Z",
+        "updated": "2024-05-01T20:17:30.304000Z",
+        "tags": "data-engineering,snowflake-data-cloud,snowflake,data-warehouse,data-pipeline"
+    },
+    "https://medium.com/snowflake/supercharging-snowflake-native-app-development-with-snowflake-cli-589670f0069c": {
+        "title": "Supercharging Snowflake Native App Development with Snowflake CLI",
+        "published": "2024-05-01T14:47:36.759000Z",
+        "updated": "2024-05-01T14:47:36.759000Z",
+        "tags": "cli,devops,python,ci-cd-pipeline,snowflake"
+    },
     "https://medium.com/snowflake/supply-chain-network-optimization-on-snowflake-%EF%B8%8F-521bfc05d4ce": {
         "title": "Supply Chain Network Optimization on Snowflake \u2744\ufe0f",
         "published": "2024-04-30T16:22:12.178000Z",
@@ -64,6 +88,12 @@
         "published": "2024-04-25T15:02:39.447000Z",
         "updated": "2024-04-25T15:02:39.447000Z",
         "tags": "snowflake,data-science,mls,classification,biology"
+    },
+    "https://medium.com/snowflake/tips-for-data-teams-building-campaign-intelligence-5a1955f7d533": {
+        "title": "Tips for data teams building Campaign Intelligence",
+        "published": "2024-04-25T13:25:03.875000Z",
+        "updated": "2024-05-01T16:10:28.517000Z",
+        "tags": "data,snowflake,advertising,marketing"
     },
     "https://medium.com/snowflake/h2o-ai-launches-snowflake-native-apps-integration-with-snowpark-container-services-in-private-f18cb45cfe5c": {
         "title": "H2O.ai Launches Snowflake Native Apps integration with Snowpark Container Services in private\u2026",
@@ -1664,7 +1694,7 @@
     "https://medium.com/snowflake/how-to-integrate-databricks-with-snowflake-managed-iceberg-tables-7a8895c2c724": {
         "title": "How to integrate Databricks with Snowflake-managed Iceberg Tables",
         "published": "2023-12-05T13:31:51.050000Z",
-        "updated": "2024-04-02T21:07:04.606000Z",
+        "updated": "2024-05-01T22:06:11.553000Z",
         "tags": "snowflake,apache-iceberg,databricks"
     },
     "https://medium.com/snowflake/machine-learning-based-alerts-for-snowflake-finops-8ec640fb1cee": {
