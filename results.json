@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/threat-intelligence-on-snowflake-08455bba6ab9": {
+        "title": "Threat Intelligence on Snowflake",
+        "published": "2024-05-03T14:52:56.632000Z",
+        "updated": "2024-05-03T14:52:56.632000Z",
+        "tags": "data-engineering,cybersecurity,snowflake,streamlit,machine-learning"
+    },
     "https://medium.com/snowflake/learning-snowflake-python-api-8cb45775473f": {
         "title": "Learning Snowflake Python API",
         "published": "2024-05-02T21:02:13.604000Z",
@@ -32,7 +38,7 @@
     "https://medium.com/snowflake/snowflake-data-ingestion-include-metadata-583511727b6e": {
         "title": "Snowflake Data Ingestion INCLUDE_METADATA",
         "published": "2024-05-01T16:10:20.606000Z",
-        "updated": "2024-05-01T20:17:30.304000Z",
+        "updated": "2024-05-03T06:28:30.565000Z",
         "tags": "data-engineering,snowflake-data-cloud,snowflake,data-warehouse,data-pipeline"
     },
     "https://medium.com/snowflake/supercharging-snowflake-native-app-development-with-snowflake-cli-589670f0069c": {
@@ -56,7 +62,7 @@
     "https://medium.com/snowflake/snowpark-ml-an-example-project-5627e212520c": {
         "title": "Snowpark ML\u200a\u2014\u200aAn Example Project",
         "published": "2024-04-30T15:05:16.850000Z",
-        "updated": "2024-04-30T16:07:36.094000Z",
+        "updated": "2024-05-03T01:56:24.126000Z",
         "tags": "snowflake,snowpark"
     },
     "https://medium.com/snowflake/using-snowflake-dynamic-tables-in-lieu-of-traditional-materialized-views-2bcc29d7a654": {
