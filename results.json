@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/monitoring-data-quality-natively-in-snowflake-6cdbcef70de5": {
+        "title": "Monitoring Data Quality Natively in Snowflake",
+        "published": "2024-05-06T18:01:37.023000Z",
+        "updated": "2024-05-06T18:01:37.023000Z",
+        "tags": "snowflake,data-quality,data-metric,data-superhero"
+    },
+    "https://medium.com/snowflake/interact-with-llm-to-search-and-uncover-insights-from-medical-transcript-documents-ab5d694e70e4": {
+        "title": "Interact with LLM to search and uncover insights from medical transcript documents",
+        "published": "2024-05-06T15:55:02.489000Z",
+        "updated": "2024-05-06T15:55:02.489000Z",
+        "tags": "large-language-models,snowflake-cortex,retrieval-augmented-gen,healthcare-innovations,snowflake"
+    },
     "https://medium.com/snowflake/threat-intelligence-on-snowflake-08455bba6ab9": {
         "title": "Threat Intelligence on Snowflake",
         "published": "2024-05-03T14:52:56.632000Z",
