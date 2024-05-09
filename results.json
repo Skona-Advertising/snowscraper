@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/the-solution-installation-wizard-on-snowflake-%EF%B8%8F-ba64ade85d51": {
+        "title": "The Solution Installation Wizard on Snowflake \u2744\ufe0f",
+        "published": "2024-05-08T14:54:01.352000Z",
+        "updated": "2024-05-08T14:54:01.352000Z",
+        "tags": "snowflake,native-app,streamlit,python"
+    },
     "https://medium.com/snowflake/monitoring-data-quality-natively-in-snowflake-6cdbcef70de5": {
         "title": "Monitoring Data Quality Natively in Snowflake",
         "published": "2024-05-06T18:01:37.023000Z",
@@ -752,7 +758,7 @@
     "https://medium.com/snowflake/call-centre-analytics-with-snowflake-cortex-function-and-snowpark-container-services-5e06b4baef46": {
         "title": "Call Centre Analytics with Snowflake Cortex Function and Snowpark Container Services",
         "published": "2024-03-04T20:09:16.997000Z",
-        "updated": "2024-03-05T08:29:28.904000Z",
+        "updated": "2024-05-08T18:25:56.283000Z",
         "tags": "snowflake-snowpark,containers,snowflake"
     },
     "https://medium.com/snowflake/boost-your-visibility-with-snowflake-native-apps-3b2fe76541c2": {
