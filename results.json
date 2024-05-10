@@ -1,4 +1,22 @@
 {
+    "https://medium.com/snowflake/python-user-defined-aggregate-functions-now-in-public-preview-3868c51bbc62": {
+        "title": "Python User-Defined Aggregate Functions: now in Public Preview",
+        "published": "2024-05-09T22:07:27.551000Z",
+        "updated": "2024-05-09T22:07:27.551000Z",
+        "tags": "snowpark,python,data-engineering"
+    },
+    "https://medium.com/snowflake/building-ml-models-in-minutes-with-hex-and-snowflake-cortex-434e94486365": {
+        "title": "Building ML Models In Minutes With Hex and Snowflake Cortex",
+        "published": "2024-05-09T17:52:28.596000Z",
+        "updated": "2024-05-09T17:52:28.596000Z",
+        "tags": "data-science,cortex,snowflake,hex,machine-learning"
+    },
+    "https://medium.com/snowflake/easier-monitoring-with-the-alert-hub-framework-b4d68fb66738": {
+        "title": "Easier Monitoring with the Alert Hub Framework",
+        "published": "2024-05-09T15:54:35.639000Z",
+        "updated": "2024-05-09T15:54:35.639000Z",
+        "tags": "snowflake,streamlit,application,alerts,monitoring"
+    },
     "https://medium.com/snowflake/the-solution-installation-wizard-on-snowflake-%EF%B8%8F-ba64ade85d51": {
         "title": "The Solution Installation Wizard on Snowflake \u2744\ufe0f",
         "published": "2024-05-08T14:54:01.352000Z",
