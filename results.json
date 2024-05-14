@@ -1,4 +1,22 @@
 {
+    "https://medium.com/snowflake/snowflake-cortex-llm-self-querying-in-snowflake-with-cortex-ai-21552d6ae7c6": {
+        "title": "Snowflake Cortex LLM: Self-Querying in Snowflake with Cortex AI",
+        "published": "2024-05-13T14:17:33.733000Z",
+        "updated": "2024-05-13T14:17:33.733000Z",
+        "tags": "snowflake,snowflake-cortex,llm,genai,data-science"
+    },
+    "https://medium.com/snowflake/responsible-ai-on-snowflake-snowflake-cortex-llms-snowpark-container-services-snowflake-a0acc3e93909": {
+        "title": "Responsible AI on Snowflake: Snowflake Cortex LLM\u2019s + Snowpark Container Services + Snowflake\u2026",
+        "published": "2024-05-12T22:28:37.770000Z",
+        "updated": "2024-05-13T22:29:46.329000Z",
+        "tags": "genai,snowpark,cortex,nvidia,snowflake"
+    },
+    "https://medium.com/snowflake/snowflake-notification-now-comes-with-more-improvement-6a313d6ab939": {
+        "title": "Snowflake Notification\u00a0: Now comes with more improvement\u2026!",
+        "published": "2024-05-11T05:13:46.257000Z",
+        "updated": "2024-05-13T22:30:16.516000Z",
+        "tags": "snowflake,rajiv-gupta,data-superhero,notifications,rajiveverydaylearning"
+    },
     "https://medium.com/snowflake/snowflake-clustering-demystified-8042fa81289e": {
         "title": "Snowflake Clustering Demystified",
         "published": "2024-05-10T21:15:20.223000Z",
