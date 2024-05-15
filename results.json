@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/building-a-security-data-lake-for-the-future-sygnias-migration-from-elasticsearch-to-snowflake-0e0338f38851": {
+        "title": "Building a Security Data Lake for the Future: Sygnia\u2019s Migration from Elasticsearch to Snowflake",
+        "published": "2024-05-14T19:16:03.609000Z",
+        "updated": "2024-05-14T19:16:03.609000Z",
+        "tags": "data-platforms,data-lake,snowflake,cybersecurity,incident-response"
+    },
+    "https://medium.com/snowflake/there-is-a-data-engineering-gold-rush-mining-for-richer-customer-analytics-using-generative-ai-494d82184079": {
+        "title": "There is a Data Engineering gold rush: Mining for richer customer analytics using Generative AI.",
+        "published": "2024-05-14T16:02:05.395000Z",
+        "updated": "2024-05-14T16:02:05.395000Z",
+        "tags": ""
+    },
     "https://medium.com/snowflake/snowflake-cortex-llm-self-querying-in-snowflake-with-cortex-ai-21552d6ae7c6": {
         "title": "Snowflake Cortex LLM: Self-Querying in Snowflake with Cortex AI",
         "published": "2024-05-13T14:17:33.733000Z",
@@ -764,7 +776,7 @@
     "https://medium.com/snowflake/announcing-public-preview-of-custom-classification-and-new-sql-interfaces-8602ea89d588": {
         "title": "Announcing Public Preview of Custom Classification and new SQL interfaces",
         "published": "2024-03-06T20:48:22.690000Z",
-        "updated": "2024-03-06T21:20:45.923000Z",
+        "updated": "2024-05-14T23:19:52.540000Z",
         "tags": "data-governance,data-classification,snowflake"
     },
     "https://medium.com/snowflake/datawash-an-advanced-snowflake-data-quality-tool-powered-by-snowpark-part-2-c6395d0ac588": {
