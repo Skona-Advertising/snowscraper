@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/analyze-data-in-r-with-posit-workbench-and-snowflake-7b837b27337b": {
+        "title": "Analyze Data in R with Posit Workbench and Snowflake",
+        "published": "2024-05-15T17:29:49.168000Z",
+        "updated": "2024-05-15T17:29:49.168000Z",
+        "tags": "snowflake,rstudio,r-language,shiny,quarto"
+    },
+    "https://medium.com/snowflake/where-to-build-business-logic-on-snowflake-a-powerbi-case-study-6c45079ab86f": {
+        "title": "Where to build business logic on Snowflake: a PowerBI case study",
+        "published": "2024-05-15T14:42:02.862000Z",
+        "updated": "2024-05-15T14:42:02.862000Z",
+        "tags": "semantic-layer,power-bi,snowflake,honeydew,tableau"
+    },
     "https://medium.com/snowflake/building-a-security-data-lake-for-the-future-sygnias-migration-from-elasticsearch-to-snowflake-0e0338f38851": {
         "title": "Building a Security Data Lake for the Future: Sygnia\u2019s Migration from Elasticsearch to Snowflake",
         "published": "2024-05-14T19:16:03.609000Z",
@@ -7472,7 +7484,7 @@
     "https://medium.com/snowflake/how-to-properly-generate-a-dynamic-pivot-query-in-snowflake-921bde88b300": {
         "title": "How to Properly Generate a Dynamic Pivot Query in Snowflake",
         "published": "2022-04-02T22:03:37.149000Z",
-        "updated": "2024-02-04T15:11:33.042000Z",
+        "updated": "2024-05-15T20:02:49.661000Z",
         "tags": "snowflake-data-cloud,pivot-tables,crosstab"
     },
     "https://medium.com/snowflake/guide-snowflake-continual-87dceae84c8a": {
