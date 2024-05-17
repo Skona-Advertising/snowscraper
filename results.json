@@ -95,6 +95,12 @@
         "updated": "2024-05-10T21:17:31.091000Z",
         "tags": "data-science,llm,data-superhero,snowflake,data"
     },
+    "https://medium.com/snowflake/quick-and-easy-anomaly-detection-app-for-sql-enthusiasts-using-snowflake-cortex-ml-function-d135977338ac": {
+        "title": "Quick And Easy Anomaly Detection App, For SQL Enthusiasts Using Snowflake Cortex ML Function",
+        "published": "2024-05-08T22:06:13.767000Z",
+        "updated": "2024-05-16T21:10:18.061000Z",
+        "tags": "snowflake-data-cloud,snowflake,snowflake-cortex,ai-ml-platform,anomaly-detection"
+    },
     "https://medium.com/snowflake/the-solution-installation-wizard-on-snowflake-%EF%B8%8F-ba64ade85d51": {
         "title": "The Solution Installation Wizard on Snowflake \u2744\ufe0f",
         "published": "2024-05-08T14:54:01.352000Z",
@@ -304,6 +310,12 @@
         "published": "2024-04-21T01:06:02.283000Z",
         "updated": "2024-04-22T05:36:20.794000Z",
         "tags": "data-science,programming,machine-learning,snowflake,data-superhero"
+    },
+    "https://medium.com/snowflake/introducing-snowflake-squad-7b1ee6abdcf6": {
+        "title": "Introducing Snowflake Squad",
+        "published": "2024-04-19T23:20:10.160000Z",
+        "updated": "2024-05-16T21:10:54.261000Z",
+        "tags": ""
     },
     "https://medium.com/snowflake/churn-prediction-with-the-snowflake-cortex-classification-ml-function-6bb7c901cf31": {
         "title": "Churn Prediction with the Snowflake Cortex Classification ML Function",
