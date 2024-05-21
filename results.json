@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/genai-assisting-with-healthcare-coding-extraction-to-calculate-appropriate-patient-risk-scores-for-a7e067231749": {
+        "title": "GenAI assisting with healthcare coding extraction to calculate appropriate patient risk scores for\u2026",
+        "published": "2024-05-20T14:01:53.034000Z",
+        "updated": "2024-05-20T14:01:53.034000Z",
+        "tags": ""
+    },
     "https://medium.com/snowflake/analyze-data-in-r-with-posit-workbench-and-snowflake-7b837b27337b": {
         "title": "Analyze Data in R with Posit Workbench and Snowflake",
         "published": "2024-05-15T17:29:49.168000Z",
@@ -21,6 +27,12 @@
         "title": "There is a Data Engineering gold rush: Mining for richer customer analytics using Generative AI.",
         "published": "2024-05-14T16:02:05.395000Z",
         "updated": "2024-05-14T16:02:05.395000Z",
+        "tags": ""
+    },
+    "https://medium.com/snowflake/unlocking-efficiency-with-semi-structured-data-leveraging-snowflakes-higher-order-functions-ed89b51801a0": {
+        "title": "Unlocking Efficiency with Semi-structured Data: Leveraging Snowflake\u2019s Higher-Order Functions",
+        "published": "2024-05-14T02:44:30.967000Z",
+        "updated": "2024-05-20T19:50:37.834000Z",
         "tags": ""
     },
     "https://medium.com/snowflake/snowflake-cortex-llm-self-querying-in-snowflake-with-cortex-ai-21552d6ae7c6": {
@@ -194,7 +206,7 @@
     "https://medium.com/snowflake/snowpark-ml-an-example-project-5627e212520c": {
         "title": "Snowpark ML\u200a\u2014\u200aAn Example Project",
         "published": "2024-04-30T15:05:16.850000Z",
-        "updated": "2024-05-03T01:56:24.126000Z",
+        "updated": "2024-05-20T12:03:31.075000Z",
         "tags": "snowflake,snowpark"
     },
     "https://medium.com/snowflake/using-snowflake-dynamic-tables-in-lieu-of-traditional-materialized-views-2bcc29d7a654": {
