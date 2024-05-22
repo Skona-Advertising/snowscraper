@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/identify-easy-ways-to-save-with-snowflake-cost-insights-f9ef29bc3917": {
+        "title": "Identify easy ways to save with Snowflake cost insights",
+        "published": "2024-05-21T14:02:32.607000Z",
+        "updated": "2024-05-21T14:02:32.607000Z",
+        "tags": ""
+    },
+    "https://medium.com/snowflake/snowflake-cortex-rag-from-external-api-%EF%B8%8F-abc493bc155f": {
+        "title": "Snowflake Cortex-RAG from External API \u2744\ufe0f",
+        "published": "2024-05-21T14:02:26.854000Z",
+        "updated": "2024-05-21T14:02:26.854000Z",
+        "tags": "snowflake-cortex,ai,snowpark,snowflake,llm"
+    },
     "https://medium.com/snowflake/genai-assisting-with-healthcare-coding-extraction-to-calculate-appropriate-patient-risk-scores-for-a7e067231749": {
         "title": "GenAI assisting with healthcare coding extraction to calculate appropriate patient risk scores for\u2026",
         "published": "2024-05-20T14:01:53.034000Z",
@@ -740,7 +752,7 @@
     "https://medium.com/snowflake/how-to-use-llama-2-on-iceberg-tables-for-sentiment-analysis-with-snowflake-cortex-32c030a8102b": {
         "title": "How to use LLMs on an open lakehouse for sentiment analysis with Iceberg and Snowflake Cortex",
         "published": "2024-03-18T17:43:23.968000Z",
-        "updated": "2024-04-03T04:49:14.165000Z",
+        "updated": "2024-05-22T00:03:54.854000Z",
         "tags": "apache-iceberg,data-lake,data-lakehouse,data-engineering,artificial-intelligence"
     },
     "https://medium.com/snowflake/strengthen-your-security-posture-using-cortex-llm-functions-39530457266d": {
