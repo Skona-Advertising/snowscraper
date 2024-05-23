@@ -1,4 +1,28 @@
 {
+    "https://medium.com/snowflake/snowflake-security-custom-roles-monitor-costs-with-snowsight-ui-afb3e4632e5a": {
+        "title": "Snowflake: Security\u200a\u2014\u200aCustom Roles monitor Costs with Snowsight UI",
+        "published": "2024-05-22T20:01:29.868000Z",
+        "updated": "2024-05-22T20:01:29.868000Z",
+        "tags": "snowflake,security,monitoring,dashboard,observability"
+    },
+    "https://medium.com/snowflake/how-to-set-up-data-pipeline-notifications-using-the-new-finalizer-task-077885531aad": {
+        "title": "How to set up data pipeline notifications using the new Finalizer Task",
+        "published": "2024-05-22T14:02:18.127000Z",
+        "updated": "2024-05-22T14:02:18.127000Z",
+        "tags": "snowflake,data-pipeline,observability,data-engineering,snowsight"
+    },
+    "https://medium.com/snowflake/snowflake-cortex-function-complete-guide-4-extract-answer-953ba8479e15": {
+        "title": "Snowflake Cortex Function\u200a\u2014\u200aComplete Guide\u200a\u2014\u200a4- EXTRACT_ANSWER",
+        "published": "2024-05-22T04:38:23.247000Z",
+        "updated": "2024-05-22T05:51:29.469000Z",
+        "tags": "data-science,llm,data-superhero,snowflake,data"
+    },
+    "https://medium.com/snowflake/snowflake-cortex-driven-toolbox-05bdfaa2a56f": {
+        "title": "Snowflake Cortex-Driven Toolbox",
+        "published": "2024-05-21T18:21:37.269000Z",
+        "updated": "2024-05-22T05:48:31.587000Z",
+        "tags": "snowflake,snowflake-data-cloud,cortex,llm,streamlit"
+    },
     "https://medium.com/snowflake/identify-easy-ways-to-save-with-snowflake-cost-insights-f9ef29bc3917": {
         "title": "Identify easy ways to save with Snowflake cost insights",
         "published": "2024-05-21T14:02:32.607000Z",
@@ -1564,6 +1588,12 @@
         "published": "2024-01-18T14:55:37.734000Z",
         "updated": "2024-01-23T04:26:36.445000Z",
         "tags": "snowflake,llm,fine-tuning,data,sql"
+    },
+    "https://medium.com/snowflake/hey-snowflake-send-me-a-fancy-email-fe04ad2c9888": {
+        "title": "Hey Snowflake, send me a fancy HTML email",
+        "published": "2024-01-17T17:10:17.942000Z",
+        "updated": "2024-05-22T03:09:37.921000Z",
+        "tags": "data-engineering,data-science,snowflake,python,sql"
     },
     "https://medium.com/snowflake/how-informatica-superpipe-leverages-snowpipe-streaming-for-scalable-and-real-time-ingestion-into-ca40be68d8cb": {
         "title": "How Informatica SuperPipe leverages Snowpipe Streaming for scalable and real-time ingestion into\u2026",
