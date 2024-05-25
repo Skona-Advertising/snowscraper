@@ -1,4 +1,28 @@
 {
+    "https://medium.com/snowflake/summarize-snowflake-earnings-for-fiscal-q1-2025-with-cortex-d71ab00b1674": {
+        "title": "Summarize Snowflake Earnings for Fiscal Q1\u20132025 with Cortex",
+        "published": "2024-05-24T15:32:01.683000Z",
+        "updated": "2024-05-24T19:51:04.549000Z",
+        "tags": "snowflake,daanalytics,snowflake-cortex,streamlit,snowflake-data-superhero"
+    },
+    "https://medium.com/snowflake/snowpark-container-service-%EF%B8%8F-ec640368a091": {
+        "title": "Snowpark Container Service \u2744\ufe0f",
+        "published": "2024-05-24T14:02:22.840000Z",
+        "updated": "2024-05-24T14:02:22.840000Z",
+        "tags": "llm,containers,snowflake"
+    },
+    "https://medium.com/snowflake/snowflake-trust-center-a-framework-for-security-compliance-4239fee6b91a": {
+        "title": "Snowflake Trust Center: A Framework for Security Compliance",
+        "published": "2024-05-24T12:10:28.319000Z",
+        "updated": "2024-05-24T19:50:28.786000Z",
+        "tags": "snowflake,superhero,security,rajiv-gupta,trust-center"
+    },
+    "https://medium.com/snowflake/crystalcosts-building-an-ai-agent-for-cost-monitoring-on-snowflake-c9d49645f5c4": {
+        "title": "CrystalCosts: Building an AI Agent for Cost Monitoring on Snowflake",
+        "published": "2024-05-24T05:25:35.390000Z",
+        "updated": "2024-05-24T06:30:39.363000Z",
+        "tags": "snowflake,snowflake-data-cloud,data-warehouse,cloud,artificial-intelligence"
+    },
     "https://medium.com/snowflake/3-snowflake-features-to-include-in-your-performance-strategy-ce5fbcaa3813": {
         "title": "3 Snowflake Features to include in your Performance Strategy",
         "published": "2024-05-23T14:02:20.738000Z",
@@ -167,12 +191,6 @@
         "updated": "2024-05-10T21:17:48.661000Z",
         "tags": "snowflake,snowflake-data-cloud,data-superhero,sequence"
     },
-    "https://medium.com/snowflake/operational-data-vault-on-snowflake-hybrid-satellite-tables-e4df89e04c8f": {
-        "title": "Operational Data Vault on Snowflake: Hybrid Satellite Tables",
-        "published": "2024-05-07T20:01:42.118000Z",
-        "updated": "2024-05-10T21:15:56.197000Z",
-        "tags": "data-vault,snowflake,hybrid-tables"
-    },
     "https://medium.com/snowflake/monitoring-data-quality-natively-in-snowflake-6cdbcef70de5": {
         "title": "Monitoring Data Quality Natively in Snowflake",
         "published": "2024-05-06T18:01:37.023000Z",
@@ -308,7 +326,7 @@
     "https://medium.com/snowflake/tips-for-data-teams-building-campaign-intelligence-5a1955f7d533": {
         "title": "Tips for data teams building Campaign Intelligence",
         "published": "2024-04-25T13:25:03.875000Z",
-        "updated": "2024-05-01T16:10:28.517000Z",
+        "updated": "2024-05-24T21:17:32.048000Z",
         "tags": "data,snowflake,advertising,marketing"
     },
     "https://medium.com/snowflake/h2o-ai-launches-snowflake-native-apps-integration-with-snowpark-container-services-in-private-f18cb45cfe5c": {
