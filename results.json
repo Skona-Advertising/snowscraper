@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/snowflake-snowpark-importing-external-python-packages-f3e60c2ad90d": {
+        "title": "Snowflake: Snowpark\u200a\u2014\u200aImporting external Python packages",
+        "published": "2024-05-27T14:02:31.147000Z",
+        "updated": "2024-05-27T14:02:31.147000Z",
+        "tags": "snowflake,snowpark,python,anaconda,developer"
+    },
     "https://medium.com/snowflake/summarize-snowflake-earnings-for-fiscal-q1-2025-with-cortex-d71ab00b1674": {
         "title": "Summarize Snowflake Earnings for Fiscal Q1\u20132025 with Cortex",
         "published": "2024-05-24T15:32:01.683000Z",
@@ -1646,7 +1652,7 @@
     "https://medium.com/snowflake/snowflake-to-snowflake-establishing-secure-cross-account-connectivity-46122e0e7482": {
         "title": "Snowflake to Snowflake: Establishing Secure Cross-Account Connectivity",
         "published": "2024-01-13T00:41:30.217000Z",
-        "updated": "2024-01-13T00:41:30.217000Z",
+        "updated": "2024-05-27T17:58:34.990000Z",
         "tags": "snowflake,oauth,federated-queries,snowpark,sql-api"
     },
     "https://medium.com/snowflake/snowflake-connector-for-kafka-with-snowpipe-streaming-upgrade-b5bd06f21be3": {
