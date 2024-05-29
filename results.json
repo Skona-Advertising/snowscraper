@@ -1,9 +1,33 @@
 {
+    "https://medium.com/snowflake/governance-through-aggregation-policy-in-snowflake-9205297d3a1b": {
+        "title": "Governance through \u201caggregation policy\u201d in Snowflake",
+        "published": "2024-05-28T16:15:41.581000Z",
+        "updated": "2024-05-28T18:40:14.655000Z",
+        "tags": "snowflake,data-and-analytics,cloud,data-governance,data"
+    },
+    "https://medium.com/snowflake/build-continuous-deployment-pipeline-with-snowflake-cli-and-github-actions-d3d1587c727e": {
+        "title": "Build Continuous Deployment Pipeline With Snowflake-CLI and Github Actions",
+        "published": "2024-05-27T22:12:16.059000Z",
+        "updated": "2024-05-28T18:40:05.899000Z",
+        "tags": "snowflake,containers,snowpark,snowflake-cli,devops"
+    },
+    "https://medium.com/snowflake/building-a-data-product-catalogue-with-streamlit-in-snowflake-sis-b1e59cf9d7cb": {
+        "title": "Building a data catalogue product with Streamlit in Snowflake (SiS)",
+        "published": "2024-05-27T15:04:20.110000Z",
+        "updated": "2024-05-28T22:18:54.103000Z",
+        "tags": ""
+    },
     "https://medium.com/snowflake/snowflake-snowpark-importing-external-python-packages-f3e60c2ad90d": {
         "title": "Snowflake: Snowpark\u200a\u2014\u200aImporting external Python packages",
         "published": "2024-05-27T14:02:31.147000Z",
         "updated": "2024-05-27T14:02:31.147000Z",
         "tags": "snowflake,snowpark,python,anaconda,developer"
+    },
+    "https://medium.com/snowflake/snowflake-cortex-function-5-extract-answer-79adcdb57b66": {
+        "title": "Snowflake Cortex Function -5\u200a\u2014\u200aEXTRACT_ANSWER",
+        "published": "2024-05-27T11:55:18.761000Z",
+        "updated": "2024-05-28T18:36:43.691000Z",
+        "tags": "snowflake,data-science,llm,data-superhero,data"
     },
     "https://medium.com/snowflake/summarize-snowflake-earnings-for-fiscal-q1-2025-with-cortex-d71ab00b1674": {
         "title": "Summarize Snowflake Earnings for Fiscal Q1\u20132025 with Cortex",
@@ -52,6 +76,12 @@
         "published": "2024-05-22T04:38:23.247000Z",
         "updated": "2024-05-22T05:51:29.469000Z",
         "tags": "data-science,llm,data-superhero,snowflake,data"
+    },
+    "https://medium.com/snowflake/snowflake-logging-tracing-deep-dive-exploring-trace-trees-700a05cdae0f": {
+        "title": "Snowflake Logging & Tracing Deep Dive: Exploring Trace Trees",
+        "published": "2024-05-21T23:31:24.274000Z",
+        "updated": "2024-05-28T19:13:49.591000Z",
+        "tags": "observability,telemetry,logging,tracing,snowflake"
     },
     "https://medium.com/snowflake/snowflake-cortex-driven-toolbox-05bdfaa2a56f": {
         "title": "Snowflake Cortex-Driven Toolbox",
@@ -164,7 +194,7 @@
     "https://medium.com/snowflake/building-ml-models-in-minutes-with-hex-and-snowflake-cortex-434e94486365": {
         "title": "Building ML Models In Minutes With Hex and Snowflake Cortex",
         "published": "2024-05-09T17:52:28.596000Z",
-        "updated": "2024-05-09T17:52:28.596000Z",
+        "updated": "2024-05-28T21:01:56.383000Z",
         "tags": "data-science,cortex,snowflake,hex,machine-learning"
     },
     "https://medium.com/snowflake/easier-monitoring-with-the-alert-hub-framework-b4d68fb66738": {
