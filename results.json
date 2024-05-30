@@ -1,4 +1,28 @@
 {
+    "https://medium.com/snowflake/introducing-snowpark-python-code-support-in-snowflakes-visual-studio-code-extension-d7db61737347": {
+        "title": "Introducing Snowpark Python Code Support in Snowflake\u2019s Visual Studio Code Extension",
+        "published": "2024-05-29T17:56:54.803000Z",
+        "updated": "2024-05-29T17:56:54.803000Z",
+        "tags": "snowflake,snowpark,python,vscode,vscode-extension"
+    },
+    "https://medium.com/snowflake/what-has-data-modeling-got-to-do-with-ai-7999e849fe57": {
+        "title": "What has Data Modeling got to do with AI?",
+        "published": "2024-05-29T14:01:48.509000Z",
+        "updated": "2024-05-29T14:01:48.509000Z",
+        "tags": "snowflake-data-cloud,ai,data-quality,data-modeling,data-superhero"
+    },
+    "https://medium.com/snowflake/optimized-training-of-a-randomforest-regressor-in-snowflake-d4c95eb6e537": {
+        "title": "Optimized training of a RandomForest Regressor in Snowflake",
+        "published": "2024-05-29T14:01:40.946000Z",
+        "updated": "2024-05-29T14:01:40.946000Z",
+        "tags": "data-science,machine-learning,applications-development"
+    },
+    "https://medium.com/snowflake/2024-send-email-or-send-snowflake-notification-lets-decode-6b104cbfabf1": {
+        "title": "[2024] Send Email OR Send Snowflake Notification? Let\u2019s Decode",
+        "published": "2024-05-29T05:15:44.143000Z",
+        "updated": "2024-05-29T17:51:31.229000Z",
+        "tags": "snowflake,data-superhero,data,cloud,big-data"
+    },
     "https://medium.com/snowflake/governance-through-aggregation-policy-in-snowflake-9205297d3a1b": {
         "title": "Governance through \u201caggregation policy\u201d in Snowflake",
         "published": "2024-05-28T16:15:41.581000Z",
