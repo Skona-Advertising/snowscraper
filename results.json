@@ -1,9 +1,27 @@
 {
+    "https://medium.com/snowflake/snowflakes-ml-functions-just-got-easier-and-better-504266e3b019": {
+        "title": "Snowflake\u2019s ML Functions just got easier (and better!)",
+        "published": "2024-05-30T16:47:42.789000Z",
+        "updated": "2024-05-30T16:53:58.550000Z",
+        "tags": "snowflake,machine-learning,sql,advanced-analytics"
+    },
+    "https://medium.com/snowflake/enhancing-account-acquisition-with-snowflake-ml-functions-3b1cf472f7c1": {
+        "title": "Enhancing Account Acquisition with Snowflake ML Functions",
+        "published": "2024-05-30T16:02:22.699000Z",
+        "updated": "2024-05-30T16:02:22.699000Z",
+        "tags": ""
+    },
     "https://medium.com/snowflake/introducing-snowpark-python-code-support-in-snowflakes-visual-studio-code-extension-d7db61737347": {
         "title": "Introducing Snowpark Python Code Support in Snowflake\u2019s Visual Studio Code Extension",
         "published": "2024-05-29T17:56:54.803000Z",
         "updated": "2024-05-29T17:56:54.803000Z",
         "tags": "snowflake,snowpark,python,vscode,vscode-extension"
+    },
+    "https://medium.com/snowflake/uncovering-the-new-snowflake-udafs-with-apache-datasketches-ceeca5d22985": {
+        "title": "Uncovering the new Snowflake UDAFs with Apache DataSketches",
+        "published": "2024-05-29T17:46:20.565000Z",
+        "updated": "2024-05-29T20:16:46.069000Z",
+        "tags": "snowflake,data-engineering,data-science,sql,python"
     },
     "https://medium.com/snowflake/what-has-data-modeling-got-to-do-with-ai-7999e849fe57": {
         "title": "What has Data Modeling got to do with AI?",
@@ -16,6 +34,12 @@
         "published": "2024-05-29T14:01:40.946000Z",
         "updated": "2024-05-29T14:01:40.946000Z",
         "tags": "data-science,machine-learning,applications-development"
+    },
+    "https://medium.com/snowflake/unlock-the-full-potential-of-unpivot-now-supporting-null-rows-a8b0b901bbf1": {
+        "title": "Unlock the Full Potential of UNPIVOT: Now Supporting NULL Rows!",
+        "published": "2024-05-29T10:02:29.497000Z",
+        "updated": "2024-05-30T05:04:39.741000Z",
+        "tags": "sql,snowflake,data-superhero,data,data-science"
     },
     "https://medium.com/snowflake/2024-send-email-or-send-snowflake-notification-lets-decode-6b104cbfabf1": {
         "title": "[2024] Send Email OR Send Snowflake Notification? Let\u2019s Decode",
@@ -200,7 +224,7 @@
     "https://medium.com/snowflake/snowflake-supports-dynamic-pivot-e6cb58b71dd9": {
         "title": "Snowflake Supports Dynamic Pivot",
         "published": "2024-05-09T22:33:26.289000Z",
-        "updated": "2024-05-10T01:01:10.251000Z",
+        "updated": "2024-05-30T02:51:22.784000Z",
         "tags": ""
     },
     "https://medium.com/snowflake/snowflake-supports-higher-order-functions-dfa4b7682f7a": {
@@ -212,7 +236,7 @@
     "https://medium.com/snowflake/python-user-defined-aggregate-functions-now-in-public-preview-3868c51bbc62": {
         "title": "Python User-Defined Aggregate Functions: now in Public Preview",
         "published": "2024-05-09T22:07:27.551000Z",
-        "updated": "2024-05-09T22:07:27.551000Z",
+        "updated": "2024-05-30T03:13:54.095000Z",
         "tags": "snowpark,python,data-engineering"
     },
     "https://medium.com/snowflake/building-ml-models-in-minutes-with-hex-and-snowflake-cortex-434e94486365": {
@@ -1580,7 +1604,7 @@
     "https://medium.com/snowflake/snowflake-worksheets-versioning-made-easy-4512d8ee5cc2": {
         "title": "Snowflake Worksheets Versioning made easy",
         "published": "2024-01-26T23:01:25.985000Z",
-        "updated": "2024-02-06T19:30:26.154000Z",
+        "updated": "2024-05-30T03:57:46.977000Z",
         "tags": "snowflake,git,open-source"
     },
     "https://medium.com/snowflake/migrate-existing-amazon-s3-data-lake-tables-to-snowflake-unmanaged-iceberg-tables-using-aws-glue-09b7f4015e8d": {
@@ -7148,7 +7172,7 @@
     "https://medium.com/snowflake/bigquerys-hyperloglog-as-a-snowflake-java-udtf-f99e5e84f9cc": {
         "title": "BigQuery\u2019s HyperLogLog++ as a Snowflake Java UDTF",
         "published": "2022-06-03T17:08:46.862000Z",
-        "updated": "2022-06-03T17:21:39.487000Z",
+        "updated": "2024-05-30T03:14:29.183000Z",
         "tags": "snowflake,data-science,algorithms,bigquery"
     },
     "https://medium.com/snowflake/a-b-testing-in-the-data-cloud-7177343246": {
