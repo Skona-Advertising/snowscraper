@@ -1,9 +1,45 @@
 {
+    "https://medium.com/snowflake/detecting-and-preventing-unauthorized-user-access-d67be8bd66f6": {
+        "title": "Detecting and Preventing Unauthorized User Access",
+        "published": "2024-05-31T23:42:54.375000Z",
+        "updated": "2024-05-31T23:42:54.375000Z",
+        "tags": ""
+    },
+    "https://medium.com/snowflake/faster-parquet-data-ingestion-with-snowflake-use-vectorized-scanner-28679bcff450": {
+        "title": "Faster Parquet Data Ingestion with Snowflake USE_VECTORIZED_SCANNER",
+        "published": "2024-05-31T19:48:39.147000Z",
+        "updated": "2024-05-31T19:48:39.147000Z",
+        "tags": "snowflake,data-pipeline,data-ingestion,parquet,snowflake-data-cloud"
+    },
+    "https://medium.com/snowflake/how-booking-com-enforces-policy-across-a-hybrid-data-ecosystem-with-immuta-aws-and-snowflake-d92df507c3d0": {
+        "title": "How Booking.com enforces policy across a hybrid data ecosystem with Immuta, AWS, and Snowflake",
+        "published": "2024-05-31T18:09:56.257000Z",
+        "updated": "2024-05-31T18:09:56.257000Z",
+        "tags": ""
+    },
+    "https://medium.com/snowflake/unlock-your-data-potential-how-to-transform-security-analytics-with-sigma-and-snowflake-6fbca71442fc": {
+        "title": "Unlock Your Data Potential: How to Transform Security Analytics with Sigma and Snowflake",
+        "published": "2024-05-31T15:39:03.096000Z",
+        "updated": "2024-05-31T15:39:03.096000Z",
+        "tags": ""
+    },
+    "https://medium.com/snowflake/unlocking-security-alerts-similarity-journey-with-snowflake-cortex-search-3b1b40c48d9c": {
+        "title": "Unlocking Security Alerts Similarity Journey with Snowflake Cortex Search",
+        "published": "2024-05-30T21:01:07.505000Z",
+        "updated": "2024-05-31T17:55:50.445000Z",
+        "tags": ""
+    },
     "https://medium.com/snowflake/snowflakes-ml-functions-just-got-easier-and-better-504266e3b019": {
         "title": "Snowflake\u2019s ML Functions just got easier (and better!)",
         "published": "2024-05-30T16:47:42.789000Z",
         "updated": "2024-05-30T16:53:58.550000Z",
         "tags": "snowflake,machine-learning,sql,advanced-analytics"
+    },
+    "https://medium.com/snowflake/building-a-customer-360-with-predictive-features-featuring-rudderstack-9ae2d5de6a62": {
+        "title": "Building a Customer 360 with predictive features\u200a\u2014\u200afeaturing RudderStack",
+        "published": "2024-05-30T16:46:53.588000Z",
+        "updated": "2024-05-31T17:56:04.466000Z",
+        "tags": "snowflake,snowpark,machine-learning,customer-data-platform,predictive-analytics"
     },
     "https://medium.com/snowflake/enhancing-account-acquisition-with-snowflake-ml-functions-3b1cf472f7c1": {
         "title": "Enhancing Account Acquisition with Snowflake ML Functions",
@@ -100,6 +136,12 @@
         "published": "2024-05-24T05:25:35.390000Z",
         "updated": "2024-05-24T06:30:39.363000Z",
         "tags": "snowflake,snowflake-data-cloud,data-warehouse,cloud,artificial-intelligence"
+    },
+    "https://medium.com/snowflake/recommender-systems-with-relationalais-snowflake-native-app-68d9c76bb07f": {
+        "title": "Recommender Systems with RelationalAI\u2019s Snowflake Native App",
+        "published": "2024-05-23T20:06:02.424000Z",
+        "updated": "2024-05-31T07:58:11.228000Z",
+        "tags": "knowledge-graph,recommendation-system,data-science,machine-learning"
     },
     "https://medium.com/snowflake/3-snowflake-features-to-include-in-your-performance-strategy-ce5fbcaa3813": {
         "title": "3 Snowflake Features to include in your Performance Strategy",
