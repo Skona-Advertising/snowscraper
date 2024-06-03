@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/better-identity-resolution-with-simon-datas-identityqa-a-snowflake-native-app-f85a010b276c": {
+        "title": "Better Identity Resolution with Simon Data\u2019s IdentityQA: A Snowflake Native App",
+        "published": "2024-06-02T23:41:33.194000Z",
+        "updated": "2024-06-02T23:41:33.194000Z",
+        "tags": "identity-resolution,identity,data-cleansing,quantitative-analysis,identity-model"
+    },
+    "https://medium.com/snowflake/detecting-and-preventing-unauthorized-user-access-d67be8bd66f6": {
+        "title": "Detecting and Preventing Unauthorized User Access",
+        "published": "2024-05-31T23:42:54.375000Z",
+        "updated": "2024-06-02T02:11:38.206000Z",
+        "tags": ""
+    },
     "https://medium.com/snowflake/faster-parquet-data-ingestion-with-snowflake-use-vectorized-scanner-28679bcff450": {
         "title": "Faster Parquet Data Ingestion with Snowflake USE_VECTORIZED_SCANNER",
         "published": "2024-05-31T19:48:39.147000Z",
