@@ -1,10 +1,4 @@
 {
-    "https://medium.com/snowflake/better-identity-resolution-with-simon-datas-identityqa-a-snowflake-native-app-f85a010b276c": {
-        "title": "Better Identity Resolution with Simon Data\u2019s IdentityQA: A Snowflake Native App",
-        "published": "2024-06-02T23:41:33.194000Z",
-        "updated": "2024-06-02T23:41:33.194000Z",
-        "tags": "identity-resolution,identity,data-cleansing,quantitative-analysis,identity-model"
-    },
     "https://medium.com/snowflake/detecting-and-preventing-unauthorized-user-access-d67be8bd66f6": {
         "title": "Detecting and Preventing Unauthorized User Access",
         "published": "2024-05-31T23:42:54.375000Z",
@@ -32,7 +26,7 @@
     "https://medium.com/snowflake/unlocking-security-alerts-similarity-journey-with-snowflake-cortex-search-3b1b40c48d9c": {
         "title": "Unlocking Security Alerts Similarity Journey with Snowflake Cortex Search",
         "published": "2024-05-30T21:01:07.505000Z",
-        "updated": "2024-05-31T17:55:50.445000Z",
+        "updated": "2024-06-03T22:23:59.739000Z",
         "tags": ""
     },
     "https://medium.com/snowflake/snowflakes-ml-functions-just-got-easier-and-better-504266e3b019": {
