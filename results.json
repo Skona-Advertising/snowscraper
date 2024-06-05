@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/developing-snowflake-native-apps-with-snowpark-container-services-part-i-e2223269418c": {
+        "title": "Developing Snowflake Native Apps with Snowpark Container Services: Part I",
+        "published": "2024-06-04T16:56:29.509000Z",
+        "updated": "2024-06-04T16:56:29.509000Z",
+        "tags": "native-app-development,snowpark,native-app"
+    },
     "https://medium.com/snowflake/detecting-and-preventing-unauthorized-user-access-d67be8bd66f6": {
         "title": "Detecting and Preventing Unauthorized User Access",
         "published": "2024-05-31T23:42:54.375000Z",
@@ -24,9 +30,9 @@
         "tags": ""
     },
     "https://medium.com/snowflake/unlocking-security-alerts-similarity-journey-with-snowflake-cortex-search-3b1b40c48d9c": {
-        "title": "Unlocking Security Alerts Similarity Journey with Snowflake Cortex Search",
+        "title": "Unlocking the Journey of Alert Similarity with Snowflake Cortex Search",
         "published": "2024-05-30T21:01:07.505000Z",
-        "updated": "2024-06-03T22:23:59.739000Z",
+        "updated": "2024-06-04T04:42:06.129000Z",
         "tags": ""
     },
     "https://medium.com/snowflake/snowflakes-ml-functions-just-got-easier-and-better-504266e3b019": {
@@ -530,7 +536,7 @@
     "https://medium.com/snowflake/snowflake-security-to-protect-sensitive-data-gdpr-in-access-layer-e25a79005083": {
         "title": "Snowflake: Security to protect Sensitive Data (GDPR) in Access Layer",
         "published": "2024-04-19T10:01:46.922000Z",
-        "updated": "2024-04-20T21:17:57.917000Z",
+        "updated": "2024-06-04T10:52:54.834000Z",
         "tags": "snowflake,security,gdpr,tag,visualization"
     },
     "https://medium.com/snowflake/langchain-snowpark-openai-in-streamlit-%EF%B8%8F-33a9c019dc24": {
