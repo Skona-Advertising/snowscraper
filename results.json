@@ -1,4 +1,28 @@
 {
+    "https://medium.com/snowflake/skill-up-on-snowflake-with-our-new-northstar-builder-education-program-1779b8f23fcc": {
+        "title": "Skill up on Snowflake with our new Northstar Builder Education Program",
+        "published": "2024-06-05T23:31:08.283000Z",
+        "updated": "2024-06-05T23:31:08.283000Z",
+        "tags": "snowflake,data-engineering,application-development,machine-learning,ai"
+    },
+    "https://medium.com/snowflake/building-a-metric-assistant-with-streamlit-and-snowflake-cortex-5ae3fdf0b017": {
+        "title": "Building a Metric Assistant with Streamlit and Snowflake Cortex",
+        "published": "2024-06-05T17:52:07.096000Z",
+        "updated": "2024-06-05T17:52:07.096000Z",
+        "tags": "snowflake,snowflake-cortex,streamlit"
+    },
+    "https://medium.com/snowflake/snowflake-advanced-cost-control-ingest-optimizations-e690cb2c050a": {
+        "title": "Snowflake Advanced Cost Control: Ingest Optimizations",
+        "published": "2024-06-05T17:52:06.985000Z",
+        "updated": "2024-06-05T17:52:06.985000Z",
+        "tags": "data-superhero,snowflake,data,cost-optimization"
+    },
+    "https://medium.com/snowflake/announcing-ga-of-snowpark-python-local-testing-framework-40ce8197f242": {
+        "title": "Announcing GA of Snowpark Python Local Testing Framework",
+        "published": "2024-06-05T02:28:15.495000Z",
+        "updated": "2024-06-05T02:28:15.495000Z",
+        "tags": "python,snowflake,snowpark-python,snowpark,testing"
+    },
     "https://medium.com/snowflake/developing-snowflake-native-apps-with-snowpark-container-services-part-i-e2223269418c": {
         "title": "Developing Snowflake Native Apps with Snowpark Container Services: Part I",
         "published": "2024-06-04T16:56:29.509000Z",
@@ -28,6 +52,12 @@
         "published": "2024-05-31T15:39:03.096000Z",
         "updated": "2024-05-31T15:39:03.096000Z",
         "tags": ""
+    },
+    "https://medium.com/snowflake/snowflake-copilot-leveraging-for-account-admin-dashboard-queries-2859a8b7ddac": {
+        "title": "Snowflake Copilot - Leveraging for Account Admin Dashboard Queries",
+        "published": "2024-05-31T15:27:28.541000Z",
+        "updated": "2024-06-05T04:49:37.093000Z",
+        "tags": "snowflake,snowpro,data-superhero,co-pilot,ai"
     },
     "https://medium.com/snowflake/unlocking-security-alerts-similarity-journey-with-snowflake-cortex-search-3b1b40c48d9c": {
         "title": "Unlocking the Journey of Alert Similarity with Snowflake Cortex Search",
