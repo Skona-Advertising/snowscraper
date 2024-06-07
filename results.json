@@ -1,8 +1,26 @@
 {
+    "https://medium.com/snowflake/the-app-store-for-b2b-6-steps-to-launch-your-app-securely-in-snowflake-30a3087e0ab3": {
+        "title": "The App Store for B2B: 6 Steps to Launch Your App Securely in Snowflake",
+        "published": "2024-06-06T20:52:07.865000Z",
+        "updated": "2024-06-06T20:52:07.865000Z",
+        "tags": "native-app,snowflake,containers,saas,marketplaces"
+    },
+    "https://medium.com/snowflake/llm-powered-snowflake-data-crawler-0dabbaa0e2a5": {
+        "title": "LLM-Powered Snowflake Data Crawler",
+        "published": "2024-06-06T17:52:08.103000Z",
+        "updated": "2024-06-06T17:52:08.103000Z",
+        "tags": "llm,cortex,snowflake,ai,genai"
+    },
+    "https://medium.com/snowflake/three-methods-to-integrate-into-snowflakes-data-cloud-architecture-the-benefits-and-0a68846492e1": {
+        "title": "Three methods to integrate into Snowflake\u2019s Data Cloud Architecture; the benefits and\u2026",
+        "published": "2024-06-06T17:52:08.066000Z",
+        "updated": "2024-06-06T17:52:08.066000Z",
+        "tags": "snowflake,native-app,data-sharing,architecture,apps"
+    },
     "https://medium.com/snowflake/skill-up-on-snowflake-with-our-new-northstar-builder-education-program-1779b8f23fcc": {
         "title": "Skill up on Snowflake with our new Northstar Builder Education Program",
         "published": "2024-06-05T23:31:08.283000Z",
-        "updated": "2024-06-05T23:31:08.283000Z",
+        "updated": "2024-06-06T06:02:42.918000Z",
         "tags": "snowflake,data-engineering,application-development,machine-learning,ai"
     },
     "https://medium.com/snowflake/building-a-metric-assistant-with-streamlit-and-snowflake-cortex-5ae3fdf0b017": {
@@ -1808,7 +1826,7 @@
     "https://medium.com/snowflake/snowflake-to-snowflake-establishing-secure-cross-account-connectivity-46122e0e7482": {
         "title": "Snowflake to Snowflake: Establishing Secure Cross-Account Connectivity",
         "published": "2024-01-13T00:41:30.217000Z",
-        "updated": "2024-05-27T17:58:34.990000Z",
+        "updated": "2024-06-06T14:04:48.728000Z",
         "tags": "snowflake,oauth,federated-queries,snowpark,sql-api"
     },
     "https://medium.com/snowflake/snowflake-connector-for-kafka-with-snowpipe-streaming-upgrade-b5bd06f21be3": {
