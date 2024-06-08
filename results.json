@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/how-to-train-visual-ai-models-process-images-stored-in-snowflake-using-landinglens-311e125b9ce6": {
+        "title": "How to Train Visual AI Models & Process Images Stored in Snowflake using LandingLens",
+        "published": "2024-06-07T17:51:18.118000Z",
+        "updated": "2024-06-07T17:51:18.118000Z",
+        "tags": "landing-ai,visual-ai,generative-ai,snowflake-data-cloud,snowflake-native-app"
+    },
+    "https://medium.com/snowflake/snowflake-summit-2024-highlights-game-changing-feature-announcements-9897002d1de2": {
+        "title": "Snowflake Summit 2024 Highlights: Game-Changing Feature Announcements",
+        "published": "2024-06-07T12:32:37.144000Z",
+        "updated": "2024-06-07T12:32:37.144000Z",
+        "tags": "snowflake,summit,cortex,snowpark,ai"
+    },
     "https://medium.com/snowflake/the-app-store-for-b2b-6-steps-to-launch-your-app-securely-in-snowflake-30a3087e0ab3": {
         "title": "The App Store for B2B: 6 Steps to Launch Your App Securely in Snowflake",
         "published": "2024-06-06T20:52:07.865000Z",
@@ -17,11 +29,29 @@
         "updated": "2024-06-06T17:52:08.066000Z",
         "tags": "snowflake,native-app,data-sharing,architecture,apps"
     },
+    "https://medium.com/snowflake/using-snowflake-cortex-and-streamlit-to-generate-table-and-column-descriptions-llm-hallucinations-5d36a15de032": {
+        "title": "Using Snowflake Cortex and Streamlit to generate table and column descriptions: LLM hallucinations\u2026",
+        "published": "2024-06-05T23:49:56.310000Z",
+        "updated": "2024-06-07T18:58:32.491000Z",
+        "tags": "snowflake,cortex,streamlit,llm,large-language-models"
+    },
     "https://medium.com/snowflake/skill-up-on-snowflake-with-our-new-northstar-builder-education-program-1779b8f23fcc": {
         "title": "Skill up on Snowflake with our new Northstar Builder Education Program",
         "published": "2024-06-05T23:31:08.283000Z",
         "updated": "2024-06-06T06:02:42.918000Z",
         "tags": "snowflake,data-engineering,application-development,machine-learning,ai"
+    },
+    "https://medium.com/snowflake/snowflake-data-cloud-summit-day-ii-6c9c708a49e4": {
+        "title": "Snowflake Data Cloud Summit\u200a\u2014\u200aDay II",
+        "published": "2024-06-05T23:17:26.410000Z",
+        "updated": "2024-06-07T12:33:58.971000Z",
+        "tags": "daanalytics,cloud-data-summit,snowflake-summit,snowflake-data-superhero"
+    },
+    "https://medium.com/snowflake/how-to-run-and-edit-run-dbt-projects-entirely-in-the-cloud-using-github-and-azure-devops-480f5b72b1d5": {
+        "title": "How to run and edit run dbt projects entirely in the cloud using Github and Azure DevOps",
+        "published": "2024-06-05T22:32:46.877000Z",
+        "updated": "2024-06-07T12:34:45.604000Z",
+        "tags": "snowflake,github,azure-devops,github-account,ci-cd-pipeline"
     },
     "https://medium.com/snowflake/building-a-metric-assistant-with-streamlit-and-snowflake-cortex-5ae3fdf0b017": {
         "title": "Building a Metric Assistant with Streamlit and Snowflake Cortex",
@@ -35,11 +65,23 @@
         "updated": "2024-06-05T17:52:06.985000Z",
         "tags": "data-superhero,snowflake,data,cost-optimization"
     },
+    "https://medium.com/snowflake/snowflake-summit-2024-cheatsheet-to-snowpark-pandas-api-f59289864fe9": {
+        "title": "[Snowflake Summit 2024] Cheatsheet to Snowpark Pandas API",
+        "published": "2024-06-05T11:12:01.925000Z",
+        "updated": "2024-06-07T12:34:21.465000Z",
+        "tags": "snowflake,data-superhero,pandas,snowpark,cloud"
+    },
     "https://medium.com/snowflake/announcing-ga-of-snowpark-python-local-testing-framework-40ce8197f242": {
         "title": "Announcing GA of Snowpark Python Local Testing Framework",
         "published": "2024-06-05T02:28:15.495000Z",
         "updated": "2024-06-05T02:28:15.495000Z",
         "tags": "python,snowflake,snowpark-python,snowpark,testing"
+    },
+    "https://medium.com/snowflake/snowflake-data-cloud-summit-day-i-28fd65b42450": {
+        "title": "Snowflake Data Cloud Summit\u200a\u2014\u200aDay I",
+        "published": "2024-06-04T23:33:01.946000Z",
+        "updated": "2024-06-07T12:33:47.717000Z",
+        "tags": "daanalytics,cloud-data-summit,snowflake-summit,polaris-catalog,nvidia"
     },
     "https://medium.com/snowflake/developing-snowflake-native-apps-with-snowpark-container-services-part-i-e2223269418c": {
         "title": "Developing Snowflake Native Apps with Snowpark Container Services: Part I",
@@ -50,7 +92,7 @@
     "https://medium.com/snowflake/detecting-and-preventing-unauthorized-user-access-d67be8bd66f6": {
         "title": "Detecting and Preventing Unauthorized User Access",
         "published": "2024-05-31T23:42:54.375000Z",
-        "updated": "2024-06-02T02:11:38.206000Z",
+        "updated": "2024-06-07T14:03:04.063000Z",
         "tags": ""
     },
     "https://medium.com/snowflake/faster-parquet-data-ingestion-with-snowflake-use-vectorized-scanner-28679bcff450": {
@@ -8312,7 +8354,7 @@
     "https://medium.com/snowflake/converting-xml-to-json-in-snowflake-using-external-functions-5d92e001347c": {
         "title": "Converting XML to JSON in Snowflake using External Functions",
         "published": "2021-08-26T15:58:59.542000Z",
-        "updated": "2021-08-26T15:58:59.542000Z",
+        "updated": "2024-06-07T17:17:42.409000Z",
         "tags": "snowflake,lambda,python,json,xml"
     },
     "https://medium.com/snowflake/importing-and-exporting-snowsight-dashboards-and-worksheets-3cd8e34d29c8": {
