@@ -1022,7 +1022,7 @@
     "https://medium.com/snowflake/how-to-use-llama-2-on-iceberg-tables-for-sentiment-analysis-with-snowflake-cortex-32c030a8102b": {
         "title": "How to use LLMs on an open lakehouse for sentiment analysis with Iceberg and Snowflake Cortex",
         "published": "2024-03-18T17:43:23.968000Z",
-        "updated": "2024-05-22T00:03:54.854000Z",
+        "updated": "2024-06-08T22:09:42.724000Z",
         "tags": "apache-iceberg,data-lake,data-lakehouse,data-engineering,artificial-intelligence"
     },
     "https://medium.com/snowflake/strengthen-your-security-posture-using-cortex-llm-functions-39530457266d": {
