@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/monitoring-data-quality-using-snowflake-data-metric-functions-6b04229c6597": {
+        "title": "Monitoring Data Quality using Snowflake Data Metric Functions",
+        "published": "2024-06-10T16:36:02.560000Z",
+        "updated": "2024-06-10T16:36:02.560000Z",
+        "tags": "snowflake,data-quality,governance"
+    },
     "https://medium.com/snowflake/how-to-train-visual-ai-models-process-images-stored-in-snowflake-using-landinglens-311e125b9ce6": {
         "title": "How to Train Visual AI Models & Process Images Stored in Snowflake using LandingLens",
         "published": "2024-06-07T17:51:18.118000Z",
@@ -14,7 +20,7 @@
     "https://medium.com/snowflake/the-app-store-for-b2b-6-steps-to-launch-your-app-securely-in-snowflake-30a3087e0ab3": {
         "title": "The App Store for B2B: 6 Steps to Launch Your App Securely in Snowflake",
         "published": "2024-06-06T20:52:07.865000Z",
-        "updated": "2024-06-06T20:52:07.865000Z",
+        "updated": "2024-06-10T22:18:01.296000Z",
         "tags": "native-app,snowflake,containers,saas,marketplaces"
     },
     "https://medium.com/snowflake/llm-powered-snowflake-data-crawler-0dabbaa0e2a5": {
@@ -30,9 +36,9 @@
         "tags": "snowflake,native-app,data-sharing,architecture,apps"
     },
     "https://medium.com/snowflake/using-snowflake-cortex-and-streamlit-to-generate-table-and-column-descriptions-llm-hallucinations-5d36a15de032": {
-        "title": "Using Snowflake Cortex and Streamlit to generate table and column descriptions: LLM hallucinations\u2026",
+        "title": "LLM hallucinations can actually be a feature: Using Snowflake Cortex and Streamlit to generate\u2026",
         "published": "2024-06-05T23:49:56.310000Z",
-        "updated": "2024-06-07T18:58:32.491000Z",
+        "updated": "2024-06-10T17:53:17.291000Z",
         "tags": "snowflake,cortex,streamlit,llm,large-language-models"
     },
     "https://medium.com/snowflake/skill-up-on-snowflake-with-our-new-northstar-builder-education-program-1779b8f23fcc": {
@@ -56,7 +62,7 @@
     "https://medium.com/snowflake/building-a-metric-assistant-with-streamlit-and-snowflake-cortex-5ae3fdf0b017": {
         "title": "Building a Metric Assistant with Streamlit and Snowflake Cortex",
         "published": "2024-06-05T17:52:07.096000Z",
-        "updated": "2024-06-05T17:52:07.096000Z",
+        "updated": "2024-06-10T17:47:33.801000Z",
         "tags": "snowflake,snowflake-cortex,streamlit"
     },
     "https://medium.com/snowflake/snowflake-advanced-cost-control-ingest-optimizations-e690cb2c050a": {
