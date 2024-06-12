@@ -1,15 +1,33 @@
 {
+    "https://medium.com/snowflake/a-step-by-step-guide-to-publishing-your-app-on-snowflakes-marketplace-d6ea440d756c": {
+        "title": "A Step-by-Step Guide to Publishing Your App on Snowflake\u2019s Marketplace",
+        "published": "2024-06-11T18:04:30.795000Z",
+        "updated": "2024-06-11T18:04:30.795000Z",
+        "tags": "snowflake,native-app,snowpark,application-development"
+    },
     "https://medium.com/snowflake/monitoring-data-quality-using-snowflake-data-metric-functions-6b04229c6597": {
         "title": "Monitoring Data Quality using Snowflake Data Metric Functions",
         "published": "2024-06-10T16:36:02.560000Z",
         "updated": "2024-06-10T16:36:02.560000Z",
         "tags": "snowflake,data-quality,governance"
     },
+    "https://medium.com/snowflake/understanding-two-types-of-oauth2-authorization-workflows-0c479b7305f1": {
+        "title": "Understanding Two types of OAuth2 Authorization Workflows",
+        "published": "2024-06-07T20:42:17.564000Z",
+        "updated": "2024-06-11T18:04:52.882000Z",
+        "tags": "oauth2,data-superhero"
+    },
     "https://medium.com/snowflake/how-to-train-visual-ai-models-process-images-stored-in-snowflake-using-landinglens-311e125b9ce6": {
         "title": "How to Train Visual AI Models & Process Images Stored in Snowflake using LandingLens",
         "published": "2024-06-07T17:51:18.118000Z",
         "updated": "2024-06-07T17:51:18.118000Z",
         "tags": "landing-ai,visual-ai,generative-ai,snowflake-data-cloud,snowflake-native-app"
+    },
+    "https://medium.com/snowflake/snowflake-security-integrations-and-the-one-with-type-of-api-authentication-c93196633e8b": {
+        "title": "Snowflake security integrations and the one with type of \u201cAPI_AUTHENTICATION\u201d",
+        "published": "2024-06-07T16:42:18.465000Z",
+        "updated": "2024-06-11T18:04:43.476000Z",
+        "tags": "oauth,integration-security,data-superhero"
     },
     "https://medium.com/snowflake/snowflake-summit-2024-highlights-game-changing-feature-announcements-9897002d1de2": {
         "title": "Snowflake Summit 2024 Highlights: Game-Changing Feature Announcements",
@@ -98,7 +116,7 @@
     "https://medium.com/snowflake/detecting-and-preventing-unauthorized-user-access-d67be8bd66f6": {
         "title": "Detecting and Preventing Unauthorized User Access",
         "published": "2024-05-31T23:42:54.375000Z",
-        "updated": "2024-06-07T14:03:04.063000Z",
+        "updated": "2024-06-11T16:48:25.868000Z",
         "tags": ""
     },
     "https://medium.com/snowflake/faster-parquet-data-ingestion-with-snowflake-use-vectorized-scanner-28679bcff450": {
@@ -2999,12 +3017,6 @@
         "updated": "2023-09-20T15:40:44.290000Z",
         "tags": "apps,app-development,snowflake,native-app,web-development"
     },
-    "https://medium.com/snowflake/snowflake-quick-tips-how-to-create-a-snowflake-native-app-40a31d3ee4e1": {
-        "title": "[Snowflake Quick Tips] How to create a Snowflake Native App",
-        "published": "2023-09-19T13:02:28.100000Z",
-        "updated": "2023-09-27T23:55:38.279000Z",
-        "tags": "snowflake-native-app,snowflake-apps,snowflake-quick-tips,data-superhero,snowflake"
-    },
     "https://medium.com/snowflake/simplifying-security-data-ingestion-recent-snowflake-features-minimize-cost-and-complexity-b72d7eba77ab": {
         "title": "Simplifying Security Data Ingestion: Recent Snowflake features minimize cost and complexity",
         "published": "2023-09-18T20:07:44.227000Z",
@@ -4385,12 +4397,6 @@
         "updated": "2023-05-24T21:31:37.492000Z",
         "tags": "maven,gradle,java,scala,snowpark"
     },
-    "https://medium.com/snowflake/snowflake-quick-tips-how-to-create-a-data-workflow-with-alteryx-designer-20e1f70155a2": {
-        "title": "[Snowflake Quick Tips] How to create a data workflow with Alteryx Designer",
-        "published": "2023-05-24T20:31:44.762000Z",
-        "updated": "2023-05-24T20:31:44.762000Z",
-        "tags": "snowflake,alteryx-designer,alteryx-tutorials,data-workflow,data-superhero"
-    },
     "https://medium.com/snowflake/snowflake-developers-community-update-may-2023-903a2e30ffd8": {
         "title": "Snowflake Developers & Community Update\u200a\u2014\u200aMay 2023",
         "published": "2023-05-24T15:01:44.358000Z",
@@ -4511,12 +4517,6 @@
         "updated": "2023-05-10T17:32:28.594000Z",
         "tags": "snowflake-data-cloud,cloud-computing,snowflake,data-superhero"
     },
-    "https://medium.com/snowflake/snowflake-quick-tips-how-to-transfer-cdc-data-using-airbyte-62c0cd43389b": {
-        "title": "[Snowflake Quick Tips] How to transfer CDC data using Airbyte",
-        "published": "2023-05-10T14:01:45.116000Z",
-        "updated": "2023-05-10T14:01:45.116000Z",
-        "tags": "snowflake,change-data-capture,airbyte,data-superhero,snowflake-data-ingestion"
-    },
     "https://medium.com/snowflake/improve-data-scientist-productivity-by-60-or-more-with-a-little-help-from-snowflake-c78bf79a861d": {
         "title": "Improve data scientist productivity by 60% or more, with a little help from Snowflake",
         "published": "2023-05-10T13:57:03.290000Z",
@@ -4612,12 +4612,6 @@
         "published": "2023-04-28T16:35:05.715000Z",
         "updated": "2023-05-01T18:33:39.624000Z",
         "tags": "snowflake,cloud-computing,snowflake-data-cloud,data-superhero"
-    },
-    "https://medium.com/snowflake/snowflake-quick-tips-how-to-use-snowflake-with-neo4j-538f6c2ae8f7": {
-        "title": "[Snowflake Quick Tips] How to use Snowflake with Neo4j",
-        "published": "2023-04-28T16:03:15.044000Z",
-        "updated": "2023-04-28T16:03:15.044000Z",
-        "tags": "snowflake,data-superhero,neo4j-graph-database,neo4j"
     },
     "https://medium.com/snowflake/snowflake-data-collaboration-and-auto-fulfillment-5d2242f7034b": {
         "title": "Snowflake Data Collaboration and Auto-fulfillment",
@@ -4972,12 +4966,6 @@
         "published": "2023-03-23T07:31:33.992000Z",
         "updated": "2023-03-23T07:31:33.992000Z",
         "tags": "snowflake,tasks-failure,data-superhero"
-    },
-    "https://medium.com/snowflake/snowflake-quick-tips-how-to-create-a-workflow-with-prefect-cloud-5688a3734efb": {
-        "title": "[Snowflake Quick Tips] How to create a job workflow with Prefect Cloud",
-        "published": "2023-03-23T04:02:14.195000Z",
-        "updated": "2023-03-27T17:13:54.838000Z",
-        "tags": "data-pipeline,workflow-automation,prefect-cloud,data-superhero"
     },
     "https://medium.com/snowflake/snowflake-tasks-setvalue-and-getvalue-e2fb566f6425": {
         "title": "Snowflake Tasks: SetValue and GetValue",
@@ -6623,12 +6611,6 @@
         "updated": "2022-09-04T20:13:32.120000Z",
         "tags": "data-superhero"
     },
-    "https://medium.com/snowflake/snowflake-quick-tips-how-to-transfer-batch-data-using-fivetran-b8978851febb": {
-        "title": "[Snowflake Quick Tips] How to transfer batch data using Fivetran",
-        "published": "2022-09-04T16:54:33.639000Z",
-        "updated": "2022-09-06T00:21:41.820000Z",
-        "tags": "snowflake-data-cloud,snowflake-quick-tips,fivetran,snowflake-data-ingestion,data-superhero"
-    },
     "https://medium.com/snowflake/snowflake-data-protection-features-part-ii-3057fccb06e5": {
         "title": "Snowflake\u200a\u2014\u200aData Protection Features\u200a\u2014\u200aPart II",
         "published": "2022-09-02T21:04:51.650000Z",
@@ -6737,12 +6719,6 @@
         "updated": "2022-08-23T13:03:42.696000Z",
         "tags": "snowflake,etl,business-intelligence,data-warehouse,data-superhero"
     },
-    "https://medium.com/snowflake/snowflake-quick-tips-how-to-use-schemachange-1f578d7882b9": {
-        "title": "[Snowflake Quick Tips] How to use schemachange",
-        "published": "2022-08-22T18:07:16.372000Z",
-        "updated": "2023-03-23T00:28:54.102000Z",
-        "tags": "snowflake-data-cloud,schemachange,snowflake-quick-tips,data-superhero"
-    },
     "https://medium.com/snowflake/a-first-look-at-the-dbt-python-models-with-snowpark-54d9419c1c72": {
         "title": "A First Look at the dbt Python Models with Snowpark",
         "published": "2022-08-21T03:06:01.431000Z",
@@ -6796,12 +6772,6 @@
         "published": "2022-08-15T22:55:46.033000Z",
         "updated": "2022-08-15T23:01:34.554000Z",
         "tags": "snowflake,data-science,dataset,marketplaces"
-    },
-    "https://medium.com/snowflake/snowflake-quick-tips-how-to-use-snowpark-from-python-with-streamlit-73df01c4989a": {
-        "title": "[Snowflake Quick Tips] How to use Snowpark from Python with Streamlit",
-        "published": "2022-08-15T13:03:19.605000Z",
-        "updated": "2023-04-01T16:39:01.375000Z",
-        "tags": "snowflake-quick-tops,snowflake-data-cloud,streamlit,snowpark,data-superhero"
     },
     "https://medium.com/snowflake/details-to-know-about-snowflake-parameters-part-1-702ac077c152": {
         "title": "Details to know about Snowflake Parameters (Part 1)",
@@ -6886,12 +6856,6 @@
         "published": "2022-08-02T00:00:13.350000Z",
         "updated": "2024-02-11T09:14:28.961000Z",
         "tags": ""
-    },
-    "https://medium.com/snowflake/snowflake-quick-tips-how-to-make-interesting-visualizations-in-snowsight-and-tableau-edf54ba46273": {
-        "title": "[Snowflake Quick Tips] How to make interesting visualizations in Snowsight and Tableau",
-        "published": "2022-08-01T00:25:23.756000Z",
-        "updated": "2023-03-27T17:04:49.516000Z",
-        "tags": "snowflake-data-cloud,tableau,snowsight,dataviz,data-superhero"
     },
     "https://medium.com/snowflake/the-snowflake-lakehouse-b583746d686b": {
         "title": "The Snowflake Lakehouse?",
@@ -6983,12 +6947,6 @@
         "updated": "2022-07-19T12:02:26.802000Z",
         "tags": "data-superhero,snowflake"
     },
-    "https://medium.com/snowflake/snowflake-quick-tips-how-to-make-dbt-transformations-f8bb997ca4ef": {
-        "title": "[Snowflake Quick Tips] How to make dbt transformations",
-        "published": "2022-07-18T13:01:10.099000Z",
-        "updated": "2022-07-18T13:01:10.099000Z",
-        "tags": "snowflake,dbt,data-superhero"
-    },
     "https://medium.com/snowflake/dynamic-masking-conditional-policy-in-snowflake-582db6a72995": {
         "title": "Dynamic Masking: Conditional Policy in Snowflake",
         "published": "2022-07-18T09:02:39.795000Z",
@@ -7000,12 +6958,6 @@
         "published": "2022-07-17T16:17:39.157000Z",
         "updated": "2022-08-05T21:01:15.564000Z",
         "tags": "snowflake,snowpark,python,aws,cloud9"
-    },
-    "https://medium.com/snowflake/snowflake-quick-tips-how-to-start-data-modeling-with-dbeaver-c099ba333c4c": {
-        "title": "[Snowflake Quick Tips] How to start data modeling with DBeaver",
-        "published": "2022-07-17T07:03:26.596000Z",
-        "updated": "2023-03-23T12:08:46.601000Z",
-        "tags": "snowflake-data-cloud,er-modelling,data-modeling,data-superhero"
     },
     "https://medium.com/snowflake/snowflake-internal-stage-and-external-stage-d9e220590e70": {
         "title": "Snowflake\u00a0: Internal Stage and External Stage\u00a0\u2026.",
@@ -7036,12 +6988,6 @@
         "published": "2022-07-14T16:58:16.828000Z",
         "updated": "2022-07-15T13:24:58.698000Z",
         "tags": "data-superhero,snowflake"
-    },
-    "https://medium.com/snowflake/snowflake-quick-tips-how-to-connect-from-terraform-66bc1ac70fca": {
-        "title": "[Snowflake Quick Tips] How to connect from Terraform",
-        "published": "2022-07-14T14:02:56.265000Z",
-        "updated": "2023-03-27T17:05:42.738000Z",
-        "tags": "snowflake-training,snowflake-data-cloud,terraform,data-superhero"
     },
     "https://medium.com/snowflake/kill-those-snowflake-tables-3e202d51e557": {
         "title": "Kill those Snowflake Tables",
