@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/dspy-snowflake-140d6d947d73": {
+        "title": "DSPy + Snowflake:",
+        "published": "2024-06-13T19:07:10.312000Z",
+        "updated": "2024-06-13T19:07:10.312000Z",
+        "tags": "llmops,llm-evaluation,llm,llm-applications,snowflake"
+    },
     "https://medium.com/snowflake/snowflake-summit-2024-summary-of-new-features-announced-512fc79b20ed": {
         "title": "Snowflake Summit 2024: Summary of New Features announced",
         "published": "2024-06-12T19:07:13.803000Z",
@@ -44,7 +50,7 @@
     "https://medium.com/snowflake/snowflake-summit-2024-highlights-game-changing-feature-announcements-9897002d1de2": {
         "title": "Snowflake Summit 2024 Highlights: Game-Changing Feature Announcements",
         "published": "2024-06-07T12:32:37.144000Z",
-        "updated": "2024-06-07T12:32:37.144000Z",
+        "updated": "2024-06-13T18:53:00.640000Z",
         "tags": "snowflake,summit,cortex,snowpark,ai"
     },
     "https://medium.com/snowflake/the-app-store-for-b2b-6-steps-to-launch-your-app-securely-in-snowflake-30a3087e0ab3": {
