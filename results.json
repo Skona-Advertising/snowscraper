@@ -1,14 +1,20 @@
 {
+    "https://medium.com/snowflake/predicting-euro-2024-with-snowflake-ml-9b7c774fdd9e": {
+        "title": "Predicting Euro 2024 with Snowflake ML",
+        "published": "2024-06-14T13:42:28.248000Z",
+        "updated": "2024-06-14T13:42:28.248000Z",
+        "tags": "snowflake,data-science,snowpark,soccer,soccer-prediction"
+    },
     "https://medium.com/snowflake/dspy-snowflake-140d6d947d73": {
         "title": "DSPy + Snowflake:",
         "published": "2024-06-13T19:07:10.312000Z",
-        "updated": "2024-06-13T19:07:10.312000Z",
+        "updated": "2024-06-14T18:16:35.227000Z",
         "tags": "llmops,llm-evaluation,llm,llm-applications,snowflake"
     },
     "https://medium.com/snowflake/snowflake-summit-2024-summary-of-new-features-announced-512fc79b20ed": {
         "title": "Snowflake Summit 2024: Summary of New Features announced",
         "published": "2024-06-12T19:07:13.803000Z",
-        "updated": "2024-06-12T19:07:13.803000Z",
+        "updated": "2024-06-14T16:05:44.695000Z",
         "tags": "snowflake,ai,llm,apps,apache-iceberg"
     },
     "https://medium.com/snowflake/snowflake-snowflake-data-cloud-summit-wrap-up-f2d5e074a466": {
@@ -20,7 +26,7 @@
     "https://medium.com/snowflake/a-step-by-step-guide-to-publishing-your-app-on-snowflakes-marketplace-d6ea440d756c": {
         "title": "A Step-by-Step Guide to Publishing Your App on Snowflake\u2019s Marketplace",
         "published": "2024-06-11T18:04:30.795000Z",
-        "updated": "2024-06-11T18:04:30.795000Z",
+        "updated": "2024-06-14T12:54:09.363000Z",
         "tags": "snowflake,native-app,snowpark,application-development"
     },
     "https://medium.com/snowflake/monitoring-data-quality-using-snowflake-data-metric-functions-6b04229c6597": {
@@ -56,7 +62,7 @@
     "https://medium.com/snowflake/the-app-store-for-b2b-6-steps-to-launch-your-app-securely-in-snowflake-30a3087e0ab3": {
         "title": "The App Store for B2B: 6 Steps to Launch Your App Securely in Snowflake",
         "published": "2024-06-06T20:52:07.865000Z",
-        "updated": "2024-06-12T14:06:28.416000Z",
+        "updated": "2024-06-14T12:54:31.829000Z",
         "tags": "native-app,snowflake,containers,saas,marketplaces"
     },
     "https://medium.com/snowflake/llm-powered-snowflake-data-crawler-0dabbaa0e2a5": {
@@ -98,7 +104,7 @@
     "https://medium.com/snowflake/building-a-metric-assistant-with-streamlit-and-snowflake-cortex-5ae3fdf0b017": {
         "title": "Building a Metric Assistant with Streamlit and Snowflake Cortex",
         "published": "2024-06-05T17:52:07.096000Z",
-        "updated": "2024-06-10T17:47:33.801000Z",
+        "updated": "2024-06-14T08:07:11.767000Z",
         "tags": "snowflake,snowflake-cortex,streamlit"
     },
     "https://medium.com/snowflake/snowflake-advanced-cost-control-ingest-optimizations-e690cb2c050a": {
@@ -530,7 +536,7 @@
     "https://medium.com/snowflake/snowpark-ml-an-example-project-5627e212520c": {
         "title": "Snowpark ML\u200a\u2014\u200aAn Example Project",
         "published": "2024-04-30T15:05:16.850000Z",
-        "updated": "2024-05-20T12:03:31.075000Z",
+        "updated": "2024-06-14T21:17:30.120000Z",
         "tags": "snowflake,snowpark"
     },
     "https://medium.com/snowflake/using-snowflake-dynamic-tables-in-lieu-of-traditional-materialized-views-2bcc29d7a654": {
@@ -2094,9 +2100,9 @@
         "tags": "snowflake,snowpark"
     },
     "https://medium.com/snowflake/streamlit-in-snowflake-generally-available-for-aws-commercial-73ea1da1bdf2": {
-        "title": "Streamlit in Snowflake: Generally available for AWS, Azure commercial",
+        "title": "Streamlit in Snowflake: Generally available for AWS, Azure & GCP commercial",
         "published": "2023-12-16T01:01:59.383000Z",
-        "updated": "2024-01-26T04:14:26.198000Z",
+        "updated": "2024-06-14T03:59:32.981000Z",
         "tags": "snowflake,streamlit"
     },
     "https://medium.com/snowflake/random-forest-classifier-for-football-players-positions-b99890ffef50": {
