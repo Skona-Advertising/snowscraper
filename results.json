@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/advanced-llm-operations-in-snowflake-a-case-study-44442f2a50e4": {
+        "title": "Advanced LLM Operations in Snowflake: A Case Study",
+        "published": "2024-06-15T13:06:02.599000Z",
+        "updated": "2024-06-15T13:06:02.599000Z",
+        "tags": "snowflake,llm,llmops,model-registry"
+    },
     "https://medium.com/snowflake/predicting-euro-2024-with-snowflake-ml-9b7c774fdd9e": {
         "title": "Predicting Euro 2024 with Snowflake ML",
         "published": "2024-06-14T13:42:28.248000Z",
@@ -8,7 +14,7 @@
     "https://medium.com/snowflake/dspy-snowflake-140d6d947d73": {
         "title": "DSPy + Snowflake:",
         "published": "2024-06-13T19:07:10.312000Z",
-        "updated": "2024-06-14T18:16:35.227000Z",
+        "updated": "2024-06-15T13:56:28.811000Z",
         "tags": "llmops,llm-evaluation,llm,llm-applications,snowflake"
     },
     "https://medium.com/snowflake/snowflake-summit-2024-summary-of-new-features-announced-512fc79b20ed": {
@@ -536,7 +542,7 @@
     "https://medium.com/snowflake/snowpark-ml-an-example-project-5627e212520c": {
         "title": "Snowpark ML\u200a\u2014\u200aAn Example Project",
         "published": "2024-04-30T15:05:16.850000Z",
-        "updated": "2024-06-14T21:17:30.120000Z",
+        "updated": "2024-06-15T15:13:50.840000Z",
         "tags": "snowflake,snowpark"
     },
     "https://medium.com/snowflake/using-snowflake-dynamic-tables-in-lieu-of-traditional-materialized-views-2bcc29d7a654": {
