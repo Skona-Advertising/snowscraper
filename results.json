@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/securing-columns-in-snowflake-using-projection-policies-920a4d385f5d": {
+        "title": "Securing Columns in Snowflake Using Projection Policies",
+        "published": "2024-06-16T14:42:29.579000Z",
+        "updated": "2024-06-16T14:42:29.579000Z",
+        "tags": "snowflake,data-governance,data-security,column-level-security"
+    },
     "https://medium.com/snowflake/advanced-llm-operations-in-snowflake-a-case-study-44442f2a50e4": {
         "title": "Advanced LLM Operations in Snowflake: A Case Study",
         "published": "2024-06-15T13:06:02.599000Z",
