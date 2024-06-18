@@ -26,7 +26,7 @@
     "https://medium.com/snowflake/snowflake-summit-2024-summary-of-new-features-announced-512fc79b20ed": {
         "title": "Snowflake Summit 2024: Summary of New Features announced",
         "published": "2024-06-12T19:07:13.803000Z",
-        "updated": "2024-06-14T16:05:44.695000Z",
+        "updated": "2024-06-17T16:44:47.776000Z",
         "tags": "snowflake,ai,llm,apps,apache-iceberg"
     },
     "https://medium.com/snowflake/snowflake-snowflake-data-cloud-summit-wrap-up-f2d5e074a466": {
@@ -110,13 +110,13 @@
     "https://medium.com/snowflake/how-to-run-and-edit-run-dbt-projects-entirely-in-the-cloud-using-github-and-azure-devops-480f5b72b1d5": {
         "title": "How to run and edit run dbt projects entirely in the cloud using Github and Azure DevOps",
         "published": "2024-06-05T22:32:46.877000Z",
-        "updated": "2024-06-07T12:34:45.604000Z",
+        "updated": "2024-06-17T12:55:15.138000Z",
         "tags": "snowflake,github,azure-devops,github-account,ci-cd-pipeline"
     },
     "https://medium.com/snowflake/building-a-metric-assistant-with-streamlit-and-snowflake-cortex-5ae3fdf0b017": {
         "title": "Building a Metric Assistant with Streamlit and Snowflake Cortex",
         "published": "2024-06-05T17:52:07.096000Z",
-        "updated": "2024-06-14T08:07:11.767000Z",
+        "updated": "2024-06-17T12:03:16.860000Z",
         "tags": "snowflake,snowflake-cortex,streamlit"
     },
     "https://medium.com/snowflake/snowflake-advanced-cost-control-ingest-optimizations-e690cb2c050a": {
