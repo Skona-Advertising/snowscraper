@@ -83,12 +83,6 @@
         "updated": "2024-06-06T17:52:08.103000Z",
         "tags": "llm,cortex,snowflake,ai,genai"
     },
-    "https://medium.com/snowflake/three-methods-to-integrate-into-snowflakes-data-cloud-architecture-the-benefits-and-0a68846492e1": {
-        "title": "Three methods to integrate into Snowflake\u2019s Data Cloud Architecture; the benefits and\u2026",
-        "published": "2024-06-06T17:52:08.066000Z",
-        "updated": "2024-06-12T14:08:58.533000Z",
-        "tags": "snowflake,native-app,data-sharing,architecture,apps"
-    },
     "https://medium.com/snowflake/using-snowflake-cortex-and-streamlit-to-generate-table-and-column-descriptions-llm-hallucinations-5d36a15de032": {
         "title": "LLM hallucinations can actually be a feature: Using Snowflake Cortex and Streamlit to generate\u2026",
         "published": "2024-06-05T23:49:56.310000Z",
