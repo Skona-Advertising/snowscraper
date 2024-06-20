@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/schema-inference-snowflake-scripting-to-automate-table-ddl-creation-in-snowflake-6d81c6fdbfdf": {
+        "title": "Schema Inference + Snowflake Scripting to Automate Table DDL Creation in Snowflake",
+        "published": "2024-06-17T06:33:29.722000Z",
+        "updated": "2024-06-19T08:48:54.340000Z",
+        "tags": "snowflake-data-cloud,schema-detection,snowflake-scripting"
+    },
+    "https://medium.com/snowflake/understanding-snowflake-mfa-4a975292d6e1": {
+        "title": "Understanding Snowflake MFA",
+        "published": "2024-06-16T21:56:22.405000Z",
+        "updated": "2024-06-19T08:49:04.886000Z",
+        "tags": "mfa,data-superhero"
+    },
     "https://medium.com/snowflake/securing-columns-in-snowflake-using-projection-policies-920a4d385f5d": {
         "title": "Securing Columns in Snowflake Using Projection Policies",
         "published": "2024-06-16T14:42:29.579000Z",
@@ -11,11 +23,23 @@
         "updated": "2024-06-15T13:06:02.599000Z",
         "tags": "snowflake,llm,llmops,model-registry"
     },
+    "https://medium.com/snowflake/using-network-policy-to-secure-snowflake-997cf0a16cf7": {
+        "title": "Using network policy to secure Snowflake \u2014 a practice of separation of duties (SoD)",
+        "published": "2024-06-14T23:00:07.923000Z",
+        "updated": "2024-06-19T08:48:44.206000Z",
+        "tags": "network-policies,network-rule,execute-as-owner,elevated-privileges,data-superhero"
+    },
     "https://medium.com/snowflake/predicting-euro-2024-with-snowflake-ml-9b7c774fdd9e": {
         "title": "Predicting Euro 2024 with Snowflake ML",
         "published": "2024-06-14T13:42:28.248000Z",
         "updated": "2024-06-14T13:42:28.248000Z",
         "tags": "snowflake,data-science,snowpark,soccer,soccer-prediction"
+    },
+    "https://medium.com/snowflake/leveraging-ai-agents-in-snowflake-for-product-analytics-part-1-8af83523b9be": {
+        "title": "Leveraging AI agents in Snowflake for product analytics | Part 1",
+        "published": "2024-06-14T01:11:54.719000Z",
+        "updated": "2024-06-19T08:48:04.331000Z",
+        "tags": ""
     },
     "https://medium.com/snowflake/dspy-snowflake-140d6d947d73": {
         "title": "DSPy + Snowflake:",
