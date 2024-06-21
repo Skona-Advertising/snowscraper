@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/so-you-want-to-just-get-pytorch-running-in-snowpark-container-services-be8501c7981f": {
+        "title": "So You Want To\u2026. Just Get (Pytorch) Running in Snowpark Container Services",
+        "published": "2024-06-20T09:52:30.666000Z",
+        "updated": "2024-06-20T13:40:21.508000Z",
+        "tags": "snowpark-python,pytorch,containers,docker,tutorial"
+    },
     "https://medium.com/snowflake/schema-inference-snowflake-scripting-to-automate-table-ddl-creation-in-snowflake-6d81c6fdbfdf": {
         "title": "Schema Inference + Snowflake Scripting to Automate Table DDL Creation in Snowflake",
         "published": "2024-06-17T06:33:29.722000Z",
