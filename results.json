@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/data-vault-on-snowflake-data-retention-storage-tiering-ef8569bc237f": {
+        "title": "Data Vault on Snowflake: Data Retention & Storage Tiering",
+        "published": "2024-06-25T20:55:53.858000Z",
+        "updated": "2024-06-26T18:22:42.951000Z",
+        "tags": "data-vault,snowflake,data-retention,right-to-be-forgotten"
+    },
     "https://medium.com/snowflake/frequently-asked-questions-from-snowflake-copilot-ama-a-brief-overview-a800026361cd": {
         "title": "Intro to Snowflake Copilot: FAQs from AMA",
         "published": "2024-06-21T15:54:19.737000Z",
@@ -146,7 +152,7 @@
     "https://medium.com/snowflake/how-to-run-and-edit-run-dbt-projects-entirely-in-the-cloud-using-github-and-azure-devops-480f5b72b1d5": {
         "title": "How to run and edit run dbt projects entirely in the cloud using Github and Azure DevOps",
         "published": "2024-06-05T22:32:46.877000Z",
-        "updated": "2024-06-17T12:55:15.138000Z",
+        "updated": "2024-06-26T16:54:37.693000Z",
         "tags": "snowflake,github,azure-devops,github-account,ci-cd-pipeline"
     },
     "https://medium.com/snowflake/building-a-metric-assistant-with-streamlit-and-snowflake-cortex-5ae3fdf0b017": {
