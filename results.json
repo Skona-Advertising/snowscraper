@@ -1,4 +1,22 @@
 {
+    "https://medium.com/snowflake/navigating-the-data-divide-a2b9ff45aeeb": {
+        "title": "Navigating the Data Divide",
+        "published": "2024-06-27T18:50:35.400000Z",
+        "updated": "2024-06-27T18:50:35.400000Z",
+        "tags": "unistore,hybrid-tables,snowpipe-streaming,dynamic-table,oltp"
+    },
+    "https://medium.com/snowflake/transforming-customer-experience-with-snowflake-the-tasty-bytes-story-1b213afc4fc7": {
+        "title": "Transforming Customer Experience with Snowflake: The Tasty Bytes Story",
+        "published": "2024-06-27T16:38:05.968000Z",
+        "updated": "2024-06-27T16:38:05.968000Z",
+        "tags": "snowflake,streamlit,cortex,document-ai,customer-experience"
+    },
+    "https://medium.com/snowflake/the-ultimate-recap-of-snowflakes-dev-day-3255799e9f2f": {
+        "title": "The Ultimate Recap of Snowflake\u2019s Dev Day",
+        "published": "2024-06-27T15:01:41.428000Z",
+        "updated": "2024-06-27T15:01:41.428000Z",
+        "tags": "snowflake,developer,ai,apps,data-science"
+    },
     "https://medium.com/snowflake/data-vault-on-snowflake-data-retention-storage-tiering-ef8569bc237f": {
         "title": "Data Vault on Snowflake: Data Retention & Storage Tiering",
         "published": "2024-06-25T20:55:53.858000Z",
