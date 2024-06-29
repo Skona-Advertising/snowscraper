@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/unlocking-the-power-of-snowflake-native-app-and-cortex-llm-building-applications-with-ease-61ef0d3b5296": {
+        "title": "Unlocking the Power of Snowflake Native App and Cortex LLM: Building Applications with Ease",
+        "published": "2024-06-28T18:24:38.393000Z",
+        "updated": "2024-06-28T18:27:46.250000Z",
+        "tags": "snowflake-cortex,snowflake-native-app,ai"
+    },
     "https://medium.com/snowflake/navigating-the-data-divide-a2b9ff45aeeb": {
         "title": "Navigating the Data Divide",
         "published": "2024-06-27T18:50:35.400000Z",
@@ -14,7 +20,7 @@
     "https://medium.com/snowflake/the-ultimate-recap-of-snowflakes-dev-day-3255799e9f2f": {
         "title": "The Ultimate Recap of Snowflake\u2019s Dev Day",
         "published": "2024-06-27T15:01:41.428000Z",
-        "updated": "2024-06-27T15:01:41.428000Z",
+        "updated": "2024-06-28T09:43:15.735000Z",
         "tags": "snowflake,developer,ai,apps,data-science"
     },
     "https://medium.com/snowflake/data-vault-on-snowflake-data-retention-storage-tiering-ef8569bc237f": {
@@ -2264,7 +2270,7 @@
     "https://medium.com/snowflake/snowflake-and-power-bi-best-practices-and-recent-improvements-183e2d970c0c": {
         "title": "Snowflake and Power BI: Best Practices and Recent Improvements",
         "published": "2023-12-07T23:02:08.677000Z",
-        "updated": "2024-04-23T15:49:34.191000Z",
+        "updated": "2024-06-28T20:15:14.651000Z",
         "tags": "snowflake,microsoft-power-bi,snowflake-data-cloud,power-bi-desktop,performance"
     },
     "https://medium.com/snowflake/optimizing-snowflake-cloud-services-costs-de10f0b15444": {
