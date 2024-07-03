@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/how-tenable-creates-exposure-scores-for-identities-0cc9c72e0ebd": {
+        "title": "How Tenable creates Exposure Scores for Identities",
+        "published": "2024-07-02T20:43:48.524000Z",
+        "updated": "2024-07-02T20:43:48.524000Z",
+        "tags": "machine-learning,ai,cybersecurity,tenable,identity-management"
+    },
+    "https://medium.com/snowflake/generating-private-and-public-keys-using-snowflake-snowpark-46ca9c518fc3": {
+        "title": "Generating Private and Public Keys using Snowflake Snowpark",
+        "published": "2024-07-02T18:00:05.558000Z",
+        "updated": "2024-07-02T20:58:19.872000Z",
+        "tags": "snowflake,authentication,security"
+    },
     "https://medium.com/snowflake/unlocking-the-power-of-snowflake-native-app-and-cortex-llm-building-applications-with-ease-61ef0d3b5296": {
         "title": "Unlocking the Power of Snowflake Native App and Cortex LLM: Building Applications with Ease",
         "published": "2024-06-28T18:24:38.393000Z",
@@ -10,6 +22,12 @@
         "published": "2024-06-27T18:50:35.400000Z",
         "updated": "2024-06-27T18:50:35.400000Z",
         "tags": "unistore,hybrid-tables,snowpipe-streaming,dynamic-table,oltp"
+    },
+    "https://medium.com/snowflake/2024-snowpipe-auto-ingest-via-sns-sqs-a-definitive-guide-with-all-controls-c7eb21fac777": {
+        "title": "2024 Snowpipe Auto-Ingest via SNS & SQS \u2192 A definitive guide with all controls\u00a0!!",
+        "published": "2024-06-27T18:09:07.954000Z",
+        "updated": "2024-07-02T20:51:29.413000Z",
+        "tags": "snowflake,aws,cloud-computing,data-superhero,real-time-analytics"
     },
     "https://medium.com/snowflake/transforming-customer-experience-with-snowflake-the-tasty-bytes-story-1b213afc4fc7": {
         "title": "Transforming Customer Experience with Snowflake: The Tasty Bytes Story",
@@ -572,7 +590,7 @@
     "https://medium.com/snowflake/accelerate-code-conversion-for-migrations-to-snowflake-with-snowconvert-now-available-for-free-fe23592d342f": {
         "title": "Accelerate Code Conversion for Migrations to Snowflake with SnowConvert: Now Available For Free\u2026",
         "published": "2024-05-02T14:02:22.388000Z",
-        "updated": "2024-05-02T14:02:22.388000Z",
+        "updated": "2024-07-02T14:47:02.258000Z",
         "tags": "snowflake,snowconvert,legacy-modernization,legacy-code"
     },
     "https://medium.com/snowflake/snowpark-migration-accelerator-the-ultimate-solution-to-all-your-spark-to-snowflake-migration-woes-aa91ca628faf": {
@@ -682,6 +700,12 @@
         "published": "2024-04-24T16:01:45.082000Z",
         "updated": "2024-04-24T16:01:45.082000Z",
         "tags": "snowflake-native-app,snowpark,h2oai"
+    },
+    "https://medium.com/snowflake/snowflake-arctic-cookbook-series-exploring-mixture-of-experts-moe-c7d6b8f14d16": {
+        "title": "Snowflake Arctic Cookbook Series: Exploring Mixture of Experts (MoE)",
+        "published": "2024-04-24T12:57:19.947000Z",
+        "updated": "2024-04-24T13:35:59.164000Z",
+        "tags": "ai-research,llm,mixture-of-experts"
     },
     "https://medium.com/snowflake/snowflake-arctic-cookbook-series-building-an-efficient-training-system-for-arctic-6658b9bdfcae": {
         "title": "Snowflake Arctic Cookbook Series: Building an Efficient Training System for Arctic",
