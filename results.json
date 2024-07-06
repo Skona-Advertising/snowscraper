@@ -1,8 +1,14 @@
 {
+    "https://medium.com/snowflake/unlocking-insights-transforming-customer-review-analytics-with-snowflake-cortex-80a743ab91d2": {
+        "title": "Unlocking Insights: Transforming Customer Review Analytics with Snowflake Cortex",
+        "published": "2024-07-05T14:56:37.003000Z",
+        "updated": "2024-07-05T14:56:37.003000Z",
+        "tags": "snowflake-cortex,ai,customer-experience"
+    },
     "https://medium.com/snowflake/snowflake-native-apps-the-new-form-of-data-sharing-c1033650a620": {
         "title": "Snowflake Native Apps: The New Form of \u201cData Sharing\u201d",
         "published": "2024-07-04T14:51:19.710000Z",
-        "updated": "2024-07-04T14:51:19.710000Z",
+        "updated": "2024-07-05T09:09:57.787000Z",
         "tags": "snowflake,data-engineering,python,ai,data"
     },
     "https://medium.com/snowflake/data-governance-using-aggregation-policies-in-snowflake-d736e38d9862": {
