@@ -1,4 +1,22 @@
 {
+    "https://medium.com/snowflake/now-in-public-preview-snowflakes-range-based-window-frame-will-accelerate-your-time-series-d7b0699f8344": {
+        "title": "Now in Public Preview, Snowflake\u2019s RANGE based window frame will accelerate your time-series\u2026",
+        "published": "2024-07-08T17:00:52.183000Z",
+        "updated": "2024-07-08T17:00:52.183000Z",
+        "tags": "advanced-analytics,sql,data-engineering,data-science,time-series-analysis"
+    },
+    "https://medium.com/snowflake/practical-implementation-of-federated-architecture-with-snowflake-features-154af30792a7": {
+        "title": "Practical Implementation of federated architecture with Snowflake features",
+        "published": "2024-07-08T14:57:00.303000Z",
+        "updated": "2024-07-08T16:41:31.130000Z",
+        "tags": "architecture,data-mesh-architecture,data-mesh-implementation,infrastructure-as-code,devops"
+    },
+    "https://medium.com/snowflake/personalize-ai-for-your-business-needs-with-cortex-fine-tuning-in-snowflake-e423cd517032": {
+        "title": "Personalize AI for Your Business Needs with Cortex Fine-Tuning in Snowflake",
+        "published": "2024-07-08T02:59:57.177000Z",
+        "updated": "2024-07-08T15:23:00.062000Z",
+        "tags": "genai,llm,supervised-fine-tuning,snowflake-data-cloud,cortex"
+    },
     "https://medium.com/snowflake/unlocking-insights-transforming-customer-review-analytics-with-snowflake-cortex-80a743ab91d2": {
         "title": "Unlocking Insights: Transforming Customer Review Analytics with Snowflake Cortex",
         "published": "2024-07-05T14:56:37.003000Z",
