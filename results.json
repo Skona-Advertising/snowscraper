@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/time-series-analytics-in-snowflake-for-manufacturing-iot-industry-use-cases-9be8854874b9": {
+        "title": "Time Series analytics in Snowflake for Manufacturing / IOT industry use cases",
+        "published": "2024-07-10T14:52:18.729000Z",
+        "updated": "2024-07-10T14:52:18.729000Z",
+        "tags": ""
+    },
+    "https://medium.com/snowflake/a-step-by-step-guide-to-building-with-snowflake-snowflake-solutions-center-524b33ae57a3": {
+        "title": "A Step-by-Step Guide to Building with Snowflake: Snowflake Solutions Center",
+        "published": "2024-07-10T03:49:34.269000Z",
+        "updated": "2024-07-10T03:49:34.269000Z",
+        "tags": "snowflake,ai,solutions,developer,data"
+    },
     "https://medium.com/snowflake/distributed-ray-as-a-native-app-in-snowpark-container-services-a3449cf33b5c": {
         "title": "Distributed Ray as a Native App in Snowpark Container Services",
         "published": "2024-07-09T16:26:41.111000Z",
@@ -10,6 +22,12 @@
         "published": "2024-07-09T12:56:40.418000Z",
         "updated": "2024-07-09T12:56:40.418000Z",
         "tags": "snowflake,machine-learning,data-superhero,insights-and-data"
+    },
+    "https://medium.com/snowflake/generating-private-and-public-keys-using-streamlit-in-snowflake-a4ea1b48d5a1": {
+        "title": "Generating Private and Public Keys using Streamlit in Snowflake",
+        "published": "2024-07-08T20:12:20.617000Z",
+        "updated": "2024-07-10T22:09:38.431000Z",
+        "tags": "snowflake,security,authentication"
     },
     "https://medium.com/snowflake/now-in-public-preview-snowflakes-range-based-window-frame-will-accelerate-your-time-series-d7b0699f8344": {
         "title": "Now in Public Preview, Snowflake\u2019s RANGE based window frame will accelerate your time-series\u2026",
@@ -40,6 +58,12 @@
         "published": "2024-07-04T14:51:19.710000Z",
         "updated": "2024-07-05T09:09:57.787000Z",
         "tags": "snowflake,data-engineering,python,ai,data"
+    },
+    "https://medium.com/snowflake/using-snowflakes-snowpark-pandas-for-data-processing-9728cb83b607": {
+        "title": "Using Snowflake\u2019s Snowpark Pandas for data processing",
+        "published": "2024-07-04T12:36:18.866000Z",
+        "updated": "2024-07-10T22:05:13.008000Z",
+        "tags": ""
     },
     "https://medium.com/snowflake/data-governance-using-aggregation-policies-in-snowflake-d736e38d9862": {
         "title": "Data Governance Using Aggregation Policies in Snowflake",
@@ -94,6 +118,12 @@
         "published": "2024-06-25T20:55:53.858000Z",
         "updated": "2024-06-26T18:22:42.951000Z",
         "tags": "data-vault,snowflake,data-retention,right-to-be-forgotten"
+    },
+    "https://medium.com/snowflake/unlocking-innovation-key-takeaways-from-snowflake-data-cloud-summit-2024-134328b90c2f": {
+        "title": "Unlocking Innovation: Key Takeaways from Snowflake Data Cloud Summit 2024",
+        "published": "2024-06-24T15:11:06.241000Z",
+        "updated": "2024-07-10T22:04:33.293000Z",
+        "tags": "snowflake,snowflake-data-cloud,summit,enterprise-ai,data"
     },
     "https://medium.com/snowflake/frequently-asked-questions-from-snowflake-copilot-ama-a-brief-overview-a800026361cd": {
         "title": "Intro to Snowflake Copilot: FAQs from AMA",
