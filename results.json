@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/style-and-customize-your-streamlit-in-snowflake-apps-4a8495b8e469": {
+        "title": "Style and customize your Streamlit in Snowflake apps",
+        "published": "2024-07-11T14:32:17.669000Z",
+        "updated": "2024-07-11T14:32:17.669000Z",
+        "tags": "snowflake,streamlit,apps,app-development"
+    },
     "https://medium.com/snowflake/time-series-analytics-in-snowflake-for-manufacturing-iot-industry-use-cases-9be8854874b9": {
         "title": "Time Series analytics in Snowflake for Manufacturing / IOT industry use cases",
         "published": "2024-07-10T14:52:18.729000Z",
@@ -112,12 +118,6 @@
         "published": "2024-06-27T15:01:41.428000Z",
         "updated": "2024-06-28T09:43:15.735000Z",
         "tags": "snowflake,developer,ai,apps,data-science"
-    },
-    "https://medium.com/snowflake/data-vault-on-snowflake-data-retention-storage-tiering-ef8569bc237f": {
-        "title": "Data Vault on Snowflake: Data Retention & Storage Tiering",
-        "published": "2024-06-25T20:55:53.858000Z",
-        "updated": "2024-06-26T18:22:42.951000Z",
-        "tags": "data-vault,snowflake,data-retention,right-to-be-forgotten"
     },
     "https://medium.com/snowflake/unlocking-innovation-key-takeaways-from-snowflake-data-cloud-summit-2024-134328b90c2f": {
         "title": "Unlocking Innovation: Key Takeaways from Snowflake Data Cloud Summit 2024",
