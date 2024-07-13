@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/introducing-unistore-snowflakes-new-workload-for-transactional-and-analytical-data-daea01e49c61": {
+        "title": "Introducing Unistore, Snowflake\u2019s New Workload for Transactional and Analytical Data",
+        "published": "2024-07-12T14:06:02.016000Z",
+        "updated": "2024-07-12T14:06:02.016000Z",
+        "tags": "snowflake,unistore,hybrid-tables,oltp,oltp-vs-olap"
+    },
+    "https://medium.com/snowflake/surviving-a-keynote-disaster-how-we-turned-panic-into-a-win-3708c08d5dc2": {
+        "title": "Surviving a Keynote Disaster: How We Turned Panic into a Win",
+        "published": "2024-07-12T02:47:20.476000Z",
+        "updated": "2024-07-12T02:47:20.476000Z",
+        "tags": "snowflake,data-science,public-speaking,data-engineering"
+    },
     "https://medium.com/snowflake/style-and-customize-your-streamlit-in-snowflake-apps-4a8495b8e469": {
         "title": "Style and customize your Streamlit in Snowflake apps",
         "published": "2024-07-11T14:32:17.669000Z",
