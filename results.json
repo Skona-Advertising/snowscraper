@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/langchain-for-files-stored-in-snowflake-stages-powered-by-cortex-d2be60650af8": {
+        "title": "LangChain for files stored in Snowflake Stages powered by Cortex",
+        "published": "2024-07-16T14:11:01.924000Z",
+        "updated": "2024-07-16T14:11:01.924000Z",
+        "tags": "langchain,snowflake,python,generative-ai-tools,cortex"
+    },
     "https://medium.com/snowflake/syncing-documents-from-sharepoint-to-snowflake-by-leveraging-microsoft-graph-apis-in-snowpark-b97a423d71db": {
         "title": "Syncing documents from sharepoint to snowflake by leveraging Microsoft Graph APIs in snowpark\u2026",
         "published": "2024-07-15T20:13:22.620000Z",
