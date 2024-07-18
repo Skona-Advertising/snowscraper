@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/unlocking-efficiency-snowflakes-impact-on-finance-sector-operations-eb23747c286f": {
+        "title": "Unlocking Efficiency: Snowflake\u2019s Impact on Finance Sector Operations",
+        "published": "2024-07-17T14:11:35.267000Z",
+        "updated": "2024-07-17T14:11:35.267000Z",
+        "tags": "snowflake,finance,banking,investing,data-superhero"
+    },
     "https://medium.com/snowflake/langchain-for-files-stored-in-snowflake-stages-powered-by-cortex-d2be60650af8": {
         "title": "LangChain for files stored in Snowflake Stages powered by Cortex",
         "published": "2024-07-16T14:11:01.924000Z",
@@ -26,7 +32,7 @@
     "https://medium.com/snowflake/surviving-a-keynote-disaster-how-we-turned-panic-into-a-win-3708c08d5dc2": {
         "title": "Surviving a Keynote Disaster: How We Turned Panic into a Win",
         "published": "2024-07-12T02:47:20.476000Z",
-        "updated": "2024-07-12T02:47:20.476000Z",
+        "updated": "2024-07-17T02:10:17.284000Z",
         "tags": "snowflake,data-science,public-speaking,data-engineering"
     },
     "https://medium.com/snowflake/style-and-customize-your-streamlit-in-snowflake-apps-4a8495b8e469": {
@@ -124,6 +130,12 @@
         "published": "2024-06-28T18:24:38.393000Z",
         "updated": "2024-06-28T18:27:46.250000Z",
         "tags": "snowflake-cortex,snowflake-native-app,ai"
+    },
+    "https://medium.com/snowflake/how-to-win-in-enterprise-ai-snowflake-cortex-for-scaled-ai-and-mlops-30d7d5bce19c": {
+        "title": "How to win in Enterprise AI: Snowflake Cortex for Scaled AI and MLOps",
+        "published": "2024-06-28T12:42:54.102000Z",
+        "updated": "2024-07-17T19:06:46.953000Z",
+        "tags": "snowflake,snowflake-cortex,snowflake-arctic,enterprise-ai"
     },
     "https://medium.com/snowflake/navigating-the-data-divide-a2b9ff45aeeb": {
         "title": "Navigating the Data Divide",
