@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/faster-and-cheaper-a-quick-recap-of-snowflakes-latest-automatic-clustering-improvements-e4112d8eb8d3": {
+        "title": "Faster and Cheaper: A Quick Recap of Snowflake\u2019s Latest Automatic Clustering Improvements",
+        "published": "2024-07-19T14:52:20.742000Z",
+        "updated": "2024-07-19T14:52:20.742000Z",
+        "tags": "snowflake,performance,optimization"
+    },
     "https://medium.com/snowflake/snowflake-beyond-sql-leveraging-python-in-snowflake-60490984ec05": {
         "title": "Snowflake Beyond SQL: Leveraging Python in Snowflake",
         "published": "2024-07-18T14:12:21.728000Z",
