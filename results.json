@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/airflow-on-snowpark-container-services-17c65c6e6bbd": {
+        "title": "Airflow on Snowpark Container Services",
+        "published": "2024-07-22T15:50:08.703000Z",
+        "updated": "2024-07-22T15:50:08.703000Z",
+        "tags": "apache-airflow,data-engineering,snowflake,snowpark-container"
+    },
+    "https://medium.com/snowflake/unleashing-the-power-of-place-processing-geospatial-data-on-snowflake-with-biggeos-native-app-eaab89e89dde": {
+        "title": "Unleashing the Power of Place: Processing Geospatial Data on Snowflake with BigGeo\u2019s Native App \u2014\u2026",
+        "published": "2024-07-22T14:53:09.561000Z",
+        "updated": "2024-07-22T14:53:09.561000Z",
+        "tags": "geospatial,geospatial-data,location-data,geospatial-intelligence"
+    },
     "https://medium.com/snowflake/faster-and-cheaper-a-quick-recap-of-snowflakes-latest-automatic-clustering-improvements-e4112d8eb8d3": {
         "title": "Faster and Cheaper: A Quick Recap of Snowflake\u2019s Latest Automatic Clustering Improvements",
         "published": "2024-07-19T14:52:20.742000Z",
@@ -64,6 +76,12 @@
         "published": "2024-07-10T14:52:18.729000Z",
         "updated": "2024-07-10T14:52:18.729000Z",
         "tags": ""
+    },
+    "https://medium.com/snowflake/unveiling-the-power-of-snowflake-document-ai-a-technical-deep-dive-68807ded5f6d": {
+        "title": "Unveiling the Power of Snowflake Document AI: A Technical Deep Dive",
+        "published": "2024-07-10T04:35:08.869000Z",
+        "updated": "2024-07-22T15:50:50.432000Z",
+        "tags": "snowflake-document-ai,snowflake-cortex,snowflake-data-cloud"
     },
     "https://medium.com/snowflake/a-step-by-step-guide-to-building-with-snowflake-snowflake-solutions-center-524b33ae57a3": {
         "title": "A Step-by-Step Guide to Building with Snowflake: Snowflake Solutions Center",
