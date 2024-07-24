@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/genesis-computing-revolutionizing-enterprise-ai-with-genbots-47378ef2178e": {
+        "title": "Genesis Computing: Revolutionizing Enterprise AI with Genbots",
+        "published": "2024-07-23T14:51:02.412000Z",
+        "updated": "2024-07-23T14:51:02.412000Z",
+        "tags": "ai,autonomous-agent,agentic-ai,snowflake-data-cloud,snowflake"
+    },
     "https://medium.com/snowflake/airflow-on-snowpark-container-services-17c65c6e6bbd": {
         "title": "Airflow on Snowpark Container Services",
         "published": "2024-07-22T15:50:08.703000Z",
@@ -3344,7 +3350,7 @@
     "https://medium.com/snowflake/simplifying-data-ingestion-creating-a-data-pipeline-in-snowflake-with-sftp-e99033f230c2": {
         "title": "Simplifying Data Ingestion: Creating a Data pipeline in Snowflake with SFTP",
         "published": "2023-09-14T19:01:46.296000Z",
-        "updated": "2023-09-15T14:47:09.558000Z",
+        "updated": "2024-07-24T00:34:44.102000Z",
         "tags": "snowflake,sftp,data-engineer,python,cdc"
     },
     "https://medium.com/snowflake/data-sharing-patterns-in-snowflake-3b526729efd7": {
