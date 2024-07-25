@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/olympic-games-analytics-with-snowflake-0af45453bbd2": {
+        "title": "Olympic Games Analytics with Snowflake",
+        "published": "2024-07-24T17:21:33.700000Z",
+        "updated": "2024-07-24T17:21:33.700000Z",
+        "tags": "snowflake,analytics,data,sports,olympics"
+    },
+    "https://medium.com/snowflake/cloud-data-platform-security-governance-best-practices-c85a5d4ce849": {
+        "title": "Cloud Data Platform Security, Governance, and Disaster Recovery Best Practices",
+        "published": "2024-07-24T14:51:37.114000Z",
+        "updated": "2024-07-24T14:51:37.114000Z",
+        "tags": "cloud-data-warehouse,data-governance,data-security"
+    },
     "https://medium.com/snowflake/genesis-computing-revolutionizing-enterprise-ai-with-genbots-47378ef2178e": {
         "title": "Genesis Computing: Revolutionizing Enterprise AI with Genbots",
         "published": "2024-07-23T14:51:02.412000Z",
@@ -314,7 +326,7 @@
     "https://medium.com/snowflake/snowflake-security-integrations-and-the-one-with-type-of-api-authentication-c93196633e8b": {
         "title": "Snowflake security integrations and the one with type of \u201cAPI_AUTHENTICATION\u201d",
         "published": "2024-06-07T16:42:18.465000Z",
-        "updated": "2024-06-11T18:04:43.476000Z",
+        "updated": "2024-07-24T19:07:02.557000Z",
         "tags": "oauth,integration-security,data-superhero"
     },
     "https://medium.com/snowflake/snowflake-summit-2024-highlights-game-changing-feature-announcements-9897002d1de2": {
