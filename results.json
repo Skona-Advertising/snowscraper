@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/applying-jamba-instruct-to-long-context-use-cases-in-snowflake-cortex-ai-fcbbb9fc2df3": {
+        "title": "Applying Jamba-Instruct to Long Context Use Cases in Snowflake Cortex AI",
+        "published": "2024-07-25T16:02:29.656000Z",
+        "updated": "2024-07-25T20:55:23.559000Z",
+        "tags": "ai,llm,snowflake,cortex,ai21labs"
+    },
+    "https://medium.com/snowflake/aggregation-policy-in-snowflake-d9b84a305cee": {
+        "title": "Aggregation Policy in Snowflake",
+        "published": "2024-07-25T14:51:36.214000Z",
+        "updated": "2024-07-25T14:51:36.214000Z",
+        "tags": ""
+    },
     "https://medium.com/snowflake/olympic-games-analytics-with-snowflake-0af45453bbd2": {
         "title": "Olympic Games Analytics with Snowflake",
         "published": "2024-07-24T17:21:33.700000Z",
@@ -8,8 +20,14 @@
     "https://medium.com/snowflake/cloud-data-platform-security-governance-best-practices-c85a5d4ce849": {
         "title": "Cloud Data Platform Security, Governance, and Disaster Recovery Best Practices",
         "published": "2024-07-24T14:51:37.114000Z",
-        "updated": "2024-07-24T14:51:37.114000Z",
+        "updated": "2024-07-25T01:05:26.421000Z",
         "tags": "cloud-data-warehouse,data-governance,data-security"
+    },
+    "https://medium.com/snowflake/identifying-intents-efficiently-with-serverless-fine-tuning-1d3d11b0802f": {
+        "title": "Identifying Intents Efficiently with Serverless Fine-tuning",
+        "published": "2024-07-23T20:11:39.097000Z",
+        "updated": "2024-07-25T18:54:06.475000Z",
+        "tags": "generative-ai-use-cases,llm,snowflake,fine-tuning,telecommunication"
     },
     "https://medium.com/snowflake/genesis-computing-revolutionizing-enterprise-ai-with-genbots-47378ef2178e": {
         "title": "Genesis Computing: Revolutionizing Enterprise AI with Genbots",
@@ -38,7 +56,7 @@
     "https://medium.com/snowflake/snowflake-beyond-sql-leveraging-python-in-snowflake-60490984ec05": {
         "title": "Snowflake Beyond SQL: Leveraging Python in Snowflake",
         "published": "2024-07-18T14:12:21.728000Z",
-        "updated": "2024-07-18T14:12:21.728000Z",
+        "updated": "2024-07-25T19:05:08.436000Z",
         "tags": "snowflake,python,api,developer,devops"
     },
     "https://medium.com/snowflake/unlocking-efficiency-snowflakes-impact-on-finance-sector-operations-eb23747c286f": {
@@ -266,7 +284,7 @@
     "https://medium.com/snowflake/using-network-policy-to-secure-snowflake-997cf0a16cf7": {
         "title": "Using network policy to secure Snowflake \u2014 a practice of separation of duties (SoD)",
         "published": "2024-06-14T23:00:07.923000Z",
-        "updated": "2024-06-19T08:48:44.206000Z",
+        "updated": "2024-07-25T14:21:18.696000Z",
         "tags": "network-policies,network-rule,execute-as-owner,elevated-privileges,data-superhero"
     },
     "https://medium.com/snowflake/predicting-euro-2024-with-snowflake-ml-9b7c774fdd9e": {
