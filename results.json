@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/snowflake-native-application-security-model-f953bee73b67": {
+        "title": "Snowflake Native Application Security Model",
+        "published": "2024-07-26T14:01:45.195000Z",
+        "updated": "2024-07-26T16:44:32.563000Z",
+        "tags": "native-app,snowflake,app-development,security,access-control"
+    },
     "https://medium.com/snowflake/applying-jamba-instruct-to-long-context-use-cases-in-snowflake-cortex-ai-fcbbb9fc2df3": {
         "title": "Applying Jamba-Instruct to Long Context Use Cases in Snowflake Cortex AI",
         "published": "2024-07-25T16:02:29.656000Z",
@@ -14,7 +20,7 @@
     "https://medium.com/snowflake/olympic-games-analytics-with-snowflake-0af45453bbd2": {
         "title": "Olympic Games Analytics with Snowflake",
         "published": "2024-07-24T17:21:33.700000Z",
-        "updated": "2024-07-24T17:21:33.700000Z",
+        "updated": "2024-07-26T13:37:43.631000Z",
         "tags": "snowflake,analytics,data,sports,olympics"
     },
     "https://medium.com/snowflake/cloud-data-platform-security-governance-best-practices-c85a5d4ce849": {
@@ -80,7 +86,7 @@
     "https://medium.com/snowflake/syncing-documents-from-sharepoint-to-snowflake-by-leveraging-microsoft-graph-apis-in-snowpark-b97a423d71db": {
         "title": "Syncing documents from sharepoint to snowflake by leveraging Microsoft Graph APIs in snowpark\u2026",
         "published": "2024-07-15T20:13:22.620000Z",
-        "updated": "2024-07-15T20:13:22.620000Z",
+        "updated": "2024-07-26T14:28:42.070000Z",
         "tags": "genai,snowflake,llm,sharepoint,unstructured-data"
     },
     "https://medium.com/snowflake/convert-materialized-views-on-legacy-platforms-to-snowflake-dynamic-tables-6ac766f5a34e": {
@@ -122,7 +128,7 @@
     "https://medium.com/snowflake/a-step-by-step-guide-to-building-with-snowflake-snowflake-solutions-center-524b33ae57a3": {
         "title": "A Step-by-Step Guide to Building with Snowflake: Snowflake Solutions Center",
         "published": "2024-07-10T03:49:34.269000Z",
-        "updated": "2024-07-10T03:49:34.269000Z",
+        "updated": "2024-07-26T18:48:22.669000Z",
         "tags": "snowflake,ai,solutions,developer,data"
     },
     "https://medium.com/snowflake/distributed-ray-as-a-native-app-in-snowpark-container-services-a3449cf33b5c": {
@@ -196,6 +202,12 @@
         "published": "2024-07-02T18:00:05.558000Z",
         "updated": "2024-07-02T20:58:19.872000Z",
         "tags": "snowflake,authentication,security"
+    },
+    "https://medium.com/snowflake/unleashing-the-power-of-unified-data-governance-a-deep-dive-into-snowflake-horizon-3ad5fc8eefc0": {
+        "title": "Unleashing the Power of Unified Data Governance: A Deep Dive into Snowflake Horizon",
+        "published": "2024-07-02T11:13:20.927000Z",
+        "updated": "2024-07-27T00:38:05.748000Z",
+        "tags": "snowflake-horizon,snowflake-data-goverance,snowflake-security,snowflake,snowflake-data-cloud"
     },
     "https://medium.com/snowflake/unlocking-the-power-of-snowflake-native-app-and-cortex-llm-building-applications-with-ease-61ef0d3b5296": {
         "title": "Unlocking the Power of Snowflake Native App and Cortex LLM: Building Applications with Ease",
@@ -4124,7 +4136,7 @@
     "https://medium.com/snowflake/governed-data-collaboration-in-snowflake-4e4b0ab59fbf": {
         "title": "Governed Data Collaboration In Snowflake",
         "published": "2023-07-13T16:02:22.185000Z",
-        "updated": "2023-07-13T16:02:22.185000Z",
+        "updated": "2024-07-26T13:54:59.397000Z",
         "tags": "snowflake,data-collaboration,governance,data-clean-room,data-privacy"
     },
     "https://medium.com/snowflake/querying-json-in-snowflake-a-color-coded-e-578d01445284": {
