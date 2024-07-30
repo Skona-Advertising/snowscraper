@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/optimizing-costs-in-snowflake-with-effective-storage-lifecycle-policies-027dd98eaafd": {
+        "title": "Optimizing Costs in Snowflake with Effective Storage Lifecycle Policies",
+        "published": "2024-07-29T14:51:40.254000Z",
+        "updated": "2024-07-30T00:47:25.664000Z",
+        "tags": "snowflake,storage,compliance,lifecycle-methods,cost"
+    },
+    "https://medium.com/snowflake/transforming-40min-call-transcripts-into-structured-json-summaries-using-mistral-large-in-9b1c77af7377": {
+        "title": "Transforming +40min call transcripts into structured JSON summaries using mistral-large in\u2026",
+        "published": "2024-07-28T09:54:44.951000Z",
+        "updated": "2024-07-29T17:03:53.583000Z",
+        "tags": "snowflake-data-cloud,compare-club,gen-ai-for-business,llm,snowflake-cortex"
+    },
     "https://medium.com/snowflake/dynamic-table-and-alerts-for-customer-purchase-notifications-ae072e9815c8": {
         "title": "Dynamic Table and Alerts for Customer Purchase Notifications",
         "published": "2024-07-27T14:52:25.501000Z",
@@ -2510,7 +2522,7 @@
     "https://medium.com/snowflake/snowflake-and-power-bi-best-practices-and-recent-improvements-183e2d970c0c": {
         "title": "Snowflake and Power BI: Best Practices and Recent Improvements",
         "published": "2023-12-07T23:02:08.677000Z",
-        "updated": "2024-06-28T20:15:14.651000Z",
+        "updated": "2024-07-29T22:58:21.189000Z",
         "tags": "snowflake,microsoft-power-bi,snowflake-data-cloud,power-bi-desktop,performance"
     },
     "https://medium.com/snowflake/optimizing-snowflake-cloud-services-costs-de10f0b15444": {
