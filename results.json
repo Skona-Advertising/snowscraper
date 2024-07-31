@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/price-optimization-using-snowflake-notebooks-and-streamlit-in-snowflake-f6d0f27d1297": {
+        "title": "Price Optimization Using Snowflake Notebooks and Streamlit in Snowflake",
+        "published": "2024-07-30T20:01:40.834000Z",
+        "updated": "2024-07-30T20:01:40.834000Z",
+        "tags": "machine-learning,snowflake,snowflake-notebooks,snowpark,streamlit-in-snowflake"
+    },
+    "https://medium.com/snowflake/automating-notifications-to-an-email-distribution-list-5b5611bd146e": {
+        "title": "Automating Notifications to an Email Distribution List",
+        "published": "2024-07-30T14:52:33.787000Z",
+        "updated": "2024-07-30T14:52:33.787000Z",
+        "tags": ""
+    },
     "https://medium.com/snowflake/optimizing-costs-in-snowflake-with-effective-storage-lifecycle-policies-027dd98eaafd": {
         "title": "Optimizing Costs in Snowflake with Effective Storage Lifecycle Policies",
         "published": "2024-07-29T14:51:40.254000Z",
@@ -314,7 +326,7 @@
     "https://medium.com/snowflake/using-network-policy-to-secure-snowflake-997cf0a16cf7": {
         "title": "Using network policy to secure Snowflake \u2014 a practice of separation of duties (SoD)",
         "published": "2024-06-14T23:00:07.923000Z",
-        "updated": "2024-07-25T14:21:18.696000Z",
+        "updated": "2024-07-30T13:28:11.733000Z",
         "tags": "network-policies,network-rule,execute-as-owner,elevated-privileges,data-superhero"
     },
     "https://medium.com/snowflake/predicting-euro-2024-with-snowflake-ml-9b7c774fdd9e": {
@@ -836,7 +848,7 @@
     "https://medium.com/snowflake/snowflake-data-ingestion-include-metadata-583511727b6e": {
         "title": "Snowflake Data Ingestion INCLUDE_METADATA",
         "published": "2024-05-01T16:10:20.606000Z",
-        "updated": "2024-05-03T06:28:30.565000Z",
+        "updated": "2024-07-30T21:59:02.490000Z",
         "tags": "data-engineering,snowflake-data-cloud,snowflake,data-warehouse,data-pipeline"
     },
     "https://medium.com/snowflake/supercharging-snowflake-native-app-development-with-snowflake-cli-589670f0069c": {
