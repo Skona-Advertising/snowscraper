@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/time-series-forecasting-comparing-transform-techniques-for-tree-based-models-3899fcd445e7": {
+        "title": "Time-Series Forecasting: Comparing Transform Techniques for Tree-Based Models",
+        "published": "2024-07-31T20:01:39.006000Z",
+        "updated": "2024-07-31T20:01:39.006000Z",
+        "tags": ""
+    },
+    "https://medium.com/snowflake/snowflake-automatic-clustering-cost-estimation-d6b0eca47fc4": {
+        "title": "Snowflake automatic clustering cost estimation",
+        "published": "2024-07-31T14:51:41.587000Z",
+        "updated": "2024-07-31T14:51:41.587000Z",
+        "tags": ""
+    },
     "https://medium.com/snowflake/price-optimization-using-snowflake-notebooks-and-streamlit-in-snowflake-f6d0f27d1297": {
         "title": "Price Optimization Using Snowflake Notebooks and Streamlit in Snowflake",
         "published": "2024-07-30T20:01:40.834000Z",
@@ -212,7 +224,7 @@
     "https://medium.com/snowflake/using-snowflakes-snowpark-pandas-for-data-processing-9728cb83b607": {
         "title": "Using Snowflake\u2019s Snowpark Pandas for data processing",
         "published": "2024-07-04T12:36:18.866000Z",
-        "updated": "2024-07-10T22:05:13.008000Z",
+        "updated": "2024-08-01T00:57:07.655000Z",
         "tags": ""
     },
     "https://medium.com/snowflake/data-governance-using-aggregation-policies-in-snowflake-d736e38d9862": {
