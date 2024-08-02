@@ -1,4 +1,28 @@
 {
+    "https://medium.com/snowflake/cohort-builder-streamlining-data-segmentation-with-streamlit-and-snowflake-f4f0137068a0": {
+        "title": "Cohort Builder: Streamlining Data Segmentation with Streamlit and Snowflake",
+        "published": "2024-08-01T20:47:55.448000Z",
+        "updated": "2024-08-01T20:47:55.448000Z",
+        "tags": "segmentation,data-analysis,cohorts,snowflake,streamlit"
+    },
+    "https://medium.com/snowflake/using-snowflake-for-ai-completion-in-manychat-37bfaa914f8c": {
+        "title": "Using Snowflake for AI completion in Manychat",
+        "published": "2024-08-01T20:01:45.547000Z",
+        "updated": "2024-08-01T20:01:45.547000Z",
+        "tags": "snowflake,manychat,ai,llm,cortex"
+    },
+    "https://medium.com/snowflake/using-snowflake-cortex-ai-to-explain-geospatial-ai-and-ml-models-to-users-d0176afffa95": {
+        "title": "Using Snowflake Cortex AI to explain geospatial AI and ML models to users.",
+        "published": "2024-08-01T15:52:07.910000Z",
+        "updated": "2024-08-01T15:52:07.910000Z",
+        "tags": "cortex,carto,geospatial-analytics,genai,native-app"
+    },
+    "https://medium.com/snowflake/unleash-the-power-of-scd2-with-finalizer-tasks-ebcdcc157d61": {
+        "title": "Unleash the Power of SCD2 with Finalizer Tasks",
+        "published": "2024-08-01T14:56:51.054000Z",
+        "updated": "2024-08-01T14:56:51.054000Z",
+        "tags": ""
+    },
     "https://medium.com/snowflake/time-series-forecasting-comparing-transform-techniques-for-tree-based-models-3899fcd445e7": {
         "title": "Time-Series Forecasting: Comparing Transform Techniques for Tree-Based Models",
         "published": "2024-07-31T20:01:39.006000Z",
@@ -16,6 +40,12 @@
         "published": "2024-07-30T20:01:40.834000Z",
         "updated": "2024-07-30T20:01:40.834000Z",
         "tags": "machine-learning,snowflake,snowflake-notebooks,snowpark,streamlit-in-snowflake"
+    },
+    "https://medium.com/snowflake/data-vault-on-snowflake-and-apache-iceberg-ac2a746e8152": {
+        "title": "Data Vault on Snowflake and Apache Iceberg",
+        "published": "2024-07-30T19:01:40.521000Z",
+        "updated": "2024-08-01T16:02:30.031000Z",
+        "tags": "snowflake-data-cloud,data-vault,apache-iceberg,data-governance"
     },
     "https://medium.com/snowflake/automating-notifications-to-an-email-distribution-list-5b5611bd146e": {
         "title": "Automating Notifications to an Email Distribution List",
@@ -290,7 +320,7 @@
     "https://medium.com/snowflake/unlocking-innovation-key-takeaways-from-snowflake-data-cloud-summit-2024-134328b90c2f": {
         "title": "Unlocking Innovation: Key Takeaways from Snowflake Data Cloud Summit 2024",
         "published": "2024-06-24T15:11:06.241000Z",
-        "updated": "2024-07-10T22:04:33.293000Z",
+        "updated": "2024-08-02T00:50:34.347000Z",
         "tags": "snowflake,snowflake-data-cloud,summit,enterprise-ai,data"
     },
     "https://medium.com/snowflake/frequently-asked-questions-from-snowflake-copilot-ama-a-brief-overview-a800026361cd": {
@@ -2420,7 +2450,7 @@
     "https://medium.com/snowflake/the-complete-guide-to-dynamic-tables-in-snowsight-ui-38a82444bb7a": {
         "title": "The Complete Guide to Dynamic Tables in Snowsight UI",
         "published": "2023-12-19T21:02:07.287000Z",
-        "updated": "2024-01-16T12:27:09.748000Z",
+        "updated": "2024-08-01T10:40:22.028000Z",
         "tags": "dynamic-table,streaming,data-engineering,snowflake,data-pipeline"
     },
     "https://medium.com/snowflake/generating-product-descriptions-with-mistral-7b-instruct-v0-2-with-vllm-serving-3fe7110b048b": {
