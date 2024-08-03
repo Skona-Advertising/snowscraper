@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/suspend-child-tasks-programatically-06c07767f6de": {
+        "title": "Suspend Child Tasks Programatically",
+        "published": "2024-08-02T14:57:20.853000Z",
+        "updated": "2024-08-02T14:57:20.853000Z",
+        "tags": ""
+    },
     "https://medium.com/snowflake/cohort-builder-streamlining-data-segmentation-with-streamlit-and-snowflake-f4f0137068a0": {
         "title": "Cohort Builder: Streamlining Data Segmentation with Streamlit and Snowflake",
         "published": "2024-08-01T20:47:55.448000Z",
@@ -30,9 +36,9 @@
         "tags": ""
     },
     "https://medium.com/snowflake/snowflake-automatic-clustering-cost-estimation-d6b0eca47fc4": {
-        "title": "Snowflake automatic clustering cost estimation",
+        "title": "Snowflake Automatic Clustering Cost Estimation",
         "published": "2024-07-31T14:51:41.587000Z",
-        "updated": "2024-07-31T14:51:41.587000Z",
+        "updated": "2024-08-02T15:29:22.413000Z",
         "tags": ""
     },
     "https://medium.com/snowflake/price-optimization-using-snowflake-notebooks-and-streamlit-in-snowflake-f6d0f27d1297": {
@@ -320,7 +326,7 @@
     "https://medium.com/snowflake/unlocking-innovation-key-takeaways-from-snowflake-data-cloud-summit-2024-134328b90c2f": {
         "title": "Unlocking Innovation: Key Takeaways from Snowflake Data Cloud Summit 2024",
         "published": "2024-06-24T15:11:06.241000Z",
-        "updated": "2024-08-02T00:50:34.347000Z",
+        "updated": "2024-08-02T12:19:52.908000Z",
         "tags": "snowflake,snowflake-data-cloud,summit,enterprise-ai,data"
     },
     "https://medium.com/snowflake/frequently-asked-questions-from-snowflake-copilot-ama-a-brief-overview-a800026361cd": {
