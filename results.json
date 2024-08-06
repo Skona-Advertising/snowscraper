@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/integrating-snowflake-oauth-with-django-a-step-by-step-guide-a70ab3312282": {
+        "title": "Integrating Snowflake OAuth with Django: A Step-by-Step Guide",
+        "published": "2024-08-05T14:57:20.324000Z",
+        "updated": "2024-08-05T14:57:20.324000Z",
+        "tags": "snowflake,snowflake-oauth,django"
+    },
     "https://medium.com/snowflake/automating-dynamic-table-creation-with-event-logging-fd79839aee5b": {
         "title": "Automating Dynamic Table Creation with Event Logging",
         "published": "2024-08-04T13:57:23.779000Z",
@@ -3020,7 +3026,7 @@
     "https://medium.com/snowflake/send-slack-messages-from-snowflake-with-snowpark-external-network-access-8e3e42a7cde2": {
         "title": "Send Slack Messages from Snowflake with Snowpark External Network Access",
         "published": "2023-10-27T19:26:41.675000Z",
-        "updated": "2023-10-29T06:46:11.064000Z",
+        "updated": "2024-08-05T02:14:33.903000Z",
         "tags": "snowflake,external-access,slack,alerts"
     },
     "https://medium.com/snowflake/how-we-are-making-your-rich-documents-talk-6754238b2132": {
