@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/api-enrichment-framework-c5703a01463b": {
+        "title": "API Enrichment Framework",
+        "published": "2024-08-06T21:18:11.913000Z",
+        "updated": "2024-08-06T21:18:11.913000Z",
+        "tags": "framwork,snowflake,api"
+    },
+    "https://medium.com/snowflake/11-non-functional-best-practices-to-enhance-your-native-app-0dd1236e4a5b": {
+        "title": "11 Non-Functional Best Practices to Enhance Your Native App",
+        "published": "2024-08-06T14:56:48.813000Z",
+        "updated": "2024-08-06T14:56:48.813000Z",
+        "tags": "native-app,native-app-development,snowflake,application,application-development"
+    },
     "https://medium.com/snowflake/integrating-snowflake-oauth-with-django-a-step-by-step-guide-a70ab3312282": {
         "title": "Integrating Snowflake OAuth with Django: A Step-by-Step Guide",
         "published": "2024-08-05T14:57:20.324000Z",
