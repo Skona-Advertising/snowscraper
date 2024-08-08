@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/identifying-table-types-within-a-session-375be14e1283": {
+        "title": "Identifying Table Types Within a Session",
+        "published": "2024-08-07T14:56:50.447000Z",
+        "updated": "2024-08-07T14:56:50.447000Z",
+        "tags": ""
+    },
     "https://medium.com/snowflake/api-enrichment-framework-c5703a01463b": {
         "title": "API Enrichment Framework",
         "published": "2024-08-06T21:18:11.913000Z",
@@ -59,6 +65,12 @@
         "updated": "2024-08-01T14:56:51.054000Z",
         "tags": ""
     },
+    "https://medium.com/snowflake/enterprise-ai-and-legacy-systems-a-double-edged-sword-on-the-path-to-modernization-9f54e1da1fab": {
+        "title": "Enterprise AI and Legacy Systems: A Double-Edged Sword on the Path to Modernization",
+        "published": "2024-08-01T05:00:47.211000Z",
+        "updated": "2024-08-07T23:28:50.356000Z",
+        "tags": "snowflake,enterprise-ai,unified-platform,digital-transformation,modernization"
+    },
     "https://medium.com/snowflake/time-series-forecasting-comparing-transform-techniques-for-tree-based-models-3899fcd445e7": {
         "title": "Time-Series Forecasting: Comparing Transform Techniques for Tree-Based Models",
         "published": "2024-07-31T20:01:39.006000Z",
@@ -76,12 +88,6 @@
         "published": "2024-07-30T20:01:40.834000Z",
         "updated": "2024-07-30T20:01:40.834000Z",
         "tags": "machine-learning,snowflake,snowflake-notebooks,snowpark,streamlit-in-snowflake"
-    },
-    "https://medium.com/snowflake/data-vault-on-snowflake-and-apache-iceberg-ac2a746e8152": {
-        "title": "Data Vault on Snowflake and Apache Iceberg",
-        "published": "2024-07-30T19:01:40.521000Z",
-        "updated": "2024-08-01T16:02:30.031000Z",
-        "tags": "snowflake-data-cloud,data-vault,apache-iceberg,data-governance"
     },
     "https://medium.com/snowflake/automating-notifications-to-an-email-distribution-list-5b5611bd146e": {
         "title": "Automating Notifications to an Email Distribution List",
@@ -192,9 +198,9 @@
         "tags": "langchain,snowflake,python,generative-ai-tools,cortex"
     },
     "https://medium.com/snowflake/syncing-documents-from-sharepoint-to-snowflake-by-leveraging-microsoft-graph-apis-in-snowpark-b97a423d71db": {
-        "title": "Syncing documents from sharepoint to snowflake by leveraging Microsoft Graph APIs in snowpark\u2026",
+        "title": "Sync documents from sharepoint to snowflake with Microsoft Graph APIs and snowpark container\u2026",
         "published": "2024-07-15T20:13:22.620000Z",
-        "updated": "2024-07-26T14:28:42.070000Z",
+        "updated": "2024-08-07T16:53:51.701000Z",
         "tags": "genai,snowflake,llm,sharepoint,unstructured-data"
     },
     "https://medium.com/snowflake/convert-materialized-views-on-legacy-platforms-to-snowflake-dynamic-tables-6ac766f5a34e": {
@@ -2510,7 +2516,7 @@
     "https://medium.com/snowflake/accessing-snowflake-with-r-studio-via-odbc-on-spcs-546ccc9067ef": {
         "title": "Accessing Snowflake with R Studio via ODBC on SPCS",
         "published": "2023-12-18T19:26:02.518000Z",
-        "updated": "2024-01-23T17:08:41.209000Z",
+        "updated": "2024-08-07T17:19:20.835000Z",
         "tags": "snowflake,spc,rstudio,odbc"
     },
     "https://medium.com/snowflake/end-to-end-snowflake-unified-analytics-platform-from-snowpipe-to-snowpark-ml-24adc45e498b": {
