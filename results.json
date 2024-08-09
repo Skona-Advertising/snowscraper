@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/implementation-of-asset-exposure-score-algorithms-at-scale-with-snowflake-3543a6e520d4": {
+        "title": "Implementation of Asset Exposure Score Algorithms at Scale with Snowflake",
+        "published": "2024-08-08T16:21:17.947000Z",
+        "updated": "2024-08-08T16:21:17.947000Z",
+        "tags": ""
+    },
+    "https://medium.com/snowflake/announcing-cross-region-inference-on-snowflake-cortex-ai-ab3baed935ce": {
+        "title": "Announcing Cross-region Inference on Snowflake Cortex AI",
+        "published": "2024-08-08T16:02:41.381000Z",
+        "updated": "2024-08-08T16:02:41.381000Z",
+        "tags": ""
+    },
     "https://medium.com/snowflake/identifying-table-types-within-a-session-375be14e1283": {
         "title": "Identifying Table Types Within a Session",
         "published": "2024-08-07T14:56:50.447000Z",
@@ -68,7 +80,7 @@
     "https://medium.com/snowflake/enterprise-ai-and-legacy-systems-a-double-edged-sword-on-the-path-to-modernization-9f54e1da1fab": {
         "title": "Enterprise AI and Legacy Systems: A Double-Edged Sword on the Path to Modernization",
         "published": "2024-08-01T05:00:47.211000Z",
-        "updated": "2024-08-07T23:28:50.356000Z",
+        "updated": "2024-08-08T21:32:29.186000Z",
         "tags": "snowflake,enterprise-ai,unified-platform,digital-transformation,modernization"
     },
     "https://medium.com/snowflake/time-series-forecasting-comparing-transform-techniques-for-tree-based-models-3899fcd445e7": {
@@ -308,7 +320,7 @@
     "https://medium.com/snowflake/how-tenable-creates-exposure-scores-for-identities-0cc9c72e0ebd": {
         "title": "How Tenable creates Exposure Scores for Identities",
         "published": "2024-07-02T20:43:48.524000Z",
-        "updated": "2024-07-02T20:43:48.524000Z",
+        "updated": "2024-08-08T16:22:34.505000Z",
         "tags": "machine-learning,ai,cybersecurity,tenable,identity-management"
     },
     "https://medium.com/snowflake/generating-private-and-public-keys-using-snowflake-snowpark-46ca9c518fc3": {
