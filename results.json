@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/credit-consumption-notification-by-role-07f6245a0e8c": {
+        "title": "Credit Consumption Notification by Role",
+        "published": "2024-08-09T14:56:31.479000Z",
+        "updated": "2024-08-09T14:56:31.479000Z",
+        "tags": ""
+    },
     "https://medium.com/snowflake/implementation-of-asset-exposure-score-algorithms-at-scale-with-snowflake-3543a6e520d4": {
         "title": "Implementation of Asset Exposure Score Algorithms at Scale with Snowflake",
         "published": "2024-08-08T16:21:17.947000Z",
@@ -80,7 +86,7 @@
     "https://medium.com/snowflake/enterprise-ai-and-legacy-systems-a-double-edged-sword-on-the-path-to-modernization-9f54e1da1fab": {
         "title": "Enterprise AI and Legacy Systems: A Double-Edged Sword on the Path to Modernization",
         "published": "2024-08-01T05:00:47.211000Z",
-        "updated": "2024-08-08T21:32:29.186000Z",
+        "updated": "2024-08-09T11:55:05.074000Z",
         "tags": "snowflake,enterprise-ai,unified-platform,digital-transformation,modernization"
     },
     "https://medium.com/snowflake/time-series-forecasting-comparing-transform-techniques-for-tree-based-models-3899fcd445e7": {
