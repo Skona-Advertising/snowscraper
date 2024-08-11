@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/visualizing-dynamic-tables-refresh-lag-in-snowflake-notebook-d8cba52279f5": {
+        "title": "Visualizing Dynamic Tables refresh lag in Snowflake Notebook",
+        "published": "2024-08-10T14:57:19.998000Z",
+        "updated": "2024-08-10T14:57:19.998000Z",
+        "tags": "snowflake,dynamic-table,notebook,data-visualization"
+    },
     "https://medium.com/snowflake/credit-consumption-notification-by-role-07f6245a0e8c": {
         "title": "Credit Consumption Notification by Role",
         "published": "2024-08-09T14:56:31.479000Z",
@@ -62,7 +68,7 @@
     "https://medium.com/snowflake/cohort-builder-streamlining-data-segmentation-with-streamlit-and-snowflake-f4f0137068a0": {
         "title": "Cohort Builder: Streamlining Data Segmentation with Streamlit and Snowflake",
         "published": "2024-08-01T20:47:55.448000Z",
-        "updated": "2024-08-01T20:47:55.448000Z",
+        "updated": "2024-08-10T17:31:19.434000Z",
         "tags": "segmentation,data-analysis,cohorts,snowflake,streamlit"
     },
     "https://medium.com/snowflake/using-snowflake-for-ai-completion-in-manychat-37bfaa914f8c": {
