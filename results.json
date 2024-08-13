@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/geographical-vector-search-using-distributed-qdrant-db-native-app-on-snowpark-container-services-f5fe0c9bd3c1": {
+        "title": "Geographical vector search using Distributed Qdrant DB Native App on Snowpark Container Services",
+        "published": "2024-08-12T14:06:02.648000Z",
+        "updated": "2024-08-12T14:06:02.648000Z",
+        "tags": "snowflake,qdrant,vector-database,ai,containers"
+    },
     "https://medium.com/snowflake/dynamic-merge-procedure-snowflakes-enhanced-flexibility-8ae952debc6c": {
         "title": "Dynamic Merge Procedure: Snowflake\u2019s Enhanced Flexibility",
         "published": "2024-08-11T14:57:43.386000Z",
@@ -3206,7 +3212,7 @@
     "https://medium.com/snowflake/unlocking-real-time-insights-streaming-azure-event-hub-data-to-snowflake-4c8516539b52": {
         "title": "Unlocking Real-Time Insights: Streaming Azure Event Hub Data to Snowflake",
         "published": "2023-10-20T14:32:34.276000Z",
-        "updated": "2024-01-31T22:32:34.894000Z",
+        "updated": "2024-08-12T20:13:16.503000Z",
         "tags": "snowflake,azure-event-hub,kafka,streamlit,kubernetes"
     },
     "https://medium.com/snowflake/telco-fraud-detection-on-snowflake-28d96aeff4ed": {
