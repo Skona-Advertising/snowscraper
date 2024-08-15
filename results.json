@@ -1,4 +1,22 @@
 {
+    "https://medium.com/snowflake/analyzing-table-usage-in-stored-procedures-823923165ca2": {
+        "title": "Analyzing Table Usage in Stored Procedures",
+        "published": "2024-08-14T14:57:24.490000Z",
+        "updated": "2024-08-14T14:57:24.490000Z",
+        "tags": ""
+    },
+    "https://medium.com/snowflake/python-user-defined-aggregate-functions-now-generally-available-1f01d01efbd6": {
+        "title": "Python User-Defined Aggregate Functions: now generally available",
+        "published": "2024-08-13T17:56:43.102000Z",
+        "updated": "2024-08-13T17:56:43.102000Z",
+        "tags": "data-engineering,snowpark,python"
+    },
+    "https://medium.com/snowflake/implementing-schema-search-on-snowflake-b2d5ee028b42": {
+        "title": "Implementing Schema Search on Snowflake",
+        "published": "2024-08-13T14:07:21.780000Z",
+        "updated": "2024-08-13T15:18:26.707000Z",
+        "tags": "snowflake,cybersecurity"
+    },
     "https://medium.com/snowflake/geographical-vector-search-using-distributed-qdrant-db-native-app-on-snowpark-container-services-f5fe0c9bd3c1": {
         "title": "Geographical vector search using Distributed Qdrant DB Native App on Snowpark Container Services",
         "published": "2024-08-12T14:06:02.648000Z",
@@ -21,12 +39,6 @@
         "title": "Credit Consumption Notification by Role",
         "published": "2024-08-09T14:56:31.479000Z",
         "updated": "2024-08-09T14:56:31.479000Z",
-        "tags": ""
-    },
-    "https://medium.com/snowflake/implementation-of-asset-exposure-score-algorithms-at-scale-with-snowflake-3543a6e520d4": {
-        "title": "Implementation of Asset Exposure Score Algorithms at Scale with Snowflake",
-        "published": "2024-08-08T16:21:17.947000Z",
-        "updated": "2024-08-08T16:21:17.947000Z",
         "tags": ""
     },
     "https://medium.com/snowflake/announcing-cross-region-inference-on-snowflake-cortex-ai-ab3baed935ce": {
@@ -446,7 +458,7 @@
     "https://medium.com/snowflake/using-network-policy-to-secure-snowflake-997cf0a16cf7": {
         "title": "Using network policy to secure Snowflake \u2014 a practice of separation of duties (SoD)",
         "published": "2024-06-14T23:00:07.923000Z",
-        "updated": "2024-07-30T13:28:11.733000Z",
+        "updated": "2024-08-14T17:06:59.759000Z",
         "tags": "network-policies,network-rule,execute-as-owner,elevated-privileges,data-superhero"
     },
     "https://medium.com/snowflake/predicting-euro-2024-with-snowflake-ml-9b7c774fdd9e": {
@@ -3212,7 +3224,7 @@
     "https://medium.com/snowflake/unlocking-real-time-insights-streaming-azure-event-hub-data-to-snowflake-4c8516539b52": {
         "title": "Unlocking Real-Time Insights: Streaming Azure Event Hub Data to Snowflake",
         "published": "2023-10-20T14:32:34.276000Z",
-        "updated": "2024-08-12T20:13:16.503000Z",
+        "updated": "2024-08-14T20:46:27.210000Z",
         "tags": "snowflake,azure-event-hub,kafka,streamlit,kubernetes"
     },
     "https://medium.com/snowflake/telco-fraud-detection-on-snowflake-28d96aeff4ed": {
