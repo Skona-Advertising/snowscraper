@@ -2298,9 +2298,9 @@
         "tags": "snowflake,observability,sql,monitoring,metadata"
     },
     "https://medium.com/snowflake/no-code-orchestration-and-coalesce-end-to-end-elt-pipelines-with-best-practices-in-mind-27e29bc26c72": {
-        "title": "No-code Orchestration and Coalesce: end-to-end ELT pipelines with best practices in mind",
+        "title": "Code-first, GUI-driven Orchestration and Coalesce: end-to-end ELT pipelines with best practices in\u2026",
         "published": "2024-01-23T17:01:38.486000Z",
-        "updated": "2024-01-29T21:16:36.593000Z",
+        "updated": "2024-08-15T12:51:47.885000Z",
         "tags": "data-engineering,analytics-engineering,software-engineering,data-science"
     },
     "https://medium.com/snowflake/unleashing-the-full-potential-of-real-time-streaming-with-amazon-kinesis-data-firehose-and-snowpipe-0283fb599364": {
@@ -3878,7 +3878,7 @@
     "https://medium.com/snowflake/step-by-step-roadmap-to-becoming-a-snowflake-data-engineer-in-2023-18c823ba8b9c": {
         "title": "Step by step roadmap to becoming a Snowflake Data Engineer in 2023",
         "published": "2023-08-15T03:29:42.199000Z",
-        "updated": "2023-09-20T20:22:31.728000Z",
+        "updated": "2024-08-15T22:27:46.637000Z",
         "tags": "data-engineering,programming,snowflake,career-paths,big-data"
     },
     "https://medium.com/snowflake/utilizing-the-new-aws-glue-studio-native-connector-for-snowflake-12e99f288682": {
