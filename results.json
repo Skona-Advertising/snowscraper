@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/tasks-failure-recovery-in-snowflake-with-retry-last-1eb5bfd4ba5d": {
+        "title": "Tasks Failure Recovery in Snowflake with RETRY LAST",
+        "published": "2024-08-16T15:01:43.902000Z",
+        "updated": "2024-08-16T15:01:43.902000Z",
+        "tags": ""
+    },
     "https://medium.com/snowflake/analyzing-table-usage-in-stored-procedures-823923165ca2": {
         "title": "Analyzing Table Usage in Stored Procedures",
         "published": "2024-08-14T14:57:24.490000Z",
