@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/enhance-the-accuracy-and-reliability-of-your-genai-solutions-using-llama-3-0-9473506d6c07": {
+        "title": "Enhance the accuracy and reliability of your GenAI solutions using Llama 3.0,",
+        "published": "2024-08-19T17:48:37.636000Z",
+        "updated": "2024-08-19T17:48:37.636000Z",
+        "tags": ""
+    },
+    "https://medium.com/snowflake/elevate-your-data-protection-with-snowflakes-is-database-role-in-session-4b154e4279c4": {
+        "title": "Elevate your data protection with Snowflake\u2019s IS_DATABASE_ROLE_IN_SESSION()",
+        "published": "2024-08-19T13:07:22.063000Z",
+        "updated": "2024-08-19T13:07:22.063000Z",
+        "tags": "snowflake,data-sharing,database-role,policy,data-governance"
+    },
     "https://medium.com/snowflake/use-case-for-loading-daily-feeds-into-snowflake-1ea725a4edac": {
         "title": "Use Case for Loading Daily Feeds into Snowflake",
         "published": "2024-08-18T15:01:43.715000Z",
