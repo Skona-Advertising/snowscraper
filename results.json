@@ -1,4 +1,22 @@
 {
+    "https://medium.com/snowflake/pubmed-article-rag-chatbot-powered-by-snowflakes-cortex-search-e2631788a787": {
+        "title": "Streamline Scientific & Biomedical Research with Snowflake Cortex Search for PubMed",
+        "published": "2024-08-22T00:22:58.361000Z",
+        "updated": "2024-08-22T00:22:58.361000Z",
+        "tags": "snowflake,cortex-ai,rag-chatbot,streamlit-app,pubmed"
+    },
+    "https://medium.com/snowflake/text-prompt-based-image-similarity-content-search-using-cortex-search-service-on-snowflake-fd4468593020": {
+        "title": "Text Prompt Based \u201cImage Similarity\u201d (Content Search) Using Cortex Search Service on Snowflake",
+        "published": "2024-08-21T19:23:10.601000Z",
+        "updated": "2024-08-21T19:23:10.601000Z",
+        "tags": "snowflake,artificial-intelligence,machine-learning,search,nvidia"
+    },
+    "https://medium.com/snowflake/using-snowsight-tiles-to-create-a-security-sentry-dashboard-ea27110321aa": {
+        "title": "Using Snowsight Tiles to Create a Security Sentry Dashboard",
+        "published": "2024-08-21T14:06:01.870000Z",
+        "updated": "2024-08-21T22:00:59.244000Z",
+        "tags": "snowflake,security,snowflake-data-cloud"
+    },
     "https://medium.com/snowflake/automating-business-day-specific-tasks-with-snowflake-8357daef4b88": {
         "title": "Automating Business Day-Specific Tasks with Snowflake",
         "published": "2024-08-20T15:01:59.076000Z",
@@ -146,7 +164,7 @@
     "https://medium.com/snowflake/enterprise-ai-and-legacy-systems-a-double-edged-sword-on-the-path-to-modernization-9f54e1da1fab": {
         "title": "Enterprise AI and Legacy Systems: A Double-Edged Sword on the Path to Modernization",
         "published": "2024-08-01T05:00:47.211000Z",
-        "updated": "2024-08-09T11:55:05.074000Z",
+        "updated": "2024-08-21T21:02:17.072000Z",
         "tags": "snowflake,enterprise-ai,unified-platform,digital-transformation,modernization"
     },
     "https://medium.com/snowflake/time-series-forecasting-comparing-transform-techniques-for-tree-based-models-3899fcd445e7": {
