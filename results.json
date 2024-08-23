@@ -1,9 +1,21 @@
 {
-    "https://medium.com/snowflake/pubmed-article-rag-chatbot-powered-by-snowflakes-cortex-search-e2631788a787": {
+    "https://medium.com/snowflake/snowflake-text-to-sql-magic-dcae2ebc5a82": {
+        "title": "Snowflake Text-to-SQL magic",
+        "published": "2024-08-22T20:17:25.614000Z",
+        "updated": "2024-08-22T20:49:29.280000Z",
+        "tags": "snowflake,llm,sql,text-to-sql,python"
+    },
+    "https://medium.com/snowflake/streamline-scientific-biomedical-research-with-snowflake-cortex-search-for-pubmed-6b9d5a2a383d": {
         "title": "Streamline Scientific & Biomedical Research with Snowflake Cortex Search for PubMed",
-        "published": "2024-08-22T00:22:58.361000Z",
-        "updated": "2024-08-22T00:22:58.361000Z",
-        "tags": "snowflake,cortex-ai,rag-chatbot,streamlit-app,pubmed"
+        "published": "2024-08-22T18:26:12.871000Z",
+        "updated": "2024-08-22T18:26:12.871000Z",
+        "tags": "snowflake,pubmed,snowflake-cortex,chatbots,ai"
+    },
+    "https://medium.com/snowflake/snowflakes-authentication-policy-enhancing-mfa-security-f105d5e144ef": {
+        "title": "Snowflake\u2019s Authentication Policy: Enhancing MFA Security",
+        "published": "2024-08-22T14:22:20.367000Z",
+        "updated": "2024-08-22T14:22:20.367000Z",
+        "tags": "snowflake,data-superhero,mfa,authentication,policy"
     },
     "https://medium.com/snowflake/text-prompt-based-image-similarity-content-search-using-cortex-search-service-on-snowflake-fd4468593020": {
         "title": "Text Prompt Based \u201cImage Similarity\u201d (Content Search) Using Cortex Search Service on Snowflake",
@@ -16,6 +28,12 @@
         "published": "2024-08-21T14:06:01.870000Z",
         "updated": "2024-08-21T22:00:59.244000Z",
         "tags": "snowflake,security,snowflake-data-cloud"
+    },
+    "https://medium.com/snowflake/polaris-catalog-if-you-have-been-napping-9005909dc1fa": {
+        "title": "Polaris Catalog: If you have been napping \ud83d\ude34",
+        "published": "2024-08-20T18:32:18.679000Z",
+        "updated": "2024-08-22T02:21:26.975000Z",
+        "tags": "snowflake,apache-iceberg,data-catalog,data-lakehouse"
     },
     "https://medium.com/snowflake/automating-business-day-specific-tasks-with-snowflake-8357daef4b88": {
         "title": "Automating Business Day-Specific Tasks with Snowflake",
@@ -88,6 +106,12 @@
         "published": "2024-08-09T14:56:31.479000Z",
         "updated": "2024-08-09T14:56:31.479000Z",
         "tags": ""
+    },
+    "https://medium.com/snowflake/unveiling-fraud-in-digital-payments-with-snowflake-ml-functions-9bedb66132dd": {
+        "title": "Unveiling Fraud in Digital Payments with Snowflake ML Functions",
+        "published": "2024-08-08T19:05:37.707000Z",
+        "updated": "2024-08-22T20:33:05.390000Z",
+        "tags": "snowflake,machine-learning,fraud-detection,financial-services,cybersecurity"
     },
     "https://medium.com/snowflake/announcing-cross-region-inference-on-snowflake-cortex-ai-ab3baed935ce": {
         "title": "Announcing Cross-region Inference on Snowflake Cortex AI",
@@ -368,13 +392,13 @@
     "https://medium.com/snowflake/practical-implementation-of-federated-architecture-with-snowflake-features-154af30792a7": {
         "title": "Practical Implementation of federated architecture with Snowflake features",
         "published": "2024-07-08T14:57:00.303000Z",
-        "updated": "2024-07-08T16:41:31.130000Z",
+        "updated": "2024-08-22T10:13:08.510000Z",
         "tags": "architecture,data-mesh-architecture,data-mesh-implementation,infrastructure-as-code,devops"
     },
     "https://medium.com/snowflake/personalize-ai-for-your-business-needs-with-cortex-fine-tuning-in-snowflake-e423cd517032": {
         "title": "Personalize AI for Your Business Needs with Cortex Fine-Tuning in Snowflake",
         "published": "2024-07-08T02:59:57.177000Z",
-        "updated": "2024-07-09T02:14:56.621000Z",
+        "updated": "2024-08-22T12:08:09.508000Z",
         "tags": "genai,llm,supervised-fine-tuning,snowflake-data-cloud,cortex"
     },
     "https://medium.com/snowflake/unlocking-insights-transforming-customer-review-analytics-with-snowflake-cortex-80a743ab91d2": {
