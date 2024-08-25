@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/processing-unstructured-data-with-snowflake-cortex-ai-807f880b9c4e": {
+        "title": "Processing Unstructured Data with Snowflake Cortex AI",
+        "published": "2024-08-24T14:21:48.575000Z",
+        "updated": "2024-08-24T14:21:48.575000Z",
+        "tags": "snowflake-cortex,geographic-data,streamlit,ai,large-language-models"
+    },
     "https://medium.com/snowflake/snowflake-security-service-accounts-9663beeb1d30": {
         "title": "Snowflake Security\u200a\u2014\u200aService Accounts",
         "published": "2024-08-23T17:17:24.480000Z",
@@ -2649,7 +2655,7 @@
         "title": "Accessing Snowflake with R Studio via ODBC on SPCS",
         "published": "2023-12-18T19:26:02.518000Z",
         "updated": "2024-08-07T17:19:20.835000Z",
-        "tags": "snowflake,spc,rstudio,odbc"
+        "tags": "snowflake,pc,rstudio,odbc"
     },
     "https://medium.com/snowflake/end-to-end-snowflake-unified-analytics-platform-from-snowpipe-to-snowpark-ml-24adc45e498b": {
         "title": "End-to-end Snowflake unified analytics platform from Snowpipe to Snowpark ML",
