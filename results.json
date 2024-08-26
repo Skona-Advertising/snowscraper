@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/llm-assistants-to-generate-analysis-on-structured-data-c74ce20411d3": {
+        "title": "LLM Assistants to Generate Analysis on Structured Data",
+        "published": "2024-08-25T14:11:44.992000Z",
+        "updated": "2024-08-25T14:11:44.992000Z",
+        "tags": "cortex-ai,snowflake,generative-ai-use-cases,cortex-analyst,streamlit"
+    },
     "https://medium.com/snowflake/processing-unstructured-data-with-snowflake-cortex-ai-807f880b9c4e": {
         "title": "Processing Unstructured Data with Snowflake Cortex AI",
         "published": "2024-08-24T14:21:48.575000Z",
