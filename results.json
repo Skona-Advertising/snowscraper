@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/ci-cd-for-ml-with-snowflake-notebooks-09f33124e43c": {
+        "title": "CI/CD for ML with Snowflake Notebooks",
+        "published": "2024-08-30T14:47:32.253000Z",
+        "updated": "2024-08-30T14:47:32.253000Z",
+        "tags": "machine-learning,snowflake,data-science"
+    },
     "https://medium.com/snowflake/how-ionos-leverages-snowpipe-streaming-and-dynamic-tables-and-has-ready-to-go-data-for-analytics-in-ebe09f8b470f": {
         "title": "How IONOS leverages Snowpipe Streaming and Dynamic Tables and has ready-to-go data for analytics in\u2026",
         "published": "2024-08-29T20:41:29.955000Z",
@@ -20,7 +26,7 @@
     "https://medium.com/snowflake/leveraging-geospatial-analytics-for-lifescience-with-snowflake-carto-d890794237ec": {
         "title": "Leveraging Geospatial analytics for Lifescience with Snowflake & Carto",
         "published": "2024-08-27T19:53:57.877000Z",
-        "updated": "2024-08-27T19:53:57.877000Z",
+        "updated": "2024-08-30T14:25:40.466000Z",
         "tags": "life-sciences,geospatial,clinical-trials,geospatial-analytics,big-data"
     },
     "https://medium.com/snowflake/tonic-textual-an-easy-way-to-prepare-your-documents-for-enterprise-ai-on-snowflake-5545e3992b6e": {
