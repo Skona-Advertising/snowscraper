@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/granular-cost-attribution-and-chargeback-for-warehouse-costs-on-snowflake-cf96fb690967": {
+        "title": "Granular cost attribution and chargeback for warehouse costs on Snowflake",
+        "published": "2024-09-03T21:30:07.568000Z",
+        "updated": "2024-09-03T21:30:07.568000Z",
+        "tags": "optimization,cost-management,snowflake,warehouse-management"
+    },
+    "https://medium.com/snowflake/zero-to-one-with-snowflake-native-apps-c108b0e51fc9": {
+        "title": "Zero to One with Snowflake Native Apps",
+        "published": "2024-09-03T14:46:45.659000Z",
+        "updated": "2024-09-03T14:46:45.659000Z",
+        "tags": "native-app,native-app-development,snowflake,snowflake-cli,visual-studio-code"
+    },
     "https://medium.com/snowflake/automating-warehouse-usage-reports-in-snowflake-9bb87c7ba89f": {
         "title": "Automating Warehouse Usage Reports in Snowflake",
         "published": "2024-09-01T15:01:44.341000Z",
@@ -272,7 +284,7 @@
     "https://medium.com/snowflake/enterprise-ai-and-legacy-systems-a-double-edged-sword-on-the-path-to-modernization-9f54e1da1fab": {
         "title": "Enterprise AI and Legacy Systems: A Double-Edged Sword on the Path to Modernization",
         "published": "2024-08-01T05:00:47.211000Z",
-        "updated": "2024-08-21T21:02:17.072000Z",
+        "updated": "2024-09-03T13:51:11.167000Z",
         "tags": "snowflake,enterprise-ai,unified-platform,digital-transformation,modernization"
     },
     "https://medium.com/snowflake/time-series-forecasting-comparing-transform-techniques-for-tree-based-models-3899fcd445e7": {
@@ -572,7 +584,7 @@
     "https://medium.com/snowflake/unlocking-innovation-key-takeaways-from-snowflake-data-cloud-summit-2024-134328b90c2f": {
         "title": "Unlocking Innovation: Key Takeaways from Snowflake Data Cloud Summit 2024",
         "published": "2024-06-24T15:11:06.241000Z",
-        "updated": "2024-08-02T12:19:52.908000Z",
+        "updated": "2024-09-03T13:53:50.679000Z",
         "tags": "snowflake,snowflake-data-cloud,summit,enterprise-ai,data"
     },
     "https://medium.com/snowflake/frequently-asked-questions-from-snowflake-copilot-ama-a-brief-overview-a800026361cd": {
