@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/ai-agents-in-snowflake-for-data-analysis-055c9f97338a": {
+        "title": "AI Agents in Snowflake for Data Analysis",
+        "published": "2024-09-04T15:47:22.548000Z",
+        "updated": "2024-09-04T15:47:22.548000Z",
+        "tags": "snowpark,ai,data-superhero,snowflake-native-app,ai-agent"
+    },
+    "https://medium.com/snowflake/generate-synthetic-data-on-snowflake-with-datamynds-new-native-app-ed43cede8de1": {
+        "title": "Generate Synthetic Data on Snowflake with DataMynd\u2019s New Native App",
+        "published": "2024-09-04T15:01:40.533000Z",
+        "updated": "2024-09-04T15:01:40.533000Z",
+        "tags": "synthetic-data,snowflake,native-app,data-science,data-privacy"
+    },
     "https://medium.com/snowflake/granular-cost-attribution-and-chargeback-for-warehouse-costs-on-snowflake-cf96fb690967": {
         "title": "Granular cost attribution and chargeback for warehouse costs on Snowflake",
         "published": "2024-09-03T21:30:07.568000Z",
@@ -2474,7 +2486,7 @@
     "https://medium.com/snowflake/no-code-orchestration-and-coalesce-end-to-end-elt-pipelines-with-best-practices-in-mind-27e29bc26c72": {
         "title": "Code-first, GUI-driven Orchestration and Coalesce: end-to-end ELT pipelines with best practices in\u2026",
         "published": "2024-01-23T17:01:38.486000Z",
-        "updated": "2024-08-15T12:51:47.885000Z",
+        "updated": "2024-09-04T13:46:37.924000Z",
         "tags": "data-engineering,analytics-engineering,software-engineering,data-science"
     },
     "https://medium.com/snowflake/unleashing-the-full-potential-of-real-time-streaming-with-amazon-kinesis-data-firehose-and-snowpipe-0283fb599364": {
@@ -2552,7 +2564,7 @@
     "https://medium.com/snowflake/no-code-elt-and-basic-data-modelling-in-coalesce-dos-donts-and-tips-8557f2096b40": {
         "title": "No-code ELT and Basic Data Modelling in Coalesce: dos, dont\u2019s and tips",
         "published": "2024-01-16T12:52:14.427000Z",
-        "updated": "2024-01-17T14:45:11.084000Z",
+        "updated": "2024-09-04T13:56:20.316000Z",
         "tags": "data-engineering,data-science,analytics-engineering,software-engineering,snowflake"
     },
     "https://medium.com/snowflake/execute-immediate-from-stage-c51b294f1447": {
@@ -2618,7 +2630,7 @@
     "https://medium.com/snowflake/a-dbt-cloud-alternative-with-no-code-elt-end-to-end-data-pipelines-in-coalesce-on-snowflake-e4e623d1643b": {
         "title": "A dbt cloud alternative with no-code ELT: end-to-end data pipelines in Coalesce on Snowflake",
         "published": "2024-01-08T16:50:33.060000Z",
-        "updated": "2024-01-14T08:11:59.061000Z",
+        "updated": "2024-09-04T13:58:54.729000Z",
         "tags": "snowflake,data-engineering,data-science,ai,software-development"
     },
     "https://medium.com/snowflake/an-overview-of-data-loading-options-in-snowflake-712e6ae4a6d2": {
