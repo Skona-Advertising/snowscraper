@@ -1,4 +1,22 @@
 {
+    "https://medium.com/snowflake/snowflake-supports-select-from-stored-procedures-728eea7fc22e": {
+        "title": "Snowflake Supports SELECT FROM Stored Procedures",
+        "published": "2024-09-05T20:01:33.230000Z",
+        "updated": "2024-09-05T20:01:33.230000Z",
+        "tags": ""
+    },
+    "https://medium.com/snowflake/introducing-snowflake-rest-apis-public-preview-empowering-developers-with-apis-first-95dd2b9d7426": {
+        "title": "Introducing Snowflake REST APIs-Public Preview: Empowering Developers with APIs First!",
+        "published": "2024-09-05T18:01:09.452000Z",
+        "updated": "2024-09-05T18:17:18.037000Z",
+        "tags": ""
+    },
+    "https://medium.com/snowflake/langchain-with-history-in-snowflake-7e82a23ae029": {
+        "title": "LangChain with history in Snowflake",
+        "published": "2024-09-05T14:46:48.001000Z",
+        "updated": "2024-09-05T14:46:48.001000Z",
+        "tags": "langchain,snowflake,python,generative-ai-tools,cortex"
+    },
     "https://medium.com/snowflake/ai-agents-in-snowflake-for-data-analysis-055c9f97338a": {
         "title": "AI Agents in Snowflake for Data Analysis",
         "published": "2024-09-04T15:47:22.548000Z",
