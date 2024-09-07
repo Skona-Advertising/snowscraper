@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/faqs-from-building-a-llm-application-in-10-minutes-with-snowflake-cortex-ai-405beac52353": {
+        "title": "FAQs from Building a LLM Application in 10 minutes with Snowflake Cortex AI",
+        "published": "2024-09-06T16:26:16.047000Z",
+        "updated": "2024-09-06T18:20:45.509000Z",
+        "tags": "ai,llm,snowflake"
+    },
+    "https://medium.com/snowflake/snowflake-security-how-to-generate-your-real-anonymized-and-synthetic-data-part-2-04cb182a6986": {
+        "title": "Snowflake Security: How to generate your real Anonymized and Synthetic Data (Part 2)",
+        "published": "2024-09-06T14:51:23.127000Z",
+        "updated": "2024-09-06T14:51:23.127000Z",
+        "tags": "security,snowflake,gdpr,synthetic-data,governance"
+    },
     "https://medium.com/snowflake/snowflake-supports-select-from-stored-procedures-728eea7fc22e": {
         "title": "Snowflake Supports SELECT FROM Stored Procedures",
         "published": "2024-09-05T20:01:33.230000Z",
@@ -14,7 +26,7 @@
     "https://medium.com/snowflake/langchain-with-history-in-snowflake-7e82a23ae029": {
         "title": "LangChain with history in Snowflake",
         "published": "2024-09-05T14:46:48.001000Z",
-        "updated": "2024-09-05T14:46:48.001000Z",
+        "updated": "2024-09-06T10:23:22.858000Z",
         "tags": "langchain,snowflake,python,generative-ai-tools,cortex"
     },
     "https://medium.com/snowflake/ai-agents-in-snowflake-for-data-analysis-055c9f97338a": {
@@ -440,7 +452,7 @@
     "https://medium.com/snowflake/langchain-for-files-stored-in-snowflake-stages-powered-by-cortex-d2be60650af8": {
         "title": "LangChain for files stored in Snowflake Stages powered by Cortex",
         "published": "2024-07-16T14:11:01.924000Z",
-        "updated": "2024-07-16T14:11:01.924000Z",
+        "updated": "2024-09-06T10:22:38.329000Z",
         "tags": "langchain,snowflake,python,generative-ai-tools,cortex"
     },
     "https://medium.com/snowflake/syncing-documents-from-sharepoint-to-snowflake-by-leveraging-microsoft-graph-apis-in-snowpark-b97a423d71db": {
@@ -1586,7 +1598,7 @@
     "https://medium.com/snowflake/integrating-langchain-with-snowflake-cortex-0367f934f1c1": {
         "title": "Integrating Langchain with Snowflake Cortex",
         "published": "2024-03-28T20:09:24.616000Z",
-        "updated": "2024-03-28T20:09:24.616000Z",
+        "updated": "2024-09-06T10:21:48.348000Z",
         "tags": "llm,langchain,snowflake,cortex,python"
     },
     "https://medium.com/snowflake/using-snowpark-ml-to-maximize-marketing-budget-5fbd6333a338": {
