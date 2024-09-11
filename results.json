@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/safeguarding-nonhuman-identities-snowflakes-path-to-workload-identity-and-access-management-6b0e828a14bd": {
+        "title": "Safeguarding Nonhuman Identities: Snowflake\u2019s Path to Workload Identity and Access Management\u2026",
+        "published": "2024-09-10T22:31:57.757000Z",
+        "updated": "2024-09-10T22:31:57.757000Z",
+        "tags": "snowflake,secrets,workload-identity,identity-management,identity-and-access"
+    },
+    "https://medium.com/snowflake/infragenie-enhancing-cloud-infrastructure-with-snowflake-cortex-c81489473538": {
+        "title": "InfraGenie: Enhancing Cloud Infrastructure with Snowflake Cortex",
+        "published": "2024-09-10T14:21:01.755000Z",
+        "updated": "2024-09-10T14:21:01.755000Z",
+        "tags": "snowflake,llm,iac,threat-modeling,terraform"
+    },
     "https://medium.com/snowflake/unlocking-geographical-insights-a-deep-dive-into-snowflake-geospatials-functionality-840e3ed43c78": {
         "title": "Unlocking Geographical Insights: A Deep Dive into Snowflake Geospatial\u2019s Functionality",
         "published": "2024-09-09T14:21:33.585000Z",
@@ -382,6 +394,12 @@
         "published": "2024-07-28T09:54:44.951000Z",
         "updated": "2024-07-29T17:03:53.583000Z",
         "tags": "snowflake-data-cloud,compare-club,gen-ai-for-business,llm,snowflake-cortex"
+    },
+    "https://medium.com/snowflake/snowflake-cortex-function-6-summarize-c8836caac561": {
+        "title": "Snowflake Cortex Function -6\u200a\u2014\u200aSUMMARIZE",
+        "published": "2024-07-27T23:03:43.239000Z",
+        "updated": "2024-09-10T19:30:31.465000Z",
+        "tags": "data,programming,ai,data-superhero,snowflake"
     },
     "https://medium.com/snowflake/dynamic-table-and-alerts-for-customer-purchase-notifications-ae072e9815c8": {
         "title": "Dynamic Table and Alerts for Customer Purchase Notifications",
@@ -1600,6 +1618,12 @@
         "published": "2024-03-28T22:20:10.293000Z",
         "updated": "2024-03-31T01:31:41.835000Z",
         "tags": "icebergs,spark,snowflake"
+    },
+    "https://medium.com/snowflake/snowflake-redacted-queries-74a2eeef53d8": {
+        "title": "Snowflake\u200a\u2014\u200a<redacted> queries",
+        "published": "2024-03-28T20:55:13.940000Z",
+        "updated": "2024-09-10T22:02:55.565000Z",
+        "tags": "snowflake,snowflake-data-cloud"
     },
     "https://medium.com/snowflake/integrating-langchain-with-snowflake-cortex-0367f934f1c1": {
         "title": "Integrating Langchain with Snowflake Cortex",
