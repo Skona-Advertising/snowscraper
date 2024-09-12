@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/orchestration-framework-for-running-parallel-containerised-jobs-in-snowflake-457396a404c7": {
+        "title": "Orchestration Framework for running parallel containerised jobs in Snowflake",
+        "published": "2024-09-11T20:21:24.517000Z",
+        "updated": "2024-09-11T20:21:24.517000Z",
+        "tags": "snowpark-python,snowpark-container,snowflake,kubernetes,orchestration"
+    },
+    "https://medium.com/snowflake/simplify-key-driver-analysis-at-massive-scale-using-top-insights-a-snowflake-ml-function-f9180a75716f": {
+        "title": "Simplify key driver analysis at massive scale using Top Insights, a Snowflake ML Function",
+        "published": "2024-09-11T15:26:49.920000Z",
+        "updated": "2024-09-11T15:26:49.920000Z",
+        "tags": ""
+    },
     "https://medium.com/snowflake/safeguarding-nonhuman-identities-snowflakes-path-to-workload-identity-and-access-management-6b0e828a14bd": {
         "title": "Safeguarding Nonhuman Identities: Snowflake\u2019s Path to Workload Identity and Access Management\u2026",
         "published": "2024-09-10T22:31:57.757000Z",
@@ -4004,7 +4016,7 @@
     "https://medium.com/snowflake/cubes-not-required-how-the-data-cloud-unleashes-your-bi-84480975cf6": {
         "title": "Cubes Not Required: How the Data Cloud Unleashes Your BI.",
         "published": "2023-08-25T13:01:02.960000Z",
-        "updated": "2023-08-29T19:18:28.799000Z",
+        "updated": "2024-09-11T21:28:41.776000Z",
         "tags": "snowflake,caching,modern-data-architecture,business-intelligence,olap-cube"
     },
     "https://medium.com/snowflake/when-direct-share-meets-governance-policies-7672da2acf8f": {
