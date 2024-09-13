@@ -1,14 +1,26 @@
 {
+    "https://medium.com/snowflake/creating-semantic-models-for-snowflakes-cortex-analyst-65daa44f73e2": {
+        "title": "Creating Semantic Models for Snowflake\u2019s Cortex Analyst",
+        "published": "2024-09-12T20:41:39.964000Z",
+        "updated": "2024-09-12T20:41:39.964000Z",
+        "tags": "ai,snowflake,sql"
+    },
+    "https://medium.com/snowflake/a-guide-to-reporting-on-developer-security-with-snyk-and-snowflake-a85aa12a6e16": {
+        "title": "A guide to reporting on developer security with Snyk and Snowflake",
+        "published": "2024-09-12T14:01:44.985000Z",
+        "updated": "2024-09-12T14:01:44.985000Z",
+        "tags": "cybersecurity,snyk,snowflake"
+    },
     "https://medium.com/snowflake/orchestration-framework-for-running-parallel-containerised-jobs-in-snowflake-457396a404c7": {
-        "title": "Orchestration Framework for running parallel containerised jobs in Snowflake",
+        "title": "Orchestration Framework for running parallel containerized jobs in Snowflake",
         "published": "2024-09-11T20:21:24.517000Z",
-        "updated": "2024-09-11T20:21:24.517000Z",
+        "updated": "2024-09-12T13:49:39.449000Z",
         "tags": "snowpark-python,snowpark-container,snowflake,kubernetes,orchestration"
     },
     "https://medium.com/snowflake/simplify-key-driver-analysis-at-massive-scale-using-top-insights-a-snowflake-ml-function-f9180a75716f": {
         "title": "Simplify key driver analysis at massive scale using Top Insights, a Snowflake ML Function",
         "published": "2024-09-11T15:26:49.920000Z",
-        "updated": "2024-09-11T15:26:49.920000Z",
+        "updated": "2024-09-12T16:29:01.838000Z",
         "tags": ""
     },
     "https://medium.com/snowflake/safeguarding-nonhuman-identities-snowflakes-path-to-workload-identity-and-access-management-6b0e828a14bd": {
@@ -176,7 +188,7 @@
     "https://medium.com/snowflake/snowflake-text-to-sql-magic-dcae2ebc5a82": {
         "title": "Snowflake Text-to-SQL magic",
         "published": "2024-08-22T20:17:25.614000Z",
-        "updated": "2024-08-22T20:49:29.280000Z",
+        "updated": "2024-09-12T15:04:54.683000Z",
         "tags": "snowflake,llm,sql,text-to-sql,python"
     },
     "https://medium.com/snowflake/streamline-scientific-biomedical-research-with-snowflake-cortex-search-for-pubmed-6b9d5a2a383d": {
@@ -866,7 +878,7 @@
     "https://medium.com/snowflake/faster-parquet-data-ingestion-with-snowflake-use-vectorized-scanner-28679bcff450": {
         "title": "Faster Parquet Data Ingestion with Snowflake USE_VECTORIZED_SCANNER",
         "published": "2024-05-31T19:48:39.147000Z",
-        "updated": "2024-05-31T19:48:39.147000Z",
+        "updated": "2024-09-12T21:57:38.129000Z",
         "tags": "snowflake,data-pipeline,data-ingestion,parquet,snowflake-data-cloud"
     },
     "https://medium.com/snowflake/how-booking-com-enforces-policy-across-a-hybrid-data-ecosystem-with-immuta-aws-and-snowflake-d92df507c3d0": {
@@ -4772,7 +4784,7 @@
     "https://medium.com/snowflake/unifying-customer-data-with-fullcontact-for-snowflake-b355a4970c74": {
         "title": "Unifying Customer Data with FullContact for Snowflake",
         "published": "2023-06-27T19:02:46.166000Z",
-        "updated": "2023-06-27T19:02:46.166000Z",
+        "updated": "2024-09-12T14:58:42.633000Z",
         "tags": "identity-resolution,customer-360,customer-data,snowflake,snowflake-architecture"
     },
     "https://medium.com/snowflake/braze-instant-insights-delivering-advanced-seamless-analytics-to-braze-customers-in-real-time-516d56d30ca9": {
