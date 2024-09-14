@@ -1,4 +1,22 @@
 {
+    "https://medium.com/snowflake/translate-existing-semantic-layers-for-use-by-cortex-analyst-2056edbd4753": {
+        "title": "Translate Existing Semantic Layers for Use by Cortex Analyst",
+        "published": "2024-09-13T21:01:35.332000Z",
+        "updated": "2024-09-13T21:01:35.332000Z",
+        "tags": "ai,llm,snowflake,snowflake-cortex"
+    },
+    "https://medium.com/snowflake/data-analysis-and-churn-prediction-using-snowflake-notebooks-67b615fc39c6": {
+        "title": "Data Analysis and Churn Prediction Using Snowflake Notebooks",
+        "published": "2024-09-13T20:38:45.125000Z",
+        "updated": "2024-09-13T20:38:45.125000Z",
+        "tags": "snowflake,snowflake-notebooks,snowpark,machine-learning,streamlit"
+    },
+    "https://medium.com/snowflake/harnessing-the-power-of-snowpark-for-advanced-data-engineering-workloads-0b8d6c674de4": {
+        "title": "Harnessing the Power of Snowpark for Advanced Data Engineering Workloads",
+        "published": "2024-09-13T14:01:41.287000Z",
+        "updated": "2024-09-13T14:01:41.287000Z",
+        "tags": "snowflake,snowpark,data-engineering,user-defined-functions,cloud-computing"
+    },
     "https://medium.com/snowflake/creating-semantic-models-for-snowflakes-cortex-analyst-65daa44f73e2": {
         "title": "Creating Semantic Models for Snowflake\u2019s Cortex Analyst",
         "published": "2024-09-12T20:41:39.964000Z",
