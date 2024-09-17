@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/ensure-data-integrity-with-the-data-quality-manager-6ffeb213134f": {
+        "title": "Ensure data integrity with the Data Quality Manager",
+        "published": "2024-09-16T14:06:01.436000Z",
+        "updated": "2024-09-16T14:06:01.436000Z",
+        "tags": "data-quality-management,data-quality,data-quality-tool"
+    },
     "https://medium.com/snowflake/use-case-monitoring-internal-stage-stale-storage-e337ead84e01": {
         "title": "Use Case: Monitoring Internal Stage Stale Storage",
         "published": "2024-09-14T14:57:26.139000Z",
@@ -3224,7 +3230,7 @@
     "https://medium.com/snowflake/pytorch-model-to-detect-pneumonia-using-snowpark-container-service-and-snowflake-ml-features-e2f17a785f42": {
         "title": "PyTorch Model to detect Pneumonia using Snowpark Container Service and Snowflake ML Features",
         "published": "2023-11-08T18:52:35.661000Z",
-        "updated": "2023-11-16T02:48:25.831000Z",
+        "updated": "2024-09-16T18:00:53.734000Z",
         "tags": "snowflake,snowpark"
     },
     "https://medium.com/snowflake/secret-snowflake-data-modeling-features-you-need-to-know-about-1c0a1429c76b": {
