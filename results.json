@@ -1,4 +1,22 @@
 {
+    "https://medium.com/snowflake/snowflake-ml-explainability-now-in-public-preview-f9e65f9d4d44": {
+        "title": "Snowflake ML Explainability: now in Public Preview",
+        "published": "2024-09-17T23:15:59.572000Z",
+        "updated": "2024-09-18T00:32:54.637000Z",
+        "tags": "shapley-values,snowflake,snowpark-python,model-explainability,responsible-ai"
+    },
+    "https://medium.com/snowflake/3-scenarios-when-you-should-use-iceberg-with-snowflake-8c585feb1087": {
+        "title": "3 Scenarios When You Should Use Iceberg with Snowflake",
+        "published": "2024-09-17T15:32:02.423000Z",
+        "updated": "2024-09-17T15:32:02.423000Z",
+        "tags": "snowflake,s3,data-engineering,apache-iceberg,aws"
+    },
+    "https://medium.com/snowflake/investigating-unc5537-snowflake-database-threat-campaign-d0e002ebaca8": {
+        "title": "Investigating UNC5537: Snowflake Database Threat Campaign",
+        "published": "2024-09-16T14:47:44.801000Z",
+        "updated": "2024-09-17T16:16:26.470000Z",
+        "tags": "snowflake,cybersecurity,threat-hunting,incident-response,threat-intelligence"
+    },
     "https://medium.com/snowflake/ensure-data-integrity-with-the-data-quality-manager-6ffeb213134f": {
         "title": "Ensure data integrity with the Data Quality Manager",
         "published": "2024-09-16T14:06:01.436000Z",
@@ -26,7 +44,7 @@
     "https://medium.com/snowflake/harnessing-the-power-of-snowpark-for-advanced-data-engineering-workloads-0b8d6c674de4": {
         "title": "Harnessing the Power of Snowpark for Advanced Data Engineering Workloads",
         "published": "2024-09-13T14:01:41.287000Z",
-        "updated": "2024-09-13T14:01:41.287000Z",
+        "updated": "2024-09-17T17:46:00.826000Z",
         "tags": "snowflake,snowpark,data-engineering,user-defined-functions,cloud-computing"
     },
     "https://medium.com/snowflake/creating-semantic-models-for-snowflakes-cortex-analyst-65daa44f73e2": {
