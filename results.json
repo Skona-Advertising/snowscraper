@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/ml-sidekick-your-ml-assistant-in-snowflake-4dba0ceee982": {
+        "title": "ML SIDEKICK\u200a\u2014\u200aYour ML Assistant in Snowflake",
+        "published": "2024-09-18T18:02:21.846000Z",
+        "updated": "2024-09-18T18:02:21.846000Z",
+        "tags": "machine-learning,streamlit-app,mlops-tool,snowpark-ml,streamlit-in-snowflake"
+    },
+    "https://medium.com/snowflake/building-interactive-map-dashboards-with-snowflake-and-honeycomb-dae2e2b2801a": {
+        "title": "Building interactive map dashboards with Snowflake and Honeycomb",
+        "published": "2024-09-18T15:31:44.559000Z",
+        "updated": "2024-09-18T15:31:44.559000Z",
+        "tags": "snowflake,streamlit,h3,geospatial,location-intelligence"
+    },
     "https://medium.com/snowflake/snowflake-ml-explainability-now-in-public-preview-f9e65f9d4d44": {
         "title": "Snowflake ML Explainability: now in Public Preview",
         "published": "2024-09-17T23:15:59.572000Z",
@@ -20,7 +32,7 @@
     "https://medium.com/snowflake/ensure-data-integrity-with-the-data-quality-manager-6ffeb213134f": {
         "title": "Ensure data integrity with the Data Quality Manager",
         "published": "2024-09-16T14:06:01.436000Z",
-        "updated": "2024-09-16T14:06:01.436000Z",
+        "updated": "2024-09-18T19:44:37.780000Z",
         "tags": "data-quality-management,data-quality,data-quality-tool"
     },
     "https://medium.com/snowflake/use-case-monitoring-internal-stage-stale-storage-e337ead84e01": {
@@ -442,6 +454,12 @@
         "published": "2024-07-31T14:51:41.587000Z",
         "updated": "2024-08-02T15:29:22.413000Z",
         "tags": ""
+    },
+    "https://medium.com/snowflake/7-unique-ways-of-synthetic-data-generation-in-snowflake-ad1b8bc5f7d7": {
+        "title": "7 unique ways of synthetic data generation in Snowflake",
+        "published": "2024-07-31T01:54:19.347000Z",
+        "updated": "2024-09-19T00:16:04.805000Z",
+        "tags": "snowflake,snowflake-data-cloud,testing,cloud-computing,snowflake-data-superhero"
     },
     "https://medium.com/snowflake/price-optimization-using-snowflake-notebooks-and-streamlit-in-snowflake-f6d0f27d1297": {
         "title": "Price Optimization Using Snowflake Notebooks and Streamlit in Snowflake",
