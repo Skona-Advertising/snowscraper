@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/from-zero-to-value-unlocking-rapid-insights-with-an-end-to-end-ml-workflow-in-snowflake-9b000a25723c": {
+        "title": "From Zero to Value: Unlocking Rapid Insights With an End to End ML Workflow in Snowflake",
+        "published": "2024-09-20T20:37:09.246000Z",
+        "updated": "2024-09-20T20:37:09.246000Z",
+        "tags": "snowflake,data-science,data-engineering,mlops,machine-learning"
+    },
+    "https://medium.com/snowflake/cloud-costs-at-scale-the-snowflake-way-b22fe277d241": {
+        "title": "Cloud Costs at Scale the Snowflake way",
+        "published": "2024-09-20T15:31:48.399000Z",
+        "updated": "2024-09-20T15:31:48.399000Z",
+        "tags": "snowflake,cloud-cost-optimization,aws-cost-optimization,aws,cloud-cost-management"
+    },
     "https://medium.com/snowflake/optimizing-snowflake-best-practices-for-ongoing-operations-and-management-9a49c6211813": {
         "title": "Optimizing Snowflake: Best Practices for Ongoing Operations and Management",
         "published": "2024-09-19T15:32:07.683000Z",
@@ -20,7 +32,7 @@
     "https://medium.com/snowflake/snowflake-ml-explainability-now-in-public-preview-f9e65f9d4d44": {
         "title": "Snowflake ML Explainability: now in Public Preview",
         "published": "2024-09-17T23:15:59.572000Z",
-        "updated": "2024-09-18T00:32:54.637000Z",
+        "updated": "2024-09-20T08:44:50.686000Z",
         "tags": "shapley-values,snowflake,snowpark-python,model-explainability,responsible-ai"
     },
     "https://medium.com/snowflake/3-scenarios-when-you-should-use-iceberg-with-snowflake-8c585feb1087": {
