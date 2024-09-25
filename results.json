@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/how-snowflakes-connector-for-google-analytics-centralizes-marketing-data-cd6df8f53105": {
+        "title": "How Snowflake\u2019s Connector for Google Analytics Centralizes Marketing Data",
+        "published": "2024-09-24T15:21:31.125000Z",
+        "updated": "2024-09-24T15:21:31.125000Z",
+        "tags": "snowflake,cortex,ai,machine-learning,marketing"
+    },
     "https://medium.com/snowflake/snowflake-ml-functions-with-real-world-time-series-data-9e2f16860a83": {
         "title": "Snowflake ML Functions with Real-World Time Series Data",
         "published": "2024-09-23T15:21:30.342000Z",
@@ -508,6 +514,12 @@
         "published": "2024-07-30T14:52:33.787000Z",
         "updated": "2024-07-30T14:52:33.787000Z",
         "tags": ""
+    },
+    "https://medium.com/snowflake/unraveling-the-magic-of-snowflake-copilot-ai-powered-turbocharge-for-your-sql-b5e1635b6b99": {
+        "title": "Unraveling the Magic of Snowflake Copilot\u200a\u2014\u200aAI-Powered Turbocharge for your SQL",
+        "published": "2024-07-29T16:37:27.277000Z",
+        "updated": "2024-09-24T18:20:51.640000Z",
+        "tags": "snowflake-data-cloud,snowflake,sql,data-analysis"
     },
     "https://medium.com/snowflake/optimizing-costs-in-snowflake-with-effective-storage-lifecycle-policies-027dd98eaafd": {
         "title": "Optimizing Costs in Snowflake with Effective Storage Lifecycle Policies",
@@ -1686,9 +1698,9 @@
         "tags": "snowflake,data-superhero,snowflake-data-cloud,data-engineering,stored-procedure"
     },
     "https://medium.com/snowflake/connect-git-to-snowflake-now-in-public-preview-25b0456ce02c": {
-        "title": "Connect Git to Snowflake, now in Public Preview",
+        "title": "Connect Git to Snowflake, now GA",
         "published": "2024-04-03T14:36:34.937000Z",
-        "updated": "2024-04-05T14:23:24.013000Z",
+        "updated": "2024-09-24T22:01:45.125000Z",
         "tags": "git,snowflake,snowpark,streamlit,devops"
     },
     "https://medium.com/snowflake/choosing-the-right-case-insensitive-collation-in-snowflake-a-deep-dive-into-upper-and-lower-67cf94d17a4e": {
