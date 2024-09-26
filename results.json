@@ -1,4 +1,22 @@
 {
+    "https://medium.com/snowflake/simplifying-data-platform-delivery-with-kerbi-1c5d6221477c": {
+        "title": "Simplifying Data Platform Delivery with Kerbi",
+        "published": "2024-09-25T22:21:42.217000Z",
+        "updated": "2024-09-25T22:21:42.217000Z",
+        "tags": "ai,data,data-processing,etl,snowflake"
+    },
+    "https://medium.com/snowflake/metas-llama-3-2-50347680b3f4": {
+        "title": "Meta\u2019s Llama 3.2",
+        "published": "2024-09-25T18:56:58.025000Z",
+        "updated": "2024-09-25T19:43:11.104000Z",
+        "tags": ""
+    },
+    "https://medium.com/snowflake/9-issues-in-moving-genai-to-production-and-mitigation-strategies-c268ef6e91f7": {
+        "title": "9 Issues in Moving GenAI to Production and Mitigation Strategies",
+        "published": "2024-09-25T15:26:53.340000Z",
+        "updated": "2024-09-25T15:26:53.340000Z",
+        "tags": "snowflake,ai21labs,llm,cortex"
+    },
     "https://medium.com/snowflake/how-snowflakes-connector-for-google-analytics-centralizes-marketing-data-cd6df8f53105": {
         "title": "How Snowflake\u2019s Connector for Google Analytics Centralizes Marketing Data",
         "published": "2024-09-24T15:21:31.125000Z",
