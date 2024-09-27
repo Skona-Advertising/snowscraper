@@ -1,4 +1,22 @@
 {
+    "https://medium.com/snowflake/easy-and-efficient-text-classification-9d6bf38b2c33": {
+        "title": "Easy and Efficient Text-Classification",
+        "published": "2024-09-26T23:10:57.901000Z",
+        "updated": "2024-09-26T23:10:57.901000Z",
+        "tags": "genai,classification,cortex,snowflake"
+    },
+    "https://medium.com/snowflake/extending-snowpark-optimized-warehouses-for-new-data-science-and-data-engineering-use-cases-2522bba34351": {
+        "title": "Extending Snowpark Optimized warehouses for new data science and data engineering use cases",
+        "published": "2024-09-26T20:54:56.036000Z",
+        "updated": "2024-09-26T23:04:02.445000Z",
+        "tags": "ml-training,native-code,code,snowpark,snowpark-ml"
+    },
+    "https://medium.com/snowflake/a-developers-guide-to-activating-snowflake-data-with-census-929add207129": {
+        "title": "A Developer\u2019s Guide to Activating Snowflake Data with Census",
+        "published": "2024-09-26T15:23:42.855000Z",
+        "updated": "2024-09-26T15:23:42.855000Z",
+        "tags": "snowflake,data-activation,dynamic-table,census,marketing"
+    },
     "https://medium.com/snowflake/simplifying-data-platform-delivery-with-kerbi-1c5d6221477c": {
         "title": "Simplifying Data Platform Delivery with Kerbi",
         "published": "2024-09-25T22:21:42.217000Z",
@@ -3686,7 +3704,7 @@
     "https://medium.com/snowflake/running-a-r-udf-with-snowpark-container-services-5828d1380066": {
         "title": "Running a R UDF with Snowpark Container Services",
         "published": "2023-10-12T11:03:58.561000Z",
-        "updated": "2023-10-12T11:03:58.561000Z",
+        "updated": "2024-09-26T09:58:01.456000Z",
         "tags": "r,containers,snowpark,snowflake"
     },
     "https://medium.com/snowflake/deliver-personalized-recommendations-with-snowflake-and-microsoft-azure-open-ai-eedca48e88cb": {
