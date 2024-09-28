@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/from-compliance-to-conversion-maximizing-first-party-data-with-snowflake-and-precise-ai-37f60f9bc97f": {
+        "title": "From Compliance to Conversion: Maximizing First-Party Data with Snowflake and Precise.ai",
+        "published": "2024-09-27T15:22:07.710000Z",
+        "updated": "2024-09-27T15:22:07.710000Z",
+        "tags": "first-party-data,genai,snowflake,privacy,data-collection"
+    },
     "https://medium.com/snowflake/easy-and-efficient-text-classification-9d6bf38b2c33": {
         "title": "Easy and Efficient Text-Classification",
         "published": "2024-09-26T23:10:57.901000Z",
@@ -8,7 +14,7 @@
     "https://medium.com/snowflake/extending-snowpark-optimized-warehouses-for-new-data-science-and-data-engineering-use-cases-2522bba34351": {
         "title": "Extending Snowpark Optimized warehouses for new data science and data engineering use cases",
         "published": "2024-09-26T20:54:56.036000Z",
-        "updated": "2024-09-26T23:04:02.445000Z",
+        "updated": "2024-09-27T22:25:54.336000Z",
         "tags": "ml-training,native-code,code,snowpark,snowpark-ml"
     },
     "https://medium.com/snowflake/a-developers-guide-to-activating-snowflake-data-with-census-929add207129": {
