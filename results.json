@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/catching-an-edge-october-2024-08859f1436ee": {
+        "title": "Catching an Edge\u200a\u2014\u200aOctober 2024",
+        "published": "2024-10-01T15:28:31.834000Z",
+        "updated": "2024-10-01T15:28:31.834000Z",
+        "tags": "ai,gen-ai-for-business,llm"
+    },
+    "https://medium.com/snowflake/unifying-logging-across-ingestion-technologies-with-hybrid-tables-b95efcecc895": {
+        "title": "Unifying logging across ingestion technologies with hybrid tables",
+        "published": "2024-10-01T15:21:01.786000Z",
+        "updated": "2024-10-01T15:21:01.786000Z",
+        "tags": "snowflake,etl,logging,data-engineering"
+    },
     "https://medium.com/snowflake/how-to-build-and-manage-snowflake-advanced-functionality-in-coalesce-33d17daf31f9": {
         "title": "How to Build and Manage Snowflake Advanced Functionality in Coalesce",
         "published": "2024-09-30T15:21:33.149000Z",
