@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/football-prediction-using-snowflake-c69e9eef6d14": {
+        "title": "Football Prediction using Snowflake",
+        "published": "2024-10-07T18:00:00.504000Z",
+        "updated": "2024-10-07T18:00:00.504000Z",
+        "tags": "machine-learning,ai,snowflake,football,coding"
+    },
+    "https://medium.com/snowflake/efficiently-unlocking-information-at-system1-deploying-a-slack-chatbot-with-snowpark-container-53fa5b524ee8": {
+        "title": "Efficiently Unlocking Information at System1: Deploying a Slack Chatbot with Snowpark Container\u2026",
+        "published": "2024-10-07T15:21:50.222000Z",
+        "updated": "2024-10-07T15:21:50.222000Z",
+        "tags": "snowflake-cortex,slackbot,snowpark-python,retrieval-augmented-gen,llama-3-1"
+    },
     "https://medium.com/snowflake/how-to-add-quality-checks-to-data-pipelines-using-the-new-snowflake-dmfs-e08b4174f3d9": {
         "title": "How to add Quality Checks to Data Pipelines using the new Snowflake DMFs",
         "published": "2024-10-06T15:26:37.132000Z",
