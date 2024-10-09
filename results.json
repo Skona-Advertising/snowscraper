@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/craft-better-search-with-snowflake-cortex-search-65e9e0b1295d": {
+        "title": "Craft Better Search with Snowflake Cortex Search",
+        "published": "2024-10-08T19:03:31.536000Z",
+        "updated": "2024-10-08T19:03:31.536000Z",
+        "tags": "data-superhero,snowflake,cortex,genai,data"
+    },
+    "https://medium.com/snowflake/leave-no-search-unturned-c6bb71b9d77e": {
+        "title": "Leave no \u2018Search\u2019 unturned",
+        "published": "2024-10-08T15:56:43.916000Z",
+        "updated": "2024-10-08T15:56:43.916000Z",
+        "tags": ""
+    },
     "https://medium.com/snowflake/football-prediction-using-snowflake-c69e9eef6d14": {
         "title": "Football Prediction using Snowflake",
         "published": "2024-10-07T18:00:00.504000Z",
@@ -40,6 +52,12 @@
         "published": "2024-10-02T15:21:42.535000Z",
         "updated": "2024-10-02T15:21:42.535000Z",
         "tags": "relationalai,knowledge-graph,snowflake-cortex,snowpark-container,question-answering"
+    },
+    "https://medium.com/snowflake/finetuning-gemma-for-coding-using-snowflakes-notebooks-da8a7c5deb76": {
+        "title": "Building a Coding Assistant using Snowflake Notebooks and Gemma 2B",
+        "published": "2024-10-01T18:56:42.014000Z",
+        "updated": "2024-10-02T10:06:11.356000Z",
+        "tags": "snowflake,llm,lora,gemma,fine-tuning"
     },
     "https://medium.com/snowflake/catching-an-edge-october-2024-08859f1436ee": {
         "title": "Catching an Edge\u200a\u2014\u200aOctober 2024",
@@ -214,6 +232,12 @@
         "published": "2024-09-13T20:38:45.125000Z",
         "updated": "2024-09-13T20:38:45.125000Z",
         "tags": "snowflake,snowflake-notebooks,snowpark,machine-learning,streamlit"
+    },
+    "https://medium.com/snowflake/catalogs-from-sears-to-iceberg-9e74e2c4896b": {
+        "title": "Catalogs from Sears to Iceberg",
+        "published": "2024-09-13T19:31:01.925000Z",
+        "updated": "2024-09-13T19:31:01.925000Z",
+        "tags": "snowflake,data-lake,data-catalog,iceberg-catalog,data-engineering"
     },
     "https://medium.com/snowflake/harnessing-the-power-of-snowpark-for-advanced-data-engineering-workloads-0b8d6c674de4": {
         "title": "Harnessing the Power of Snowpark for Advanced Data Engineering Workloads",
@@ -2600,7 +2624,7 @@
     "https://medium.com/snowflake/snowflake-new-dataops-related-features-2024-a2d04a2395cc": {
         "title": "Snowflake New DataOps Related Features (2024)",
         "published": "2024-02-05T22:01:41.070000Z",
-        "updated": "2024-02-05T22:13:04.487000Z",
+        "updated": "2024-10-08T23:22:28.703000Z",
         "tags": "snowflake,data-superhero"
     },
     "https://medium.com/snowflake/transforming-manufacturing-through-data-evolving-a-traditional-industry-through-machine-learning-7dca79a10f59": {
