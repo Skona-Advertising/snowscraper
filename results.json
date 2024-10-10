@@ -1,4 +1,22 @@
 {
+    "https://medium.com/snowflake/organization-account-public-preview-e7b4bff51ac0": {
+        "title": "Organization Account Public Preview",
+        "published": "2024-10-09T16:40:01.722000Z",
+        "updated": "2024-10-09T17:05:03.271000Z",
+        "tags": "snowflake-data-cloud,manageability"
+    },
+    "https://medium.com/snowflake/talk-with-your-manufacturing-data-30de724c6ff6": {
+        "title": "Talk with your Manufacturing data",
+        "published": "2024-10-09T15:57:08.753000Z",
+        "updated": "2024-10-09T15:57:08.753000Z",
+        "tags": "snowflake,manufacturing,oee,cortex"
+    },
+    "https://medium.com/snowflake/snowflake-dutch-user-group-october-2024-03877ea38ea5": {
+        "title": "Snowflake Dutch User Group\u200a\u2014\u200aOctober 2024",
+        "published": "2024-10-09T15:56:35.992000Z",
+        "updated": "2024-10-09T16:59:48.854000Z",
+        "tags": "daanalytics,data-superhero,user-group,snowflake,community"
+    },
     "https://medium.com/snowflake/craft-better-search-with-snowflake-cortex-search-65e9e0b1295d": {
         "title": "Craft Better Search with Snowflake Cortex Search",
         "published": "2024-10-08T19:03:31.536000Z",
@@ -8,7 +26,7 @@
     "https://medium.com/snowflake/leave-no-search-unturned-c6bb71b9d77e": {
         "title": "Leave no \u2018Search\u2019 unturned",
         "published": "2024-10-08T15:56:43.916000Z",
-        "updated": "2024-10-08T15:56:43.916000Z",
+        "updated": "2024-10-09T22:08:17.897000Z",
         "tags": ""
     },
     "https://medium.com/snowflake/football-prediction-using-snowflake-c69e9eef6d14": {
@@ -230,7 +248,7 @@
     "https://medium.com/snowflake/data-analysis-and-churn-prediction-using-snowflake-notebooks-67b615fc39c6": {
         "title": "Data Analysis and Churn Prediction Using Snowflake Notebooks",
         "published": "2024-09-13T20:38:45.125000Z",
-        "updated": "2024-09-13T20:38:45.125000Z",
+        "updated": "2024-10-09T16:34:39.818000Z",
         "tags": "snowflake,snowflake-notebooks,snowpark,machine-learning,streamlit"
     },
     "https://medium.com/snowflake/catalogs-from-sears-to-iceberg-9e74e2c4896b": {
@@ -656,7 +674,7 @@
     "https://medium.com/snowflake/price-optimization-using-snowflake-notebooks-and-streamlit-in-snowflake-f6d0f27d1297": {
         "title": "Price Optimization Using Snowflake Notebooks and Streamlit in Snowflake",
         "published": "2024-07-30T20:01:40.834000Z",
-        "updated": "2024-07-30T20:01:40.834000Z",
+        "updated": "2024-10-09T15:42:20.616000Z",
         "tags": "machine-learning,snowflake,snowflake-notebooks,snowpark,streamlit-in-snowflake"
     },
     "https://medium.com/snowflake/automating-notifications-to-an-email-distribution-list-5b5611bd146e": {
