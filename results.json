@@ -1,8 +1,14 @@
 {
+    "https://medium.com/snowflake/cost-efficient-ai-innovation-snowflake-spcs-the-fosfor-decision-cloud-fdc-ae93d62443b7": {
+        "title": "Cost-efficient AI innovation: Snowflake SPCS + The Fosfor Decision Cloud (FDC)",
+        "published": "2024-10-10T15:56:38.456000Z",
+        "updated": "2024-10-10T15:56:38.456000Z",
+        "tags": "model-monitoring,model-evaluation,machine-learning,snowpark-container,snowflake"
+    },
     "https://medium.com/snowflake/organization-account-public-preview-e7b4bff51ac0": {
         "title": "Organization Account Public Preview",
         "published": "2024-10-09T16:40:01.722000Z",
-        "updated": "2024-10-09T17:05:03.271000Z",
+        "updated": "2024-10-10T05:07:25.350000Z",
         "tags": "snowflake-data-cloud,manageability"
     },
     "https://medium.com/snowflake/talk-with-your-manufacturing-data-30de724c6ff6": {
@@ -68,7 +74,7 @@
     "https://medium.com/snowflake/question-answering-on-knowledge-graphs-using-relationalai-and-snowflake-cortex-ai-27ba9bfc8d13": {
         "title": "Question Answering on Knowledge Graphs using RelationalAI and Snowflake Cortex AI",
         "published": "2024-10-02T15:21:42.535000Z",
-        "updated": "2024-10-02T15:21:42.535000Z",
+        "updated": "2024-10-10T19:02:19.483000Z",
         "tags": "relationalai,knowledge-graph,snowflake-cortex,snowpark-container,question-answering"
     },
     "https://medium.com/snowflake/finetuning-gemma-for-coding-using-snowflakes-notebooks-da8a7c5deb76": {
@@ -1144,6 +1150,12 @@
         "published": "2024-06-04T23:33:01.946000Z",
         "updated": "2024-06-07T12:33:47.717000Z",
         "tags": "daanalytics,cloud-data-summit,snowflake-summit,polaris-catalog,nvidia"
+    },
+    "https://medium.com/snowflake/snowflake-monitoring-and-debugging-stored-procedures-using-query-tagging-6b138f32c673": {
+        "title": "Optimizing Snowflake (4): monitoring and debugging stored procedures using query tagging",
+        "published": "2024-06-04T19:24:01.360000Z",
+        "updated": "2024-10-10T21:43:29.212000Z",
+        "tags": "snowflake,snowflake-data-cloud"
     },
     "https://medium.com/snowflake/developing-snowflake-native-apps-with-snowpark-container-services-part-i-e2223269418c": {
         "title": "Developing Snowflake Native Apps with Snowpark Container Services: Part I",
