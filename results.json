@@ -1,9 +1,33 @@
 {
+    "https://medium.com/snowflake/running-distributed-pytorch-models-on-snowflake-an-end-to-end-ml-solution-452d16a39553": {
+        "title": "Running Distributed PyTorch Models on Snowflake: An End-to-End ML Solution",
+        "published": "2024-10-11T16:16:00.803000Z",
+        "updated": "2024-10-11T17:59:55.120000Z",
+        "tags": ""
+    },
+    "https://medium.com/snowflake/snowflake-cortex-ai-smart-activity-planning-d6e5acf5b672": {
+        "title": "Snowflake Cortex AI: Smart activity planning",
+        "published": "2024-10-11T15:57:09.271000Z",
+        "updated": "2024-10-11T15:57:09.271000Z",
+        "tags": "generative-ai-tools,data-engineering,llm,snowflake"
+    },
+    "https://medium.com/snowflake/contextual-search-engine-for-molecular-drug-discover-using-snowflakes-a3dafa41ae85": {
+        "title": "RAG based Contextual Search Engine for Molecular Drug Discovery using Snowflake Artic LLM \u2026",
+        "published": "2024-10-11T09:34:03.957000Z",
+        "updated": "2024-10-11T12:48:21.050000Z",
+        "tags": "retrieval-augmented-gen,snowflake,llm,langchain,drug-discovery"
+    },
     "https://medium.com/snowflake/cost-efficient-ai-innovation-snowflake-spcs-the-fosfor-decision-cloud-fdc-ae93d62443b7": {
         "title": "Cost-efficient AI innovation: Snowflake SPCS + The Fosfor Decision Cloud (FDC)",
         "published": "2024-10-10T15:56:38.456000Z",
         "updated": "2024-10-10T15:56:38.456000Z",
         "tags": "model-monitoring,model-evaluation,machine-learning,snowpark-container,snowflake"
+    },
+    "https://medium.com/snowflake/automated-contract-analysis-using-snowflake-arctic-and-llama-17c0c7bd9a36": {
+        "title": "Automated Contract Analysis using Snowflake-Arctic and Llama",
+        "published": "2024-10-10T13:51:37.227000Z",
+        "updated": "2024-10-10T13:51:37.227000Z",
+        "tags": "snowflake,llama-3,prompt-engineering,streamlit,pandas"
     },
     "https://medium.com/snowflake/organization-account-public-preview-e7b4bff51ac0": {
         "title": "Organization Account Public Preview",
