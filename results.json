@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/integrating-delta-tables-with-snowflake-performance-beyond-external-tables-52b54d31251c": {
+        "title": "Integrating Delta Tables with Snowflake: Performance Beyond External Tables",
+        "published": "2024-10-12T15:56:38.447000Z",
+        "updated": "2024-10-12T15:56:38.447000Z",
+        "tags": "snowflake,delta-tables,iceberg-table,performance,external-tables"
+    },
     "https://medium.com/snowflake/running-distributed-pytorch-models-on-snowflake-an-end-to-end-ml-solution-452d16a39553": {
         "title": "Running Distributed PyTorch Models on Snowflake: An End-to-End ML Solution",
         "published": "2024-10-11T16:16:00.803000Z",
