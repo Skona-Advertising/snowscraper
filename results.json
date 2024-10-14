@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/seamless-snowflake-account-setup-with-terraform-unlock-the-power-of-automation-with-a-ready-to-use-9696a7506277": {
+        "title": "Seamless Snowflake Account Setup with Terraform: Unlock the Power of Automation with a Ready-to-Use\u2026",
+        "published": "2024-10-13T16:01:55.532000Z",
+        "updated": "2024-10-13T16:01:55.532000Z",
+        "tags": "snowflake,terraform,iac,infrastructure,architecture"
+    },
     "https://medium.com/snowflake/integrating-delta-tables-with-snowflake-performance-beyond-external-tables-52b54d31251c": {
         "title": "Integrating Delta Tables with Snowflake: Performance Beyond External Tables",
         "published": "2024-10-12T15:56:38.447000Z",
