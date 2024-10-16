@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/new-in-snowflake-trail-enhanced-logs-tracing-and-metrics-for-snowpark-a2476198e14e": {
+        "title": "New in Snowflake Trail: Enhanced Logs, Tracing, and Metrics for Snowpark",
+        "published": "2024-10-15T19:08:55.274000Z",
+        "updated": "2024-10-15T19:08:55.274000Z",
+        "tags": "snowpark,opentelemetry,observability,snowflake"
+    },
+    "https://medium.com/snowflake/asynchronous-query-execution-in-snowflake-using-snowpark-api-2fbe669f619c": {
+        "title": "Asynchronous Query Execution in Snowflake Using Snowpark API",
+        "published": "2024-10-15T16:02:35.026000Z",
+        "updated": "2024-10-15T16:02:35.026000Z",
+        "tags": "asynchronous,snowpark,data,snowflake,data-engineering"
+    },
     "https://medium.com/snowflake/empowering-data-exploration-natural-language-queries-with-snowflake-cortex-in-sfss-quotient-c1eadceb3de7": {
         "title": "Empowering Data Exploration: Natural Language Queries with Snowflake Cortex in SFS\u2019s Quotient\u2122",
         "published": "2024-10-14T16:02:09.947000Z",
