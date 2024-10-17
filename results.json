@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/amperity-snowflake-quickstart-a154611e0160": {
+        "title": "Amperity & Snowflake Quickstart",
+        "published": "2024-10-16T16:02:05.890000Z",
+        "updated": "2024-10-16T16:02:05.890000Z",
+        "tags": "snowflake,iceberg-table,data-lakehouse,zero-copy,identity-resolution"
+    },
+    "https://medium.com/snowflake/liveramp-embedded-identity-and-deconfliction-a-powerful-solution-for-marketers-on-snowflake-7cdbec33d8ba": {
+        "title": "LiveRamp Embedded Identity and Deconfliction: A Powerful Solution for Marketers on Snowflake",
+        "published": "2024-10-16T16:02:05.837000Z",
+        "updated": "2024-10-16T16:02:05.837000Z",
+        "tags": "identity-resolution,marketing-analytics,data-operations,data-collaboration"
+    },
     "https://medium.com/snowflake/new-in-snowflake-trail-enhanced-logs-tracing-and-metrics-for-snowpark-a2476198e14e": {
         "title": "New in Snowflake Trail: Enhanced Logs, Tracing, and Metrics for Snowpark",
         "published": "2024-10-15T19:08:55.274000Z",
@@ -2432,7 +2444,7 @@
     "https://medium.com/snowflake/developing-a-product-chatbot-with-airmiles-in-snowflake-6b197d3fc424": {
         "title": "Developing a Product Chatbot with AirMiles in Snowflake",
         "published": "2024-02-26T14:07:37.169000Z",
-        "updated": "2024-02-28T17:41:37.706000Z",
+        "updated": "2024-10-16T12:31:40.270000Z",
         "tags": "llm,snowflake,open-source,ai"
     },
     "https://medium.com/snowflake/snowflake-admin-series-identifier-first-login-50fc07965da8": {
@@ -3062,7 +3074,7 @@
     "https://medium.com/snowflake/llm-fine-tuning-with-autotrain-in-snowflake-bc045efd37b1": {
         "title": "LLM Fine-Tuning with AutoTrain in Snowflake",
         "published": "2024-01-08T16:01:44.471000Z",
-        "updated": "2024-01-24T22:25:28.986000Z",
+        "updated": "2024-10-16T12:28:41.425000Z",
         "tags": "ai,llm,snowflake"
     },
     "https://medium.com/snowflake/leveraging-snowpark-container-services-for-advanced-q-a-retrieval-5bf5d2686fa6": {
