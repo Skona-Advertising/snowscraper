@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/how-to-use-improvado-to-extract-and-analyze-your-data-in-snowflake-6fe1a1a2f271": {
+        "title": "How to Use Improvado to Extract and Analyze Your Data in Snowflake",
+        "published": "2024-10-17T16:02:11.480000Z",
+        "updated": "2024-10-17T16:02:11.480000Z",
+        "tags": "data-superhero,marketing-analytics,marketing-automation"
+    },
+    "https://medium.com/snowflake/running-langchain-in-snowflake-notebooks-81357ddaa0c5": {
+        "title": "Running LangChain IN Snowflake Notebooks",
+        "published": "2024-10-17T01:48:31.109000Z",
+        "updated": "2024-10-17T01:48:31.109000Z",
+        "tags": "langchain,snowflake,cortex,python,generative-ai-tools"
+    },
     "https://medium.com/snowflake/amperity-snowflake-quickstart-a154611e0160": {
         "title": "Amperity & Snowflake Quickstart",
         "published": "2024-10-16T16:02:05.890000Z",
@@ -62,7 +74,7 @@
     "https://medium.com/snowflake/cost-efficient-ai-innovation-snowflake-spcs-the-fosfor-decision-cloud-fdc-ae93d62443b7": {
         "title": "Cost-efficient AI innovation: Snowflake SPCS + The Fosfor Decision Cloud (FDC)",
         "published": "2024-10-10T15:56:38.456000Z",
-        "updated": "2024-10-10T15:56:38.456000Z",
+        "updated": "2024-10-17T12:05:49.774000Z",
         "tags": "model-monitoring,model-evaluation,machine-learning,snowpark-container,snowflake"
     },
     "https://medium.com/snowflake/automated-contract-analysis-using-snowflake-arctic-and-llama-17c0c7bd9a36": {
@@ -116,7 +128,7 @@
     "https://medium.com/snowflake/how-to-add-quality-checks-to-data-pipelines-using-the-new-snowflake-dmfs-e08b4174f3d9": {
         "title": "How to add Quality Checks to Data Pipelines using the new Snowflake DMFs",
         "published": "2024-10-06T15:26:37.132000Z",
-        "updated": "2024-10-06T15:26:37.132000Z",
+        "updated": "2024-10-17T17:45:07.960000Z",
         "tags": "snowflake,data-engineering,data-quality,snowsight,data-pipeline"
     },
     "https://medium.com/snowflake/cloudops-ai-assistant-revolutionizing-it-ticket-resolution-with-snowflake-cortex-and-rag-ee16b3412781": {
@@ -1238,7 +1250,7 @@
     "https://medium.com/snowflake/faster-parquet-data-ingestion-with-snowflake-use-vectorized-scanner-28679bcff450": {
         "title": "Faster Parquet Data Ingestion with Snowflake USE_VECTORIZED_SCANNER",
         "published": "2024-05-31T19:48:39.147000Z",
-        "updated": "2024-09-12T21:57:38.129000Z",
+        "updated": "2024-10-17T02:45:22.518000Z",
         "tags": "snowflake,data-pipeline,data-ingestion,parquet,snowflake-data-cloud"
     },
     "https://medium.com/snowflake/how-booking-com-enforces-policy-across-a-hybrid-data-ecosystem-with-immuta-aws-and-snowflake-d92df507c3d0": {
@@ -1394,7 +1406,7 @@
     "https://medium.com/snowflake/how-to-set-up-data-pipeline-notifications-using-the-new-finalizer-task-077885531aad": {
         "title": "How to set up data pipeline notifications using the new Finalizer Task",
         "published": "2024-05-22T14:02:18.127000Z",
-        "updated": "2024-05-22T14:02:18.127000Z",
+        "updated": "2024-10-17T17:48:06.016000Z",
         "tags": "snowflake,data-pipeline,observability,data-engineering,snowsight"
     },
     "https://medium.com/snowflake/snowflake-cortex-function-complete-guide-4-extract-answer-953ba8479e15": {
@@ -1604,7 +1616,7 @@
     "https://medium.com/snowflake/snowflake-data-ingestion-include-metadata-583511727b6e": {
         "title": "Snowflake Data Ingestion INCLUDE_METADATA",
         "published": "2024-05-01T16:10:20.606000Z",
-        "updated": "2024-07-30T21:59:02.490000Z",
+        "updated": "2024-10-17T02:43:35.301000Z",
         "tags": "data-engineering,snowflake-data-cloud,snowflake,data-warehouse,data-pipeline"
     },
     "https://medium.com/snowflake/supercharging-snowflake-native-app-development-with-snowflake-cli-589670f0069c": {
@@ -2012,7 +2024,7 @@
     "https://medium.com/snowflake/integrating-langchain-with-snowflake-cortex-0367f934f1c1": {
         "title": "Integrating Langchain with Snowflake Cortex",
         "published": "2024-03-28T20:09:24.616000Z",
-        "updated": "2024-09-06T10:21:48.348000Z",
+        "updated": "2024-10-17T14:55:18.541000Z",
         "tags": "llm,langchain,snowflake,cortex,python"
     },
     "https://medium.com/snowflake/using-snowpark-ml-to-maximize-marketing-budget-5fbd6333a338": {
