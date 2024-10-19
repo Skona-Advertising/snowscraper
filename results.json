@@ -1,4 +1,28 @@
 {
+    "https://medium.com/snowflake/real-time-financial-insights-using-cdc-with-the-snowflake-connector-for-postgresql-and-dynamic-989c2911c393": {
+        "title": "Real-Time Financial Insights Using CDC with the Snowflake Connector for PostgreSQL and Dynamic\u2026",
+        "published": "2024-10-18T21:09:50.969000Z",
+        "updated": "2024-10-18T21:09:50.969000Z",
+        "tags": "snowflake-connector,change-data-capture,dynamic-table,connector,streamlit"
+    },
+    "https://medium.com/snowflake/snowflake-cortex-microsoft-fabric-integration-that-enables-data-ai-driven-decision-making-for-b6625a12575e": {
+        "title": "Snowflake Cortex + Microsoft Fabric Integration that Enables Data & AI Driven Decision-making for\u2026",
+        "published": "2024-10-18T05:16:34.627000Z",
+        "updated": "2024-10-18T05:16:34.627000Z",
+        "tags": ""
+    },
+    "https://medium.com/snowflake/introducing-domos-marketing-app-enriching-marketing-analytics-with-snowflake-integration-11d48e7b8ad4": {
+        "title": "Introducing Domo\u2019s marketing app: Enriching marketing analytics with Snowflake integration",
+        "published": "2024-10-18T05:13:58.646000Z",
+        "updated": "2024-10-18T05:13:58.646000Z",
+        "tags": "marketing,data-analysis,ai,snowflake,machine-learning"
+    },
+    "https://medium.com/snowflake/building-ai-powered-interaction-analytics-with-symbl-ai-and-snowflake-c01e0c57c9e9": {
+        "title": "Building AI-Powered Interaction Analytics with Symbl.ai and Snowflake",
+        "published": "2024-10-18T02:52:33.187000Z",
+        "updated": "2024-10-18T17:12:36.498000Z",
+        "tags": ""
+    },
     "https://medium.com/snowflake/how-to-use-improvado-to-extract-and-analyze-your-data-in-snowflake-6fe1a1a2f271": {
         "title": "How to Use Improvado to Extract and Analyze Your Data in Snowflake",
         "published": "2024-10-17T16:02:11.480000Z",
@@ -74,7 +98,7 @@
     "https://medium.com/snowflake/cost-efficient-ai-innovation-snowflake-spcs-the-fosfor-decision-cloud-fdc-ae93d62443b7": {
         "title": "Cost-efficient AI innovation: Snowflake SPCS + The Fosfor Decision Cloud (FDC)",
         "published": "2024-10-10T15:56:38.456000Z",
-        "updated": "2024-10-17T12:05:49.774000Z",
+        "updated": "2024-10-18T12:41:21.585000Z",
         "tags": "model-monitoring,model-evaluation,machine-learning,snowpark-container,snowflake"
     },
     "https://medium.com/snowflake/automated-contract-analysis-using-snowflake-arctic-and-llama-17c0c7bd9a36": {
@@ -326,7 +350,7 @@
     "https://medium.com/snowflake/translate-existing-semantic-layers-for-use-by-cortex-analyst-2056edbd4753": {
         "title": "Translate Existing Semantic Layers for Use by Cortex Analyst",
         "published": "2024-09-13T21:01:35.332000Z",
-        "updated": "2024-09-13T21:01:35.332000Z",
+        "updated": "2024-10-18T17:52:16.743000Z",
         "tags": "ai,llm,snowflake,snowflake-cortex"
     },
     "https://medium.com/snowflake/data-analysis-and-churn-prediction-using-snowflake-notebooks-67b615fc39c6": {
@@ -350,7 +374,7 @@
     "https://medium.com/snowflake/creating-semantic-models-for-snowflakes-cortex-analyst-65daa44f73e2": {
         "title": "Creating Semantic Models for Snowflake\u2019s Cortex Analyst",
         "published": "2024-09-12T20:41:39.964000Z",
-        "updated": "2024-09-12T20:41:39.964000Z",
+        "updated": "2024-10-18T17:52:16.521000Z",
         "tags": "ai,snowflake,sql"
     },
     "https://medium.com/snowflake/a-guide-to-reporting-on-developer-security-with-snyk-and-snowflake-a85aa12a6e16": {
@@ -428,7 +452,7 @@
     "https://medium.com/snowflake/langchain-with-history-in-snowflake-7e82a23ae029": {
         "title": "LangChain with history in Snowflake",
         "published": "2024-09-05T14:46:48.001000Z",
-        "updated": "2024-09-06T10:23:22.858000Z",
+        "updated": "2024-10-18T20:15:33.565000Z",
         "tags": "langchain,snowflake,python,generative-ai-tools,cortex"
     },
     "https://medium.com/snowflake/ai-agents-in-snowflake-for-data-analysis-055c9f97338a": {
@@ -878,7 +902,7 @@
     "https://medium.com/snowflake/langchain-for-files-stored-in-snowflake-stages-powered-by-cortex-d2be60650af8": {
         "title": "LangChain for files stored in Snowflake Stages powered by Cortex",
         "published": "2024-07-16T14:11:01.924000Z",
-        "updated": "2024-09-06T10:22:38.329000Z",
+        "updated": "2024-10-18T20:15:01.905000Z",
         "tags": "langchain,snowflake,python,generative-ai-tools,cortex"
     },
     "https://medium.com/snowflake/syncing-documents-from-sharepoint-to-snowflake-by-leveraging-microsoft-graph-apis-in-snowpark-b97a423d71db": {
