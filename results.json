@@ -1,4 +1,22 @@
 {
+    "https://medium.com/snowflake/harnessing-the-power-of-langchain-and-snowflake-unlocking-insights-with-cortex-43402b6b8319": {
+        "title": "Harnessing the Power of LangChain and Snowflake: Unlocking Insights with Cortex",
+        "published": "2024-10-21T23:54:30.249000Z",
+        "updated": "2024-10-22T00:38:32.095000Z",
+        "tags": ""
+    },
+    "https://medium.com/snowflake/legal-research-assistant-using-arctic-and-llama3-1-405b-in-snowflakes-notebooks-8b8a0c1708df": {
+        "title": "Legal Research Assistant using Arctic and Llama3.1\u2013405B in Snowflakes Notebooks",
+        "published": "2024-10-21T18:29:53.681000Z",
+        "updated": "2024-10-21T18:42:23.234000Z",
+        "tags": "snowflake,llama-3,arctic,legal,streamlit"
+    },
+    "https://medium.com/snowflake/credit-card-fraud-detection-using-snowflakes-arctic-6177f20bde71": {
+        "title": "Credit Card Fraud Detection Using Snowflake-Arctic and Streamlit",
+        "published": "2024-10-19T11:11:56.905000Z",
+        "updated": "2024-10-22T00:30:12.134000Z",
+        "tags": "snowflake,arctic,mistral,llm,fraud-detection"
+    },
     "https://medium.com/snowflake/real-time-financial-insights-using-cdc-with-the-snowflake-connector-for-postgresql-and-dynamic-989c2911c393": {
         "title": "Real-Time Financial Insights Using CDC with the Snowflake Connector for PostgreSQL and Dynamic\u2026",
         "published": "2024-10-18T21:09:50.969000Z",
@@ -694,6 +712,12 @@
         "published": "2024-08-06T21:18:11.913000Z",
         "updated": "2024-08-06T21:18:11.913000Z",
         "tags": "framwork,snowflake,api"
+    },
+    "https://medium.com/snowflake/normalization-in-security-data-lakes-d02a679d2f97": {
+        "title": "Normalization in Security Data Lakes",
+        "published": "2024-08-06T16:17:48.226000Z",
+        "updated": "2024-10-22T00:32:15.778000Z",
+        "tags": "security,data-science"
     },
     "https://medium.com/snowflake/11-non-functional-best-practices-to-enhance-your-native-app-0dd1236e4a5b": {
         "title": "11 Non-Functional Best Practices to Enhance Your Native App",
