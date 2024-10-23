@@ -1,4 +1,22 @@
 {
+    "https://medium.com/snowflake/migrating-azure-data-factorys-snowflake-connector-from-legacy-to-latest-v2-450d60f76a16": {
+        "title": "Migrating Azure Data Factory\u2019s Snowflake Connector from Legacy to latest V2",
+        "published": "2024-10-22T17:51:45.046000Z",
+        "updated": "2024-10-22T17:51:45.046000Z",
+        "tags": "migration,data-factory,azure-data-factory,snowflake,connector"
+    },
+    "https://medium.com/snowflake/data-model-mapper-a-snowflake-native-app-for-data-collaboration-at-scale-%EF%B8%8F-a641f14f5699": {
+        "title": "Data Model Mapper, a Snowflake Native App for data collaboration at scale \u2744\ufe0f",
+        "published": "2024-10-22T14:37:38.612000Z",
+        "updated": "2024-10-22T14:37:38.612000Z",
+        "tags": "snowflake,data-sharing,native-app,streamlit"
+    },
+    "https://medium.com/snowflake/self-serve-analytics-application-in-minutes-with-snowflake-cortex-analyst-%EF%B8%8F-8bdc65638cb3": {
+        "title": "Self-serve Analytics application in minutes with Snowflake Cortex Analyst \u2744\ufe0f",
+        "published": "2024-10-22T14:37:37.967000Z",
+        "updated": "2024-10-22T14:37:37.967000Z",
+        "tags": "snowflake,streamlit,snowflake-data-cloud,cortex,text-to-sql"
+    },
     "https://medium.com/snowflake/harnessing-the-power-of-langchain-and-snowflake-unlocking-insights-with-cortex-43402b6b8319": {
         "title": "Harnessing the Power of LangChain and Snowflake: Unlocking Insights with Cortex",
         "published": "2024-10-21T23:54:30.249000Z",
@@ -20,7 +38,7 @@
     "https://medium.com/snowflake/real-time-financial-insights-using-cdc-with-the-snowflake-connector-for-postgresql-and-dynamic-989c2911c393": {
         "title": "Real-Time Financial Insights Using CDC with the Snowflake Connector for PostgreSQL and Dynamic\u2026",
         "published": "2024-10-18T21:09:50.969000Z",
-        "updated": "2024-10-20T22:29:21.685000Z",
+        "updated": "2024-10-22T08:03:52.648000Z",
         "tags": "snowflake-connector,change-data-capture,dynamic-table,connector,streamlit"
     },
     "https://medium.com/snowflake/snowflake-cortex-microsoft-fabric-integration-that-enables-data-ai-driven-decision-making-for-b6625a12575e": {
@@ -677,6 +695,12 @@
         "updated": "2024-08-10T14:57:19.998000Z",
         "tags": "snowflake,dynamic-table,notebook,data-visualization"
     },
+    "https://medium.com/snowflake/snowflake-copilot-everything-about-availability-security-and-controls-56f991801557": {
+        "title": "Snowflake Copilot\u200a\u2014\u200aEverything about Availability, Security and Controls",
+        "published": "2024-08-10T04:49:14.006000Z",
+        "updated": "2024-10-22T17:52:51.952000Z",
+        "tags": "snowflake,snowpro,data-superhero,co-pilot,ai"
+    },
     "https://medium.com/snowflake/credit-consumption-notification-by-role-07f6245a0e8c": {
         "title": "Credit Consumption Notification by Role",
         "published": "2024-08-09T14:56:31.479000Z",
@@ -712,6 +736,12 @@
         "published": "2024-08-06T21:18:11.913000Z",
         "updated": "2024-08-06T21:18:11.913000Z",
         "tags": "framwork,snowflake,api"
+    },
+    "https://medium.com/snowflake/how-a-predictive-capi-can-drive-growth-for-advertisers-6b0bf0211803": {
+        "title": "How a \u201cPredictive CAPI\u201d can drive growth for advertisers",
+        "published": "2024-08-06T21:14:11.514000Z",
+        "updated": "2024-10-22T17:52:26.075000Z",
+        "tags": ""
     },
     "https://medium.com/snowflake/normalization-in-security-data-lakes-d02a679d2f97": {
         "title": "Normalization in Security Data Lakes",
@@ -3362,7 +3392,7 @@
     "https://medium.com/snowflake/how-to-integrate-databricks-with-snowflake-managed-iceberg-tables-7a8895c2c724": {
         "title": "How to integrate Databricks with Snowflake-managed Iceberg Tables",
         "published": "2023-12-05T13:31:51.050000Z",
-        "updated": "2024-05-01T22:06:11.553000Z",
+        "updated": "2024-10-23T00:35:11.297000Z",
         "tags": "snowflake,apache-iceberg,databricks"
     },
     "https://medium.com/snowflake/machine-learning-based-alerts-for-snowflake-finops-8ec640fb1cee": {
