@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/rethinking-the-use-of-structured-data-in-rag-an-example-with-fivetran-and-snowflake-d524f939d6ba": {
+        "title": "Rethinking the use of structured data in RAG: An example with Fivetran and Snowflake",
+        "published": "2024-10-23T14:37:43.221000Z",
+        "updated": "2024-10-23T14:37:43.221000Z",
+        "tags": "generative-ai-solution,snowflake,fivetran,retrieval-augmented-gen,travel-assistant"
+    },
     "https://medium.com/snowflake/migrating-azure-data-factorys-snowflake-connector-from-legacy-to-latest-v2-450d60f76a16": {
         "title": "Migrating Azure Data Factory\u2019s Snowflake Connector from Legacy to latest V2",
         "published": "2024-10-22T17:51:45.046000Z",
@@ -38,7 +44,7 @@
     "https://medium.com/snowflake/real-time-financial-insights-using-cdc-with-the-snowflake-connector-for-postgresql-and-dynamic-989c2911c393": {
         "title": "Real-Time Financial Insights Using CDC with the Snowflake Connector for PostgreSQL and Dynamic\u2026",
         "published": "2024-10-18T21:09:50.969000Z",
-        "updated": "2024-10-22T08:03:52.648000Z",
+        "updated": "2024-10-23T15:58:38.741000Z",
         "tags": "snowflake-connector,change-data-capture,dynamic-table,connector,streamlit"
     },
     "https://medium.com/snowflake/snowflake-cortex-microsoft-fabric-integration-that-enables-data-ai-driven-decision-making-for-b6625a12575e": {
@@ -3392,7 +3398,7 @@
     "https://medium.com/snowflake/how-to-integrate-databricks-with-snowflake-managed-iceberg-tables-7a8895c2c724": {
         "title": "How to integrate Databricks with Snowflake-managed Iceberg Tables",
         "published": "2023-12-05T13:31:51.050000Z",
-        "updated": "2024-10-23T00:35:11.297000Z",
+        "updated": "2024-10-23T01:44:07.677000Z",
         "tags": "snowflake,apache-iceberg,databricks"
     },
     "https://medium.com/snowflake/machine-learning-based-alerts-for-snowflake-finops-8ec640fb1cee": {
