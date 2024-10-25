@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/making-transactional-workloads-as-easy-as-pie-a803c630fe03": {
+        "title": "Making transactional workloads as \u201ceasy-as-pie\u201d!",
+        "published": "2024-10-24T14:36:29.414000Z",
+        "updated": "2024-10-24T14:36:29.414000Z",
+        "tags": ""
+    },
     "https://medium.com/snowflake/rethinking-the-use-of-structured-data-in-rag-an-example-with-fivetran-and-snowflake-d524f939d6ba": {
         "title": "Rethinking the use of structured data in RAG: An example with Fivetran and Snowflake",
         "published": "2024-10-23T14:37:43.221000Z",
@@ -100,6 +106,12 @@
         "published": "2024-10-15T16:02:35.026000Z",
         "updated": "2024-10-15T16:02:35.026000Z",
         "tags": "asynchronous,snowpark,data,snowflake,data-engineering"
+    },
+    "https://medium.com/snowflake/evolution-of-the-open-metastore-54bfcf505b8c": {
+        "title": "Evolution of the Open Metastore",
+        "published": "2024-10-15T00:22:42.421000Z",
+        "updated": "2024-10-24T21:53:50.088000Z",
+        "tags": "snowflake,iceberg-table,hive-metastore,apache-polaris,spark"
     },
     "https://medium.com/snowflake/empowering-data-exploration-natural-language-queries-with-snowflake-cortex-in-sfss-quotient-c1eadceb3de7": {
         "title": "Empowering Data Exploration: Natural Language Queries with Snowflake Cortex in SFS\u2019s Quotient\u2122",
