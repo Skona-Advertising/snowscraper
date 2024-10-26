@@ -7799,12 +7799,6 @@
         "updated": "2022-09-04T20:13:32.120000Z",
         "tags": "data-superhero"
     },
-    "https://medium.com/snowflake/snowflake-quick-tips-how-to-transfer-batch-data-using-fivetran-b8978851febb": {
-        "title": "[Snowflake Quick Tips] How to transfer batch data using Fivetran",
-        "published": "2022-09-04T16:54:33.639000Z",
-        "updated": "2022-09-06T00:21:41.820000Z",
-        "tags": "snowflake-data-cloud,snowflake-quick-tips,fivetran,snowflake-data-ingestion,data-superhero"
-    },
     "https://medium.com/snowflake/snowflake-data-protection-features-part-ii-3057fccb06e5": {
         "title": "Snowflake\u200a\u2014\u200aData Protection Features\u200a\u2014\u200aPart II",
         "published": "2022-09-02T21:04:51.650000Z",
@@ -7913,12 +7907,6 @@
         "updated": "2022-08-23T13:03:42.696000Z",
         "tags": "snowflake,etl,business-intelligence,data-warehouse,data-superhero"
     },
-    "https://medium.com/snowflake/snowflake-quick-tips-how-to-use-schemachange-1f578d7882b9": {
-        "title": "[Snowflake Quick Tips] How to use schemachange",
-        "published": "2022-08-22T18:07:16.372000Z",
-        "updated": "2023-03-23T00:28:54.102000Z",
-        "tags": "snowflake-data-cloud,schemachange,snowflake-quick-tips,data-superhero"
-    },
     "https://medium.com/snowflake/a-first-look-at-the-dbt-python-models-with-snowpark-54d9419c1c72": {
         "title": "A First Look at the dbt Python Models with Snowpark",
         "published": "2022-08-21T03:06:01.431000Z",
@@ -7972,12 +7960,6 @@
         "published": "2022-08-15T22:55:46.033000Z",
         "updated": "2022-08-15T23:01:34.554000Z",
         "tags": "snowflake,data-science,dataset,marketplaces"
-    },
-    "https://medium.com/snowflake/snowflake-quick-tips-how-to-use-snowpark-from-python-with-streamlit-73df01c4989a": {
-        "title": "[Snowflake Quick Tips] How to use Snowpark from Python with Streamlit",
-        "published": "2022-08-15T13:03:19.605000Z",
-        "updated": "2023-04-01T16:39:01.375000Z",
-        "tags": "snowflake-quick-tops,snowflake-data-cloud,streamlit,snowpark,data-superhero"
     },
     "https://medium.com/snowflake/details-to-know-about-snowflake-parameters-part-1-702ac077c152": {
         "title": "Details to know about Snowflake Parameters (Part 1)",
@@ -8062,12 +8044,6 @@
         "published": "2022-08-02T00:00:13.350000Z",
         "updated": "2024-02-11T09:14:28.961000Z",
         "tags": ""
-    },
-    "https://medium.com/snowflake/snowflake-quick-tips-how-to-make-interesting-visualizations-in-snowsight-and-tableau-edf54ba46273": {
-        "title": "[Snowflake Quick Tips] How to make interesting visualizations in Snowsight and Tableau",
-        "published": "2022-08-01T00:25:23.756000Z",
-        "updated": "2023-03-27T17:04:49.516000Z",
-        "tags": "snowflake-data-cloud,tableau,snowsight,dataviz,data-superhero"
     },
     "https://medium.com/snowflake/the-snowflake-lakehouse-b583746d686b": {
         "title": "The Snowflake Lakehouse?",
@@ -8159,12 +8135,6 @@
         "updated": "2022-07-19T12:02:26.802000Z",
         "tags": "data-superhero,snowflake"
     },
-    "https://medium.com/snowflake/snowflake-quick-tips-how-to-make-dbt-transformations-f8bb997ca4ef": {
-        "title": "[Snowflake Quick Tips] How to make dbt transformations",
-        "published": "2022-07-18T13:01:10.099000Z",
-        "updated": "2022-07-18T13:01:10.099000Z",
-        "tags": "snowflake,dbt,data-superhero"
-    },
     "https://medium.com/snowflake/dynamic-masking-conditional-policy-in-snowflake-582db6a72995": {
         "title": "Dynamic Masking: Conditional Policy in Snowflake",
         "published": "2022-07-18T09:02:39.795000Z",
@@ -8176,12 +8146,6 @@
         "published": "2022-07-17T16:17:39.157000Z",
         "updated": "2022-08-05T21:01:15.564000Z",
         "tags": "snowflake,snowpark,python,aws,cloud9"
-    },
-    "https://medium.com/snowflake/snowflake-quick-tips-how-to-start-data-modeling-with-dbeaver-c099ba333c4c": {
-        "title": "[Snowflake Quick Tips] How to start data modeling with DBeaver",
-        "published": "2022-07-17T07:03:26.596000Z",
-        "updated": "2023-03-23T12:08:46.601000Z",
-        "tags": "snowflake-data-cloud,er-modelling,data-modeling,data-superhero"
     },
     "https://medium.com/snowflake/snowflake-internal-stage-and-external-stage-d9e220590e70": {
         "title": "Snowflake\u00a0: Internal Stage and External Stage\u00a0\u2026.",
@@ -8212,12 +8176,6 @@
         "published": "2022-07-14T16:58:16.828000Z",
         "updated": "2022-07-15T13:24:58.698000Z",
         "tags": "data-superhero,snowflake"
-    },
-    "https://medium.com/snowflake/snowflake-quick-tips-how-to-connect-from-terraform-66bc1ac70fca": {
-        "title": "[Snowflake Quick Tips] How to connect from Terraform",
-        "published": "2022-07-14T14:02:56.265000Z",
-        "updated": "2023-03-27T17:05:42.738000Z",
-        "tags": "snowflake-training,snowflake-data-cloud,terraform,data-superhero"
     },
     "https://medium.com/snowflake/kill-those-snowflake-tables-3e202d51e557": {
         "title": "Kill those Snowflake Tables",
