@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/snowflake-cortex-for-effective-summarization-ca40b12c8746": {
+        "title": "Snowflake Cortex for Effective Summarization",
+        "published": "2024-10-28T14:38:08.624000Z",
+        "updated": "2024-10-28T14:38:08.624000Z",
+        "tags": "atlassian-apps,ai,slack,snowflake-cortex,summarization"
+    },
     "https://medium.com/snowflake/part-1-improve-your-sports-practice-with-snowflake-cortex-ai-and-streamlit-cfc65ad01191": {
         "title": "[Part-1] - Improve your sports practice with Snowflake Cortex AI and Streamlit",
         "published": "2024-10-27T14:36:39.618000Z",
@@ -671,17 +677,35 @@
         "updated": "2024-08-19T17:48:37.636000Z",
         "tags": ""
     },
+    "https://medium.com/snowflake/snowflake-data-governance-building-a-fortress-for-your-data-part-2-169dcc4b8a3a": {
+        "title": "Snowflake Data Governance: Building a Fortress for Your Data\u200a\u2014\u200aPart 2",
+        "published": "2024-08-19T16:35:09.229000Z",
+        "updated": "2024-10-28T20:11:56.606000Z",
+        "tags": "snowflake,data-governance,data-privacy,metadata-management,master-data-management"
+    },
     "https://medium.com/snowflake/elevate-your-data-protection-with-snowflakes-is-database-role-in-session-4b154e4279c4": {
         "title": "Elevate your data protection with Snowflake\u2019s IS_DATABASE_ROLE_IN_SESSION()",
         "published": "2024-08-19T13:07:22.063000Z",
         "updated": "2024-08-19T13:07:22.063000Z",
         "tags": "snowflake,data-sharing,database-role,policy,data-governance"
     },
+    "https://medium.com/snowflake/wow-instantly-undrop-databases-schemas-and-tables-using-ids-1c2b7c960486": {
+        "title": "Wow! Instantly UNDROP Databases, Schemas, and Tables Using IDs",
+        "published": "2024-08-19T07:13:37.497000Z",
+        "updated": "2024-10-28T20:11:44.520000Z",
+        "tags": "snowflake,database,data-superhero,data,data-analysis"
+    },
     "https://medium.com/snowflake/use-case-for-loading-daily-feeds-into-snowflake-1ea725a4edac": {
         "title": "Use Case for Loading Daily Feeds into Snowflake",
         "published": "2024-08-18T15:01:43.715000Z",
         "updated": "2024-08-18T15:01:43.715000Z",
         "tags": ""
+    },
+    "https://medium.com/snowflake/snowflake-dev-env-using-vscode-b10825a940f1": {
+        "title": "Snowflake Dev Env using VSCode",
+        "published": "2024-08-18T13:33:28.439000Z",
+        "updated": "2024-10-28T20:11:32.276000Z",
+        "tags": "data-superhero,github,vscode,snowflake"
     },
     "https://medium.com/snowflake/tasks-failure-recovery-in-snowflake-with-retry-last-1eb5bfd4ba5d": {
         "title": "Tasks Failure Recovery in Snowflake with RETRY LAST",
@@ -730,6 +754,12 @@
         "published": "2024-08-10T04:49:14.006000Z",
         "updated": "2024-10-22T17:52:51.952000Z",
         "tags": "snowflake,snowpro,data-superhero,co-pilot,ai"
+    },
+    "https://medium.com/snowflake/data-governance-in-snowflake-building-a-fortress-for-your-data-part-1-6c427551f8ef": {
+        "title": "Data Governance in Snowflake: Building a Fortress for your Data -Part 1",
+        "published": "2024-08-09T15:40:56.764000Z",
+        "updated": "2024-10-28T20:11:20.381000Z",
+        "tags": "snowflake,data-governance,snowflake-horizon,data-quality,data-security"
     },
     "https://medium.com/snowflake/credit-consumption-notification-by-role-07f6245a0e8c": {
         "title": "Credit Consumption Notification by Role",
