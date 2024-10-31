@@ -1,4 +1,28 @@
 {
+    "https://medium.com/snowflake/announcing-general-availability-outbound-private-connectivity-for-snowpark-external-access-and-17000792ab1a": {
+        "title": "Announcing General Availability: Outbound Private Connectivity for Snowpark External Access and\u2026",
+        "published": "2024-10-30T23:09:14.443000Z",
+        "updated": "2024-10-31T00:16:15.226000Z",
+        "tags": ""
+    },
+    "https://medium.com/snowflake/announcing-snowparks-new-capability-writing-files-from-python-udf-udtfs-to-internal-and-external-d6d700d71cda": {
+        "title": "Announcing Snowpark\u2019s New Capability: Writing Files from Python UDF/UDTFs to Internal and External\u2026",
+        "published": "2024-10-30T23:09:06.603000Z",
+        "updated": "2024-10-30T23:09:06.603000Z",
+        "tags": ""
+    },
+    "https://medium.com/snowflake/public-sector-hackathon-shows-the-power-of-data-sharing-72d876b7b4f5": {
+        "title": "Public Sector Hackathon Shows the Power of Data Sharing",
+        "published": "2024-10-30T16:26:45.598000Z",
+        "updated": "2024-10-30T16:26:45.598000Z",
+        "tags": ""
+    },
+    "https://medium.com/snowflake/snowflake-cortex-llm-insights-tables-into-slack-teams-c0d3128ffe16": {
+        "title": "Snowflake Cortex LLM Insights + Tables \u27a1 into Slack & Teams",
+        "published": "2024-10-30T14:41:56.203000Z",
+        "updated": "2024-10-30T14:41:56.203000Z",
+        "tags": "genai,snowflake,snowflake-cortex,slack,microsoft-teams"
+    },
     "https://medium.com/snowflake/lookout-its-an-evalanche-cac23f983970": {
         "title": "Lookout! It\u2019s an Evalanche!",
         "published": "2024-10-29T18:27:52.593000Z",
@@ -20,7 +44,7 @@
     "https://medium.com/snowflake/accelerate-documentai-classification-with-snowflake-cortex-llms-8cbffc92cdea": {
         "title": "Accelerate DocumentAI Classification with Snowflake Cortex LLMs",
         "published": "2024-10-26T14:36:28.506000Z",
-        "updated": "2024-10-26T14:36:28.506000Z",
+        "updated": "2024-10-30T13:36:25.952000Z",
         "tags": "snowflake,snowflake-data-cloud,llm,classification"
     },
     "https://medium.com/snowflake/making-transactional-workloads-as-easy-as-pie-a803c630fe03": {
@@ -2726,7 +2750,7 @@
     "https://medium.com/snowflake/snowflake-in-drug-discovery-fine-tuned-chemberta-for-toxicity-prediction-a-deep-dive-a3f6d6c09822": {
         "title": "Snowflake in Drug Discovery: Fine-tuned ChemBERTa for Toxicity Prediction, a Deep Dive",
         "published": "2024-02-16T22:04:52.404000Z",
-        "updated": "2024-03-13T04:44:15.527000Z",
+        "updated": "2024-10-30T17:07:30.878000Z",
         "tags": "deep-learning,llm,drug-discovery,life-sciences,snowflake"
     },
     "https://medium.com/snowflake/bringing-data-to-the-house-58caed0331eb": {
