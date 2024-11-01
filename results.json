@@ -1,4 +1,40 @@
 {
+    "https://medium.com/snowflake/ai-infused-pipelines-with-snowflake-cortex-6a7954f2078d": {
+        "title": "AI-Infused Pipelines with Snowflake Cortex",
+        "published": "2024-10-31T21:18:26.497000Z",
+        "updated": "2024-10-31T21:28:45.903000Z",
+        "tags": "generative-ai-use-cases,snowflake,data-engineering"
+    },
+    "https://medium.com/snowflake/vscode-on-snowpark-container-services-deployment-configuration-a775cb706332": {
+        "title": "VSCode on Snowpark Container Services: Deployment & Configuration",
+        "published": "2024-10-31T20:47:20.973000Z",
+        "updated": "2024-10-31T20:47:20.973000Z",
+        "tags": "vscode,snowpark-container,snowflake,mlops,data-science"
+    },
+    "https://medium.com/snowflake/snowflake-in-drug-discovery-protein-similarity-search-326fc804be00": {
+        "title": "Snowflake in Drug Discovery: Protein Similarity Search",
+        "published": "2024-10-31T20:47:12.479000Z",
+        "updated": "2024-10-31T21:49:53.156000Z",
+        "tags": ""
+    },
+    "https://medium.com/snowflake/snowflake-cli-ga-is-here-empowering-devops-and-automation-with-a-powerful-command-line-interface-9e60aa691a5a": {
+        "title": "Snowflake CLI GA is Here: Empowering DevOps and Automation with a Powerful Command-Line Interface!",
+        "published": "2024-10-31T14:29:47.651000Z",
+        "updated": "2024-10-31T15:35:52.047000Z",
+        "tags": ""
+    },
+    "https://medium.com/snowflake/a-data-driven-approach-to-choosing-a-clustering-key-in-snowflake-4b3400704778": {
+        "title": "A Data-Driven Approach to Choosing a Clustering Key in Snowflake",
+        "published": "2024-10-31T14:16:02.448000Z",
+        "updated": "2024-10-31T14:16:02.448000Z",
+        "tags": "snowflake,performance,sql,clustering"
+    },
+    "https://medium.com/snowflake/faux-data-real-insights-generating-synthetic-data-from-scratch-with-llms-in-snowflake-e6657dedffaf": {
+        "title": "Faux Data, Real Insights: Generating Synthetic Data From Scratch with LLMs in Snowflake",
+        "published": "2024-10-31T04:35:27.367000Z",
+        "updated": "2024-10-31T04:35:27.367000Z",
+        "tags": "llm-applications,llm,snowflake,cortex,synthetic-data-generation"
+    },
     "https://medium.com/snowflake/announcing-general-availability-outbound-private-connectivity-for-snowpark-external-access-and-17000792ab1a": {
         "title": "Announcing General Availability: Outbound Private Connectivity for Snowpark External Access and\u2026",
         "published": "2024-10-30T23:09:14.443000Z",
