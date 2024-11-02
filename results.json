@@ -2,20 +2,20 @@
     "https://medium.com/snowflake/ai-infused-pipelines-with-snowflake-cortex-6a7954f2078d": {
         "title": "AI-Infused Pipelines with Snowflake Cortex",
         "published": "2024-10-31T21:18:26.497000Z",
-        "updated": "2024-10-31T21:28:45.903000Z",
+        "updated": "2024-11-01T09:34:28.614000Z",
         "tags": "generative-ai-use-cases,snowflake,data-engineering"
     },
     "https://medium.com/snowflake/vscode-on-snowpark-container-services-deployment-configuration-a775cb706332": {
         "title": "VSCode on Snowpark Container Services: Deployment & Configuration",
         "published": "2024-10-31T20:47:20.973000Z",
-        "updated": "2024-10-31T20:47:20.973000Z",
+        "updated": "2024-11-01T17:20:57.062000Z",
         "tags": "vscode,snowpark-container,snowflake,mlops,data-science"
     },
     "https://medium.com/snowflake/snowflake-in-drug-discovery-protein-similarity-search-326fc804be00": {
         "title": "Snowflake in Drug Discovery: Protein Similarity Search",
         "published": "2024-10-31T20:47:12.479000Z",
-        "updated": "2024-10-31T21:49:53.156000Z",
-        "tags": ""
+        "updated": "2024-11-01T07:12:34.936000Z",
+        "tags": "artificial-intelligence,deep-learning"
     },
     "https://medium.com/snowflake/snowflake-cli-ga-is-here-empowering-devops-and-automation-with-a-powerful-command-line-interface-9e60aa691a5a": {
         "title": "Snowflake CLI GA is Here: Empowering DevOps and Automation with a Powerful Command-Line Interface!",
@@ -389,6 +389,12 @@
         "updated": "2024-09-25T19:43:11.104000Z",
         "tags": ""
     },
+    "https://medium.com/snowflake/snowflake-cortex-llm-functions-empowering-modernized-ai-data-queries-1b1e74cd6528": {
+        "title": "Snowflake Cortex LLM functions: Empowering modernized AI data queries",
+        "published": "2024-09-25T18:47:32.936000Z",
+        "updated": "2024-11-01T23:45:06.830000Z",
+        "tags": "genai,snowflake,cloud,snowflake-data-superhero,data"
+    },
     "https://medium.com/snowflake/9-issues-in-moving-genai-to-production-and-mitigation-strategies-c268ef6e91f7": {
         "title": "9 Issues in Moving GenAI to Production and Mitigation Strategies",
         "published": "2024-09-25T15:26:53.340000Z",
@@ -629,6 +635,12 @@
         "updated": "2024-08-31T15:01:52.476000Z",
         "tags": ""
     },
+    "https://medium.com/snowflake/expand-access-to-geospatial-assets-031699251f2a": {
+        "title": "Expand Access to Geospatial Assets",
+        "published": "2024-08-30T16:24:18.328000Z",
+        "updated": "2024-11-01T23:39:49.032000Z",
+        "tags": "snowflake,geospatial,geopackage,snowpark"
+    },
     "https://medium.com/snowflake/ci-cd-for-ml-with-snowflake-notebooks-09f33124e43c": {
         "title": "CI/CD for ML with Snowflake Notebooks",
         "published": "2024-08-30T14:47:32.253000Z",
@@ -647,11 +659,23 @@
         "updated": "2024-08-29T16:01:44.889000Z",
         "tags": ""
     },
+    "https://medium.com/snowflake/mastering-snowflake-warehouse-utilization-a-deep-dive-into-the-warehouse-utilization-view-855fa72fdf11": {
+        "title": "Mastering Snowflake Warehouse Utilization: A Deep Dive into the WAREHOUSE_UTILIZATION View",
+        "published": "2024-08-29T15:58:37.047000Z",
+        "updated": "2024-11-01T23:39:39.741000Z",
+        "tags": "snowflake-data-cloud,cost-optimization,warehouse-management"
+    },
     "https://medium.com/snowflake/using-kumo-in-snowflake-for-smarter-product-recommendation-79f64ba3b8c8": {
         "title": "Using Kumo in Snowflake for Smarter Product Recommendation",
         "published": "2024-08-28T18:41:50.291000Z",
         "updated": "2024-08-28T19:11:21.452000Z",
         "tags": "recommendations,snowflake,native-app,ai,data-science"
+    },
+    "https://medium.com/snowflake/iam-role-auth-with-snowpark-external-access-for-generative-ai-with-snowflake-and-aws-9273bd57f905": {
+        "title": "IAM Role Auth with Snowpark External Access for Generative AI with Snowflake and AWS",
+        "published": "2024-08-28T13:55:46.238000Z",
+        "updated": "2024-11-01T23:39:29.313000Z",
+        "tags": "snowflake,aws,geocoding,generative-ai-tools,machine-learning"
     },
     "https://medium.com/snowflake/leveraging-geospatial-analytics-for-lifescience-with-snowflake-carto-d890794237ec": {
         "title": "Leveraging Geospatial analytics for Lifescience with Snowflake & Carto",
@@ -670,6 +694,12 @@
         "published": "2024-08-26T15:01:49.445000Z",
         "updated": "2024-08-26T15:01:49.445000Z",
         "tags": ""
+    },
+    "https://medium.com/snowflake/mastering-dynamic-schema-evolution-seamlessly-handling-changing-csv-files-in-snowflake-074688c13a3a": {
+        "title": "Mastering Dynamic Schema Evolution: Seamlessly Handling Changing CSV Files in Snowflake",
+        "published": "2024-08-26T09:32:12.913000Z",
+        "updated": "2024-11-01T23:39:17.381000Z",
+        "tags": "snowflake,database,data-science,data-superhero,data"
     },
     "https://medium.com/snowflake/llm-assistants-to-generate-analysis-on-structured-data-c74ce20411d3": {
         "title": "LLM Assistants to Generate Analysis on Structured Data",
@@ -694,6 +724,12 @@
         "published": "2024-08-23T14:11:39.756000Z",
         "updated": "2024-08-23T14:11:39.756000Z",
         "tags": ""
+    },
+    "https://medium.com/snowflake/one-option-to-load-large-xml-file-to-snowflake-bab8cb2a2f92": {
+        "title": "One option to load large XML file to Snowflake",
+        "published": "2024-08-23T13:01:26.643000Z",
+        "updated": "2024-11-01T23:39:07.370000Z",
+        "tags": "document-is-too-large,xml,data-superhero"
     },
     "https://medium.com/snowflake/snowflake-text-to-sql-magic-dcae2ebc5a82": {
         "title": "Snowflake Text-to-SQL magic",
@@ -2786,8 +2822,8 @@
     "https://medium.com/snowflake/snowflake-in-drug-discovery-fine-tuned-chemberta-for-toxicity-prediction-a-deep-dive-a3f6d6c09822": {
         "title": "Snowflake in Drug Discovery: Fine-tuned ChemBERTa for Toxicity Prediction, a Deep Dive",
         "published": "2024-02-16T22:04:52.404000Z",
-        "updated": "2024-10-30T17:07:30.878000Z",
-        "tags": "deep-learning,llm,drug-discovery,life-sciences,snowflake"
+        "updated": "2024-11-01T06:42:40.924000Z",
+        "tags": "deep-learning,artificial-intelligence"
     },
     "https://medium.com/snowflake/bringing-data-to-the-house-58caed0331eb": {
         "title": "Bringing Data to the House",
