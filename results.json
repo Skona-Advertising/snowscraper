@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/automating-report-distribution-with-snowpark-c8695c2f6a5d": {
+        "title": "Automating Report Distribution with Snowpark",
+        "published": "2024-11-02T14:17:52.005000Z",
+        "updated": "2024-11-02T14:17:52.005000Z",
+        "tags": ""
+    },
     "https://medium.com/snowflake/ai-infused-pipelines-with-snowflake-cortex-6a7954f2078d": {
         "title": "AI-Infused Pipelines with Snowflake Cortex",
         "published": "2024-10-31T21:18:26.497000Z",
@@ -14,13 +20,13 @@
     "https://medium.com/snowflake/snowflake-in-drug-discovery-protein-similarity-search-326fc804be00": {
         "title": "Snowflake in Drug Discovery: Protein Similarity Search",
         "published": "2024-10-31T20:47:12.479000Z",
-        "updated": "2024-11-01T07:12:34.936000Z",
-        "tags": "artificial-intelligence,deep-learning"
+        "updated": "2024-11-02T04:20:26.179000Z",
+        "tags": "artificial-intelligence,deep-learning,llm,life-sciences,machine-learning"
     },
     "https://medium.com/snowflake/snowflake-cli-ga-is-here-empowering-devops-and-automation-with-a-powerful-command-line-interface-9e60aa691a5a": {
         "title": "Snowflake CLI GA is Here: Empowering DevOps and Automation with a Powerful Command-Line Interface!",
         "published": "2024-10-31T14:29:47.651000Z",
-        "updated": "2024-10-31T15:35:52.047000Z",
+        "updated": "2024-11-02T23:11:51.061000Z",
         "tags": ""
     },
     "https://medium.com/snowflake/a-data-driven-approach-to-choosing-a-clustering-key-in-snowflake-4b3400704778": {
@@ -2822,7 +2828,7 @@
     "https://medium.com/snowflake/snowflake-in-drug-discovery-fine-tuned-chemberta-for-toxicity-prediction-a-deep-dive-a3f6d6c09822": {
         "title": "Snowflake in Drug Discovery: Fine-tuned ChemBERTa for Toxicity Prediction, a Deep Dive",
         "published": "2024-02-16T22:04:52.404000Z",
-        "updated": "2024-11-01T06:42:40.924000Z",
+        "updated": "2024-11-02T04:19:44.715000Z",
         "tags": "deep-learning,artificial-intelligence"
     },
     "https://medium.com/snowflake/bringing-data-to-the-house-58caed0331eb": {
