@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/snowflake-installing-configure-loading-data-and-testing-snowflake-postgresql-connector-d0c6106a6e06": {
+        "title": "Snowflake: Installing, configure, loading data and testing Snowflake PostgreSQL connector",
+        "published": "2024-11-04T15:16:53.717000Z",
+        "updated": "2024-11-04T20:17:23.192000Z",
+        "tags": "snowflake,postgresql,cdc,migration,pipeline"
+    },
     "https://medium.com/snowflake/automating-report-distribution-with-snowpark-c8695c2f6a5d": {
         "title": "Automating Report Distribution with Snowpark",
         "published": "2024-11-02T14:17:52.005000Z",
@@ -8,7 +14,7 @@
     "https://medium.com/snowflake/ai-infused-pipelines-with-snowflake-cortex-6a7954f2078d": {
         "title": "AI-Infused Pipelines with Snowflake Cortex",
         "published": "2024-10-31T21:18:26.497000Z",
-        "updated": "2024-11-01T09:34:28.614000Z",
+        "updated": "2024-11-05T00:36:54.118000Z",
         "tags": "generative-ai-use-cases,snowflake,data-engineering"
     },
     "https://medium.com/snowflake/vscode-on-snowpark-container-services-deployment-configuration-a775cb706332": {
@@ -44,7 +50,7 @@
     "https://medium.com/snowflake/announcing-general-availability-outbound-private-connectivity-for-snowpark-external-access-and-17000792ab1a": {
         "title": "Announcing General Availability: Outbound Private Connectivity for Snowpark External Access and\u2026",
         "published": "2024-10-30T23:09:14.443000Z",
-        "updated": "2024-10-31T00:16:15.226000Z",
+        "updated": "2024-11-04T23:11:48.800000Z",
         "tags": ""
     },
     "https://medium.com/snowflake/announcing-snowparks-new-capability-writing-files-from-python-udf-udtfs-to-internal-and-external-d6d700d71cda": {
@@ -100,6 +106,12 @@
         "published": "2024-10-23T14:37:43.221000Z",
         "updated": "2024-10-23T14:37:43.221000Z",
         "tags": "generative-ai-solution,snowflake,fivetran,retrieval-augmented-gen,travel-assistant"
+    },
+    "https://medium.com/snowflake/llm-powered-etl-snowflakes-leap-into-data-warehouse-ai-1aebcaee8025": {
+        "title": "Bringing Gen AI to ETL: Redefining Data Engineering through LLMs",
+        "published": "2024-10-22T23:12:41.664000Z",
+        "updated": "2024-11-05T00:51:37.329000Z",
+        "tags": "snowflake,data-engineering,data-science,llm,ai"
     },
     "https://medium.com/snowflake/migrating-azure-data-factorys-snowflake-connector-from-legacy-to-latest-v2-450d60f76a16": {
         "title": "Migrating Azure Data Factory\u2019s Snowflake Connector from Legacy to latest V2",
