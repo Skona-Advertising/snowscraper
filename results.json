@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/snowflake-enhances-binding-variable-support-a20edffa62eb": {
+        "title": "Snowflake Enhances Binding Variable Support",
+        "published": "2024-11-05T17:11:57.349000Z",
+        "updated": "2024-11-05T17:11:57.349000Z",
+        "tags": ""
+    },
     "https://medium.com/snowflake/snowflake-installing-configure-loading-data-and-testing-snowflake-postgresql-connector-d0c6106a6e06": {
         "title": "Snowflake: Installing, configure, loading data and testing Snowflake PostgreSQL connector",
         "published": "2024-11-04T15:16:53.717000Z",
@@ -482,7 +488,7 @@
     "https://medium.com/snowflake/snowflake-ml-explainability-now-in-public-preview-f9e65f9d4d44": {
         "title": "Snowflake ML Explainability: now in Public Preview",
         "published": "2024-09-17T23:15:59.572000Z",
-        "updated": "2024-09-20T08:44:50.686000Z",
+        "updated": "2024-11-05T10:51:24.474000Z",
         "tags": "shapley-values,snowflake,snowpark-python,model-explainability,responsible-ai"
     },
     "https://medium.com/snowflake/3-scenarios-when-you-should-use-iceberg-with-snowflake-8c585feb1087": {
@@ -4442,7 +4448,7 @@
     "https://medium.com/snowflake/simplifying-data-ingestion-creating-a-data-pipeline-in-snowflake-with-sftp-e99033f230c2": {
         "title": "Simplifying Data Ingestion: Creating a Data pipeline in Snowflake with SFTP",
         "published": "2023-09-14T19:01:46.296000Z",
-        "updated": "2024-07-24T00:34:44.102000Z",
+        "updated": "2024-11-05T18:44:12.100000Z",
         "tags": "snowflake,sftp,data-engineer,python,cdc"
     },
     "https://medium.com/snowflake/data-sharing-patterns-in-snowflake-3b526729efd7": {
