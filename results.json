@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/building-a-modern-cyber-risk-program-with-snowflake-and-sigma-a-leap-beyond-legacy-systems-617cb4aca6c9": {
+        "title": "Building A Modern Cyber Risk Program With Snowflake And Sigma: A Leap Beyond Legacy Systems",
+        "published": "2024-11-06T00:00:43.407000Z",
+        "updated": "2024-11-06T18:35:23.737000Z",
+        "tags": ""
+    },
     "https://medium.com/snowflake/snowflake-enhances-binding-variable-support-a20edffa62eb": {
         "title": "Snowflake Enhances Binding Variable Support",
         "published": "2024-11-05T17:11:57.349000Z",
@@ -116,7 +122,7 @@
     "https://medium.com/snowflake/llm-powered-etl-snowflakes-leap-into-data-warehouse-ai-1aebcaee8025": {
         "title": "Bringing Gen AI to ETL: Redefining Data Engineering through LLMs",
         "published": "2024-10-22T23:12:41.664000Z",
-        "updated": "2024-11-05T00:51:37.329000Z",
+        "updated": "2024-11-06T21:17:23.808000Z",
         "tags": "snowflake,data-engineering,data-science,llm,ai"
     },
     "https://medium.com/snowflake/migrating-azure-data-factorys-snowflake-connector-from-legacy-to-latest-v2-450d60f76a16": {
