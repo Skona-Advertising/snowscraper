@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/streamline-your-support-tickets-with-snowflakes-ai-powered-ticket-automation-agent-d148527ecd84": {
+        "title": "Streamline Your Support Tickets with Snowflake\u2019s AI-Powered Ticket Automation Agent",
+        "published": "2024-11-08T22:19:35.736000Z",
+        "updated": "2024-11-08T22:19:35.736000Z",
+        "tags": "snowflake,generative-ai-use-cases,llm,python,data-science"
+    },
+    "https://medium.com/snowflake/building-enterprise-grade-genai-applications-with-snowflake-part-1-cortex-llm-rest-api-28b0a01114fb": {
+        "title": "Building Enterprise-Grade GenAI Applications with Snowflake: Part 1 (Cortex LLM REST API)",
+        "published": "2024-11-08T15:21:57.819000Z",
+        "updated": "2024-11-08T15:21:57.819000Z",
+        "tags": "snowflake,llm,enterprise-ai,chatbots,nextjs"
+    },
     "https://medium.com/snowflake/part-2-improve-your-sports-practice-with-snowflake-cortex-ai-and-streamlit-f1d5f0fce0ca": {
         "title": "[Part-2]\u200a\u2014\u200aImprove your sports practice with Snowflake Cortex AI and Streamlit",
         "published": "2024-11-07T15:16:21.465000Z",
@@ -664,6 +676,12 @@
         "published": "2024-09-03T14:46:45.659000Z",
         "updated": "2024-09-03T14:46:45.659000Z",
         "tags": "native-app,native-app-development,snowflake,snowflake-cli,visual-studio-code"
+    },
+    "https://medium.com/snowflake/snowflake-cortex-analyst-unleashing-a-new-era-of-business-intelligence-for-enterprises-7ebfbf598c17": {
+        "title": "Snowflake Cortex Analyst: Unleashing a New Era of Business Intelligence for Enterprises",
+        "published": "2024-09-02T14:11:41.871000Z",
+        "updated": "2024-11-08T02:08:56.251000Z",
+        "tags": "snowflake,cortex,streamlit,artificail-intelligence,enterprise-technology"
     },
     "https://medium.com/snowflake/automating-warehouse-usage-reports-in-snowflake-9bb87c7ba89f": {
         "title": "Automating Warehouse Usage Reports in Snowflake",
