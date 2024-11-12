@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/ingest-streaming-data-into-snowflake-with-the-kafka-connector-6575c669a23e": {
+        "title": "Ingest Streaming Data into Snowflake with the Kafka Connector",
+        "published": "2024-11-11T15:21:58.386000Z",
+        "updated": "2024-11-11T15:21:58.386000Z",
+        "tags": "snowflake,kafka,data-streaming,snowflake-connector,data-superhero"
+    },
     "https://medium.com/snowflake/slack-summarization-using-snowflake-cortex-b1cc0f2109e1": {
         "title": "Slack Summarization using Snowflake Cortex",
         "published": "2024-11-10T15:26:54.457000Z",
@@ -110,7 +116,7 @@
     "https://medium.com/snowflake/announcing-snowparks-new-capability-writing-files-from-python-udf-udtfs-to-internal-and-external-d6d700d71cda": {
         "title": "Announcing Snowpark\u2019s New Capability: Writing Files from Python UDF/UDTFs to Internal and External\u2026",
         "published": "2024-10-30T23:09:06.603000Z",
-        "updated": "2024-10-30T23:09:06.603000Z",
+        "updated": "2024-11-11T21:47:42.508000Z",
         "tags": ""
     },
     "https://medium.com/snowflake/public-sector-hackathon-shows-the-power-of-data-sharing-72d876b7b4f5": {
@@ -1142,7 +1148,7 @@
     "https://medium.com/snowflake/olympic-games-analytics-with-snowflake-0af45453bbd2": {
         "title": "Olympic Games Analytics with Snowflake",
         "published": "2024-07-24T17:21:33.700000Z",
-        "updated": "2024-07-26T13:37:43.631000Z",
+        "updated": "2024-11-11T14:23:36.320000Z",
         "tags": "snowflake,analytics,data,sports,olympics"
     },
     "https://medium.com/snowflake/cloud-data-platform-security-governance-best-practices-c85a5d4ce849": {
@@ -3260,7 +3266,7 @@
     "https://medium.com/snowflake/snowflake-observability-on-dml-transactions-and-tables-affected-46d812a97e9a": {
         "title": "Snowflake: Observability on DML Transactions and Tables Affected",
         "published": "2024-01-24T14:06:56.427000Z",
-        "updated": "2024-01-25T08:28:52.466000Z",
+        "updated": "2024-11-11T22:34:50.342000Z",
         "tags": "snowflake,observability,sql,monitoring,metadata"
     },
     "https://medium.com/snowflake/no-code-orchestration-and-coalesce-end-to-end-elt-pipelines-with-best-practices-in-mind-27e29bc26c72": {
@@ -6551,6 +6557,12 @@
         "updated": "2023-03-21T15:02:08.337000Z",
         "tags": "snowflake,advertising,ad-measurement,attribution"
     },
+    "https://medium.com/snowflake/working-with-semi-structured-data-in-snowflake-e74525c5514": {
+        "title": "Working with semi structured data in Snowflake",
+        "published": "2023-03-13T09:01:36.031000Z",
+        "updated": "2024-01-29T14:51:11.809000Z",
+        "tags": "snowflake,snowflake-data-cloud,json,semi-structured-data,data-superhero"
+    },
     "https://medium.com/snowflake/editable-snowflake-tables-in-streamlit-a-demo-79c18b5a4099": {
         "title": "Editable Snowflake Tables in Streamlit (a Demo)",
         "published": "2023-03-13T07:36:44.913000Z",
@@ -6634,6 +6646,12 @@
         "published": "2023-02-27T11:32:39.661000Z",
         "updated": "2023-02-27T11:32:39.661000Z",
         "tags": "jupyter,python,data-science,snowflake"
+    },
+    "https://medium.com/snowflake/semi-structured-data-and-snowflake-1723bae79392": {
+        "title": "Semi structured data and Snowflake",
+        "published": "2023-02-27T11:01:32.025000Z",
+        "updated": "2024-01-29T14:48:01.766000Z",
+        "tags": "snowflake,semi-structured-data,json,parquet,data-superhero"
     },
     "https://medium.com/snowflake/snowflake-data-sharing-across-regions-and-cloud-platforms-part-2-46a87ef9e9d8": {
         "title": "Snowflake Data Sharing Across Regions and Cloud Platforms\u200a\u2014\u200aPart 2",
