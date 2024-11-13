@@ -1,4 +1,22 @@
 {
+    "https://medium.com/snowflake/deploying-cortex-analyst-a-modular-codebase-for-streamlit-in-snowflake-e9bc856e069c": {
+        "title": "Deploying Cortex Analyst: A Modular Codebase for Streamlit in Snowflake",
+        "published": "2024-11-12T18:02:14.685000Z",
+        "updated": "2024-11-12T18:02:14.685000Z",
+        "tags": "cortex-analyst,streamlit-in-snowflake,streamlit"
+    },
+    "https://medium.com/snowflake/announcing-ga-for-snowflake-rest-python-control-plane-apis-empowering-developers-with-d39f6f5cc6ce": {
+        "title": "\ud83d\ude80 \ud83e\uddd1\u200d\ud83d\udcbb Announcing GA for Snowflake REST & Python Control Plane APIs: Empowering Developers with\u2026",
+        "published": "2024-11-12T16:12:55.405000Z",
+        "updated": "2024-11-12T16:12:55.405000Z",
+        "tags": "rest-api"
+    },
+    "https://medium.com/snowflake/unlocking-new-capabilities-in-cortex-analyst-multi-turn-conversations-joins-and-more-e77632d99739": {
+        "title": "Unlocking New Capabilities in Cortex Analyst: Multi-turn Conversations, JOINs, and More!",
+        "published": "2024-11-12T14:02:11.063000Z",
+        "updated": "2024-11-12T14:02:11.063000Z",
+        "tags": "cortex-analyst,cortex-ai,text-to-sql,genai,data-analytics"
+    },
     "https://medium.com/snowflake/ingest-streaming-data-into-snowflake-with-the-kafka-connector-6575c669a23e": {
         "title": "Ingest Streaming Data into Snowflake with the Kafka Connector",
         "published": "2024-11-11T15:21:58.386000Z",
@@ -4469,12 +4487,6 @@
         "updated": "2023-09-20T15:40:44.290000Z",
         "tags": "apps,app-development,snowflake,native-app,web-development"
     },
-    "https://medium.com/snowflake/snowflake-quick-tips-how-to-create-a-snowflake-native-app-40a31d3ee4e1": {
-        "title": "[Snowflake Quick Tips] How to create a Snowflake Native App",
-        "published": "2023-09-19T13:02:28.100000Z",
-        "updated": "2023-09-27T23:55:38.279000Z",
-        "tags": "snowflake-native-app,snowflake-apps,snowflake-quick-tips,data-superhero,snowflake"
-    },
     "https://medium.com/snowflake/simplifying-security-data-ingestion-recent-snowflake-features-minimize-cost-and-complexity-b72d7eba77ab": {
         "title": "Simplifying Security Data Ingestion: Recent Snowflake features minimize cost and complexity",
         "published": "2023-09-18T20:07:44.227000Z",
@@ -5837,12 +5849,6 @@
         "updated": "2023-05-24T21:31:37.492000Z",
         "tags": "maven,gradle,java,scala,snowpark"
     },
-    "https://medium.com/snowflake/snowflake-quick-tips-how-to-create-a-data-workflow-with-alteryx-designer-20e1f70155a2": {
-        "title": "[Snowflake Quick Tips] How to create a data workflow with Alteryx Designer",
-        "published": "2023-05-24T20:31:44.762000Z",
-        "updated": "2023-05-24T20:31:44.762000Z",
-        "tags": "snowflake,alteryx-designer,alteryx-tutorials,data-workflow,data-superhero"
-    },
     "https://medium.com/snowflake/snowflake-developers-community-update-may-2023-903a2e30ffd8": {
         "title": "Snowflake Developers & Community Update\u200a\u2014\u200aMay 2023",
         "published": "2023-05-24T15:01:44.358000Z",
@@ -5963,12 +5969,6 @@
         "updated": "2023-05-10T17:32:28.594000Z",
         "tags": "snowflake-data-cloud,cloud-computing,snowflake,data-superhero"
     },
-    "https://medium.com/snowflake/snowflake-quick-tips-how-to-transfer-cdc-data-using-airbyte-62c0cd43389b": {
-        "title": "[Snowflake Quick Tips] How to transfer CDC data using Airbyte",
-        "published": "2023-05-10T14:01:45.116000Z",
-        "updated": "2023-05-10T14:01:45.116000Z",
-        "tags": "snowflake,change-data-capture,airbyte,data-superhero,snowflake-data-ingestion"
-    },
     "https://medium.com/snowflake/improve-data-scientist-productivity-by-60-or-more-with-a-little-help-from-snowflake-c78bf79a861d": {
         "title": "Improve data scientist productivity by 60% or more, with a little help from Snowflake",
         "published": "2023-05-10T13:57:03.290000Z",
@@ -6064,12 +6064,6 @@
         "published": "2023-04-28T16:35:05.715000Z",
         "updated": "2023-05-01T18:33:39.624000Z",
         "tags": "snowflake,cloud-computing,snowflake-data-cloud,data-superhero"
-    },
-    "https://medium.com/snowflake/snowflake-quick-tips-how-to-use-snowflake-with-neo4j-538f6c2ae8f7": {
-        "title": "[Snowflake Quick Tips] How to use Snowflake with Neo4j",
-        "published": "2023-04-28T16:03:15.044000Z",
-        "updated": "2023-04-28T16:03:15.044000Z",
-        "tags": "snowflake,data-superhero,neo4j-graph-database,neo4j"
     },
     "https://medium.com/snowflake/snowflake-data-collaboration-and-auto-fulfillment-5d2242f7034b": {
         "title": "Snowflake Data Collaboration and Auto-fulfillment",
@@ -6418,12 +6412,6 @@
         "published": "2023-03-23T07:31:33.992000Z",
         "updated": "2023-03-23T07:31:33.992000Z",
         "tags": "snowflake,tasks-failure,data-superhero"
-    },
-    "https://medium.com/snowflake/snowflake-quick-tips-how-to-create-a-workflow-with-prefect-cloud-5688a3734efb": {
-        "title": "[Snowflake Quick Tips] How to create a job workflow with Prefect Cloud",
-        "published": "2023-03-23T04:02:14.195000Z",
-        "updated": "2023-03-27T17:13:54.838000Z",
-        "tags": "data-pipeline,workflow-automation,prefect-cloud,data-superhero"
     },
     "https://medium.com/snowflake/snowflake-tasks-setvalue-and-getvalue-e2fb566f6425": {
         "title": "Snowflake Tasks: SetValue and GetValue",
