@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/snowflake-distributed-model-training-the-new-easy-button-176ab4785b5a": {
+        "title": "Snowflake Distributed Model Training: The New Easy Button",
+        "published": "2024-11-13T20:24:55.169000Z",
+        "updated": "2024-11-13T23:53:15.012000Z",
+        "tags": ""
+    },
+    "https://medium.com/snowflake/best-practices-for-using-query-tag-in-snowflake-32bfb8d4efba": {
+        "title": "Best Practices for Using QUERY_TAG in Snowflake",
+        "published": "2024-11-13T15:27:38.043000Z",
+        "updated": "2024-11-13T15:27:38.043000Z",
+        "tags": "snowflake,apps,etl,sql,data-engineering"
+    },
     "https://medium.com/snowflake/deploying-cortex-analyst-a-modular-codebase-for-streamlit-in-snowflake-e9bc856e069c": {
         "title": "Deploying Cortex Analyst: A Modular Codebase for Streamlit in Snowflake",
         "published": "2024-11-12T18:02:14.685000Z",
@@ -50,7 +62,7 @@
     "https://medium.com/snowflake/streamline-your-support-tickets-with-snowflakes-ai-powered-ticket-automation-agent-d148527ecd84": {
         "title": "Streamline Your Support Tickets with Snowflake\u2019s AI-Powered Ticket Automation Agent",
         "published": "2024-11-08T22:19:35.736000Z",
-        "updated": "2024-11-08T22:19:35.736000Z",
+        "updated": "2024-11-13T15:26:22.193000Z",
         "tags": "snowflake,generative-ai-use-cases,llm,python,data-science"
     },
     "https://medium.com/snowflake/building-enterprise-grade-genai-applications-with-snowflake-part-1-cortex-llm-rest-api-28b0a01114fb": {
@@ -5288,7 +5300,7 @@
     "https://medium.com/snowflake/slowly-changing-dimensions-with-dynamic-tables-d0d76582ff31": {
         "title": "Slowly Changing Dimensions with Dynamic Tables",
         "published": "2023-07-10T13:02:23.518000Z",
-        "updated": "2023-07-10T23:20:20.835000Z",
+        "updated": "2024-11-13T20:00:49.151000Z",
         "tags": "dynamic-table,data-pipeline,scd,scd-type-2,snowflake"
     },
     "https://medium.com/snowflake/build-your-first-snowflake-native-app-to-estimate-the-price-of-your-property-e4b39f3b184b": {
