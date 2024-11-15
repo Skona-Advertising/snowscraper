@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/announcing-aws-iam-integration-for-snowpark-external-access-expanding-options-for-secure-08ff23e6cc74": {
+        "title": "Announcing AWS IAM Integration for Snowpark External Access: Expanding Options for Secure\u2026",
+        "published": "2024-11-14T18:24:28.501000Z",
+        "updated": "2024-11-14T19:43:24.429000Z",
+        "tags": ""
+    },
+    "https://medium.com/snowflake/master-schema-on-read-and-schema-drift-with-snowflake-983888d2b885": {
+        "title": "Master Schema On-Read and Schema Drift with Snowflake",
+        "published": "2024-11-14T15:27:30.572000Z",
+        "updated": "2024-11-14T15:27:30.572000Z",
+        "tags": "data-engineering"
+    },
     "https://medium.com/snowflake/snowflake-distributed-model-training-the-new-easy-button-176ab4785b5a": {
         "title": "Snowflake Distributed Model Training: The New Easy Button",
         "published": "2024-11-13T20:24:55.169000Z",
@@ -140,7 +152,7 @@
     "https://medium.com/snowflake/announcing-general-availability-outbound-private-connectivity-for-snowpark-external-access-and-17000792ab1a": {
         "title": "Announcing General Availability: Outbound Private Connectivity for Snowpark External Access and\u2026",
         "published": "2024-10-30T23:09:14.443000Z",
-        "updated": "2024-11-04T23:11:48.800000Z",
+        "updated": "2024-11-14T19:44:41.437000Z",
         "tags": ""
     },
     "https://medium.com/snowflake/announcing-snowparks-new-capability-writing-files-from-python-udf-udtfs-to-internal-and-external-d6d700d71cda": {
@@ -206,7 +218,7 @@
     "https://medium.com/snowflake/migrating-azure-data-factorys-snowflake-connector-from-legacy-to-latest-v2-450d60f76a16": {
         "title": "Migrating Azure Data Factory\u2019s Snowflake Connector from Legacy to latest V2",
         "published": "2024-10-22T17:51:45.046000Z",
-        "updated": "2024-10-22T17:51:45.046000Z",
+        "updated": "2024-11-14T17:29:38.148000Z",
         "tags": "migration,data-factory,azure-data-factory,snowflake,connector"
     },
     "https://medium.com/snowflake/data-model-mapper-a-snowflake-native-app-for-data-collaboration-at-scale-%EF%B8%8F-a641f14f5699": {
