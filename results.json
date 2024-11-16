@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/easily-predict-customer-churn-with-ai-ml-classification-b8b3efc8ceff": {
+        "title": "Easily Predict Customer Churn with AI & ML Classification",
+        "published": "2024-11-15T16:01:59.855000Z",
+        "updated": "2024-11-15T16:02:05.357000Z",
+        "tags": ""
+    },
     "https://medium.com/snowflake/announcing-aws-iam-integration-for-snowpark-external-access-expanding-options-for-secure-08ff23e6cc74": {
         "title": "Announcing AWS IAM Integration for Snowpark External Access: Expanding Options for Secure\u2026",
         "published": "2024-11-14T18:24:28.501000Z",
@@ -2450,7 +2456,7 @@
     "https://medium.com/snowflake/pysparkml-vs-snowpark-ml-for-an-end-to-end-ml-use-case-cf477c8d9ddf": {
         "title": "PysparkML vs Snowpark ML for an End-To-End ML use case",
         "published": "2024-03-27T17:45:03.233000Z",
-        "updated": "2024-03-29T19:01:25.124000Z",
+        "updated": "2024-11-15T10:05:32.993000Z",
         "tags": "snowpark"
     },
     "https://medium.com/snowflake/demystifying-network-security-in-snowflake-a4686d73a52a": {
@@ -2492,7 +2498,7 @@
     "https://medium.com/snowflake/dataiku-with-snowflake-joint-value-proposition-by-leveraging-snowpark-and-snowpark-ml-172421fde3f7": {
         "title": "Dataiku with Snowflake Joint Value Proposition by leveraging Snowpark and Snowpark ML",
         "published": "2024-03-25T11:22:27.375000Z",
-        "updated": "2024-03-27T16:27:54.603000Z",
+        "updated": "2024-11-15T10:05:57.312000Z",
         "tags": "snowpark,snowpark-ml,dataiku,ai,best-practices"
     },
     "https://medium.com/snowflake/snowflake-hybrid-tables-guide-to-create-and-explore-14af9de7997a": {
@@ -5012,7 +5018,7 @@
     "https://medium.com/snowflake/snowflake-brings-apps-ia-and-generative-ia-llms-to-your-data-july-2023-444126a7c113": {
         "title": "Snowflake Brings Apps, IA and Generative IA & LLMs to your Data\u200a\u2014\u200aJuly 2023",
         "published": "2023-08-02T13:14:01.724000Z",
-        "updated": "2023-08-08T09:03:57.269000Z",
+        "updated": "2024-11-15T10:06:20.797000Z",
         "tags": "snowflake-data-cloud,snowpark,generative-model,llm,apps"
     },
     "https://medium.com/snowflake/snowflake-logging-with-event-tables-11686b3cfbd8": {
@@ -6950,7 +6956,7 @@
     "https://medium.com/snowflake/pyspark-versus-snowpark-for-ml-in-terms-of-mindset-and-approach-8be4bdafa547": {
         "title": "PySpark vs Snowpark for ML in terms of Mindset and Approach",
         "published": "2023-01-27T11:55:11.984000Z",
-        "updated": "2023-05-24T19:26:17.746000Z",
+        "updated": "2024-11-15T10:06:45.244000Z",
         "tags": "snowpark,pyspark,machine-learning,data-science,snowflake"
     },
     "https://medium.com/snowflake/how-do-you-control-your-snowflake-costs-ad16318e6164": {
@@ -7652,7 +7658,7 @@
     "https://medium.com/snowflake/natural-language-processing-nlp-and-ml-within-100-snowflake-using-snowpark-python-43e654111319": {
         "title": "Natural Language Processing (NLP) and ML within 100% Snowflake using Snowpark Python and Streamlit",
         "published": "2022-10-27T13:37:15.069000Z",
-        "updated": "2023-06-26T09:27:03.848000Z",
+        "updated": "2024-11-15T10:07:11.295000Z",
         "tags": "snowflake,snowpark,machine-learning,natural-language-processi,python"
     },
     "https://medium.com/snowflake/snowflake-admin-series-account-replication-and-failover-a-great-relief-part-1-ae21559a2cd6": {
