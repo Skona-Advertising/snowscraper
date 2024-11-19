@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/dreamfactory-create-rest-apis-for-your-snowflake-data-without-leaving-your-snowflake-environment-c6efcc0cf831": {
+        "title": "DreamFactory: Create REST APIs for your Snowflake data without leaving your Snowflake environment",
+        "published": "2024-11-18T15:56:39.054000Z",
+        "updated": "2024-11-18T15:56:39.833000Z",
+        "tags": "api,api-development,api-gateway,api-integration,api-management"
+    },
     "https://medium.com/snowflake/easily-predict-customer-churn-with-ai-ml-classification-b8b3efc8ceff": {
         "title": "Easily Predict Customer Churn with AI & ML Classification",
         "published": "2024-11-15T16:01:59.855000Z",
@@ -8187,13 +8193,13 @@
         "title": "Designing a Connected Application",
         "published": "2022-08-19T13:25:11.708000Z",
         "updated": "2022-08-19T17:06:13.263000Z",
-        "tags": "snowflake,connected-apps,app-data,cybersecurity,martech"
+        "tags": "snowflake,connected-apps,data-app,cybersecurity,martech"
     },
     "https://medium.com/snowflake/implementing-a-connected-application-a1395d7ce70d": {
         "title": "Implementing a Connected Application",
         "published": "2022-08-19T13:20:45.861000Z",
         "updated": "2022-09-01T14:38:57.053000Z",
-        "tags": "snowflake,connected-apps,app-data,cybersecurity,martech"
+        "tags": "snowflake,connected-apps,data-app,cybersecurity,martech"
     },
     "https://medium.com/snowflake/most-modern-siems-offer-2-primary-methods-for-running-their-queries-real-time-rules-and-scheduled-62d684ef8b32": {
         "title": "Real Time vs Scheduled Query Detections",
