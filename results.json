@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/accelerate-your-data-workflow-with-snowflake-and-dbt-macros-9d2e1df65b5b": {
+        "title": "Accelerate your data workflow with Snowflake and dbt macros",
+        "published": "2024-11-19T17:47:06.535000Z",
+        "updated": "2024-11-19T17:47:06.535000Z",
+        "tags": "snowflake,dbt,data-engineering"
+    },
     "https://medium.com/snowflake/dreamfactory-create-rest-apis-for-your-snowflake-data-without-leaving-your-snowflake-environment-c6efcc0cf831": {
         "title": "DreamFactory: Create REST APIs for your Snowflake data without leaving your Snowflake environment",
         "published": "2024-11-18T15:56:39.054000Z",
