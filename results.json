@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/simplify-governance-and-compliance-by-tracing-data-flow-in-ml-pipelines-with-snowflakes-lineage-6c3902ea7885": {
+        "title": "Simplify Governance and Compliance by tracing data flow in ML pipelines with Snowflake\u2019s Lineage",
+        "published": "2024-11-20T15:52:18.862000Z",
+        "updated": "2024-11-20T15:52:18.862000Z",
+        "tags": "data-lineage,mlops,governance,compliance,snowflake"
+    },
     "https://medium.com/snowflake/accelerate-your-data-workflow-with-snowflake-and-dbt-macros-9d2e1df65b5b": {
         "title": "Accelerate your data workflow with Snowflake and dbt macros",
         "published": "2024-11-19T17:47:06.535000Z",
@@ -1310,7 +1316,7 @@
     "https://medium.com/snowflake/a-step-by-step-guide-to-building-with-snowflake-snowflake-solutions-center-524b33ae57a3": {
         "title": "A Step-by-Step Guide to Building with Snowflake: Snowflake Solutions Center",
         "published": "2024-07-10T03:49:34.269000Z",
-        "updated": "2024-07-26T18:48:22.669000Z",
+        "updated": "2024-11-20T14:57:21.188000Z",
         "tags": "snowflake,ai,solutions,developer,data"
     },
     "https://medium.com/snowflake/distributed-ray-as-a-native-app-in-snowpark-container-services-a3449cf33b5c": {
