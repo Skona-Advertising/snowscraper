@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/ockam-and-snowflake-built-a-partnership-to-expand-the-data-cloud-to-everything-everywhere-d4345b6dc754": {
+        "title": "Ockam and Snowflake built a partnership to expand The Data Cloud to everything, everywhere.",
+        "published": "2024-11-21T16:19:31.609000Z",
+        "updated": "2024-11-21T16:19:39.819000Z",
+        "tags": "snowflake,api,postgresql,kafka,aws"
+    },
     "https://medium.com/snowflake/simplify-governance-and-compliance-by-tracing-data-flow-in-ml-pipelines-with-snowflakes-lineage-6c3902ea7885": {
         "title": "Simplify Governance and Compliance by tracing data flow in ML pipelines with Snowflake\u2019s Lineage",
         "published": "2024-11-20T15:52:18.862000Z",
@@ -22,6 +28,12 @@
         "published": "2024-11-15T16:01:59.855000Z",
         "updated": "2024-11-15T16:02:05.357000Z",
         "tags": ""
+    },
+    "https://medium.com/snowflake/announcing-general-availability-ga-of-serverless-alerts-in-snowflake-477850d32e98": {
+        "title": "Announcing General Availability (GA) of Serverless Alerts in Snowflake",
+        "published": "2024-11-15T00:45:12.231000Z",
+        "updated": "2024-11-21T23:01:53.611000Z",
+        "tags": "snowflake,observability,alerts,alerting,monitoring"
     },
     "https://medium.com/snowflake/announcing-aws-iam-integration-for-snowpark-external-access-expanding-options-for-secure-08ff23e6cc74": {
         "title": "Announcing AWS IAM Integration for Snowpark External Access: Expanding Options for Secure\u2026",
