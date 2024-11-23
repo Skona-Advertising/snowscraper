@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/enable-snowflake-notebooks-in-your-organization-today-2d9db84e7867": {
+        "title": "Enable Snowflake Notebooks in your organization today",
+        "published": "2024-11-22T21:32:04.299000Z",
+        "updated": "2024-11-22T21:32:04.299000Z",
+        "tags": ""
+    },
+    "https://medium.com/snowflake/snowflake-how-to-extend-information-schema-info-tables-columns-for-all-databases-1c12ae1ba4ee": {
+        "title": "SNOWFLAKE\u200a\u2014\u200aHow to extend INFORMATION_SCHEMA info (TABLES,COLUMNS,\u2026) for ALL databases?",
+        "published": "2024-11-22T15:52:05.612000Z",
+        "updated": "2024-11-22T17:40:59.188000Z",
+        "tags": "snowflake,observability,monitoring,metadata,dashboard"
+    },
     "https://medium.com/snowflake/ockam-and-snowflake-built-a-partnership-to-expand-the-data-cloud-to-everything-everywhere-d4345b6dc754": {
         "title": "Ockam and Snowflake built a partnership to expand The Data Cloud to everything, everywhere.",
         "published": "2024-11-21T16:19:31.609000Z",
