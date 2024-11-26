@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/6-must-do-tasks-in-snowflake-before-the-holidays-3776964f51c3": {
+        "title": "6 Must-Do Tasks in Snowflake Before the Holidays",
+        "published": "2024-11-25T15:02:25.726000Z",
+        "updated": "2024-11-25T15:02:25.726000Z",
+        "tags": "snowflake,optimization,2024,holidays,data-superhero"
+    },
     "https://medium.com/snowflake/snowflake-and-microsoft-fabric-integration-first-phase-enters-public-preview-b5e7b09c9813": {
         "title": "Snowflake and Microsoft Fabric Integration: First Phase Enters Public Preview",
         "published": "2024-11-24T15:52:20.240000Z",
@@ -2996,7 +3002,7 @@
     "https://medium.com/snowflake/how-to-use-ydata-profiling-in-snowflake-e04ba00deedb": {
         "title": "How to use YData Profiling in Snowflake",
         "published": "2024-02-20T00:48:16.425000Z",
-        "updated": "2024-02-23T18:49:37.697000Z",
+        "updated": "2024-11-25T05:43:55.225000Z",
         "tags": "snowflake,ydata-profiling,snowpark"
     },
     "https://medium.com/snowflake/is-your-data-ready-to-fine-tune-your-business-specific-large-language-models-bfda147bfd62": {
