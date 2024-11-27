@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/announcing-public-preview-of-automatic-sensitive-data-classification-b75da8865ae0": {
+        "title": "Announcing Public Preview of Automatic Sensitive Data Classification",
+        "published": "2024-11-26T18:54:43.766000Z",
+        "updated": "2024-11-26T18:54:43.766000Z",
+        "tags": "sensitive-data-discovery,data-governance,snowflake,snowflake-horizon-catalog,data-classification"
+    },
+    "https://medium.com/snowflake/automate-na-monitoring-for-providers-d53b4aec1928": {
+        "title": "Automate NA monitoring for Providers",
+        "published": "2024-11-26T14:32:06.491000Z",
+        "updated": "2024-11-26T14:32:06.491000Z",
+        "tags": "native-app,snowflake,cortex,tasks"
+    },
     "https://medium.com/snowflake/6-must-do-tasks-in-snowflake-before-the-holidays-3776964f51c3": {
         "title": "6 Must-Do Tasks in Snowflake Before the Holidays",
         "published": "2024-11-25T15:02:25.726000Z",
@@ -1214,7 +1226,7 @@
     "https://medium.com/snowflake/optimizing-costs-in-snowflake-with-effective-storage-lifecycle-policies-027dd98eaafd": {
         "title": "Optimizing Costs in Snowflake with Effective Storage Lifecycle Policies",
         "published": "2024-07-29T14:51:40.254000Z",
-        "updated": "2024-07-30T00:47:25.664000Z",
+        "updated": "2024-11-26T19:07:08.568000Z",
         "tags": "snowflake,storage,compliance,lifecycle-methods,cost"
     },
     "https://medium.com/snowflake/transforming-40min-call-transcripts-into-structured-json-summaries-using-mistral-large-in-9b1c77af7377": {
