@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/how-to-build-100-million-multiple-timeseries-forecasting-in-10-mins-in-snowflake-35bfaee7dc72": {
+        "title": "How to build 100 million multiple timeseries forecasting in 10 mins in Snowflake?",
+        "published": "2024-11-29T15:57:05.895000Z",
+        "updated": "2024-11-29T15:57:05.895000Z",
+        "tags": "aiml,time-series-forecasting"
+    },
     "https://medium.com/snowflake/how-to-set-up-business-continuity-disaster-recovery-in-snowflake-a-step-by-step-guide-e314265a5284": {
         "title": "How to Set Up Business Continuity & Disaster Recovery in Snowflake: A Step-by-Step Guide",
         "published": "2024-11-28T14:32:16.815000Z",
