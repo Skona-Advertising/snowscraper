@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/schema-drift-begone-cortex-llms-to-fix-persistent-etl-headache-b37f479044f2": {
+        "title": "Schema-Drift Begone! Cortex LLMs to Fix Persistent ETL Headache",
+        "published": "2024-11-30T15:56:34.763000Z",
+        "updated": "2024-11-30T15:56:34.763000Z",
+        "tags": "llm,ai,snowflake,data-science,data-engineering"
+    },
     "https://medium.com/snowflake/how-to-build-100-million-multiple-timeseries-forecasting-in-10-mins-in-snowflake-35bfaee7dc72": {
         "title": "How to build 100 million multiple timeseries forecasting in 10 mins in Snowflake?",
         "published": "2024-11-29T15:57:05.895000Z",
