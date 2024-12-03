@@ -1,8 +1,14 @@
 {
+    "https://medium.com/snowflake/java-17-is-now-generally-available-on-snowflake-d91f73243744": {
+        "title": "Java 17 is now Generally Available on Snowflake",
+        "published": "2024-12-02T23:20:44.025000Z",
+        "updated": "2024-12-02T23:20:44.025000Z",
+        "tags": "snowpark,java"
+    },
     "https://medium.com/snowflake/blue-yonder-and-snowflake-achieve-supply-chain-excellence-b9e5bb0b0cd2": {
         "title": "Blue Yonder and Snowflake Achieve Supply Chain Excellence",
         "published": "2024-12-01T15:57:05.461000Z",
-        "updated": "2024-12-01T15:57:05.461000Z",
+        "updated": "2024-12-02T15:45:20.199000Z",
         "tags": "supply-chain,blueyonder,data-sharing,retail-ai-data-cloud,manufacturing-data-cloud"
     },
     "https://medium.com/snowflake/schema-drift-begone-cortex-llms-to-fix-persistent-etl-headache-b37f479044f2": {
@@ -16,6 +22,12 @@
         "published": "2024-11-29T15:57:05.895000Z",
         "updated": "2024-11-29T15:57:05.895000Z",
         "tags": "aiml,time-series-forecasting"
+    },
+    "https://medium.com/snowflake/snowflakes-ai-data-predictions-for-2025-34070a71321a": {
+        "title": "Snowflake\u2019s AI & Data Predictions for 2025",
+        "published": "2024-11-28T16:29:38.299000Z",
+        "updated": "2024-12-02T21:08:52.742000Z",
+        "tags": "daanalytics,ai,predictions,snowflake,data"
     },
     "https://medium.com/snowflake/how-to-set-up-business-continuity-disaster-recovery-in-snowflake-a-step-by-step-guide-e314265a5284": {
         "title": "How to Set Up Business Continuity & Disaster Recovery in Snowflake: A Step-by-Step Guide",
@@ -446,7 +458,7 @@
     "https://medium.com/snowflake/running-distributed-pytorch-models-on-snowflake-an-end-to-end-ml-solution-452d16a39553": {
         "title": "Running Distributed PyTorch Models on Snowflake: An End-to-End ML Solution",
         "published": "2024-10-11T16:16:00.803000Z",
-        "updated": "2024-10-11T17:59:55.120000Z",
+        "updated": "2024-12-02T17:52:25.072000Z",
         "tags": ""
     },
     "https://medium.com/snowflake/snowflake-cortex-ai-smart-activity-planning-d6e5acf5b672": {
