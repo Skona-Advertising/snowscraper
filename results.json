@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/catching-an-edge-december-134ebc585052": {
+        "title": "Catching an Edge\u200a\u2014\u200aDecember",
+        "published": "2024-12-03T17:38:40.381000Z",
+        "updated": "2024-12-03T17:38:40.381000Z",
+        "tags": ""
+    },
+    "https://medium.com/snowflake/dynamic-sql-in-snowflake-with-execute-immediate-jinja-templates-and-git-integration-20bda86f8f42": {
+        "title": "Dynamic SQL in Snowflake with EXECUTE IMMEDIATE, Jinja Templates, and Git Integration",
+        "published": "2024-12-03T15:11:02.832000Z",
+        "updated": "2024-12-03T15:11:02.832000Z",
+        "tags": "git,snowflake,integration,ci-cd-pipeline,automation"
+    },
     "https://medium.com/snowflake/java-17-is-now-generally-available-on-snowflake-d91f73243744": {
         "title": "Java 17 is now Generally Available on Snowflake",
         "published": "2024-12-02T23:20:44.025000Z",
@@ -359,18 +371,6 @@
         "updated": "2024-10-22T00:38:32.095000Z",
         "tags": ""
     },
-    "https://medium.com/snowflake/legal-research-assistant-using-arctic-and-llama3-1-405b-in-snowflakes-notebooks-8b8a0c1708df": {
-        "title": "Legal Research Assistant using Arctic and Llama3.1\u2013405B in Snowflakes Notebooks",
-        "published": "2024-10-21T18:29:53.681000Z",
-        "updated": "2024-10-21T18:42:23.234000Z",
-        "tags": "snowflake,llama-3,arctic,legal,streamlit"
-    },
-    "https://medium.com/snowflake/credit-card-fraud-detection-using-snowflakes-arctic-6177f20bde71": {
-        "title": "Credit Card Fraud Detection Using Snowflake-Arctic and Streamlit",
-        "published": "2024-10-19T11:11:56.905000Z",
-        "updated": "2024-10-22T00:30:12.134000Z",
-        "tags": "snowflake,arctic,mistral,llm,fraud-detection"
-    },
     "https://medium.com/snowflake/real-time-financial-insights-using-cdc-with-the-snowflake-connector-for-postgresql-and-dynamic-989c2911c393": {
         "title": "Real-Time Financial Insights Using CDC with the Snowflake Connector for PostgreSQL and Dynamic\u2026",
         "published": "2024-10-18T21:09:50.969000Z",
@@ -467,23 +467,11 @@
         "updated": "2024-10-11T15:57:09.271000Z",
         "tags": "generative-ai-tools,data-engineering,llm,snowflake"
     },
-    "https://medium.com/snowflake/contextual-search-engine-for-molecular-drug-discover-using-snowflakes-a3dafa41ae85": {
-        "title": "RAG based Contextual Search Engine for Molecular Drug Discovery using Snowflake Artic LLM \u2026",
-        "published": "2024-10-11T09:34:03.957000Z",
-        "updated": "2024-10-11T12:48:21.050000Z",
-        "tags": "retrieval-augmented-gen,snowflake,llm,langchain,drug-discovery"
-    },
     "https://medium.com/snowflake/cost-efficient-ai-innovation-snowflake-spcs-the-fosfor-decision-cloud-fdc-ae93d62443b7": {
         "title": "Cost-efficient AI innovation: Snowflake SPCS + The Fosfor Decision Cloud (FDC)",
         "published": "2024-10-10T15:56:38.456000Z",
         "updated": "2024-10-18T12:41:21.585000Z",
         "tags": "model-monitoring,model-evaluation,machine-learning,snowpark-container,snowflake"
-    },
-    "https://medium.com/snowflake/automated-contract-analysis-using-snowflake-arctic-and-llama-17c0c7bd9a36": {
-        "title": "Automated Contract Analysis using Snowflake-Arctic and Llama",
-        "published": "2024-10-10T13:51:37.227000Z",
-        "updated": "2024-10-10T13:51:37.227000Z",
-        "tags": "snowflake,llama-3,prompt-engineering,streamlit,pandas"
     },
     "https://medium.com/snowflake/organization-account-public-preview-e7b4bff51ac0": {
         "title": "Organization Account Public Preview",
@@ -562,12 +550,6 @@
         "published": "2024-10-02T15:21:42.535000Z",
         "updated": "2024-10-10T19:02:19.483000Z",
         "tags": "relationalai,knowledge-graph,snowflake-cortex,snowpark-container,question-answering"
-    },
-    "https://medium.com/snowflake/finetuning-gemma-for-coding-using-snowflakes-notebooks-da8a7c5deb76": {
-        "title": "Building a Coding Assistant using Snowflake Notebooks and Gemma 2B",
-        "published": "2024-10-01T18:56:42.014000Z",
-        "updated": "2024-10-02T10:06:11.356000Z",
-        "tags": "snowflake,llm,lora,gemma,fine-tuning"
     },
     "https://medium.com/snowflake/catching-an-edge-october-2024-08859f1436ee": {
         "title": "Catching an Edge\u200a\u2014\u200aOctober 2024",
