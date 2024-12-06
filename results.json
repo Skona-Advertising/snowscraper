@@ -1133,6 +1133,12 @@
         "updated": "2024-12-04T15:20:01.695000Z",
         "tags": "snowflake,cortex,generative-ai-tools,llm,artificial-intelligence"
     },
+    "https://medium.com/snowflake/llms-in-snowflake-discovering-cortex-functions-part-2-6760ef07f950": {
+        "title": "LLMs in Snowflake: Discovering Cortex Functions (Part 2)",
+        "published": "2024-08-07T00:01:36.769000Z",
+        "updated": "2024-12-05T15:20:01.804000Z",
+        "tags": "snowflake,cortex,llm,artificial-intelligence,generative-ai"
+    },
     "https://medium.com/snowflake/api-enrichment-framework-c5703a01463b": {
         "title": "API Enrichment Framework",
         "published": "2024-08-06T21:18:11.913000Z",
