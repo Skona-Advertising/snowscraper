@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/mastering-teradata-varchar-migration-to-snowflake-tera-mode-02082e609a20": {
+        "title": "Mastering Teradata VARCHAR migration to Snowflake (Tera Mode)",
+        "published": "2024-12-06T15:11:02.049000Z",
+        "updated": "2024-12-06T15:11:02.049000Z",
+        "tags": "migration"
+    },
     "https://medium.com/snowflake/catching-an-edge-december-134ebc585052": {
         "title": "Catching an Edge\u200a\u2014\u200aDecember",
         "published": "2024-12-03T17:38:40.381000Z",
@@ -16,12 +22,6 @@
         "published": "2024-12-02T23:20:44.025000Z",
         "updated": "2024-12-02T23:20:44.025000Z",
         "tags": "snowpark,java"
-    },
-    "https://medium.com/snowflake/blue-yonder-and-snowflake-achieve-supply-chain-excellence-b9e5bb0b0cd2": {
-        "title": "Blue Yonder and Snowflake Achieve Supply Chain Excellence",
-        "published": "2024-12-01T15:57:05.461000Z",
-        "updated": "2024-12-02T15:45:20.199000Z",
-        "tags": "supply-chain,blueyonder,data-sharing,retail-ai-data-cloud,manufacturing-data-cloud"
     },
     "https://medium.com/snowflake/schema-drift-begone-cortex-llms-to-fix-persistent-etl-headache-b37f479044f2": {
         "title": "Schema-Drift Begone! Cortex LLMs to Fix Persistent ETL Headache",
@@ -1136,7 +1136,7 @@
     "https://medium.com/snowflake/llms-in-snowflake-discovering-cortex-functions-part-2-6760ef07f950": {
         "title": "LLMs in Snowflake: Discovering Cortex Functions (Part 2)",
         "published": "2024-08-07T00:01:36.769000Z",
-        "updated": "2024-12-05T15:20:01.804000Z",
+        "updated": "2024-12-06T08:24:44.736000Z",
         "tags": "snowflake,cortex,llm,artificial-intelligence,generative-ai"
     },
     "https://medium.com/snowflake/api-enrichment-framework-c5703a01463b": {
