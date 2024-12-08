@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/using-snowflake-cortex-to-accelerate-product-copy-pipelines-in-retail-ed3a62818e81": {
+        "title": "Using Snowflake Cortex to Accelerate Product Copy Pipelines in Retail",
+        "published": "2024-12-07T15:11:02.112000Z",
+        "updated": "2024-12-07T15:11:02.112000Z",
+        "tags": "snowflake,llm,retail"
+    },
     "https://medium.com/snowflake/mastering-teradata-varchar-migration-to-snowflake-tera-mode-02082e609a20": {
         "title": "Mastering Teradata VARCHAR migration to Snowflake (Tera Mode)",
         "published": "2024-12-06T15:11:02.049000Z",
