@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/neo4j-and-snowflake-unlocking-the-power-of-graph-databases-to-transform-data-insights-a-true-d6831912bc8f": {
+        "title": "Neo4j and Snowflake: Unlocking the Power of Graph Databases to Transform Data Insights\u200a\u2014\u200aA True\u2026",
+        "published": "2024-12-09T21:37:48.980000Z",
+        "updated": "2024-12-09T21:37:48.980000Z",
+        "tags": ""
+    },
+    "https://medium.com/snowflake/type-2-dimensions-using-snowflake-dynamic-tables-methods-and-performance-testing-for-all-use-4ddce6ca6464": {
+        "title": "Type 2 dimensions using Snowflake dynamic tables\u200a\u2014\u200amethods and performance testing for all use\u2026",
+        "published": "2024-12-09T15:42:11.959000Z",
+        "updated": "2024-12-09T15:42:11.959000Z",
+        "tags": "data,snowflake,data-modeling,data-analytics,data-engineering"
+    },
     "https://medium.com/snowflake/using-snowflake-cortex-to-accelerate-product-copy-pipelines-in-retail-ed3a62818e81": {
         "title": "Using Snowflake Cortex to Accelerate Product Copy Pipelines in Retail",
         "published": "2024-12-07T15:11:02.112000Z",
