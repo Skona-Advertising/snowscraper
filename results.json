@@ -1,4 +1,22 @@
 {
+    "https://medium.com/snowflake/how-to-build-a-dashboard-in-snowflake-notebooks-using-streamlit-e18b030e2bcb": {
+        "title": "How To Build A Dashboard in Snowflake Notebooks Using Streamlit",
+        "published": "2024-12-12T19:33:21.036000Z",
+        "updated": "2024-12-12T19:33:21.036000Z",
+        "tags": "python,streamlit,snowflake-notebooks,dashboard,snowflake"
+    },
+    "https://medium.com/snowflake/data-classification-at-scale-using-snowflake-automated-sensitive-data-classification-0cb6b620484c": {
+        "title": "Data Classification at Scale using Snowflake Automated Sensitive Data Classification",
+        "published": "2024-12-12T15:16:56.220000Z",
+        "updated": "2024-12-12T15:16:56.220000Z",
+        "tags": "sensitive-data-discovery,data-governance,snowflake,snowflake-horizon-catalog,data-classification"
+    },
+    "https://medium.com/snowflake/conversations-to-insights-building-an-ai-sales-assistant-with-snowflake-cortex-and-da82a2f154e5": {
+        "title": "Conversations to Insights: Building an AI Sales Assistant with Snowflake Cortex and",
+        "published": "2024-12-12T15:00:53.990000Z",
+        "updated": "2024-12-12T15:00:53.990000Z",
+        "tags": "snowflake,ai,cortex,call-center,chatbots"
+    },
     "https://medium.com/snowflake/introduction-to-snowflakes-data-pipeline-alerts-notifications-9beac8d127cc": {
         "title": "Introduction to Snowflake\u2019s data pipeline alerts & notifications",
         "published": "2024-12-10T15:41:36.385000Z",
@@ -3806,7 +3824,7 @@
     "https://medium.com/snowflake/snowflake-and-power-bi-best-practices-and-recent-improvements-183e2d970c0c": {
         "title": "Snowflake and Power BI: Best Practices and Recent Improvements",
         "published": "2023-12-07T23:02:08.677000Z",
-        "updated": "2024-12-12T00:55:47.575000Z",
+        "updated": "2024-12-12T23:50:21.587000Z",
         "tags": "snowflake,microsoft-power-bi,snowflake-data-cloud,power-bi-desktop,performance"
     },
     "https://medium.com/snowflake/optimizing-snowflake-cloud-services-costs-de10f0b15444": {
