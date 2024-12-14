@@ -1,4 +1,28 @@
 {
+    "https://medium.com/snowflake/rag-revisited-reimagining-enterprise-retrieval-8bedafd68848": {
+        "title": "RAG Revisited\u00a0: Reimagining Enterprise Retrieval",
+        "published": "2024-12-13T16:35:11.227000Z",
+        "updated": "2024-12-13T16:35:11.227000Z",
+        "tags": "llm,rags,snowflake,puns,genai"
+    },
+    "https://medium.com/snowflake/efficient-training-and-inference-for-many-model-solutions-with-partitioned-datasets-in-snowflake-ml-a1ee17ab3a70": {
+        "title": "Efficient training and inference for many-model solutions with partitioned datasets in Snowflake ML",
+        "published": "2024-12-13T15:16:56.527000Z",
+        "updated": "2024-12-13T15:16:56.527000Z",
+        "tags": "machine-learning,forecasting,snowflake,ai,model-registry"
+    },
+    "https://medium.com/snowflake/disparate-data-to-unified-insights-leveraging-snowflake-cortex-streamlit-for-e-commerce-retail-110b83e1c088": {
+        "title": "Disparate Data to Unified Insights: Leveraging Snowflake Cortex & Streamlit for E-Commerce & Retail",
+        "published": "2024-12-13T14:01:30.602000Z",
+        "updated": "2024-12-13T14:01:30.602000Z",
+        "tags": "data-engineering,llm,artificial-intelligence,e-commerce-business,retail"
+    },
+    "https://medium.com/snowflake/getting-started-with-player-360-unlocking-churn-prediction-and-game-optimization-cff23c188fd3": {
+        "title": "Getting Started with Player 360: Unlocking Churn Prediction and Game Optimization",
+        "published": "2024-12-13T13:48:23.439000Z",
+        "updated": "2024-12-13T13:48:23.439000Z",
+        "tags": "getting-started,demo,data-science,machine-learning,gaming"
+    },
     "https://medium.com/snowflake/how-to-build-a-dashboard-in-snowflake-notebooks-using-streamlit-e18b030e2bcb": {
         "title": "How To Build A Dashboard in Snowflake Notebooks Using Streamlit",
         "published": "2024-12-12T19:33:21.036000Z",
@@ -1001,12 +1025,6 @@
         "updated": "2024-08-23T14:11:39.756000Z",
         "tags": ""
     },
-    "https://medium.com/snowflake/one-option-to-load-large-xml-file-to-snowflake-bab8cb2a2f92": {
-        "title": "One option to load large XML file to Snowflake",
-        "published": "2024-08-23T13:01:26.643000Z",
-        "updated": "2024-11-01T23:39:07.370000Z",
-        "tags": "document-is-too-large,xml,data-superhero"
-    },
     "https://medium.com/snowflake/snowflake-text-to-sql-magic-dcae2ebc5a82": {
         "title": "Snowflake Text-to-SQL magic",
         "published": "2024-08-22T20:17:25.614000Z",
@@ -1078,12 +1096,6 @@
         "published": "2024-08-18T15:01:43.715000Z",
         "updated": "2024-08-18T15:01:43.715000Z",
         "tags": ""
-    },
-    "https://medium.com/snowflake/snowflake-dev-env-using-vscode-b10825a940f1": {
-        "title": "Snowflake Dev Env using VSCode",
-        "published": "2024-08-18T13:33:28.439000Z",
-        "updated": "2024-10-28T20:11:32.276000Z",
-        "tags": "data-superhero,github,vscode,snowflake"
     },
     "https://medium.com/snowflake/tasks-failure-recovery-in-snowflake-with-retry-last-1eb5bfd4ba5d": {
         "title": "Tasks Failure Recovery in Snowflake with RETRY LAST",
@@ -1601,12 +1613,6 @@
         "updated": "2024-06-19T08:48:54.340000Z",
         "tags": "snowflake-data-cloud,schema-detection,snowflake-scripting"
     },
-    "https://medium.com/snowflake/understanding-snowflake-mfa-4a975292d6e1": {
-        "title": "Understanding Snowflake MFA",
-        "published": "2024-06-16T21:56:22.405000Z",
-        "updated": "2024-06-19T08:49:04.886000Z",
-        "tags": "mfa,data-superhero"
-    },
     "https://medium.com/snowflake/securing-columns-in-snowflake-using-projection-policies-920a4d385f5d": {
         "title": "Securing Columns in Snowflake Using Projection Policies",
         "published": "2024-06-16T14:42:29.579000Z",
@@ -1618,12 +1624,6 @@
         "published": "2024-06-15T13:06:02.599000Z",
         "updated": "2024-06-15T13:06:02.599000Z",
         "tags": "snowflake,llm,llmops,model-registry"
-    },
-    "https://medium.com/snowflake/using-network-policy-to-secure-snowflake-997cf0a16cf7": {
-        "title": "Using network policy to secure Snowflake \u2014 a practice of separation of duties (SoD)",
-        "published": "2024-06-14T23:00:07.923000Z",
-        "updated": "2024-08-14T17:06:59.759000Z",
-        "tags": "network-policies,network-rule,execute-as-owner,elevated-privileges,data-superhero"
     },
     "https://medium.com/snowflake/predicting-euro-2024-with-snowflake-ml-9b7c774fdd9e": {
         "title": "Predicting Euro 2024 with Snowflake ML",
@@ -1667,23 +1667,11 @@
         "updated": "2024-06-10T16:36:02.560000Z",
         "tags": "snowflake,data-quality,governance"
     },
-    "https://medium.com/snowflake/understanding-two-types-of-oauth2-authorization-workflows-0c479b7305f1": {
-        "title": "Understanding Two types of OAuth2 Authorization Workflows",
-        "published": "2024-06-07T20:42:17.564000Z",
-        "updated": "2024-06-11T18:04:52.882000Z",
-        "tags": "oauth2,data-superhero"
-    },
     "https://medium.com/snowflake/how-to-train-visual-ai-models-process-images-stored-in-snowflake-using-landinglens-311e125b9ce6": {
         "title": "How to Train Visual AI Models & Process Images Stored in Snowflake using LandingLens",
         "published": "2024-06-07T17:51:18.118000Z",
         "updated": "2024-06-12T18:54:27.403000Z",
         "tags": "landing-ai,visual-ai,generative-ai,snowflake-data-cloud,snowflake-native-app"
-    },
-    "https://medium.com/snowflake/snowflake-security-integrations-and-the-one-with-type-of-api-authentication-c93196633e8b": {
-        "title": "Snowflake security integrations and the one with type of \u201cAPI_AUTHENTICATION\u201d",
-        "published": "2024-06-07T16:42:18.465000Z",
-        "updated": "2024-07-24T19:07:02.557000Z",
-        "tags": "oauth,integration-security,data-superhero"
     },
     "https://medium.com/snowflake/snowflake-summit-2024-highlights-game-changing-feature-announcements-9897002d1de2": {
         "title": "Snowflake Summit 2024 Highlights: Game-Changing Feature Announcements",
@@ -2464,12 +2452,6 @@
         "published": "2024-04-04T15:40:21.973000Z",
         "updated": "2024-04-04T15:40:21.973000Z",
         "tags": "text-embedding,data-infrastructure,snowflake"
-    },
-    "https://medium.com/snowflake/iceberg-table-in-snowflake-460887e0480e": {
-        "title": "Iceberg Tables in Snowflake",
-        "published": "2024-04-03T21:00:54.240000Z",
-        "updated": "2024-04-05T15:36:03.988000Z",
-        "tags": "iceberg-table,snowflake-advocate,data-superhero"
     },
     "https://medium.com/snowflake/auto-retry-on-typescript-caching-for-web-apps-61ffcc3cecbf": {
         "title": "Auto retry on typescript caching for web apps",
@@ -3508,12 +3490,6 @@
         "published": "2024-01-20T05:01:46.389000Z",
         "updated": "2024-01-20T05:01:46.389000Z",
         "tags": "snowflake,data-superhero"
-    },
-    "https://medium.com/snowflake/using-reference-on-objects-f0a560e10469": {
-        "title": "Using Reference on Objects",
-        "published": "2024-01-19T17:25:16.915000Z",
-        "updated": "2024-01-22T23:03:10.694000Z",
-        "tags": "table-reference,snowflake,data-superhero"
     },
     "https://medium.com/snowflake/advancing-semantic-search-custom-embeddings-with-snowpark-container-services-and-multi-gpu-setup-adb236b5b224": {
         "title": "Advancing Semantic Search: Custom Embeddings with Snowpark Container Services and multi-GPU setup.",
@@ -4924,12 +4900,6 @@
         "published": "2023-08-25T13:01:02.960000Z",
         "updated": "2024-09-11T21:28:41.776000Z",
         "tags": "snowflake,caching,modern-data-architecture,business-intelligence,olap-cube"
-    },
-    "https://medium.com/snowflake/when-direct-share-meets-governance-policies-7672da2acf8f": {
-        "title": "When direct share meets governance policies",
-        "published": "2023-08-25T03:26:54.195000Z",
-        "updated": "2024-04-08T16:52:14.056000Z",
-        "tags": "direct-share,masking-policy,row-access-policy,snowflake,data-superhero"
     },
     "https://medium.com/snowflake/snowflake-achieving-lightning-fast-end-to-end-data-pipeline-86193e00ceb9": {
         "title": "Snowflake: Achieving Lightning-Fast End-to-End Data Pipeline",
