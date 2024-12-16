@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/loading-ebcdic-files-into-snowflake-225a107b57df": {
+        "title": "Loading EBCDIC Files into Snowflake",
+        "published": "2024-12-15T15:42:25.293000Z",
+        "updated": "2024-12-15T15:42:25.293000Z",
+        "tags": "snowflake,data-engineering,data-architecture,data-integration,software-architecture"
+    },
     "https://medium.com/snowflake/powering-a-pdf-chatbot-with-cortex-search-and-document-ai-5eae6defe4c9": {
         "title": "Powering a PDF Chatbot with Cortex Search and Document AI",
         "published": "2024-12-14T15:41:23.962000Z",
