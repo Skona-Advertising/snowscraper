@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/corporate-taxonomy-insights-building-a-comprehensive-ai-assisted-analysis-tool-33709b51d35c": {
+        "title": "Corporate Taxonomy Insights: Building a Comprehensive AI-Assisted Analysis Tool",
+        "published": "2024-12-16T14:27:05.285000Z",
+        "updated": "2024-12-16T14:27:05.285000Z",
+        "tags": "data-science,machine-learning,artificial-intelligence,financial-services"
+    },
     "https://medium.com/snowflake/loading-ebcdic-files-into-snowflake-225a107b57df": {
         "title": "Loading EBCDIC Files into Snowflake",
         "published": "2024-12-15T15:42:25.293000Z",
@@ -32,7 +38,7 @@
     "https://medium.com/snowflake/getting-started-with-player-360-unlocking-churn-prediction-and-game-optimization-cff23c188fd3": {
         "title": "Getting Started with Player 360: Unlocking Churn Prediction and Game Optimization",
         "published": "2024-12-13T13:48:23.439000Z",
-        "updated": "2024-12-13T13:48:23.439000Z",
+        "updated": "2024-12-16T16:43:32.777000Z",
         "tags": "getting-started,demo,data-science,machine-learning,gaming"
     },
     "https://medium.com/snowflake/how-to-build-a-dashboard-in-snowflake-notebooks-using-streamlit-e18b030e2bcb": {
