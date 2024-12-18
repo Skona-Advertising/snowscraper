@@ -26,7 +26,7 @@
     "https://medium.com/snowflake/efficient-training-and-inference-for-many-model-solutions-with-partitioned-datasets-in-snowflake-ml-a1ee17ab3a70": {
         "title": "Efficient training and inference for many-model solutions with partitioned datasets in Snowflake ML",
         "published": "2024-12-13T15:16:56.527000Z",
-        "updated": "2024-12-13T15:16:56.527000Z",
+        "updated": "2024-12-17T20:49:08.763000Z",
         "tags": "machine-learning,forecasting,snowflake,ai,model-registry"
     },
     "https://medium.com/snowflake/disparate-data-to-unified-insights-leveraging-snowflake-cortex-streamlit-for-e-commerce-retail-110b83e1c088": {
@@ -50,7 +50,7 @@
     "https://medium.com/snowflake/data-classification-at-scale-using-snowflake-automated-sensitive-data-classification-0cb6b620484c": {
         "title": "Data Classification at Scale using Snowflake Automated Sensitive Data Classification",
         "published": "2024-12-12T15:16:56.220000Z",
-        "updated": "2024-12-12T15:16:56.220000Z",
+        "updated": "2024-12-17T23:21:35.744000Z",
         "tags": "sensitive-data-discovery,data-governance,snowflake,snowflake-horizon-catalog,data-classification"
     },
     "https://medium.com/snowflake/conversations-to-insights-building-an-ai-sales-assistant-with-snowflake-cortex-and-da82a2f154e5": {
