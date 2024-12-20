@@ -2,7 +2,7 @@
     "https://medium.com/snowflake/corporate-taxonomy-insights-building-a-comprehensive-ai-assisted-analysis-tool-33709b51d35c": {
         "title": "Corporate Taxonomy Insights: Building a Comprehensive AI-Assisted Analysis Tool",
         "published": "2024-12-16T14:27:05.285000Z",
-        "updated": "2024-12-16T14:27:05.285000Z",
+        "updated": "2024-12-19T22:21:08.849000Z",
         "tags": "data-science,machine-learning,artificial-intelligence,financial-services"
     },
     "https://medium.com/snowflake/loading-ebcdic-files-into-snowflake-225a107b57df": {
@@ -26,13 +26,13 @@
     "https://medium.com/snowflake/efficient-training-and-inference-for-many-model-solutions-with-partitioned-datasets-in-snowflake-ml-a1ee17ab3a70": {
         "title": "Efficient training and inference for many-model solutions with partitioned datasets in Snowflake ML",
         "published": "2024-12-13T15:16:56.527000Z",
-        "updated": "2024-12-17T20:49:08.763000Z",
+        "updated": "2024-12-19T22:52:46.870000Z",
         "tags": "machine-learning,forecasting,snowflake,ai,model-registry"
     },
     "https://medium.com/snowflake/disparate-data-to-unified-insights-leveraging-snowflake-cortex-streamlit-for-e-commerce-retail-110b83e1c088": {
-        "title": "Disparate Data to Unified Insights: Leveraging Snowflake Cortex & Streamlit for E-Commerce & Retail",
+        "title": "Entity Resolution from Text \u2014 Retail Product Classification Example",
         "published": "2024-12-13T14:01:30.602000Z",
-        "updated": "2024-12-13T14:01:30.602000Z",
+        "updated": "2024-12-19T22:26:57.523000Z",
         "tags": "data-engineering,llm,artificial-intelligence,e-commerce-business,retail"
     },
     "https://medium.com/snowflake/getting-started-with-player-360-unlocking-churn-prediction-and-game-optimization-cff23c188fd3": {
