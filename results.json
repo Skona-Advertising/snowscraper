@@ -62,7 +62,7 @@
     "https://medium.com/snowflake/introduction-to-snowflakes-data-pipeline-alerts-notifications-9beac8d127cc": {
         "title": "Introduction to Snowflake\u2019s data pipeline alerts & notifications",
         "published": "2024-12-10T15:41:36.385000Z",
-        "updated": "2024-12-10T15:41:36.385000Z",
+        "updated": "2025-01-03T17:27:33.626000Z",
         "tags": "snowflake,data-engineering,observability,data-pipeline"
     },
     "https://medium.com/snowflake/neo4j-and-snowflake-unlocking-the-power-of-graph-databases-to-transform-data-insights-a-true-d6831912bc8f": {
@@ -1442,7 +1442,7 @@
     "https://medium.com/snowflake/syncing-documents-from-sharepoint-to-snowflake-by-leveraging-microsoft-graph-apis-in-snowpark-b97a423d71db": {
         "title": "Sync documents from sharepoint to snowflake with Microsoft Graph APIs and snowpark container\u2026",
         "published": "2024-07-15T20:13:22.620000Z",
-        "updated": "2024-08-07T16:53:51.701000Z",
+        "updated": "2025-01-03T22:14:35.515000Z",
         "tags": "genai,snowflake,llm,sharepoint,unstructured-data"
     },
     "https://medium.com/snowflake/convert-materialized-views-on-legacy-platforms-to-snowflake-dynamic-tables-6ac766f5a34e": {
