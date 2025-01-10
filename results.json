@@ -1,4 +1,34 @@
 {
+    "https://medium.com/snowflake/how-sigma-computing-utilizes-ai21s-jamba-and-snowflake-to-simplify-sales-prospecting-7afc7648bc3a": {
+        "title": "How Sigma Computing Utilizes AI21\u2019s Jamba and Snowflake to Simplify Sales Prospecting",
+        "published": "2025-01-09T17:01:43.802000Z",
+        "updated": "2025-01-09T17:01:43.802000Z",
+        "tags": "sigma,snowflake,llm,jamba,cortex"
+    },
+    "https://medium.com/snowflake/connect-to-snowflake-from-tableau-with-external-oauth-c84a0f116b16": {
+        "title": "Connect to Snowflake from Tableau with External OAuth",
+        "published": "2025-01-09T07:56:31.954000Z",
+        "updated": "2025-01-09T07:56:31.954000Z",
+        "tags": "oauth,tableau,security,cisa"
+    },
+    "https://medium.com/snowflake/unlock-the-power-of-salesforce-data-with-snowflake-and-cortex-analyst-6ded8337d149": {
+        "title": "Unlock the Power of Salesforce Data with Snowflake and Cortex Analyst",
+        "published": "2025-01-09T06:55:15.225000Z",
+        "updated": "2025-01-09T06:55:15.225000Z",
+        "tags": "cortex-analyst,snowflake,salesforce-sales-cloud,semantic-model,text-to-sql"
+    },
+    "https://medium.com/snowflake/snowpark-python-supports-thread-safe-session-objects-d66043f36115": {
+        "title": "Snowpark Python Supports Thread-Safe Session Objects",
+        "published": "2025-01-09T06:55:02.658000Z",
+        "updated": "2025-01-09T06:55:02.658000Z",
+        "tags": ""
+    },
+    "https://medium.com/snowflake/how-snowflake-powers-data-mesh-architecture-with-an-internal-marketplace-6f2368ae0d8d": {
+        "title": "How Snowflake Powers Data Mesh Architecture with an Internal Marketplace",
+        "published": "2025-01-08T23:52:57.288000Z",
+        "updated": "2025-01-09T06:57:14.833000Z",
+        "tags": "snowflake,data-mesh,marketplaces,architecture,snowflake-data-cloud"
+    },
     "https://medium.com/snowflake/zero-click-snowflake-auth-automating-the-rsa-setup-maze-4019d08d98e2": {
         "title": "Zero-Click Snowflake Auth: Automating the RSA Setup Maze",
         "published": "2025-01-07T02:36:54.251000Z",
