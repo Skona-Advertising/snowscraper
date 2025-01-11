@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/configuring-private-connectivity-to-azure-external-storage-accounts-2a0c213a0086": {
+        "title": "Configuring Private Connectivity to Azure External Storage Accounts",
+        "published": "2025-01-10T15:57:01.236000Z",
+        "updated": "2025-01-10T15:57:01.236000Z",
+        "tags": "azure-storage-account,azure-private-link,security"
+    },
     "https://medium.com/snowflake/how-sigma-computing-utilizes-ai21s-jamba-and-snowflake-to-simplify-sales-prospecting-7afc7648bc3a": {
         "title": "How Sigma Computing Utilizes AI21\u2019s Jamba and Snowflake to Simplify Sales Prospecting",
         "published": "2025-01-09T17:01:43.802000Z",
@@ -8361,13 +8367,13 @@
         "title": "Designing a Connected Application",
         "published": "2022-08-19T13:25:11.708000Z",
         "updated": "2022-08-19T17:06:13.263000Z",
-        "tags": "snowflake,connected-apps,data-app,cybersecurity,martech"
+        "tags": "snowflake,connected-apps,app-data,cybersecurity,martech"
     },
     "https://medium.com/snowflake/implementing-a-connected-application-a1395d7ce70d": {
         "title": "Implementing a Connected Application",
         "published": "2022-08-19T13:20:45.861000Z",
         "updated": "2022-09-01T14:38:57.053000Z",
-        "tags": "snowflake,connected-apps,data-app,cybersecurity,martech"
+        "tags": "snowflake,connected-apps,app-data,cybersecurity,martech"
     },
     "https://medium.com/snowflake/most-modern-siems-offer-2-primary-methods-for-running-their-queries-real-time-rules-and-scheduled-62d684ef8b32": {
         "title": "Real Time vs Scheduled Query Detections",
