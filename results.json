@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/snowflake-extending-a-full-query-history-dc09fc54880d": {
+        "title": "SNOWFLAKE: Extending a full QUERY_HISTORY",
+        "published": "2025-01-12T15:57:03.558000Z",
+        "updated": "2025-01-12T18:30:55.106000Z",
+        "tags": "snowflake,observability,monitoring,governance,sql"
+    },
     "https://medium.com/snowflake/11-tips-to-accelerate-your-work-with-llms-in-snowflakes-cortex-be5de260aa5b": {
         "title": "11 Tips to Accelerate Your Work with LLMs in Snowflake\u2019s Cortex",
         "published": "2025-01-11T16:56:39.952000Z",
