@@ -1532,7 +1532,7 @@
     "https://medium.com/snowflake/a-step-by-step-guide-to-building-with-snowflake-snowflake-solutions-center-524b33ae57a3": {
         "title": "A Step-by-Step Guide to Building with Snowflake: Snowflake Solutions Center",
         "published": "2024-07-10T03:49:34.269000Z",
-        "updated": "2024-11-20T14:57:21.188000Z",
+        "updated": "2025-01-13T18:56:57.220000Z",
         "tags": "snowflake,ai,solutions,developer,data"
     },
     "https://medium.com/snowflake/distributed-ray-as-a-native-app-in-snowpark-container-services-a3449cf33b5c": {
@@ -3580,12 +3580,6 @@
         "published": "2024-01-16T18:01:33.171000Z",
         "updated": "2024-01-16T18:01:33.171000Z",
         "tags": "snowpipe-streaming,informatica,data-engineering,oracle,sap"
-    },
-    "https://medium.com/snowflake/optimizing-performance-in-snowflake-the-power-of-table-clustering-a64e34c0f148": {
-        "title": "Optimizing Performance in Snowflake: The Power of Table Clustering",
-        "published": "2024-01-16T17:01:38.239000Z",
-        "updated": "2024-01-16T17:01:38.239000Z",
-        "tags": "snowflake,data-warehouse,performance,data,data-engineering"
     },
     "https://medium.com/snowflake/no-code-elt-and-basic-data-modelling-in-coalesce-dos-donts-and-tips-8557f2096b40": {
         "title": "No-code ELT and Basic Data Modelling in Coalesce: dos, dont\u2019s and tips",
