@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/python-profiler-now-in-public-preview-32fabc9323dc": {
+        "title": "Python Profiler now in Public Preview",
+        "published": "2025-01-14T17:02:03.714000Z",
+        "updated": "2025-01-14T17:02:03.714000Z",
+        "tags": "python,snowpark,snowflake"
+    },
+    "https://medium.com/snowflake/eliminating-redundancies-in-etl-with-iceberg-tables-on-snowflake-cff678d49bd3": {
+        "title": "Eliminating Redundancies in ETL With Iceberg Tables on Snowflake",
+        "published": "2025-01-14T14:07:08.524000Z",
+        "updated": "2025-01-14T14:07:08.524000Z",
+        "tags": "apache-iceberg,snowflake,etl,data-engineering,data-architecture"
+    },
     "https://medium.com/snowflake/snowflake-extending-a-full-query-history-dc09fc54880d": {
         "title": "SNOWFLAKE: Extending a full QUERY_HISTORY",
         "published": "2025-01-12T15:57:03.558000Z",
