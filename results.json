@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/load-problematic-avro-files-into-snowflake-a-step-by-step-guide-3dd0b5e11e01": {
+        "title": "Load Problematic AVRO Files into Snowflake: A Step-by-Step Guide",
+        "published": "2025-01-15T14:07:08.889000Z",
+        "updated": "2025-01-15T14:07:08.889000Z",
+        "tags": "data-engineering,data-architecture,snowflake,data-science,data-pipeline"
+    },
     "https://medium.com/snowflake/python-profiler-now-in-public-preview-32fabc9323dc": {
         "title": "Python Profiler now in Public Preview",
         "published": "2025-01-14T17:02:03.714000Z",
@@ -14,7 +20,7 @@
     "https://medium.com/snowflake/snowflake-extending-a-full-query-history-dc09fc54880d": {
         "title": "SNOWFLAKE: Extending a full QUERY_HISTORY",
         "published": "2025-01-12T15:57:03.558000Z",
-        "updated": "2025-01-12T18:30:55.106000Z",
+        "updated": "2025-01-15T09:23:40.518000Z",
         "tags": "snowflake,observability,monitoring,governance,sql"
     },
     "https://medium.com/snowflake/11-tips-to-accelerate-your-work-with-llms-in-snowflakes-cortex-be5de260aa5b": {
@@ -746,7 +752,7 @@
     "https://medium.com/snowflake/extending-snowpark-optimized-warehouses-for-new-data-science-and-data-engineering-use-cases-2522bba34351": {
         "title": "Extending Snowpark Optimized warehouses for new data science and data engineering use cases",
         "published": "2024-09-26T20:54:56.036000Z",
-        "updated": "2024-09-27T22:25:54.336000Z",
+        "updated": "2025-01-15T23:03:17.246000Z",
         "tags": "ml-training,native-code,code,snowpark,snowpark-ml"
     },
     "https://medium.com/snowflake/a-developers-guide-to-activating-snowflake-data-with-census-929add207129": {
