@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/build-rapid-ai-prototypes-and-validates-use-cases-against-snowflake-cortex-with-the-snowflake-ai-ae811892cb92": {
+        "title": "Build Rapid AI Prototypes and Validates Use Cases against Snowflake Cortex with the Snowflake AI\u2026",
+        "published": "2025-01-16T14:06:01.296000Z",
+        "updated": "2025-01-16T14:06:01.296000Z",
+        "tags": "snowpark,cortex,generative-ai-tools,open-source,ai"
+    },
     "https://medium.com/snowflake/load-problematic-avro-files-into-snowflake-a-step-by-step-guide-3dd0b5e11e01": {
         "title": "Load Problematic AVRO Files into Snowflake: A Step-by-Step Guide",
         "published": "2025-01-15T14:07:08.889000Z",
@@ -1514,7 +1520,7 @@
     "https://medium.com/snowflake/syncing-documents-from-sharepoint-to-snowflake-by-leveraging-microsoft-graph-apis-in-snowpark-b97a423d71db": {
         "title": "Sync documents from sharepoint to snowflake with Microsoft Graph APIs and snowpark container\u2026",
         "published": "2024-07-15T20:13:22.620000Z",
-        "updated": "2025-01-03T22:14:35.515000Z",
+        "updated": "2025-01-16T15:18:09.974000Z",
         "tags": "genai,snowflake,llm,sharepoint,unstructured-data"
     },
     "https://medium.com/snowflake/convert-materialized-views-on-legacy-platforms-to-snowflake-dynamic-tables-6ac766f5a34e": {
