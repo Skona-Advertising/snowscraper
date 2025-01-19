@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/an-example-of-choosing-a-clustering-key-in-snowflake-3b23a35cd9b4": {
+        "title": "An Example of Choosing a Clustering Key in Snowflake",
+        "published": "2025-01-18T14:06:44.968000Z",
+        "updated": "2025-01-18T14:06:44.968000Z",
+        "tags": "snowflake,performance,clustering"
+    },
     "https://medium.com/snowflake/just-the-gist-constructing-geojson-io-url-in-snowflake-49fd2f637d10": {
         "title": "Just the gist: Constructing GeoJSON.io URL in Snowflake",
         "published": "2025-01-17T14:06:46.323000Z",
