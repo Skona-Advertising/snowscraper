@@ -617,12 +617,6 @@
         "updated": "2024-10-15T16:02:35.026000Z",
         "tags": "asynchronous,snowpark,data,snowflake,data-engineering"
     },
-    "https://medium.com/snowflake/evolution-of-the-open-metastore-54bfcf505b8c": {
-        "title": "Evolution of the Open Metastore",
-        "published": "2024-10-15T00:22:42.421000Z",
-        "updated": "2024-10-24T21:53:50.088000Z",
-        "tags": "snowflake,iceberg-table,hive-metastore,apache-polaris,spark"
-    },
     "https://medium.com/snowflake/empowering-data-exploration-natural-language-queries-with-snowflake-cortex-in-sfss-quotient-c1eadceb3de7": {
         "title": "Empowering Data Exploration: Natural Language Queries with Snowflake Cortex in SFS\u2019s Quotient\u2122",
         "published": "2024-10-14T16:02:09.947000Z",
