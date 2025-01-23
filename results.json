@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/launch-snowflake-notebooks-with-one-line-of-code-06958b706403": {
+        "title": "Launch Snowflake Notebooks with One Line of Code",
+        "published": "2025-01-22T21:02:05.329000Z",
+        "updated": "2025-01-22T21:02:05.329000Z",
+        "tags": "snowflake,python,data-science,ai,data-engineering"
+    },
+    "https://medium.com/snowflake/connecting-to-amazon-rds-using-private-connectivity-from-snowflake-c2b538d623ed": {
+        "title": "Connecting To Amazon RDS Using Private Connectivity from Snowflake",
+        "published": "2025-01-22T21:02:05.209000Z",
+        "updated": "2025-01-22T21:02:05.209000Z",
+        "tags": "data-engineering,snowflake,data-pipeline,aws-privatelink"
+    },
     "https://medium.com/snowflake/snowflake-cortex-and-amazon-bedrock-agents-for-seamless-ai-solutions-6d41aa0cf3ea": {
         "title": "Snowflake Cortex and Amazon Bedrock Agents for Seamless AI Solutions",
         "published": "2025-01-19T14:06:47.619000Z",
@@ -22,6 +34,12 @@
         "published": "2025-01-17T14:06:46.323000Z",
         "updated": "2025-01-17T14:06:46.323000Z",
         "tags": "geospatial,snowflake,snowflake-data-cloud"
+    },
+    "https://medium.com/snowflake/snowflake-build-amsterdam-bc3e18e4ebe4": {
+        "title": "Snowflake BUILD Amsterdam \u2014 Cortex Analyst Hands-On Lab",
+        "published": "2025-01-17T12:16:02.928000Z",
+        "updated": "2025-01-22T06:15:27.334000Z",
+        "tags": "daanalytics,build,snowflake,ai,cortex-analyst"
     },
     "https://medium.com/snowflake/build-rapid-ai-prototypes-and-validates-use-cases-against-snowflake-cortex-with-the-snowflake-ai-ae811892cb92": {
         "title": "Build Rapid AI Prototypes and Validates Use Cases against Snowflake Cortex with the Snowflake AI\u2026",
@@ -100,6 +118,12 @@
         "published": "2025-01-07T02:36:54.251000Z",
         "updated": "2025-01-08T15:47:14.566000Z",
         "tags": "snowflake,security,containers,cryptography,design-patterns"
+    },
+    "https://medium.com/snowflake/snowflake-cortex-series-part-5-mastering-document-parsing-with-parse-document-function-1154df007862": {
+        "title": "Snowflake Cortex Series\u200a\u2014\u200aPart 5\u00a0: Mastering Document Parsing with PARSE_DOCUMENT Function",
+        "published": "2024-12-31T10:14:53.653000Z",
+        "updated": "2024-12-31T10:17:45.401000Z",
+        "tags": "snowflake,snowflake-cortex,document-parsing,data-science,llm"
     },
     "https://medium.com/snowflake/corporate-taxonomy-insights-building-a-comprehensive-ai-assisted-analysis-tool-33709b51d35c": {
         "title": "Corporate Taxonomy Insights: Building a Comprehensive AI-Assisted Analysis Tool",
