@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/how-to-build-an-mfa-audit-system-with-streamlit-in-snowflake-notebooks-6d27abce9e90": {
+        "title": "How to Build an MFA Audit System with Streamlit in Snowflake Notebooks",
+        "published": "2025-01-23T17:07:17.136000Z",
+        "updated": "2025-01-23T17:07:17.136000Z",
+        "tags": "snowflake,mfa,cybersecurity,streamlit,python"
+    },
     "https://medium.com/snowflake/launch-snowflake-notebooks-with-one-line-of-code-06958b706403": {
         "title": "Launch Snowflake Notebooks with One Line of Code",
         "published": "2025-01-22T21:02:05.329000Z",
