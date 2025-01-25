@@ -1,4 +1,34 @@
 {
+    "https://medium.com/snowflake/tracking-schema-changes-in-iceberg-tables-using-metadata-files-07240b9e7064": {
+        "title": "Tracking Schema Changes in Iceberg Tables Using Metadata Files",
+        "published": "2025-01-24T19:22:02.903000Z",
+        "updated": "2025-01-24T19:22:02.903000Z",
+        "tags": ""
+    },
+    "https://medium.com/snowflake/using-snowflake-cortex-with-anthropic-claude-to-find-information-in-home-appliance-manuals-4e7eea3525e0": {
+        "title": "Using Snowflake Cortex with Anthropic Claude to Find Information in Home Appliance Manuals",
+        "published": "2025-01-24T18:05:57.038000Z",
+        "updated": "2025-01-24T18:05:57.038000Z",
+        "tags": "snowflake,anthropic-claude,retrieval-augmented-gen,data-superhero,large-language-models"
+    },
+    "https://medium.com/snowflake/how-to-monitor-table-size-growth-in-snowflake-notebooks-be62c64c67a5": {
+        "title": "How to Monitor Table Size Growth in Snowflake Notebooks",
+        "published": "2025-01-24T18:05:43.040000Z",
+        "updated": "2025-01-24T18:05:43.040000Z",
+        "tags": "snowflake,sql,database,streamlit,python"
+    },
+    "https://medium.com/snowflake/how-to-build-an-interactive-query-performance-app-in-snowflake-notebooks-3fda4a71452d": {
+        "title": "How to Build an Interactive Query Performance App in Snowflake Notebooks",
+        "published": "2025-01-24T18:05:25.453000Z",
+        "updated": "2025-01-24T18:05:25.453000Z",
+        "tags": "snowflake,streamlit,sql,query-optimization"
+    },
+    "https://medium.com/snowflake/how-to-analyze-query-performance-in-snowflake-3f5c24cf65bd": {
+        "title": "How to Analyze Query Performance in Snowflake",
+        "published": "2025-01-24T18:05:20.496000Z",
+        "updated": "2025-01-24T18:05:20.496000Z",
+        "tags": "sql,snowflake,query,query-optimization,query-analysis"
+    },
     "https://medium.com/snowflake/how-to-build-an-mfa-audit-system-with-streamlit-in-snowflake-notebooks-6d27abce9e90": {
         "title": "How to Build an MFA Audit System with Streamlit in Snowflake Notebooks",
         "published": "2025-01-23T17:07:17.136000Z",
@@ -50,7 +80,7 @@
     "https://medium.com/snowflake/build-rapid-ai-prototypes-and-validates-use-cases-against-snowflake-cortex-with-the-snowflake-ai-ae811892cb92": {
         "title": "Build Rapid AI Prototypes and Validates Use Cases against Snowflake Cortex with the Snowflake AI\u2026",
         "published": "2025-01-16T14:06:01.296000Z",
-        "updated": "2025-01-16T14:06:01.296000Z",
+        "updated": "2025-01-24T05:35:24.406000Z",
         "tags": "snowpark,cortex,generative-ai-tools,open-source,ai"
     },
     "https://medium.com/snowflake/load-problematic-avro-files-into-snowflake-a-step-by-step-guide-3dd0b5e11e01": {
