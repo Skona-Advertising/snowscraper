@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/efficient-custom-llm-inferencing-rest-api-in-snowpark-container-services-033459083bbe": {
+        "title": "Efficient Custom-LLM Inferencing REST API in Snowpark Container Services",
+        "published": "2025-01-26T15:21:52.985000Z",
+        "updated": "2025-01-26T15:21:52.985000Z",
+        "tags": "snowflake,snowpark-container,large-language-models,ray-serve"
+    },
     "https://medium.com/snowflake/optimizing-snowflake-queries-with-explain-and-query-history-a-step-by-step-guide-99c47293cdc2": {
         "title": "Optimizing Snowflake Queries with EXPLAIN and Query History\u00a0: A Step-by-Step Guide",
         "published": "2025-01-25T15:22:08.171000Z",
