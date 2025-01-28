@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/jira-ticket-summarization-using-snowflake-cortex-56eed4143790": {
+        "title": "JIRA ticket summarization using Snowflake Cortex",
+        "published": "2025-01-27T15:26:49.322000Z",
+        "updated": "2025-01-27T15:26:49.322000Z",
+        "tags": "snowflake-cortex,ai,atlassian-jira,jira-cloud,productivity"
+    },
+    "https://medium.com/snowflake/improving-costs-for-batch-llm-classification-with-snowflake-cortex-search-5f73be5868d4": {
+        "title": "Improving Costs for Batch LLM Classification with Snowflake Cortex Search",
+        "published": "2025-01-27T13:06:56.252000Z",
+        "updated": "2025-01-27T13:06:56.252000Z",
+        "tags": "snowflake,cortex,llm,ai,cortex-search"
+    },
     "https://medium.com/snowflake/efficient-custom-llm-inferencing-rest-api-in-snowpark-container-services-033459083bbe": {
         "title": "Efficient Custom-LLM Inferencing REST API in Snowpark Container Services",
         "published": "2025-01-26T15:21:52.985000Z",
@@ -32,7 +44,7 @@
     "https://medium.com/snowflake/how-to-build-an-interactive-query-performance-app-in-snowflake-notebooks-3fda4a71452d": {
         "title": "How to Build an Interactive Query Performance App in Snowflake Notebooks",
         "published": "2025-01-24T18:05:25.453000Z",
-        "updated": "2025-01-24T18:05:25.453000Z",
+        "updated": "2025-01-27T21:27:35.487000Z",
         "tags": "snowflake,streamlit,sql,query-optimization"
     },
     "https://medium.com/snowflake/how-to-analyze-query-performance-in-snowflake-3f5c24cf65bd": {
@@ -74,7 +86,7 @@
     "https://medium.com/snowflake/an-example-of-choosing-a-clustering-key-in-snowflake-3b23a35cd9b4": {
         "title": "An Example of Choosing a Clustering Key in Snowflake",
         "published": "2025-01-18T14:06:44.968000Z",
-        "updated": "2025-01-18T14:06:44.968000Z",
+        "updated": "2025-01-27T15:39:08.926000Z",
         "tags": "snowflake,performance,clustering"
     },
     "https://medium.com/snowflake/just-the-gist-constructing-geojson-io-url-in-snowflake-49fd2f637d10": {
