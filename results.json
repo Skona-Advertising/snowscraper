@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/how-to-build-a-query-cost-monitoring-tool-in-snowflake-notebooks-79bebcfdb315": {
+        "title": "How to Build a Query Cost Monitoring Tool in Snowflake Notebooks",
+        "published": "2025-01-29T21:56:30.532000Z",
+        "updated": "2025-01-29T21:56:30.532000Z",
+        "tags": "snowflake,streamlit,dashboard,sql,database"
+    },
+    "https://medium.com/snowflake/vancouver-snowflake-user-group-build-meetup-34bb3b8cbbe9": {
+        "title": "Vancouver Snowflake User Group BUILD Meetup",
+        "published": "2025-01-29T15:26:47.443000Z",
+        "updated": "2025-01-29T15:26:47.443000Z",
+        "tags": "snowflake,data-superhero,build,ai,meetup"
+    },
     "https://medium.com/snowflake/how-to-build-an-interactive-scheduled-query-execution-report-in-snowflake-notebooks-0eacbb728218": {
         "title": "How to Build an Interactive Scheduled Query Execution Report in Snowflake Notebooks",
         "published": "2025-01-28T20:06:30.053000Z",
