@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/snowflake-trail-for-snowpark-is-now-generally-available-b769e6ab5007": {
+        "title": "Snowflake Trail for Snowpark is Now Generally Available",
+        "published": "2025-01-30T18:02:09.490000Z",
+        "updated": "2025-01-30T21:52:15.379000Z",
+        "tags": "observability,data-engineering,snowflake,snowpark"
+    },
     "https://medium.com/snowflake/how-to-build-a-query-cost-monitoring-tool-in-snowflake-notebooks-79bebcfdb315": {
         "title": "How to Build a Query Cost Monitoring Tool in Snowflake Notebooks",
         "published": "2025-01-29T21:56:30.532000Z",
@@ -40,6 +46,12 @@
         "published": "2025-01-28T15:27:55.433000Z",
         "updated": "2025-01-28T15:27:55.433000Z",
         "tags": "snowflake,ai,sql"
+    },
+    "https://medium.com/snowflake/building-accurate-and-fast-semantic-search-with-voyage-ai-embeddings-in-snowflake-cortex-153476aa476e": {
+        "title": "Building Accurate and Fast Semantic Search with Voyage AI Embeddings in Snowflake Cortex",
+        "published": "2025-01-27T18:21:05.773000Z",
+        "updated": "2025-01-30T18:45:27.938000Z",
+        "tags": ""
     },
     "https://medium.com/snowflake/jira-ticket-summarization-using-snowflake-cortex-56eed4143790": {
         "title": "JIRA ticket summarization using Snowflake Cortex",
@@ -460,6 +472,12 @@
         "published": "2024-11-13T20:24:55.169000Z",
         "updated": "2024-11-13T23:53:15.012000Z",
         "tags": ""
+    },
+    "https://medium.com/snowflake/integrate-snowflake-cortex-analyst-rest-api-with-slack-0b70bde3cb7b": {
+        "title": "Integrate Snowflake Cortex Analyst REST API with Slack",
+        "published": "2024-11-13T20:04:50.165000Z",
+        "updated": "2024-11-26T03:37:19.425000Z",
+        "tags": "snowflake,slack,cortex-analyst,application,developer"
     },
     "https://medium.com/snowflake/best-practices-for-using-query-tag-in-snowflake-32bfb8d4efba": {
         "title": "Best Practices for Using QUERY_TAG in Snowflake",
@@ -2358,9 +2376,9 @@
         "tags": "snowflake,snowconvert,legacy-modernization,legacy-code"
     },
     "https://medium.com/snowflake/snowpark-migration-accelerator-the-ultimate-solution-to-all-your-spark-to-snowflake-migration-woes-aa91ca628faf": {
-        "title": "Snowpark Migration Accelerator \u2014The Ultimate Solution to All Your Spark to Snowflake Migration Woes",
+        "title": "Snowflake Snowconvert\u2014The Ultimate Solution to All Your Spark to Snowflake Migration Woes",
         "published": "2024-05-01T16:15:38.701000Z",
-        "updated": "2024-05-01T16:15:38.701000Z",
+        "updated": "2025-01-30T18:50:42.129000Z",
         "tags": "snowflake,data-superhero,snowpark,migration"
     },
     "https://medium.com/snowflake/manage-how-consumers-use-your-native-app-d8eeb4af8f5c": {
