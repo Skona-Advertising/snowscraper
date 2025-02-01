@@ -1,8 +1,14 @@
 {
+    "https://medium.com/snowflake/ultra-secure-identity-and-audience-profile-enrichment-made-simple-21e48a56ab4a": {
+        "title": "Ultra-Secure Identity and Audience Profile Enrichment Made Simple",
+        "published": "2025-01-31T16:02:03.703000Z",
+        "updated": "2025-01-31T16:02:03.703000Z",
+        "tags": "native-app,identity,audience,snowflake"
+    },
     "https://medium.com/snowflake/snowflake-trail-for-snowpark-is-now-generally-available-b769e6ab5007": {
         "title": "Snowflake Trail for Snowpark is Now Generally Available",
         "published": "2025-01-30T18:02:09.490000Z",
-        "updated": "2025-01-30T21:52:15.379000Z",
+        "updated": "2025-01-31T03:12:28.705000Z",
         "tags": "observability,data-engineering,snowflake,snowpark"
     },
     "https://medium.com/snowflake/how-to-build-a-query-cost-monitoring-tool-in-snowflake-notebooks-79bebcfdb315": {
