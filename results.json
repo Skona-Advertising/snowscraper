@@ -1,8 +1,32 @@
 {
+    "https://medium.com/snowflake/streamlit-in-snowflake-deployment-techniques-fc31f32fb391": {
+        "title": "Streamlit in Snowflake deployment techniques",
+        "published": "2025-02-01T16:01:09.567000Z",
+        "updated": "2025-02-01T16:01:09.567000Z",
+        "tags": "snowflake,streamlit-app-deployment,git,cicd"
+    },
+    "https://medium.com/snowflake/snowflake-perimeter-security-guidance-4a0365d758c9": {
+        "title": "Snowflake Perimeter Security Guidance",
+        "published": "2025-02-01T01:47:06.679000Z",
+        "updated": "2025-02-01T01:47:06.679000Z",
+        "tags": "snowflake,authentication,security,oauth"
+    },
+    "https://medium.com/snowflake/snowflake-oauth-managed-authorization-server-for-custom-clients-authorization-code-flow-45fcae23ffa2": {
+        "title": "Snowflake OAuth (managed authorization server) for custom clients (authorization code flow)",
+        "published": "2025-02-01T01:45:46.810000Z",
+        "updated": "2025-02-01T01:45:46.810000Z",
+        "tags": "snowflake,oauth,authorization-code,tableau,cybersecurity"
+    },
+    "https://medium.com/snowflake/snowflake-okta-scim-deep-dive-deployment-considerations-e8fb40dc911b": {
+        "title": "Snowflake | OKTA SCIM Deep Dive & Deployment Considerations",
+        "published": "2025-02-01T01:45:40.413000Z",
+        "updated": "2025-02-01T01:45:40.413000Z",
+        "tags": "okta,snowflake,scim,iam-roles,identity-management"
+    },
     "https://medium.com/snowflake/ultra-secure-identity-and-audience-profile-enrichment-made-simple-21e48a56ab4a": {
         "title": "Ultra-Secure Identity and Audience Profile Enrichment Made Simple",
         "published": "2025-01-31T16:02:03.703000Z",
-        "updated": "2025-01-31T16:02:03.703000Z",
+        "updated": "2025-02-01T12:48:01.337000Z",
         "tags": "native-app,identity,audience,snowflake"
     },
     "https://medium.com/snowflake/snowflake-trail-for-snowpark-is-now-generally-available-b769e6ab5007": {
@@ -10,6 +34,12 @@
         "published": "2025-01-30T18:02:09.490000Z",
         "updated": "2025-01-31T03:12:28.705000Z",
         "tags": "observability,data-engineering,snowflake,snowpark"
+    },
+    "https://medium.com/snowflake/running-deepseek-in-snowflake-dd08cf353fd6": {
+        "title": "Running DeepSeek in Snowflake",
+        "published": "2025-01-30T12:58:26.144000Z",
+        "updated": "2025-02-01T01:49:43.510000Z",
+        "tags": "llm,genai,snowflake,ollama,streamlit"
     },
     "https://medium.com/snowflake/how-to-build-a-query-cost-monitoring-tool-in-snowflake-notebooks-79bebcfdb315": {
         "title": "How to Build a Query Cost Monitoring Tool in Snowflake Notebooks",
@@ -22,6 +52,12 @@
         "published": "2025-01-29T15:26:47.443000Z",
         "updated": "2025-01-29T15:26:47.443000Z",
         "tags": "snowflake,data-superhero,build,ai,meetup"
+    },
+    "https://medium.com/snowflake/streaming-data-to-snowflake-with-redpanda-connect-03c4c02dfd37": {
+        "title": "Streaming Data to Snowflake with Redpanda Connect",
+        "published": "2025-01-29T15:04:14.668000Z",
+        "updated": "2025-02-01T01:49:59.769000Z",
+        "tags": ""
     },
     "https://medium.com/snowflake/how-to-build-an-interactive-scheduled-query-execution-report-in-snowflake-notebooks-0eacbb728218": {
         "title": "How to Build an Interactive Scheduled Query Execution Report in Snowflake Notebooks",
@@ -119,6 +155,12 @@
         "updated": "2025-01-23T17:07:17.136000Z",
         "tags": "snowflake,mfa,cybersecurity,streamlit,python"
     },
+    "https://medium.com/snowflake/research-assistant-with-langgraph-and-claude-3-5-sonnet-on-snowflake-4eb294aea81a": {
+        "title": "Research Assistant with LangGraph and Claude 3.5 Sonnet on Snowflake",
+        "published": "2025-01-22T21:09:22.187000Z",
+        "updated": "2025-02-01T01:50:13.603000Z",
+        "tags": "genai,snowflake,langgraph,agents,python"
+    },
     "https://medium.com/snowflake/launch-snowflake-notebooks-with-one-line-of-code-06958b706403": {
         "title": "Launch Snowflake Notebooks with One Line of Code",
         "published": "2025-01-22T21:02:05.329000Z",
@@ -166,6 +208,12 @@
         "published": "2025-01-16T14:06:01.296000Z",
         "updated": "2025-01-24T05:35:24.406000Z",
         "tags": "snowpark,cortex,generative-ai-tools,open-source,ai"
+    },
+    "https://medium.com/snowflake/why-are-many-organizations-still-unable-to-successfully-migrate-their-data-platforms-to-the-cloud-d29d99844bd8": {
+        "title": "Why Are Many Organizations Still Unable to Successfully Migrate Their Data Platforms to the Cloud?",
+        "published": "2025-01-16T04:06:02.213000Z",
+        "updated": "2025-02-01T01:45:52.275000Z",
+        "tags": "snowflake,migration,data-warehouse,data-lake,data-platform-engineering"
     },
     "https://medium.com/snowflake/load-problematic-avro-files-into-snowflake-a-step-by-step-guide-3dd0b5e11e01": {
         "title": "Load Problematic AVRO Files into Snowflake: A Step-by-Step Guide",
@@ -2030,7 +2078,7 @@
     "https://medium.com/snowflake/faster-parquet-data-ingestion-with-snowflake-use-vectorized-scanner-28679bcff450": {
         "title": "Faster Parquet Data Ingestion with Snowflake USE_VECTORIZED_SCANNER",
         "published": "2024-05-31T19:48:39.147000Z",
-        "updated": "2024-10-17T02:45:22.518000Z",
+        "updated": "2025-02-01T04:21:00.039000Z",
         "tags": "snowflake,data-pipeline,data-ingestion,parquet,snowflake-data-cloud"
     },
     "https://medium.com/snowflake/how-booking-com-enforces-policy-across-a-hybrid-data-ecosystem-with-immuta-aws-and-snowflake-d92df507c3d0": {
