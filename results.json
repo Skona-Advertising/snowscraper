@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/demystifying-predictions-a-practical-guide-to-using-lime-with-snowflake-ml-powered-functions-e1ea863dfdd8": {
+        "title": "Demystifying Predictions: A Practical Guide to Using LIME with Snowflake ML Powered Functions",
+        "published": "2025-02-02T15:02:12.952000Z",
+        "updated": "2025-02-02T15:02:12.952000Z",
+        "tags": "snowflake,ai,mlops,explainable-ai,shapley-values"
+    },
     "https://medium.com/snowflake/streamlit-in-snowflake-deployment-techniques-fc31f32fb391": {
         "title": "Streamlit in Snowflake deployment techniques",
         "published": "2025-02-01T16:01:09.567000Z",
