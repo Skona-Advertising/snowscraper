@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/definitive-guide-for-data-ingestion-to-apache-iceberg-with-snowflake-part-1-e0a053ecb1d": {
+        "title": "Definitive Guide for Data Ingestion to Apache Iceberg\u2122 with Snowflake: Part 1",
+        "published": "2025-02-03T16:49:27.143000Z",
+        "updated": "2025-02-03T19:23:03.163000Z",
+        "tags": "data-engineering,snowflake-data-cloud,apache-iceberg,apache-parquet,snowflake-computing"
+    },
+    "https://medium.com/snowflake/mastering-teradata-varchar-migration-to-snowflake-ansi-mode-23ee47166a82": {
+        "title": "Mastering Teradata VARCHAR migration to Snowflake (ANSI Mode)",
+        "published": "2025-02-03T15:02:08.715000Z",
+        "updated": "2025-02-03T15:02:08.715000Z",
+        "tags": "migration,snowconvert,snowflake,ansi-mode,varchar"
+    },
     "https://medium.com/snowflake/demystifying-predictions-a-practical-guide-to-using-lime-with-snowflake-ml-powered-functions-e1ea863dfdd8": {
         "title": "Demystifying Predictions: A Practical Guide to Using LIME with Snowflake ML Powered Functions",
         "published": "2025-02-02T15:02:12.952000Z",
@@ -8694,9 +8706,9 @@
         "tags": "snowflake,geospatial,anonymization"
     },
     "https://medium.com/snowflake/all-snowflake-coding-entry-points-version-6-august-2022-63308e06657c": {
-        "title": "All Snowflake coding ~ entry points version 6 August 2022",
+        "title": "All Snowflake coding ~ entry points version 3 February 2025",
         "published": "2022-08-06T15:04:41.579000Z",
-        "updated": "2022-11-15T18:33:12.740000Z",
+        "updated": "2025-02-03T13:46:55.784000Z",
         "tags": "snowflake,snowflake-connector,development,snowpark,sql"
     },
     "https://medium.com/snowflake/snowflake-transferring-pipe-ownership-ec1fcdd6a488": {
