@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/enhancing-3d-lung-ct-segmentation-with-fine-tuned-u-net-in-snowflake-d8774751f1bc": {
+        "title": "Enhancing 3D Lung CT Segmentation with Fine-Tuned U-Net in Snowflake",
+        "published": "2025-02-04T15:01:32.693000Z",
+        "updated": "2025-02-04T15:01:32.693000Z",
+        "tags": "deep-learning,medical-imaging,healthcare,artificial-intelligence,computer-vision"
+    },
     "https://medium.com/snowflake/definitive-guide-for-data-ingestion-to-apache-iceberg-with-snowflake-part-1-e0a053ecb1d": {
         "title": "Definitive Guide for Data Ingestion to Apache Iceberg\u2122 with Snowflake: Part 1",
         "published": "2025-02-03T16:49:27.143000Z",
@@ -26,7 +32,7 @@
     "https://medium.com/snowflake/snowflake-perimeter-security-guidance-4a0365d758c9": {
         "title": "Snowflake Perimeter Security Guidance",
         "published": "2025-02-01T01:47:06.679000Z",
-        "updated": "2025-02-01T01:47:06.679000Z",
+        "updated": "2025-02-04T16:17:05.764000Z",
         "tags": "snowflake,authentication,security,oauth"
     },
     "https://medium.com/snowflake/snowflake-oauth-managed-authorization-server-for-custom-clients-authorization-code-flow-45fcae23ffa2": {
