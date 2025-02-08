@@ -1,8 +1,14 @@
 {
+    "https://medium.com/snowflake/how-to-build-a-deepseek-r1-chatbot-1edbf6e5e9fe": {
+        "title": "How to build a DeepSeek-R1 chatbot",
+        "published": "2025-02-07T19:53:50.335000Z",
+        "updated": "2025-02-07T19:53:50.335000Z",
+        "tags": "snowflake,chatbots,deepseek-r1,deepseek,ai"
+    },
     "https://medium.com/snowflake/celebrating-the-2025-data-superheroes-the-innovators-trailblazers-and-changemakers-8e219e48587a": {
         "title": "Celebrating the 2025 Data Superheroes\u2013the Innovators, Trailblazers, and Changemakers",
         "published": "2025-02-05T17:02:22.603000Z",
-        "updated": "2025-02-05T17:02:22.603000Z",
+        "updated": "2025-02-07T18:58:56.968000Z",
         "tags": "data-superhero,community,content-creators,community-leadership,snowflake"
     },
     "https://medium.com/snowflake/how-snowflake-helps-with-hipaa-compliance-8e578f353b1a": {
@@ -14,7 +20,7 @@
     "https://medium.com/snowflake/enhancing-3d-lung-ct-segmentation-with-fine-tuned-u-net-in-snowflake-d8774751f1bc": {
         "title": "Enhancing 3D Lung CT Segmentation with Fine-Tuned U-Net in Snowflake",
         "published": "2025-02-04T15:01:32.693000Z",
-        "updated": "2025-02-04T15:01:32.693000Z",
+        "updated": "2025-02-07T02:56:25.345000Z",
         "tags": "deep-learning,medical-imaging,healthcare,artificial-intelligence,computer-vision"
     },
     "https://medium.com/snowflake/definitive-guide-for-data-ingestion-to-apache-iceberg-with-snowflake-part-1-e0a053ecb1d": {
@@ -28,6 +34,12 @@
         "published": "2025-02-03T15:02:08.715000Z",
         "updated": "2025-02-03T15:02:08.715000Z",
         "tags": "migration,snowconvert,snowflake,ansi-mode,varchar"
+    },
+    "https://medium.com/snowflake/how-to-use-snowflakes-cortex-analyst-8c575b1300f8": {
+        "title": "How to use Snowflake\u2019s Cortex Analyst",
+        "published": "2025-02-02T17:33:37.001000Z",
+        "updated": "2025-02-07T19:55:25.577000Z",
+        "tags": "daanalytis,cortex-ai,cortex-analyst,semantic-model-generator,streamlit"
     },
     "https://medium.com/snowflake/demystifying-predictions-a-practical-guide-to-using-lime-with-snowflake-ml-powered-functions-e1ea863dfdd8": {
         "title": "Demystifying Predictions: A Practical Guide to Using LIME with Snowflake ML Powered Functions",
