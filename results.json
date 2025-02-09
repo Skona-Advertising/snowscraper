@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/kawa-redefining-data-application-building-in-snowflake-b32921c04f08": {
+        "title": "KAWA: Redefining Data Application Building In Snowflake",
+        "published": "2025-02-08T14:57:00.438000Z",
+        "updated": "2025-02-08T14:57:00.438000Z",
+        "tags": "no-code-app-builder,workflow-automation,ai-powered,snowflake,enterprise-solutions"
+    },
     "https://medium.com/snowflake/how-to-build-a-deepseek-r1-chatbot-1edbf6e5e9fe": {
         "title": "How to build a DeepSeek-R1 chatbot",
         "published": "2025-02-07T19:53:50.335000Z",
@@ -7841,12 +7847,6 @@
         "updated": "2023-06-23T14:32:19.097000Z",
         "tags": "time-series-database,snowflake-data-cloud,time-series-data,time-series-analysis,snowflake"
     },
-    "https://medium.com/snowflake/hey-snowflake-send-me-an-email-243741a0fe3": {
-        "title": "Hey Snowflake, send me an email",
-        "published": "2022-11-29T20:06:08.679000Z",
-        "updated": "2022-11-30T02:00:34.087000Z",
-        "tags": "snowflake,data-science,data-engineering,automation"
-    },
     "https://medium.com/snowflake/what-is-snowflake-query-acceleration-service-e0a608ddf5f1": {
         "title": "What is Snowflake Query Acceleration Service?",
         "published": "2022-11-28T14:37:57.709000Z",
@@ -8068,12 +8068,6 @@
         "published": "2022-11-02T18:06:48.359000Z",
         "updated": "2022-11-02T18:06:48.359000Z",
         "tags": "snowflake,customer-360"
-    },
-    "https://medium.com/snowflake/from-bigquery-director-to-snowflake-user-with-dan-delorey-vp-of-data-at-sofi-6ae02f813b3b": {
-        "title": "From BigQuery Director to Snowflake user\u200a\u2014\u200awith Dan Delorey, VP of Data at Sofi",
-        "published": "2022-11-02T17:28:16.699000Z",
-        "updated": "2022-11-02T20:26:31.027000Z",
-        "tags": "snowflake,bigquery,data-mesh,data-science,data-engineering"
     },
     "https://medium.com/snowflake/snowflake-admin-series-account-replication-and-failover-a-great-relief-part-2-bb0f4d1a4d2a": {
         "title": "Snowflake Admin Series: Account Replication and Failover, a great relief\u00a0\u2026Part 2",
@@ -8405,12 +8399,6 @@
         "updated": "2022-09-21T21:17:42.694000Z",
         "tags": "cybersecurity,threat-detection,detection-engineering,snowflake"
     },
-    "https://medium.com/snowflake/facebook-prophet-forecasts-running-in-snowflake-with-snowpark-14fc870b56ae": {
-        "title": "Facebook Prophet forecasts running in Snowflake with Snowpark",
-        "published": "2022-09-21T16:23:06.550000Z",
-        "updated": "2023-08-29T21:48:04.741000Z",
-        "tags": "snowflake,data-science,python,time-series-forecasting,sql"
-    },
     "https://medium.com/snowflake/lets-talk-about-some-better-practices-with-snowpark-python-python-udfs-and-stored-procs-903314944402": {
         "title": "Let\u2019s talk about some \u201cbetter practices\u201d with Snowpark Python, Python UDFs and Stored Procs",
         "published": "2022-09-20T19:31:15.751000Z",
@@ -8609,12 +8597,6 @@
         "updated": "2022-08-24T12:02:45.984000Z",
         "tags": "data-superhero,snowflake"
     },
-    "https://medium.com/snowflake/inside-snowflake-optimizing-the-query-optimizer-redundant-semi-joins-and-anti-joins-6da855dc56da": {
-        "title": "Inside Snowflake\u200a\u2014\u200a Optimizing the Query Optimizer: Redundant Semi-Joins and Anti-Joins",
-        "published": "2022-08-23T16:52:09.059000Z",
-        "updated": "2022-09-08T05:37:17.765000Z",
-        "tags": "snowflake,data-science,careers,optimization,performance"
-    },
     "https://medium.com/snowflake/longterm-archival-strategy-for-snowflake-considerations-f075858651b6": {
         "title": "Longterm Archival Strategy for Snowflake\u00a0: Considerations",
         "published": "2022-08-23T13:55:54.725000Z",
@@ -8674,12 +8656,6 @@
         "published": "2022-08-17T02:29:58.114000Z",
         "updated": "2023-04-10T03:54:34.007000Z",
         "tags": "snowflake,snowflake-data-cloud,data-protection,data-warehouse"
-    },
-    "https://medium.com/snowflake/new-in-snowflake-marketplace-monetization-315aa90b86c": {
-        "title": "New in Snowflake: Marketplace Monetization \u2014 Self service access to Premium datasets",
-        "published": "2022-08-15T22:55:46.033000Z",
-        "updated": "2022-08-15T23:01:34.554000Z",
-        "tags": "snowflake,data-science,dataset,marketplaces"
     },
     "https://medium.com/snowflake/details-to-know-about-snowflake-parameters-part-1-702ac077c152": {
         "title": "Details to know about Snowflake Parameters (Part 1)",
@@ -8782,12 +8758,6 @@
         "published": "2022-07-27T16:01:06.536000Z",
         "updated": "2022-07-27T16:01:06.536000Z",
         "tags": "best-practices,snowflake,snowflake-data-cloud"
-    },
-    "https://medium.com/snowflake/generating-all-the-holidays-in-sql-with-a-python-udtf-4397f190252b": {
-        "title": "Generating all the Holidays in SQL\u200a\u2014\u200awith a Python UDTF",
-        "published": "2022-07-26T16:42:58.735000Z",
-        "updated": "2023-03-10T06:00:45.859000Z",
-        "tags": "snowflake,sql,python,data-science,data-engineering"
     },
     "https://medium.com/snowflake/part-3-testing-snowflakes-foundationdb-metadata-store-migration-262921fbfc7d": {
         "title": "Part 3: Testing Snowflake\u2019s FoundationDB Metadata Store Migration",
@@ -8908,12 +8878,6 @@
         "published": "2022-07-13T20:55:29.627000Z",
         "updated": "2022-07-21T19:56:21.637000Z",
         "tags": "python,snowflake,machine-learning,deepnote,sql"
-    },
-    "https://medium.com/snowflake/easiest-arima-predictions-in-snowflake-with-a-python-udf-b33f06cb2d8c": {
-        "title": "Easiest ARIMA predictions in Snowflake with a Python UDF",
-        "published": "2022-07-12T17:24:18.227000Z",
-        "updated": "2022-09-21T16:33:48.890000Z",
-        "tags": "snowflake,data-science,machine-learning,programming,forecasting"
     },
     "https://medium.com/snowflake/driving-dashboard-adoption-through-better-data-visualization-and-design-debd7888623": {
         "title": "Driving Dashboard Adoption Through Better Data Visualization and Design",
@@ -9095,12 +9059,6 @@
         "updated": "2022-06-11T02:03:33.125000Z",
         "tags": "data-superhero"
     },
-    "https://medium.com/snowflake/tal-shaked-on-joining-snowflake-after-16-years-at-google-c020714425e7": {
-        "title": "Tal Shaked on joining Snowflake after 16 years at Google: The future of ML",
-        "published": "2022-06-10T15:07:04.022000Z",
-        "updated": "2022-06-10T15:08:52.277000Z",
-        "tags": "data-science,machine-learning,snowflake,careers"
-    },
     "https://medium.com/snowflake/snowflake-semi-structure-data-function-be903f3092ce": {
         "title": "Snowflake Semi-Structure Data Function",
         "published": "2022-06-10T07:03:06.537000Z",
@@ -9167,12 +9125,6 @@
         "updated": "2022-06-06T06:11:36.049000Z",
         "tags": "snowflake,cloud-computing,database,data-science,data-superhero"
     },
-    "https://medium.com/snowflake/bigquerys-hyperloglog-as-a-snowflake-java-udtf-f99e5e84f9cc": {
-        "title": "BigQuery\u2019s HyperLogLog++ as a Snowflake Java UDTF",
-        "published": "2022-06-03T17:08:46.862000Z",
-        "updated": "2024-05-30T03:14:29.183000Z",
-        "tags": "snowflake,data-science,algorithms,bigquery"
-    },
     "https://medium.com/snowflake/a-b-testing-in-the-data-cloud-7177343246": {
         "title": "A/B Testing In The Data Cloud",
         "published": "2022-06-03T16:06:12.368000Z",
@@ -9208,12 +9160,6 @@
         "published": "2022-05-27T21:37:33.704000Z",
         "updated": "2022-05-27T21:37:33.704000Z",
         "tags": "data-superhero,excel,odbc,snowflake"
-    },
-    "https://medium.com/snowflake/magic-data-apps-with-snowflake-streamlit-and-duckdb-c0dfc0d1fbe2": {
-        "title": "Magic Data Apps with Snowflake, Streamlit, and DuckDB",
-        "published": "2022-05-27T14:34:37.819000Z",
-        "updated": "2022-05-27T16:05:22.304000Z",
-        "tags": "snowflake,duckdb,data-science,data-visualization"
     },
     "https://medium.com/snowflake/how-to-use-an-encrypted-private-key-in-key-pair-authentication-with-terraform-plugin-for-snowflake-ba5ea63278ec": {
         "title": "How to use an encrypted private key in key pair authentication with Terraform plugin for Snowflake",
@@ -9539,12 +9485,6 @@
         "updated": "2022-04-10T17:04:28.922000Z",
         "tags": "snowflake,azure-data-factory,migration,azure-synapse-analytics,sql-server"
     },
-    "https://medium.com/snowflake/what-i-learned-at-data-council-austin-2022-a-snowflake-experience-b97a09272a07": {
-        "title": "What I learned at Data Council Austin 2022: A Snowflake experience",
-        "published": "2022-03-30T15:56:52.613000Z",
-        "updated": "2022-04-02T03:06:26.956000Z",
-        "tags": "snowflake,data-science,conference,data-analytics"
-    },
     "https://medium.com/snowflake/snowflake-parameters-a-centralized-cockpit-control-part-1-c80cb11179fd": {
         "title": "Snowflake Admin Series: Snowflake Parameters- a centralized cockpit control-Part 1",
         "published": "2022-03-28T07:04:22.870000Z",
@@ -9857,12 +9797,6 @@
         "updated": "2022-01-20T19:54:01.315000Z",
         "tags": "snowflake,python,snowpark,data-science,sql"
     },
-    "https://medium.com/snowflake/lightweight-batch-streaming-to-snowflake-with-gcp-pub-sub-1790ab76da31": {
-        "title": "Lightweight batch streaming to Snowflake with GCP Pub/Sub",
-        "published": "2021-12-15T20:22:08.511000Z",
-        "updated": "2022-08-11T17:03:01.389000Z",
-        "tags": "snowflake,data-science,real-time-streaming-data,data-engineering,google-pubsub"
-    },
     "https://medium.com/snowflake/3-ways-data-engineers-at-snowflake-leverage-reverse-etl-1eb106bf6079": {
         "title": "3 Ways Data Engineers at Snowflake Leverage Reverse ETL",
         "published": "2021-12-14T17:20:39.442000Z",
@@ -9874,12 +9808,6 @@
         "published": "2021-12-13T07:13:57.532000Z",
         "updated": "2021-12-13T15:32:31.765000Z",
         "tags": "snowflake,infrastructure-as-code,snowflake-data-cloud,github-actions"
-    },
-    "https://medium.com/snowflake/loading-all-hacker-news-comments-into-snowflake-in-less-than-1-minute-728100f38272": {
-        "title": "Loading all Hacker News comments into Snowflake (in less than 1 minute)",
-        "published": "2021-12-10T19:37:42.003000Z",
-        "updated": "2022-03-03T19:19:10.827000Z",
-        "tags": "snowflake,data-science,sql,hacker-news"
     },
     "https://medium.com/snowflake/what-do-you-do-if-you-have-an-old-slow-notebook-a-160-million-row-dataset-containing-customer-f4c280009aee": {
         "title": "Running Python Workloads on Scalable Snowflake Compute Clusters",
@@ -9952,12 +9880,6 @@
         "published": "2021-11-16T16:04:03.830000Z",
         "updated": "2021-11-16T16:04:03.830000Z",
         "tags": "snowpark,machine-learning,snowflake,scala"
-    },
-    "https://medium.com/snowflake/google-analytics-4-in-snowflake-sql-cookbook-d455087882c9": {
-        "title": "Google Analytics 4 in Snowflake: SQL Cookbook",
-        "published": "2021-11-15T19:58:43.472000Z",
-        "updated": "2024-04-27T05:14:52.510000Z",
-        "tags": "snowflake,google-analytics,sql,data-science"
     },
     "https://medium.com/snowflake/snowflake-and-elvt-vs-elt-etl-case-study-part-1-the-no-data-model-data-architecture-4e3346956738": {
         "title": "Snowflake and ELVT vs [ELT|ETL]\u200a\u2014\u200aCase Study Part 1, The \u201cNo Data Model\u201d Data Architecture",
@@ -10073,12 +9995,6 @@
         "updated": "2021-10-08T17:49:00.202000Z",
         "tags": "purple-air,data-science,snowflake"
     },
-    "https://medium.com/snowflake/weather-source-on-the-snowflake-data-marketplace-1a6d5272c839": {
-        "title": "Weather Source on the Snowflake Data Marketplace",
-        "published": "2021-10-05T19:13:03.493000Z",
-        "updated": "2021-10-12T19:01:22.897000Z",
-        "tags": "snowflake,weather,data-science,forecasting,data-analysis"
-    },
     "https://medium.com/snowflake/tracking-threat-actors-in-azure-using-snowflake-b37539dc103c": {
         "title": "Tracking Threat Actors in Azure using Snowflake",
         "published": "2021-10-04T13:52:04.119000Z",
@@ -10114,12 +10030,6 @@
         "published": "2021-09-24T18:06:12.312000Z",
         "updated": "2021-09-24T22:21:10.405000Z",
         "tags": "unstructured-data,snowflake,data-pipeline,data-sharing,cloud"
-    },
-    "https://medium.com/snowflake/geoclustering-with-snowflake-and-cartos-shared-functions-27139a2627dd": {
-        "title": "Geoclustering with Snowflake and CARTO\u2019s Shared Functions",
-        "published": "2021-09-24T16:53:30.052000Z",
-        "updated": "2022-10-13T05:49:58Z",
-        "tags": "snowflake,gis,data-science,data-visualization"
     },
     "https://medium.com/snowflake/snowpark-meets-azure-devops-to-enable-automation-of-building-data-pipelines-c5bf0fc4ff1a": {
         "title": "Snowpark meets Azure DevOps to enable automation of building data pipelines",
@@ -10271,12 +10181,6 @@
         "updated": "2021-08-12T20:09:51.269000Z",
         "tags": "snowflake,snowpark,data-engineering,data-science"
     },
-    "https://medium.com/snowflake/loading-reddit-comments-into-snowflake-44b9f2072a84": {
-        "title": "Loading 261GB of reddit comments into Snowflake",
-        "published": "2021-08-11T17:12:26.785000Z",
-        "updated": "2021-08-12T20:16:17.454000Z",
-        "tags": "snowflake,reddit,data-science,data-engineering,sql"
-    },
     "https://medium.com/snowflake/self-service-analytics-in-thoughtspot-a-first-exploration-a2740e545cc5": {
         "title": "Self-Service Analytics in ThoughtSpot\u200a\u2014\u200aa first exploration",
         "published": "2021-08-11T12:27:38.130000Z",
@@ -10336,12 +10240,6 @@
         "published": "2021-07-16T12:28:30.640000Z",
         "updated": "2021-07-16T12:28:30.640000Z",
         "tags": "snowflake,github-actions,python3,devops,open-source"
-    },
-    "https://medium.com/snowflake/measuring-customer-engagement-with-braze-and-snowflake-49c37b432db4": {
-        "title": "Measuring Customer Engagement with Braze and Snowflake",
-        "published": "2021-07-14T22:58:54.297000Z",
-        "updated": "2021-07-30T02:54:29.934000Z",
-        "tags": "snowflake,data-science,customer-engagement,analytics,open-data"
     },
     "https://medium.com/snowflake/driving-data-sharing-inside-your-organisation-5c1eacba9f87": {
         "title": "Driving data sharing inside your organisation",
@@ -10403,12 +10301,6 @@
         "updated": "2022-03-02T14:22:57.381000Z",
         "tags": "data-governance,audit-history,snowflake-computing,snowflakedb,snowflake"
     },
-    "https://medium.com/snowflake/new-in-snowflake-java-udfs-with-a-kotlin-nlp-example-e52d94d33468": {
-        "title": "New in Snowflake: Java UDFs (with a Kotlin NLP example)",
-        "published": "2021-06-16T20:49:05.227000Z",
-        "updated": "2021-07-14T20:10:54.785000Z",
-        "tags": "java,sql,snowflake,kotlin,nlp"
-    },
     "https://medium.com/snowflake/snowflakes-elastic-cloud-services-7dfcb165a612": {
         "title": "Snowflake\u2019s Elastic Cloud Services",
         "published": "2021-06-15T15:20:28.022000Z",
@@ -10432,12 +10324,6 @@
         "published": "2021-05-28T09:37:56.384000Z",
         "updated": "2021-05-28T16:49:15.431000Z",
         "tags": "data-ownership,snowflake-data-cloud,data-sharing,data-leadership,snowflake"
-    },
-    "https://medium.com/snowflake/car-rental-prices-at-record-highs-explore-the-trends-with-data-from-ql2-and-snowflake-ba0f3a946782": {
-        "title": "Car rental prices at record highs: Explore the trends with data from QL2 and Snowflake",
-        "published": "2021-05-27T18:02:30.633000Z",
-        "updated": "2021-05-27T18:02:30.633000Z",
-        "tags": "snowflake,data-science,visualization,data,travel"
     },
     "https://medium.com/snowflake/best-practices-data-migration-from-teradata-to-aws-snowflake-b4f3f714ead7": {
         "title": "Best practices: Data migration from Teradata to AWS, Snowflake",
@@ -10492,12 +10378,6 @@
         "published": "2021-05-06T07:26:04.938000Z",
         "updated": "2021-07-15T20:56:00.892000Z",
         "tags": "dataiku,cloud-data-warehouse,etl-tool,data-pipeline"
-    },
-    "https://medium.com/snowflake/dynamic-data-masks-protect-sensitive-data-with-snowflake-superhero-edition-20a00773f951": {
-        "title": "Dynamic Data Masks: Protect sensitive data with Snowflake (superhero edition)",
-        "published": "2021-05-04T14:33:31.482000Z",
-        "updated": "2021-05-05T15:26:14.130000Z",
-        "tags": "snowflake,data-science,privacy-protection,sql,compliance"
     },
     "https://medium.com/snowflake/transform-snowflake-data-marketplace-data-using-dbt-a36a668d9a74": {
         "title": "Transform Snowflake Data Marketplace data using dbt",
@@ -10582,12 +10462,6 @@
         "published": "2021-04-14T17:47:09.954000Z",
         "updated": "2022-06-06T06:12:24.062000Z",
         "tags": "snowflake,architecture,snow,guides-and-tutorials,certification"
-    },
-    "https://medium.com/snowflake/evas-first-days-of-snowflake-tableau-visualizations-604ffcaf6e4d": {
-        "title": "Eva\u2019s first days of Snowflake+Tableau visualizations",
-        "published": "2021-04-12T19:35:58.465000Z",
-        "updated": "2021-04-12T19:37:32.324000Z",
-        "tags": "snowflake,tableau,data-science,visualization,open-data"
     },
     "https://medium.com/snowflake/working-with-xml-in-snowflake-part-iii-6849fa4ca0ee": {
         "title": "Working with XML in Snowflake: Part III",
@@ -10685,12 +10559,6 @@
         "updated": "2022-08-26T16:53:40.690000Z",
         "tags": "snowflake,snowsql,command-line"
     },
-    "https://medium.com/snowflake/tracking-the-vaccination-progress-with-snowflake-and-starschema-bfc68a45cb70": {
-        "title": "Tracking the vaccination progress with Snowflake and Starschema",
-        "published": "2021-03-12T18:42:58.805000Z",
-        "updated": "2021-03-30T18:47:06.193000Z",
-        "tags": "snowflake,covid19,sql,data-science"
-    },
     "https://medium.com/snowflake/managing-snowflake-roles-grants-and-privileges-with-snowflake-grant-report-dd40cb752d5d": {
         "title": "Managing Snowflake Roles, Grants and Privileges with Snowflake Grant Report",
         "published": "2021-03-11T23:09:58.248000Z",
@@ -10738,12 +10606,6 @@
         "published": "2021-02-17T18:37:30.294000Z",
         "updated": "2022-12-17T23:15:32.359000Z",
         "tags": "snowflake,vscode-extension,sql,developer-tools"
-    },
-    "https://medium.com/snowflake/knoema-datasets-and-the-snowflake-data-marketplace-challenge-95ff0d7ac6eb": {
-        "title": "Knoema Datasets and the Snowflake Data Marketplace Challenge",
-        "published": "2021-02-17T00:20:12.794000Z",
-        "updated": "2021-04-10T04:25:19.264000Z",
-        "tags": "snowflake,data-science,visualization,dataset,open-data"
     },
     "https://medium.com/snowflake/agile-cost-management-in-snowflake-part-2-storage-9a86a7cf523a": {
         "title": "Agile Cost Management in Snowflake\u200a\u2014\u200aPart 2, Storage",
@@ -10834,12 +10696,6 @@
         "published": "2020-12-15T16:48:21.032000Z",
         "updated": "2020-12-15T16:49:28.694000Z",
         "tags": "snowflake,sql,data-visualization,covid19,data-marketplace"
-    },
-    "https://medium.com/snowflake/snowflakebytes-fantasy-football-with-thoughtspot-and-snowflake-e74144b52548": {
-        "title": "#SnowflakeBytes: Fantasy Football with ThoughtSpot and Snowflake",
-        "published": "2020-12-09T21:51:07.299000Z",
-        "updated": "2021-02-05T21:39:49.248000Z",
-        "tags": "snowflake,fantasy-football,data,thoughtspot"
     },
     "https://medium.com/snowflake/the-journey-behind-successful-cloud-data-app-432fc42ffc12": {
         "title": "Building a Cloud Data Application with Snowflake",
