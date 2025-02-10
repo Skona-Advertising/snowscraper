@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/introducing-snowpark-checkpoints-seamlessly-validate-your-apache-pyspark-to-snowpark-python-f3242b442961": {
+        "title": "Introducing Snowpark Checkpoints: Seamlessly Validate Your Apache PySpark to Snowpark Python\u2026",
+        "published": "2025-02-09T14:56:24.626000Z",
+        "updated": "2025-02-09T14:56:24.626000Z",
+        "tags": "snowpark,pyspark"
+    },
     "https://medium.com/snowflake/kawa-redefining-data-application-building-in-snowflake-b32921c04f08": {
         "title": "KAWA: Redefining Data Application Building In Snowflake",
         "published": "2025-02-08T14:57:00.438000Z",
