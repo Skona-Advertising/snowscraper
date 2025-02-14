@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/building-multi-tool-agents-on-snowflake-a-hands-on-guide-911488d6ab99": {
+        "title": "Building Multi-Tool Agents on Snowflake: A Hands-On Guide",
+        "published": "2025-02-13T15:12:31.568000Z",
+        "updated": "2025-02-13T15:12:31.568000Z",
+        "tags": "generative-ai-solution,multi-tool,agents,snowflake,ai-ml-framework"
+    },
     "https://medium.com/snowflake/getting-started-with-event-sharing-to-instrument-and-collect-telemetry-events-for-snowflake-native-e8b717b23eaf": {
         "title": "Getting Started with Event Sharing to Instrument and Collect Telemetry Events for Snowflake Native\u2026",
         "published": "2025-02-10T14:56:16.869000Z",
@@ -94,6 +100,12 @@
         "published": "2025-01-31T16:02:03.703000Z",
         "updated": "2025-02-01T12:48:01.337000Z",
         "tags": "native-app,identity,audience,snowflake"
+    },
+    "https://medium.com/snowflake/extensible-genai-with-snowflake-cortex-ai-77f5617cec54": {
+        "title": "Extensible GenAI with Snowflake Cortex AI",
+        "published": "2025-01-31T15:24:14.692000Z",
+        "updated": "2025-02-13T01:52:10.300000Z",
+        "tags": ""
     },
     "https://medium.com/snowflake/snowflake-trail-for-snowpark-is-now-generally-available-b769e6ab5007": {
         "title": "Snowflake Trail for Snowpark is Now Generally Available",
@@ -214,6 +226,12 @@
         "published": "2025-01-24T18:05:20.496000Z",
         "updated": "2025-01-24T18:05:20.496000Z",
         "tags": "sql,snowflake,query,query-optimization,query-analysis"
+    },
+    "https://medium.com/snowflake/bundle-change-2024-08-default-secondary-roles-to-all-96135d932051": {
+        "title": "Bundle Change 2024_08 -> DEFAULT_SECONDARY_ROLES to ALL",
+        "published": "2025-01-24T08:24:21.244000Z",
+        "updated": "2025-02-13T01:52:59.401000Z",
+        "tags": "snowflake,snowflake-data-cloud,rbac,database,snowflake-computing"
     },
     "https://medium.com/snowflake/how-to-build-an-mfa-audit-system-with-streamlit-in-snowflake-notebooks-6d27abce9e90": {
         "title": "How to Build an MFA Audit System with Streamlit in Snowflake Notebooks",
