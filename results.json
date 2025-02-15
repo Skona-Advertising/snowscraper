@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/transform-your-addresses-in-snowflake-with-the-precisely-geo-addressing-native-app-9d23e891a95a": {
+        "title": "Transform Your Addresses in Snowflake with the Precisely Geo Addressing Native App",
+        "published": "2025-02-14T15:11:01.558000Z",
+        "updated": "2025-02-14T15:11:01.558000Z",
+        "tags": "snowflake,precisely,geocoding,native-app,sql"
+    },
     "https://medium.com/snowflake/building-multi-tool-agents-on-snowflake-a-hands-on-guide-911488d6ab99": {
         "title": "Building Multi-Tool Agents on Snowflake: A Hands-On Guide",
         "published": "2025-02-13T15:12:31.568000Z",
@@ -3416,7 +3422,7 @@
     "https://medium.com/snowflake/getting-started-with-snowpark-model-registry-131e5a2783c4": {
         "title": "Getting Started with Snowpark Model Registry",
         "published": "2024-02-22T00:01:59.816000Z",
-        "updated": "2024-02-22T00:01:59.816000Z",
+        "updated": "2025-02-14T13:20:47.755000Z",
         "tags": "snowflake,snowpark,mlops"
     },
     "https://medium.com/snowflake/snowflake-unistore-bridging-analytic-and-transactional-databases-1f1282d932a0": {
