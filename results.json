@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/leveraging-snowflakes-cortex-ai-for-enhanced-data-awareness-at-clearwater-analytics-d91d5e83ddd6": {
+        "title": "Leveraging Snowflake\u2019s Cortex AI for Enhanced Data Awareness at Clearwater Analytics",
+        "published": "2025-02-18T19:02:22.162000Z",
+        "updated": "2025-02-18T22:57:15.402000Z",
+        "tags": "sql,genai,text-to-sql,semantic-model,secureai"
+    },
+    "https://medium.com/snowflake/predictable-names-on-multi-valued-references-in-snowflake-native-apps-e05014a005e4": {
+        "title": "Predictable names on multi-valued references in Snowflake Native Apps.",
+        "published": "2025-02-18T15:11:39.721000Z",
+        "updated": "2025-02-18T15:11:39.721000Z",
+        "tags": "snowflake-computing,native-app,data-virtualisation"
+    },
     "https://medium.com/snowflake/connecting-to-snowflake-snowpark-from-your-local-ide-267b24181bf2": {
         "title": "Connecting to Snowflake Snowpark from your local IDE",
         "published": "2025-02-17T15:12:21.767000Z",
@@ -4472,7 +4484,7 @@
     "https://medium.com/snowflake/connecting-swrcb-to-the-open-data-portal-using-snowflake-data-sharing-3ba200e325ea": {
         "title": "Connecting SWRCB to the Open Data Portal using Snowflake Data Sharing",
         "published": "2023-11-11T19:34:09.938000Z",
-        "updated": "2023-11-13T19:26:15.526000Z",
+        "updated": "2025-02-18T21:41:28.393000Z",
         "tags": "open-data,data-sharing,api-integration,snowflake,streamlit"
     },
     "https://medium.com/snowflake/setting-the-stage-preparing-jupyterlab-on-snowpark-container-services-to-fine-tune-llms-1ce2e9651888": {
