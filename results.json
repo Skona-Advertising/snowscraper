@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/whats-new-with-snowflake-dynamic-tables-b8826cb0d4c1": {
+        "title": "What\u2019s New with Snowflake Dynamic Tables",
+        "published": "2025-02-21T19:24:46.484000Z",
+        "updated": "2025-02-21T19:24:46.484000Z",
+        "tags": "snowflake,snowflake-dynamic-table,data-engineering"
+    },
+    "https://medium.com/snowflake/create-a-route-optimisation-and-vehicle-route-plan-simulator-aad9808438c0": {
+        "title": "Create a Route Optimisation and Vehicle Route Plan Simulator",
+        "published": "2025-02-21T14:41:58.469000Z",
+        "updated": "2025-02-21T14:41:58.469000Z",
+        "tags": "route-optimisation,geospatial,streamlit,snowflake"
+    },
     "https://medium.com/snowflake/building-prescriptive-maintenance-solution-in-snowflake-513cf52e032a": {
         "title": "Building Prescriptive Maintenance Solution in Snowflake",
         "published": "2025-02-19T15:11:01.564000Z",
@@ -47,11 +59,23 @@
         "updated": "2025-02-13T15:12:31.568000Z",
         "tags": "generative-ai-solution,multi-tool,agents,snowflake,ai-ml-framework"
     },
+    "https://medium.com/snowflake/talking-to-your-data-descriptive-predictive-analytics-with-snowflake-cortex-1ab5067deca8": {
+        "title": "Talking to Your Data: Descriptive & Predictive Analytics with Snowflake Cortex",
+        "published": "2025-02-11T05:38:33.966000Z",
+        "updated": "2025-02-21T20:28:34.867000Z",
+        "tags": "genai,text-to-sql,snowflake,llm,langchain"
+    },
     "https://medium.com/snowflake/getting-started-with-event-sharing-to-instrument-and-collect-telemetry-events-for-snowflake-native-e8b717b23eaf": {
         "title": "Getting Started with Event Sharing to Instrument and Collect Telemetry Events for Snowflake Native\u2026",
         "published": "2025-02-10T14:56:16.869000Z",
         "updated": "2025-02-10T14:56:16.869000Z",
         "tags": "native-app,app-development,snowflake,apps"
+    },
+    "https://medium.com/snowflake/%EF%B8%8F-38d6b76d52c5": {
+        "title": "\ud835\udddc\ud835\uddfb\ud835\ude01\ud835\uddff\ud835\uddfc\ud835\uddf1\ud835\ude02\ud835\uddf0\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\ude01\ud835\uddf5\ud835\uddf2 \ud835\udfee\ud835\udfec\ud835\udfee\ud835\udff1 \ud835\udde6\ud835\uddfb\ud835\uddfc\ud835\ude04\ud835\uddf3\ud835\uddf9\ud835\uddee\ud835\uddf8\ud835\uddf2 \u2744\ufe0f \ud835\uddd7\ud835\uddee\ud835\ude01\ud835\uddee \ud835\udde6\ud835\ude02\ud835\uddfd\ud835\uddf2\ud835\uddff\ud835\uddf5\ud835\uddf2\ud835\uddff\ud835\uddfc\ud835\uddf2\ud835\ude00! \ud83d\ude80",
+        "published": "2025-02-09T16:44:41.068000Z",
+        "updated": "2025-02-21T20:26:42.732000Z",
+        "tags": "daanalytics,data-superhero,community,go"
     },
     "https://medium.com/snowflake/introducing-snowpark-checkpoints-seamlessly-validate-your-apache-pyspark-to-snowpark-python-f3242b442961": {
         "title": "Introducing Snowpark Checkpoints: Seamlessly Validate Your Apache PySpark to Snowpark Python\u2026",
@@ -82,6 +106,12 @@
         "published": "2025-02-05T14:02:19.285000Z",
         "updated": "2025-02-05T14:02:19.285000Z",
         "tags": ""
+    },
+    "https://medium.com/snowflake/beyond-bi-reports-conversational-analytics-for-financial-data-in-snowflake-7e1e393b78bb": {
+        "title": "Beyond BI Reports: Conversational Analytics for Financial Data in Snowflake",
+        "published": "2025-02-04T20:06:55.724000Z",
+        "updated": "2025-02-21T20:28:21.342000Z",
+        "tags": "genai,gen-ai-for-business,snowflake,cortex,cortex-analyst"
     },
     "https://medium.com/snowflake/enhancing-3d-lung-ct-segmentation-with-fine-tuned-u-net-in-snowflake-d8774751f1bc": {
         "title": "Enhancing 3D Lung CT Segmentation with Fine-Tuned U-Net in Snowflake",
