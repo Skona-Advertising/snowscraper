@@ -1,4 +1,22 @@
 {
+    "https://medium.com/snowflake/transforming-business-search-with-ai-how-markaaz-and-snowflakes-cortex-search-enhance-speed-b532d81f93fe": {
+        "title": "Transforming Business Search with AI: How Markaaz and Snowflake\u2019s Cortex Search Enhance Speed\u2026",
+        "published": "2025-02-25T20:09:21.992000Z",
+        "updated": "2025-02-25T20:09:21.992000Z",
+        "tags": "snowflake,performance,search,data-modernization"
+    },
+    "https://medium.com/snowflake/lets-build-together-a-local-playground-for-apache-polaris-fdcad4485f43": {
+        "title": "Let\u2019s Build Together: A Local Playground for Apache Polaris",
+        "published": "2025-02-25T03:59:50.162000Z",
+        "updated": "2025-02-25T03:59:50.162000Z",
+        "tags": "apache,snowflake,kubernetes,aws,docker"
+    },
+    "https://medium.com/snowflake/announcing-wildcard-support-for-egress-network-rules-in-snowflake-d3834e69ffb2": {
+        "title": "Announcing Wildcard Support for (Egress) Network Rules in Snowflake",
+        "published": "2025-02-25T02:20:12.197000Z",
+        "updated": "2025-02-25T23:44:29.113000Z",
+        "tags": ""
+    },
     "https://medium.com/snowflake/searching-for-data-with-the-snowflake-cortex-search-service-96c2a9ac9b29": {
         "title": "Searching for data with the Snowflake Cortex Search Service",
         "published": "2025-02-24T22:24:21.177000Z",
