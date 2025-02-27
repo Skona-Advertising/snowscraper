@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/connecting-to-snowflake-using-the-device-authorization-grant-3e7b2fdcb634": {
+        "title": "Connecting to Snowflake using the Device Authorization Grant",
+        "published": "2025-02-26T15:32:12.157000Z",
+        "updated": "2025-02-26T15:32:12.157000Z",
+        "tags": "oauth"
+    },
     "https://medium.com/snowflake/transforming-business-search-with-ai-how-markaaz-and-snowflakes-cortex-search-enhance-speed-b532d81f93fe": {
         "title": "Transforming Business Search with AI: How Markaaz and Snowflake\u2019s Cortex Search Enhance Speed\u2026",
         "published": "2025-02-25T20:09:21.992000Z",
@@ -830,7 +836,7 @@
     "https://medium.com/snowflake/vscode-on-snowpark-container-services-deployment-configuration-a775cb706332": {
         "title": "VSCode on Snowpark Container Services: Deployment & Configuration",
         "published": "2024-10-31T20:47:20.973000Z",
-        "updated": "2024-11-01T17:20:57.062000Z",
+        "updated": "2025-02-26T22:51:58.075000Z",
         "tags": "vscode,snowpark-container,snowflake,mlops,data-science"
     },
     "https://medium.com/snowflake/snowflake-in-drug-discovery-protein-similarity-search-326fc804be00": {
