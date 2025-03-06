@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/dlsync-a-modern-way-to-manage-your-snowflake-database-changes-8dc8a1413ae8": {
+        "title": "DLSync: A Modern Way to Manage your Snowflake Database Changes",
+        "published": "2025-03-05T19:14:00.185000Z",
+        "updated": "2025-03-05T20:08:19.038000Z",
+        "tags": "snowflake,app-development,devops,data-engineering,database-change-mgmt"
+    },
     "https://medium.com/snowflake/in-todays-data-driven-world-the-ability-to-seamlessly-integrate-high-performance-databases-with-b0da165dd6fe": {
         "title": "In today\u2019s data-driven world, the ability to seamlessly integrate high-performance databases with\u2026",
         "published": "2025-02-27T15:32:15.530000Z",
