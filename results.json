@@ -1,4 +1,22 @@
 {
+    "https://medium.com/snowflake/making-the-most-of-filters-in-snowflake-cortex-search-1d4c03b05ed3": {
+        "title": "Making the Most of Filters in Snowflake Cortex Search",
+        "published": "2025-03-06T19:26:01.459000Z",
+        "updated": "2025-03-06T19:26:01.459000Z",
+        "tags": "ai,snowflake"
+    },
+    "https://medium.com/snowflake/how-to-build-rag-agents-using-contextual-ai-as-a-snowflake-native-app-cbc43a12d72d": {
+        "title": "How to build RAG agents using Contextual AI as a Snowflake Native App",
+        "published": "2025-03-06T16:03:27.045000Z",
+        "updated": "2025-03-06T16:03:27.045000Z",
+        "tags": "enterprise-ai,retrieval-augmented-gen,gen-ai-for-business,enterprise-software,data"
+    },
+    "https://medium.com/snowflake/extract-key-information-reliably-using-cortex-ai-structured-outputs-a9d9bd229675": {
+        "title": "Extract key information reliably using Cortex AI Structured Outputs",
+        "published": "2025-03-06T16:03:18.796000Z",
+        "updated": "2025-03-06T16:03:18.796000Z",
+        "tags": "ai,snowflake,data-science,data-engineering"
+    },
     "https://medium.com/snowflake/dlsync-a-modern-way-to-manage-your-snowflake-database-changes-8dc8a1413ae8": {
         "title": "DLSync: A Modern Way to Manage your Snowflake Database Changes",
         "published": "2025-03-05T19:14:00.185000Z",
