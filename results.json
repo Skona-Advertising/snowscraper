@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/streaming-llm-inference-with-structured-json-output-via-snowflake-cortex-a4efd24336ff": {
+        "title": "Streaming LLM inference with structured JSON output via Snowflake Cortex",
+        "published": "2025-03-07T15:17:15.616000Z",
+        "updated": "2025-03-07T15:17:15.616000Z",
+        "tags": "cortex,snowflake,ai,llm,streaming"
+    },
     "https://medium.com/snowflake/making-the-most-of-filters-in-snowflake-cortex-search-1d4c03b05ed3": {
         "title": "Making the Most of Filters in Snowflake Cortex Search",
         "published": "2025-03-06T19:26:01.459000Z",
@@ -1580,7 +1586,7 @@
     "https://medium.com/snowflake/snowflakes-authentication-policy-enhancing-mfa-security-f105d5e144ef": {
         "title": "Snowflake\u2019s Authentication Policy: Enhancing MFA Security",
         "published": "2024-08-22T14:22:20.367000Z",
-        "updated": "2024-08-22T14:22:20.367000Z",
+        "updated": "2025-03-07T23:27:08.542000Z",
         "tags": "snowflake,data-superhero,mfa,authentication,policy"
     },
     "https://medium.com/snowflake/text-prompt-based-image-similarity-content-search-using-cortex-search-service-on-snowflake-fd4468593020": {
