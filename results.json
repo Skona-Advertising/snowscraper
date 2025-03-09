@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/custom-templates-in-snowflake-data-clean-room-ca1b583491aa": {
+        "title": "Custom Templates in Snowflake Data Clean Room",
+        "published": "2025-03-08T15:16:41.377000Z",
+        "updated": "2025-03-08T15:16:41.377000Z",
+        "tags": "data-clean-room,snowflake,native-app"
+    },
     "https://medium.com/snowflake/streaming-llm-inference-with-structured-json-output-via-snowflake-cortex-a4efd24336ff": {
         "title": "Streaming LLM inference with structured JSON output via Snowflake Cortex",
         "published": "2025-03-07T15:17:15.616000Z",
@@ -200,7 +206,7 @@
     "https://medium.com/snowflake/definitive-guide-for-data-ingestion-to-apache-iceberg-with-snowflake-part-1-e0a053ecb1d": {
         "title": "Definitive Guide for Data Ingestion to Apache Iceberg\u2122 with Snowflake: Part 1",
         "published": "2025-02-03T16:49:27.143000Z",
-        "updated": "2025-02-03T19:23:03.163000Z",
+        "updated": "2025-03-08T18:58:22.592000Z",
         "tags": "data-engineering,snowflake-data-cloud,apache-iceberg,apache-parquet,snowflake-computing"
     },
     "https://medium.com/snowflake/mastering-teradata-varchar-migration-to-snowflake-ansi-mode-23ee47166a82": {
@@ -1586,7 +1592,7 @@
     "https://medium.com/snowflake/snowflakes-authentication-policy-enhancing-mfa-security-f105d5e144ef": {
         "title": "Snowflake\u2019s Authentication Policy: Enhancing MFA Security",
         "published": "2024-08-22T14:22:20.367000Z",
-        "updated": "2025-03-07T23:27:08.542000Z",
+        "updated": "2025-03-08T23:46:51.296000Z",
         "tags": "snowflake,data-superhero,mfa,authentication,policy"
     },
     "https://medium.com/snowflake/text-prompt-based-image-similarity-content-search-using-cortex-search-service-on-snowflake-fd4468593020": {
