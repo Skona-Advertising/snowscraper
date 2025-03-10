@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/ai-movie-concierge-powered-by-kumo-in-snowflake-native-app-63b8b4090a59": {
+        "title": "AI Movie Concierge Powered by Kumo in Snowflake Native App",
+        "published": "2025-03-09T14:16:43.472000Z",
+        "updated": "2025-03-09T14:16:43.472000Z",
+        "tags": "kumo,chatbots,recommendation-system,ai,data-science"
+    },
     "https://medium.com/snowflake/custom-templates-in-snowflake-data-clean-room-ca1b583491aa": {
         "title": "Custom Templates in Snowflake Data Clean Room",
         "published": "2025-03-08T15:16:41.377000Z",
@@ -770,7 +776,7 @@
     "https://medium.com/snowflake/integrate-snowflake-cortex-analyst-rest-api-with-slack-0b70bde3cb7b": {
         "title": "Integrate Snowflake Cortex Analyst REST API with Slack",
         "published": "2024-11-13T20:04:50.165000Z",
-        "updated": "2025-02-24T18:05:01.600000Z",
+        "updated": "2025-03-09T15:08:35.271000Z",
         "tags": "snowflake,slack,cortex-analyst,application,developer"
     },
     "https://medium.com/snowflake/best-practices-for-using-query-tag-in-snowflake-32bfb8d4efba": {
