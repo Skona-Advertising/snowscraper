@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/simplifying-accounting-with-snowflake-architecture-best-practices-and-example-e8431f32465d": {
+        "title": "Simplifying Accounting with Snowflake: Architecture, Best Practices, and Example",
+        "published": "2025-03-13T14:02:39.631000Z",
+        "updated": "2025-03-13T14:02:39.631000Z",
+        "tags": "data-superhero,snowflake,accounting,report,architecture"
+    },
     "https://medium.com/snowflake/dynamic-dml-generation-using-snowflake-cortex-ai-functions-turning-pdf-scans-into-structured-data-4c465656dc98": {
         "title": "Dynamic DML Generation Using Snowflake Cortex AI Functions: Turning PDF Scans Into Structured Data",
         "published": "2025-03-13T00:10:07.165000Z",
@@ -518,7 +524,7 @@
     "https://medium.com/snowflake/connect-to-snowflake-from-tableau-with-external-oauth-c84a0f116b16": {
         "title": "Connect to Snowflake from Tableau with External OAuth",
         "published": "2025-01-09T07:56:31.954000Z",
-        "updated": "2025-01-09T07:56:31.954000Z",
+        "updated": "2025-03-13T14:06:04.100000Z",
         "tags": "oauth,tableau,security,cisa"
     },
     "https://medium.com/snowflake/unlock-the-power-of-salesforce-data-with-snowflake-and-cortex-analyst-6ded8337d149": {
@@ -2030,7 +2036,7 @@
     "https://medium.com/snowflake/a-step-by-step-guide-to-building-with-snowflake-snowflake-solutions-center-524b33ae57a3": {
         "title": "A Step-by-Step Guide to Building with Snowflake: Snowflake Solutions Center",
         "published": "2024-07-10T03:49:34.269000Z",
-        "updated": "2025-01-13T18:56:57.220000Z",
+        "updated": "2025-03-13T15:18:41.496000Z",
         "tags": "snowflake,ai,solutions,developer,data"
     },
     "https://medium.com/snowflake/distributed-ray-as-a-native-app-in-snowpark-container-services-a3449cf33b5c": {
