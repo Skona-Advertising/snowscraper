@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/the-basics-of-joins-in-snowflake-3da7736075f9": {
+        "title": "The Basics of Joins in Snowflake",
+        "published": "2025-03-17T14:01:25.343000Z",
+        "updated": "2025-03-17T14:01:25.343000Z",
+        "tags": "snowflake,sql,performance,database,join"
+    },
     "https://medium.com/snowflake/snowflake-integrates-with-amazon-s3-tables-d6cebf5fdcb2": {
         "title": "Snowflake integrates with Amazon S3 Tables",
         "published": "2025-03-14T16:02:30.360000Z",
@@ -272,7 +278,7 @@
     "https://medium.com/snowflake/snowflake-perimeter-security-guidance-4a0365d758c9": {
         "title": "Snowflake Perimeter Security Guidance",
         "published": "2025-02-01T01:47:06.679000Z",
-        "updated": "2025-02-06T14:12:40.006000Z",
+        "updated": "2025-03-17T18:33:48.997000Z",
         "tags": "snowflake,authentication,security,oauth"
     },
     "https://medium.com/snowflake/snowflake-oauth-managed-authorization-server-for-custom-clients-authorization-code-flow-45fcae23ffa2": {
@@ -632,7 +638,7 @@
     "https://medium.com/snowflake/introduction-to-snowflakes-data-pipeline-alerts-notifications-9beac8d127cc": {
         "title": "Introduction to Snowflake\u2019s data pipeline alerts & notifications",
         "published": "2024-12-10T15:41:36.385000Z",
-        "updated": "2025-01-06T09:51:58.552000Z",
+        "updated": "2025-03-18T00:30:58.392000Z",
         "tags": "snowflake,data-engineering,observability,data-pipeline"
     },
     "https://medium.com/snowflake/neo4j-and-snowflake-unlocking-the-power-of-graph-databases-to-transform-data-insights-a-true-d6831912bc8f": {
@@ -1172,7 +1178,7 @@
     "https://medium.com/snowflake/how-to-add-quality-checks-to-data-pipelines-using-the-new-snowflake-dmfs-e08b4174f3d9": {
         "title": "How to add Quality Checks to Data Pipelines using the new Snowflake DMFs",
         "published": "2024-10-06T15:26:37.132000Z",
-        "updated": "2024-10-17T17:45:07.960000Z",
+        "updated": "2025-03-18T00:32:07.695000Z",
         "tags": "snowflake,data-engineering,data-quality,snowsight,data-pipeline"
     },
     "https://medium.com/snowflake/cloudops-ai-assistant-revolutionizing-it-ticket-resolution-with-snowflake-cortex-and-rag-ee16b3412781": {
@@ -2510,7 +2516,7 @@
     "https://medium.com/snowflake/how-to-set-up-data-pipeline-notifications-using-the-new-finalizer-task-077885531aad": {
         "title": "How to set up data pipeline notifications using the new Finalizer Task",
         "published": "2024-05-22T14:02:18.127000Z",
-        "updated": "2024-10-17T17:48:06.016000Z",
+        "updated": "2025-03-18T00:32:56.244000Z",
         "tags": "snowflake,data-pipeline,observability,data-engineering,snowsight"
     },
     "https://medium.com/snowflake/snowflake-cortex-function-complete-guide-4-extract-answer-953ba8479e15": {
