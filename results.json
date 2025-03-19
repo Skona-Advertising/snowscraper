@@ -1,8 +1,14 @@
 {
+    "https://medium.com/snowflake/announcing-secure-ai-assisted-data-science-in-r-with-posit-and-snowflake-cortex-724104c6da37": {
+        "title": "Announcing secure AI-Assisted data science in R with Posit and Snowflake Cortex",
+        "published": "2025-03-18T14:02:40.735000Z",
+        "updated": "2025-03-18T14:02:40.735000Z",
+        "tags": "snowflake,cortex,posit,llm,data-science"
+    },
     "https://medium.com/snowflake/the-basics-of-joins-in-snowflake-3da7736075f9": {
         "title": "The Basics of Joins in Snowflake",
         "published": "2025-03-17T14:01:25.343000Z",
-        "updated": "2025-03-17T14:01:25.343000Z",
+        "updated": "2025-03-18T13:29:26.180000Z",
         "tags": "snowflake,sql,performance,database,join"
     },
     "https://medium.com/snowflake/snowflake-integrates-with-amazon-s3-tables-d6cebf5fdcb2": {
@@ -86,7 +92,7 @@
     "https://medium.com/snowflake/connecting-to-snowflake-using-the-device-authorization-grant-3e7b2fdcb634": {
         "title": "Connecting to Snowflake using the Device Authorization Grant",
         "published": "2025-02-26T15:32:12.157000Z",
-        "updated": "2025-02-26T15:32:12.157000Z",
+        "updated": "2025-03-18T19:25:58.981000Z",
         "tags": "oauth"
     },
     "https://medium.com/snowflake/transforming-business-search-with-ai-how-markaaz-and-snowflakes-cortex-search-enhance-speed-b532d81f93fe": {
@@ -530,7 +536,7 @@
     "https://medium.com/snowflake/configuring-private-connectivity-to-azure-external-storage-accounts-2a0c213a0086": {
         "title": "Configuring Private Connectivity to Azure External Storage Accounts",
         "published": "2025-01-10T15:57:01.236000Z",
-        "updated": "2025-01-10T15:57:01.236000Z",
+        "updated": "2025-03-18T20:01:01.070000Z",
         "tags": "azure-storage-account,azure-private-link,security"
     },
     "https://medium.com/snowflake/how-sigma-computing-utilizes-ai21s-jamba-and-snowflake-to-simplify-sales-prospecting-7afc7648bc3a": {
