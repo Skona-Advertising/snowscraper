@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/building-scalable-time-series-forecasting-models-on-snowflake-with-forecast-model-builder-c389e108f0be": {
+        "title": "Building Scalable Time Series Forecasting Models on Snowflake with Forecast Model Builder",
+        "published": "2025-03-19T14:01:33.574000Z",
+        "updated": "2025-03-19T14:01:33.574000Z",
+        "tags": "time-series-forecasting,machine-learning,snowflake,modeling,demand-forecasting"
+    },
     "https://medium.com/snowflake/announcing-secure-ai-assisted-data-science-in-r-with-posit-and-snowflake-cortex-724104c6da37": {
         "title": "Announcing secure AI-Assisted data science in R with Posit and Snowflake Cortex",
         "published": "2025-03-18T14:02:40.735000Z",
@@ -2366,7 +2372,7 @@
     "https://medium.com/snowflake/faster-parquet-data-ingestion-with-snowflake-use-vectorized-scanner-28679bcff450": {
         "title": "Faster Parquet Data Ingestion with Snowflake USE_VECTORIZED_SCANNER",
         "published": "2024-05-31T19:48:39.147000Z",
-        "updated": "2025-02-01T04:21:00.039000Z",
+        "updated": "2025-03-20T00:30:57.182000Z",
         "tags": "snowflake,data-pipeline,data-ingestion,parquet,snowflake-data-cloud"
     },
     "https://medium.com/snowflake/how-booking-com-enforces-policy-across-a-hybrid-data-ecosystem-with-immuta-aws-and-snowflake-d92df507c3d0": {
