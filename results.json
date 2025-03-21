@@ -1,4 +1,22 @@
 {
+    "https://medium.com/snowflake/secure-multiple-snowflake-accounts-via-private-listing-7b98d1be94c7": {
+        "title": "Secure Multiple Snowflake Accounts via Private Listing",
+        "published": "2025-03-20T18:24:54.789000Z",
+        "updated": "2025-03-20T18:24:54.789000Z",
+        "tags": ""
+    },
+    "https://medium.com/snowflake/unifying-streaming-and-analytics-how-confluent-tableflow-iceberg-and-snowflake-simplify-267dca9f20f2": {
+        "title": "Unifying Streaming and Analytics: How Confluent Tableflow, Iceberg, and Snowflake Simplify\u2026",
+        "published": "2025-03-20T18:23:40.466000Z",
+        "updated": "2025-03-20T18:23:40.466000Z",
+        "tags": "kafka,tableflow,iceberg-table,snowflake-cortex,real-time-ai"
+    },
+    "https://medium.com/snowflake/snowflake-external-function-private-networking-security-assurance-aws-privatelink-cf965ea37985": {
+        "title": "Snowflake External Functions Private Networking & Security Assurance (AWS PrivateLink)",
+        "published": "2025-03-20T14:01:35.936000Z",
+        "updated": "2025-03-20T14:24:24.566000Z",
+        "tags": "extenralfunctions,tokenization,snowflake,aws-privatelink,lambda"
+    },
     "https://medium.com/snowflake/building-scalable-time-series-forecasting-models-on-snowflake-with-forecast-model-builder-c389e108f0be": {
         "title": "Building Scalable Time Series Forecasting Models on Snowflake with Forecast Model Builder",
         "published": "2025-03-19T14:01:33.574000Z",
