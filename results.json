@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/trinity-life-sciences-snowflake-advancing-pharmaceutical-insights-4a743ac9f73e": {
+        "title": "Trinity Life Sciences & Snowflake: Advancing Pharmaceutical Insights",
+        "published": "2025-03-21T16:01:26.425000Z",
+        "updated": "2025-03-21T16:01:26.425000Z",
+        "tags": "real-world-data,snowflake,snowpark,life-sciences,pharmaceutical"
+    },
     "https://medium.com/snowflake/secure-multiple-snowflake-accounts-via-private-listing-7b98d1be94c7": {
         "title": "Secure Multiple Snowflake Accounts via Private Listing",
         "published": "2025-03-20T18:24:54.789000Z",
@@ -794,7 +800,7 @@
     "https://medium.com/snowflake/simplify-governance-and-compliance-by-tracing-data-flow-in-ml-pipelines-with-snowflakes-lineage-6c3902ea7885": {
         "title": "Simplify Governance and Compliance by tracing data flow in ML pipelines with Snowflake\u2019s Lineage",
         "published": "2024-11-20T15:52:18.862000Z",
-        "updated": "2024-11-20T15:52:18.862000Z",
+        "updated": "2025-03-21T18:34:39.192000Z",
         "tags": "data-lineage,mlops,governance,compliance,snowflake"
     },
     "https://medium.com/snowflake/accelerate-your-data-workflow-with-snowflake-and-dbt-macros-9d2e1df65b5b": {
