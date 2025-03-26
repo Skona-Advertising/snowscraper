@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/outgrowing-trees-smarter-user-activity-predictions-from-data-in-snowflake-7d72a8a8ee5b": {
+        "title": "Outgrowing Trees: Smarter User Activity Predictions from Data in Snowflake",
+        "published": "2025-03-25T16:02:33.967000Z",
+        "updated": "2025-03-25T16:02:33.967000Z",
+        "tags": "ai,machine-learning,user-engagement,native-app,predictions"
+    },
     "https://medium.com/snowflake/next-generation-data-anonymization-with-veil-ai-on-snowflake-b353a051a8db": {
         "title": "Next-Generation Data Anonymization with VEIL.AI on Snowflake",
         "published": "2025-03-24T16:02:42.372000Z",
@@ -320,7 +326,7 @@
     "https://medium.com/snowflake/snowflake-perimeter-security-guidance-4a0365d758c9": {
         "title": "Snowflake Perimeter Security Guidance",
         "published": "2025-02-01T01:47:06.679000Z",
-        "updated": "2025-03-17T18:33:48.997000Z",
+        "updated": "2025-03-25T14:46:25.293000Z",
         "tags": "snowflake,authentication,security,oauth"
     },
     "https://medium.com/snowflake/snowflake-oauth-managed-authorization-server-for-custom-clients-authorization-code-flow-45fcae23ffa2": {
@@ -1154,7 +1160,7 @@
     "https://medium.com/snowflake/integrating-delta-tables-with-snowflake-performance-beyond-external-tables-52b54d31251c": {
         "title": "Integrating Delta Tables with Snowflake: Performance Beyond External Tables",
         "published": "2024-10-12T15:56:38.447000Z",
-        "updated": "2024-10-12T15:56:38.447000Z",
+        "updated": "2025-03-25T14:48:46.953000Z",
         "tags": "snowflake,delta-tables,iceberg-table,performance,external-tables"
     },
     "https://medium.com/snowflake/running-distributed-pytorch-models-on-snowflake-an-end-to-end-ml-solution-452d16a39553": {
