@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/interfacing-with-arcgis-location-services-in-snowflake-a94528680b57": {
+        "title": "Interfacing with ArcGIS Location services in Snowflake",
+        "published": "2025-03-26T16:03:20.490000Z",
+        "updated": "2025-03-26T16:32:25.647000Z",
+        "tags": "snowflake-data-cloud,arcgis,esri,geospatial,snowpark-python"
+    },
     "https://medium.com/snowflake/outgrowing-trees-smarter-user-activity-predictions-from-data-in-snowflake-7d72a8a8ee5b": {
         "title": "Outgrowing Trees: Smarter User Activity Predictions from Data in Snowflake",
         "published": "2025-03-25T16:02:33.967000Z",
