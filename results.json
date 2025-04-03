@@ -1,4 +1,22 @@
 {
+    "https://medium.com/snowflake/superduper-agents-enterprise-agents-leveraging-your-enterprise-data-available-now-on-the-86bd7b83e44d": {
+        "title": "Superduper Agents\u200a\u2014\u200aenterprise agents leveraging your enterprise data available now on the\u2026",
+        "published": "2025-04-02T21:15:50.697000Z",
+        "updated": "2025-04-02T21:15:50.697000Z",
+        "tags": "ai-agent,no-code-platform,snowflake-container,native-app-developers"
+    },
+    "https://medium.com/snowflake/enabling-snowflake-support-case-access-for-non-admin-users-a-complete-guide-f8df75ad11bb": {
+        "title": "Enabling Snowflake Support Case Access for Non-Admin Users: A Complete Guide",
+        "published": "2025-04-02T20:02:04.559000Z",
+        "updated": "2025-04-02T20:02:04.559000Z",
+        "tags": "snowflake,admin,support,permission"
+    },
+    "https://medium.com/snowflake/maximizing-ai-potential-how-microsoft-copilot-and-snowflakes-cortex-agents-are-transforming-the-fa600605cdbd": {
+        "title": "Maximizing AI Potential: How Microsoft Copilot and Snowflake\u2019s Cortex Agents Are Transforming the\u2026",
+        "published": "2025-04-02T14:02:23.954000Z",
+        "updated": "2025-04-02T14:02:23.954000Z",
+        "tags": "cortex,agents,copilot-studio,microsoft,ai"
+    },
     "https://medium.com/snowflake/katalyze-ai-revolutionizes-biomanufacturing-with-snowflake-powered-document-intelligence-3a8309cc14ff": {
         "title": "Katalyze AI Revolutionizes Biomanufacturing with Snowflake-Powered Document Intelligence",
         "published": "2025-04-01T16:02:14.564000Z",
@@ -8606,7 +8624,7 @@
     "https://medium.com/snowflake/role-based-access-control-rbac-with-secondary-roles-8ce3c7bb57df": {
         "title": "Role-based Access Control (RBAC) with Secondary Roles",
         "published": "2022-10-10T15:01:30.865000Z",
-        "updated": "2022-10-10T15:01:30.865000Z",
+        "updated": "2025-04-02T17:37:01.349000Z",
         "tags": "rbac,role-based-access-control,data-superhero"
     },
     "https://medium.com/snowflake/why-high-frequent-data-loading-becomes-expensive-in-snowflake-9c6d43ac14ab": {
