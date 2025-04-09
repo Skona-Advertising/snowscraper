@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/ai-observability-in-snowflake-evaluate-gen-ai-apps-with-snowflake-cortex-ai-and-trulens-37878ec83c9e": {
+        "title": "AI Observability in Snowflake: Evaluate gen AI apps with Snowflake Cortex AI and TruLens",
+        "published": "2025-04-08T14:01:22.960000Z",
+        "updated": "2025-04-08T14:01:22.960000Z",
+        "tags": "generative-ai-tools,ai-observability,ai-evaluation,generative-ai-use-cases,snowflake-cortex"
+    },
     "https://medium.com/snowflake/safely-use-snowflake-cortex-analyst-with-multi-tenant-data-552b8646cadc": {
         "title": "Safely Use Snowflake Cortex Analyst with Multi-Tenant Data",
         "published": "2025-04-07T21:14:29.908000Z",
@@ -9,12 +15,12 @@
         "title": "Enhance Snowflake data governance through automated descriptions with Snowflake Cortex",
         "published": "2025-04-07T14:02:14.335000Z",
         "updated": "2025-04-07T14:02:14.335000Z",
-        "tags": "snowflake,data,data-governance,llm-applications"
+        "tags": "snowflake,data,data-governance,llm-applications,data-superhero"
     },
     "https://medium.com/snowflake/graph-visualization-in-snowflake-notebooks-4f20ad880cd5": {
         "title": "Graph Visualization in Snowflake Notebooks",
         "published": "2025-04-04T17:02:10.338000Z",
-        "updated": "2025-04-04T17:02:10.338000Z",
+        "updated": "2025-04-08T13:58:26.815000Z",
         "tags": "graph-analytics,snowflake-notebooks,data-science,snowflake,data-visualization"
     },
     "https://medium.com/snowflake/ai-powered-rag-chatbot-for-discovering-kubecon-sessions-with-snowflake-cortex-and-streamlit-7c698cffba6f": {
@@ -66,9 +72,9 @@
         "tags": "snowflake,snowflake-cortex,llm,performance,cost"
     },
     "https://medium.com/snowflake/interfacing-with-arcgis-location-services-in-snowflake-a94528680b57": {
-        "title": "Interfacing with ArcGIS Location services in Snowflake",
+        "title": "Interfacing with ArcGIS Location Services in Snowflake",
         "published": "2025-03-26T16:03:20.490000Z",
-        "updated": "2025-03-26T16:32:25.647000Z",
+        "updated": "2025-04-08T18:23:24.821000Z",
         "tags": "snowflake-data-cloud,arcgis,esri,geospatial,snowpark-python"
     },
     "https://medium.com/snowflake/outgrowing-trees-smarter-user-activity-predictions-from-data-in-snowflake-7d72a8a8ee5b": {
@@ -248,7 +254,7 @@
     "https://medium.com/snowflake/whats-new-with-snowflake-dynamic-tables-b8826cb0d4c1": {
         "title": "What\u2019s New with Snowflake Dynamic Tables",
         "published": "2025-02-21T19:24:46.484000Z",
-        "updated": "2025-02-21T19:24:46.484000Z",
+        "updated": "2025-04-08T19:38:48.115000Z",
         "tags": "snowflake,snowflake-dynamic-table,data-engineering"
     },
     "https://medium.com/snowflake/create-a-route-optimisation-and-vehicle-route-plan-simulator-aad9808438c0": {
