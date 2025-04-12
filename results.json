@@ -1,4 +1,22 @@
 {
+    "https://medium.com/snowflake/how-inbound-private-connectivity-for-spcs-works-c0e8439d932a": {
+        "title": "How inbound private connectivity for SPCS works",
+        "published": "2025-04-11T14:01:52.193000Z",
+        "updated": "2025-04-11T14:01:52.193000Z",
+        "tags": ""
+    },
+    "https://medium.com/snowflake/automating-financial-document-extraction-with-snowflake-document-ai-and-streamlit-in-snowflake-283e7cb697da": {
+        "title": "Automating Financial Document Extraction with Snowflake Document AI and Streamlit in Snowflake",
+        "published": "2025-04-10T14:01:56.129000Z",
+        "updated": "2025-04-10T14:01:56.129000Z",
+        "tags": "streamlit,ocr,ai,snowflake,document-processing"
+    },
+    "https://medium.com/snowflake/access-pypi-packages-in-snowpark-udfs-and-stored-procedures-033db455bb73": {
+        "title": "Access PyPI Packages in Snowpark UDFs and Stored Procedures",
+        "published": "2025-04-09T14:01:54.092000Z",
+        "updated": "2025-04-09T14:01:54.092000Z",
+        "tags": "snowpark,snowflake"
+    },
     "https://medium.com/snowflake/ai-observability-in-snowflake-evaluate-gen-ai-apps-with-snowflake-cortex-ai-and-trulens-37878ec83c9e": {
         "title": "AI Observability in Snowflake: Evaluate gen AI apps with Snowflake Cortex AI and TruLens",
         "published": "2025-04-08T14:01:22.960000Z",
@@ -32,7 +50,7 @@
     "https://medium.com/snowflake/superduper-agents-enterprise-agents-leveraging-your-enterprise-data-available-now-on-the-86bd7b83e44d": {
         "title": "Superduper Agents\u200a\u2014\u200aenterprise agents leveraging your enterprise data available now on the\u2026",
         "published": "2025-04-02T21:15:50.697000Z",
-        "updated": "2025-04-02T21:15:50.697000Z",
+        "updated": "2025-04-09T16:23:47.151000Z",
         "tags": "ai-agent,no-code-platform,snowflake-container,native-app-developers"
     },
     "https://medium.com/snowflake/enabling-snowflake-support-case-access-for-non-admin-users-a-complete-guide-f8df75ad11bb": {
