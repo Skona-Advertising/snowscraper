@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/are-you-ready-to-take-the-next-step-in-your-application-development-faf4224ecca5": {
+        "title": "ARE YOU READY TO TAKE THE NEXT STEP IN YOUR APPLICATION DEVELOPMENT?",
+        "published": "2025-04-16T14:02:24.876000Z",
+        "updated": "2025-04-16T14:02:24.876000Z",
+        "tags": "enterprise-application,ai,gen-ai-for-business,data"
+    },
     "https://medium.com/snowflake/generate-reports-at-scale-on-snowflake-data-using-snowpark-apis-8e97309f6dd7": {
         "title": "Generate Reports at Scale on Snowflake Data using Snowpark APIs",
         "published": "2025-04-15T14:02:34.285000Z",
@@ -20,7 +26,7 @@
     "https://medium.com/snowflake/automating-financial-document-extraction-with-snowflake-document-ai-and-streamlit-in-snowflake-283e7cb697da": {
         "title": "Automating Financial Document Extraction with Snowflake Document AI and Streamlit in Snowflake",
         "published": "2025-04-10T14:01:56.129000Z",
-        "updated": "2025-04-10T14:01:56.129000Z",
+        "updated": "2025-04-16T11:37:07.177000Z",
         "tags": "streamlit,ocr,ai,snowflake,document-processing"
     },
     "https://medium.com/snowflake/access-pypi-packages-in-snowpark-udfs-and-stored-procedures-033db455bb73": {
