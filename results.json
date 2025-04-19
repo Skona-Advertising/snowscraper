@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/efficient-aws-calls-from-snowflake-vectorized-udf-with-session-caching-28c94f77f80b": {
+        "title": "Efficient AWS Calls from Snowflake: Vectorized UDF with Session Caching",
+        "published": "2025-04-18T14:01:33.841000Z",
+        "updated": "2025-04-18T14:01:33.841000Z",
+        "tags": "aws,snowflake,udf,interoperability"
+    },
     "https://medium.com/snowflake/unlocking-the-power-of-snowflake-cortex-and-llm-functions-building-rag-based-data-retrieval-for-f3d81305146b": {
         "title": "Unlocking the Power of Snowflake Cortex and LLM Functions: Building RAG-Based Data Retrieval for\u2026",
         "published": "2025-04-17T14:02:36.569000Z",
