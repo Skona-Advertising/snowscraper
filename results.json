@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/implicit-type-casting-error-in-joins-53a3a3e5103a": {
+        "title": "Implicit Type Casting Error In Joins",
+        "published": "2025-04-21T22:02:19.881000Z",
+        "updated": "2025-04-21T22:02:19.881000Z",
+        "tags": "data-architecture,datatypes-in-sql,join,type-casting"
+    },
+    "https://medium.com/snowflake/setting-up-snowpark-container-services-in-6-easy-steps-b0b5f893b32e": {
+        "title": "Setting up Snowpark Container Services in 6 Easy Steps",
+        "published": "2025-04-21T14:02:20.097000Z",
+        "updated": "2025-04-21T14:02:20.097000Z",
+        "tags": "snowflake,snowpark-container,streamlit"
+    },
     "https://medium.com/snowflake/efficient-aws-calls-from-snowflake-vectorized-udf-with-session-caching-28c94f77f80b": {
         "title": "Efficient AWS Calls from Snowflake: Vectorized UDF with Session Caching",
         "published": "2025-04-18T14:01:33.841000Z",
@@ -800,7 +812,7 @@
     "https://medium.com/snowflake/data-classification-at-scale-using-snowflake-automated-sensitive-data-classification-0cb6b620484c": {
         "title": "Data Classification at Scale using Snowflake Automated Sensitive Data Classification",
         "published": "2024-12-12T15:16:56.220000Z",
-        "updated": "2025-03-12T18:15:15.516000Z",
+        "updated": "2025-04-22T00:03:15.322000Z",
         "tags": "sensitive-data-discovery,data-governance,snowflake,snowflake-horizon-catalog,data-classification"
     },
     "https://medium.com/snowflake/conversations-to-insights-building-an-ai-sales-assistant-with-snowflake-cortex-and-da82a2f154e5": {
