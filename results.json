@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/using-winning-variant-to-split-test-ml-model-versions-5ecbf2d4e256": {
+        "title": "Using Winning Variant to split test ML model versions",
+        "published": "2025-04-22T14:02:27.500000Z",
+        "updated": "2025-04-22T15:42:51.813000Z",
+        "tags": "snowflake,machine-learning,experimentation,split-test,data-engineering"
+    },
     "https://medium.com/snowflake/implicit-type-casting-error-in-joins-53a3a3e5103a": {
         "title": "Implicit Type Casting Error In Joins",
         "published": "2025-04-21T22:02:19.881000Z",
