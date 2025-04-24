@@ -1,4 +1,22 @@
 {
+    "https://medium.com/snowflake/building-microservices-architecture-patterns-in-snowflake-using-native-app-5c68fb6446f1": {
+        "title": "Building Microservices Architecture Patterns in Snowflake using Native App",
+        "published": "2025-04-23T22:01:31.218000Z",
+        "updated": "2025-04-23T22:01:31.218000Z",
+        "tags": "snowflake,data"
+    },
+    "https://medium.com/snowflake/so-you-want-to-terraform-snowflake-a6d16ca3237e": {
+        "title": "So You Want to Terraform Snowflake?",
+        "published": "2025-04-23T17:09:07.592000Z",
+        "updated": "2025-04-23T17:09:07.592000Z",
+        "tags": "snowflake,snowflake-data-cloud,terraform,terraform-provider,hashicorp"
+    },
+    "https://medium.com/snowflake/agentic-ai-insurance-orchestration-with-langgraph-amazon-bedrock-snowflake-1cff7ee507e6": {
+        "title": "Agentic AI Insurance Orchestration with LangGraph, Amazon Bedrock & Snowflake",
+        "published": "2025-04-23T14:02:25.599000Z",
+        "updated": "2025-04-23T14:02:25.599000Z",
+        "tags": "agentic-ai,ai,snowflake,aws,llm"
+    },
     "https://medium.com/snowflake/using-winning-variant-to-split-test-ml-model-versions-5ecbf2d4e256": {
         "title": "Using Winning Variant to split test ML model versions",
         "published": "2025-04-22T14:02:27.500000Z",
@@ -86,7 +104,7 @@
     "https://medium.com/snowflake/graph-visualization-in-snowflake-notebooks-4f20ad880cd5": {
         "title": "Graph Visualization in Snowflake Notebooks",
         "published": "2025-04-04T17:02:10.338000Z",
-        "updated": "2025-04-08T13:58:26.815000Z",
+        "updated": "2025-04-23T16:13:12.990000Z",
         "tags": "graph-analytics,snowflake-notebooks,data-science,snowflake,data-visualization"
     },
     "https://medium.com/snowflake/ai-powered-rag-chatbot-for-discovering-kubecon-sessions-with-snowflake-cortex-and-streamlit-7c698cffba6f": {
