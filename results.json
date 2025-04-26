@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/bridging-data-engineering-and-data-science-integrating-dbt-python-and-snowpark-0eb07b76b4af": {
+        "title": "Bridging Data Engineering and Data Science: Integrating dbt, Python, and Snowpark",
+        "published": "2025-04-25T22:02:26.889000Z",
+        "updated": "2025-04-25T22:02:26.889000Z",
+        "tags": "snowflake,data-engineering,python-programming,snowpark"
+    },
+    "https://medium.com/snowflake/combining-snowflake-cortex-ai-functions-to-map-and-analyze-text-data-3b41e1e92ff8": {
+        "title": "Combining Snowflake Cortex AI Functions To Map and Analyze Text Data",
+        "published": "2025-04-25T14:02:40.126000Z",
+        "updated": "2025-04-25T14:02:40.126000Z",
+        "tags": "snowflake,cortex,ai,mapping,geocoding"
+    },
     "https://medium.com/snowflake/now-ga-write-files-to-internal-and-external-stages-from-python-udfs-udtfs-in-snowpark-d19d108bb957": {
         "title": "Now GA: Write Files to Internal and External Stages from Python UDFs/UDTFs in Snowpark",
         "published": "2025-04-24T15:34:54.249000Z",
@@ -224,7 +236,7 @@
     "https://medium.com/snowflake/snowflake-integrates-with-amazon-s3-tables-d6cebf5fdcb2": {
         "title": "Snowflake integrates with Amazon S3 Tables",
         "published": "2025-03-14T16:02:30.360000Z",
-        "updated": "2025-03-14T16:02:30.360000Z",
+        "updated": "2025-04-25T17:17:05.899000Z",
         "tags": "iceberg-table,s3-tables,snowflake,data-lakehouse"
     },
     "https://medium.com/snowflake/snowflake-concurrency-fundamentals-7a2279dd4c51": {
