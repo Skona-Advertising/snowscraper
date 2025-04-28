@@ -1037,12 +1037,6 @@
         "updated": "2024-11-13T23:53:15.012000Z",
         "tags": ""
     },
-    "https://medium.com/snowflake/integrate-snowflake-cortex-analyst-rest-api-with-slack-0b70bde3cb7b": {
-        "title": "Integrate Snowflake Cortex Analyst REST API with Slack",
-        "published": "2024-11-13T20:04:50.165000Z",
-        "updated": "2025-03-28T01:05:20.177000Z",
-        "tags": "snowflake,slack,cortex-analyst,application,developer"
-    },
     "https://medium.com/snowflake/best-practices-for-using-query-tag-in-snowflake-32bfb8d4efba": {
         "title": "Best Practices for Using QUERY_TAG in Snowflake",
         "published": "2024-11-13T15:27:38.043000Z",
