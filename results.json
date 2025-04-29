@@ -1,4 +1,22 @@
 {
+    "https://medium.com/snowflake/a-deep-dive-into-snowflakes-git-integration-40dfd017a2a0": {
+        "title": "A deep dive into Snowflake\u2019s Git Integration",
+        "published": "2025-04-28T22:02:37.139000Z",
+        "updated": "2025-04-28T22:02:37.139000Z",
+        "tags": "snowflake,devops,git,snowflake-ai-data-cloud"
+    },
+    "https://medium.com/snowflake/key-pair-authentication-with-aws-lambda-and-the-snowflake-connector-for-python-7c6e56626134": {
+        "title": "Key-pair authentication with AWS Lambda and the Snowflake Connector for Python",
+        "published": "2025-04-28T17:02:55.705000Z",
+        "updated": "2025-04-28T18:01:41.875000Z",
+        "tags": "snowflake-authentication,aws-lambda,snowflake,aws"
+    },
+    "https://medium.com/snowflake/how-to-clean-and-enrich-data-before-it-lands-in-snowflake-5bc937486b82": {
+        "title": "How to Clean and Enrich Data Before It Lands in Snowflake",
+        "published": "2025-04-28T14:02:39.651000Z",
+        "updated": "2025-04-28T14:02:39.651000Z",
+        "tags": "apache-flink,apache-kafka,snowflake,data-cleaning,etl"
+    },
     "https://medium.com/snowflake/bridging-data-engineering-and-data-science-integrating-dbt-python-and-snowpark-0eb07b76b4af": {
         "title": "Bridging Data Engineering and Data Science: Integrating dbt, Python, and Snowpark",
         "published": "2025-04-25T22:02:26.889000Z",
@@ -1334,7 +1352,7 @@
     "https://medium.com/snowflake/integrating-delta-tables-with-snowflake-performance-beyond-external-tables-52b54d31251c": {
         "title": "Integrating Delta Tables with Snowflake: Performance Beyond External Tables",
         "published": "2024-10-12T15:56:38.447000Z",
-        "updated": "2025-03-25T14:48:46.953000Z",
+        "updated": "2025-04-28T15:01:20.289000Z",
         "tags": "snowflake,delta-tables,iceberg-table,performance,external-tables"
     },
     "https://medium.com/snowflake/running-distributed-pytorch-models-on-snowflake-an-end-to-end-ml-solution-452d16a39553": {
