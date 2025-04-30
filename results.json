@@ -1,4 +1,22 @@
 {
+    "https://medium.com/snowflake/towards-building-a-customer-review-analytics-dashboard-with-snowflake-and-streamlit-3decdde91567": {
+        "title": "Towards Building a Customer Review Analytics Dashboard with Snowflake and Streamlit",
+        "published": "2025-04-29T22:01:57.369000Z",
+        "updated": "2025-04-29T22:01:57.369000Z",
+        "tags": "snowflake,dashboard,python,llm,streamlit"
+    },
+    "https://medium.com/snowflake/viewing-data-as-the-visiting-user-in-streamlit-in-snowflake-07eee0d6a5a3": {
+        "title": "Viewing Data as the Visiting User in Streamlit in Snowflake",
+        "published": "2025-04-29T19:48:14.109000Z",
+        "updated": "2025-04-29T19:48:14.109000Z",
+        "tags": "snowflake,streamlit,row-access-policy"
+    },
+    "https://medium.com/snowflake/how-outbound-private-connectivity-for-spcs-works-9c25e36a1540": {
+        "title": "How Outbound Private Connectivity for SPCS Works",
+        "published": "2025-04-29T14:02:39.844000Z",
+        "updated": "2025-04-29T14:02:39.844000Z",
+        "tags": "snowflake,snowpark"
+    },
     "https://medium.com/snowflake/a-deep-dive-into-snowflakes-git-integration-40dfd017a2a0": {
         "title": "A deep dive into Snowflake\u2019s Git Integration",
         "published": "2025-04-28T22:02:37.139000Z",
@@ -98,7 +116,7 @@
     "https://medium.com/snowflake/password-eradication-2094d4fc5a56": {
         "title": "Password Eradication",
         "published": "2025-04-14T14:01:31.661000Z",
-        "updated": "2025-04-14T14:01:31.661000Z",
+        "updated": "2025-04-29T20:09:27.341000Z",
         "tags": "security,snowflake,passwordless"
     },
     "https://medium.com/snowflake/how-inbound-private-connectivity-for-spcs-works-c0e8439d932a": {
