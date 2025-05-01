@@ -1,4 +1,22 @@
 {
+    "https://medium.com/snowflake/snowflake-parallel-execution-of-multiple-sqls-in-a-procedure-06221393ea6e": {
+        "title": "Snowflake: Parallel execution of multiple SQLs in a procedure",
+        "published": "2025-04-30T22:02:25.410000Z",
+        "updated": "2025-04-30T22:02:25.410000Z",
+        "tags": "sql,snowflake,performance,optimization,data-superhero"
+    },
+    "https://medium.com/snowflake/optimizing-data-architecture-how-moser-consulting-streamlined-honeycomb-by-phasing-out-databricks-7a195a7d9358": {
+        "title": "Optimizing Data Architecture: How Moser Consulting Streamlined Honeycomb by Phasing Out Databricks\u2026",
+        "published": "2025-04-30T17:02:26.665000Z",
+        "updated": "2025-04-30T17:02:26.665000Z",
+        "tags": "snowflake,honeycomb,data-engineering"
+    },
+    "https://medium.com/snowflake/masking-key-value-type-data-in-snowflake-82d8d4e6bb97": {
+        "title": "Masking Key Value type data in Snowflake",
+        "published": "2025-04-30T14:02:40.841000Z",
+        "updated": "2025-04-30T14:02:40.841000Z",
+        "tags": "data-masking,snowflake"
+    },
     "https://medium.com/snowflake/towards-building-a-customer-review-analytics-dashboard-with-snowflake-and-streamlit-3decdde91567": {
         "title": "Towards Building a Customer Review Analytics Dashboard with Snowflake and Streamlit",
         "published": "2025-04-29T22:01:57.369000Z",
