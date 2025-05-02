@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/is-your-snowflake-secure-heres-a-practical-review-you-can-run-today-f291d686931c": {
+        "title": "Is Your Snowflake Secure? Here\u2019s a Practical Review You Can Run Today",
+        "published": "2025-05-01T22:01:34.040000Z",
+        "updated": "2025-05-01T22:01:34.040000Z",
+        "tags": "snowflake,data-superhero,security,data-governance,audit"
+    },
+    "https://medium.com/snowflake/datachat-bridging-natural-language-and-analytics-with-gel-and-llm-integration-21826eeeb0c2": {
+        "title": "DataChat: Bridging Natural Language and Analytics with GEL and LLM Integration",
+        "published": "2025-05-01T14:02:25.197000Z",
+        "updated": "2025-05-01T14:02:25.197000Z",
+        "tags": "data-analytics,business-intelligence,natural-language-process,agentic-rag,snowflake-apps"
+    },
     "https://medium.com/snowflake/snowflake-parallel-execution-of-multiple-sqls-in-a-procedure-06221393ea6e": {
         "title": "Snowflake: Parallel execution of multiple SQLs in a procedure",
         "published": "2025-04-30T22:02:25.410000Z",
