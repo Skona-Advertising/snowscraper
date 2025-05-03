@@ -1,4 +1,22 @@
 {
+    "https://medium.com/snowflake/iceberg-summit-2025-just-the-tip-of-the-iceberg-22bd73d1e0ba": {
+        "title": "Iceberg Summit 2025: Just the Tip of the Iceberg",
+        "published": "2025-05-02T19:01:32.098000Z",
+        "updated": "2025-05-02T19:01:32.098000Z",
+        "tags": "apache-iceberg,data-engineering,open-source"
+    },
+    "https://medium.com/snowflake/snowflake-and-servicenow-partner-to-bring-insights-to-action-to-life-3a3d2280270d": {
+        "title": "Snowflake and ServiceNow partner to bring Insights to Action to life",
+        "published": "2025-05-02T17:02:29.870000Z",
+        "updated": "2025-05-02T17:02:29.870000Z",
+        "tags": "snowflake,data-engineering,servicenow"
+    },
+    "https://medium.com/snowflake/from-cctv-to-insights-how-snowflake-customers-can-build-visual-ai-6d2d2813f070": {
+        "title": "From CCTV to Insights\u200a\u2014\u200aHow Snowflake Customers Can Build Visual AI",
+        "published": "2025-05-02T14:01:43.498000Z",
+        "updated": "2025-05-02T14:01:43.498000Z",
+        "tags": "computer-vision,cctv,landing-ai,landinglens,visual-ai"
+    },
     "https://medium.com/snowflake/is-your-snowflake-secure-heres-a-practical-review-you-can-run-today-f291d686931c": {
         "title": "Is Your Snowflake Secure? Here\u2019s a Practical Review You Can Run Today",
         "published": "2025-05-01T22:01:34.040000Z",
@@ -176,7 +194,7 @@
     "https://medium.com/snowflake/safely-use-snowflake-cortex-analyst-with-multi-tenant-data-552b8646cadc": {
         "title": "Safely Use Snowflake Cortex Analyst with Multi-Tenant Data",
         "published": "2025-04-07T21:14:29.908000Z",
-        "updated": "2025-04-07T21:14:29.908000Z",
+        "updated": "2025-05-02T14:28:21.929000Z",
         "tags": "snowflake,snowflake-cortex"
     },
     "https://medium.com/snowflake/enhance-snowflake-data-governance-through-automated-descriptions-with-snowflake-cortex-faa7d2d4620b": {
@@ -1400,7 +1418,7 @@
     "https://medium.com/snowflake/integrating-delta-tables-with-snowflake-performance-beyond-external-tables-52b54d31251c": {
         "title": "Integrating Delta Tables with Snowflake: Performance Beyond External Tables",
         "published": "2024-10-12T15:56:38.447000Z",
-        "updated": "2025-04-28T15:01:20.289000Z",
+        "updated": "2025-05-02T21:44:35.581000Z",
         "tags": "snowflake,delta-tables,iceberg-table,performance,external-tables"
     },
     "https://medium.com/snowflake/running-distributed-pytorch-models-on-snowflake-an-end-to-end-ml-solution-452d16a39553": {
