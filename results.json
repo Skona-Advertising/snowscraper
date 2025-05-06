@@ -1,4 +1,22 @@
 {
+    "https://medium.com/snowflake/the-physics-of-data-ef37d3395e7a": {
+        "title": "The Physics of Data",
+        "published": "2025-05-05T22:01:33.949000Z",
+        "updated": "2025-05-05T22:01:33.949000Z",
+        "tags": "snowflake,databricks,data-engineering"
+    },
+    "https://medium.com/snowflake/transforming-manufacturing-data-illuminas-journey-with-apache-iceberg-e38bea955e9b": {
+        "title": "Transforming Manufacturing Data: Illumina\u2019s Journey with Apache Iceberg",
+        "published": "2025-05-05T17:01:35.459000Z",
+        "updated": "2025-05-05T17:01:35.459000Z",
+        "tags": "snowflake,illumina,apache-iceberg,data-lakehouse"
+    },
+    "https://medium.com/snowflake/build-ai-driven-workflows-using-snowflake-cortex-llm-functions-with-pandas-on-snowflake-c1c2d6543320": {
+        "title": "Build AI-driven workflows using Snowflake Cortex LLM Functions with pandas on Snowflake",
+        "published": "2025-05-05T14:02:27.581000Z",
+        "updated": "2025-05-05T14:02:27.581000Z",
+        "tags": "data-engineering,snowflake,pandas,artificial-intelligence"
+    },
     "https://medium.com/snowflake/iceberg-summit-2025-just-the-tip-of-the-iceberg-22bd73d1e0ba": {
         "title": "Iceberg Summit 2025: Just the Tip of the Iceberg",
         "published": "2025-05-02T19:01:32.098000Z",
