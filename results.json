@@ -1,9 +1,21 @@
 {
-    "https://medium.com/snowflake/supercharge-your-ai-workflow-agentic-solution-with-amazon-nova-the-new-start-of-the-art-c01e04900857": {
-        "title": "Supercharge your AI workflow: Agentic solution with Amazon Nova, the new start-of-the-art\u2026",
-        "published": "2025-05-06T22:02:27.576000Z",
-        "updated": "2025-05-06T22:02:27.576000Z",
-        "tags": "ai,genai,agentic-ai,snowflake,aws"
+    "https://medium.com/snowflake/expand-to-more-regions-and-clouds-with-zero-additional-egress-cost-819bd8358f5d": {
+        "title": "Expand to more regions and clouds with zero additional egress cost",
+        "published": "2025-05-07T22:02:15.843000Z",
+        "updated": "2025-05-07T23:13:12.376000Z",
+        "tags": "data-sharing,data-collaboration,data-science,cost-optimization"
+    },
+    "https://medium.com/snowflake/modernizing-compliance-and-core-data-sutton-banks-cloud-migration-with-snowflake-2ff2fcc5c36e": {
+        "title": "Modernizing Compliance and Core Data: Sutton Bank\u2019s Cloud Migration with Snowflake",
+        "published": "2025-05-07T17:02:46.980000Z",
+        "updated": "2025-05-07T17:02:46.980000Z",
+        "tags": "banking,cloud,migration,case-study,snowflake"
+    },
+    "https://medium.com/snowflake/jedify-unveils-game-changing-snowflake-native-app-redefining-the-data-driven-future-39e02bd1f062": {
+        "title": "Jedify Unveils Game-Changing Snowflake Native App: Redefining the Data-Driven Future",
+        "published": "2025-05-07T14:02:41.298000Z",
+        "updated": "2025-05-07T14:02:41.298000Z",
+        "tags": "semantic-model,insights,cortex-ai,analytics,data-agents"
     },
     "https://medium.com/snowflake/how-to-setup-delta-direct-in-snowflake-fe15638282ce": {
         "title": "How to setup Delta Direct in Snowflake",
