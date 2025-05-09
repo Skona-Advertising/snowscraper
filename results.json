@@ -1,4 +1,22 @@
 {
+    "https://medium.com/snowflake/considerations-for-connecting-microsoft-fabric-to-snowflake-9ebf9ad584b2": {
+        "title": "Considerations for Connecting Microsoft Fabric to Snowflake",
+        "published": "2025-05-08T22:01:31.037000Z",
+        "updated": "2025-05-08T22:01:31.037000Z",
+        "tags": "snowflake,microsoft-fabric,power-bi,onelake,apache-iceberg"
+    },
+    "https://medium.com/snowflake/snowflake-how-to-document-database-objects-by-an-empowered-snowflake-cortex-ai-process-2bee594bf66c": {
+        "title": "SNOWFLAKE: How to Document Database objects by an empowered Snowflake Cortex AI process",
+        "published": "2025-05-08T17:02:42.733000Z",
+        "updated": "2025-05-08T19:47:22.647000Z",
+        "tags": "snowflake,cortex,ai,governance,data-superhero"
+    },
+    "https://medium.com/snowflake/bridging-the-gender-gap-in-data-a-hands-on-demo-from-build-london-part-1-of-2-setup-analysis-48d7592f573a": {
+        "title": "Bridging the Gender Gap in Data: A Hands-On Demo from BUILD London (Part 1 of 2: Setup & Analysis)",
+        "published": "2025-05-08T14:02:43.214000Z",
+        "updated": "2025-05-08T14:03:39.200000Z",
+        "tags": "snowflake"
+    },
     "https://medium.com/snowflake/expand-to-more-regions-and-clouds-with-zero-additional-egress-cost-819bd8358f5d": {
         "title": "Expand to more regions and clouds with zero additional egress cost",
         "published": "2025-05-07T22:02:15.843000Z",
@@ -26,7 +44,7 @@
     "https://medium.com/snowflake/the-physics-of-data-ef37d3395e7a": {
         "title": "The Physics of Data",
         "published": "2025-05-05T22:01:33.949000Z",
-        "updated": "2025-05-05T22:01:33.949000Z",
+        "updated": "2025-05-08T16:59:19.346000Z",
         "tags": "snowflake,databricks,data-engineering"
     },
     "https://medium.com/snowflake/transforming-manufacturing-data-illuminas-journey-with-apache-iceberg-e38bea955e9b": {
