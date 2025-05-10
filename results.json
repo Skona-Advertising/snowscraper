@@ -1,4 +1,22 @@
 {
+    "https://medium.com/snowflake/turbocharge-your-pandas-workloads-with-snowpark-a-deep-dive-into-distributed-processing-804260943068": {
+        "title": "Turbocharge Your pandas Workloads with Snowpark: A Deep Dive into Distributed Processing",
+        "published": "2025-05-09T22:02:38.666000Z",
+        "updated": "2025-05-09T22:02:38.666000Z",
+        "tags": "snowpark,pandas,data-engineering"
+    },
+    "https://medium.com/snowflake/new-passwordless-configuration-configuring-single-sign-on-sso-from-power-bi-to-snowflake-b6e5bc544d44": {
+        "title": "New Passwordless Configuration: Configuring Single Sign\u2011On (SSO) from Power BI to Snowflake",
+        "published": "2025-05-09T17:02:37.821000Z",
+        "updated": "2025-05-09T17:02:37.821000Z",
+        "tags": "power-bi,snowflake,data,visualization,microsoft"
+    },
+    "https://medium.com/snowflake/bridging-the-gender-gap-in-data-a-hands-on-demo-from-build-london-part-2-of-2-visualization-9e7fa36534c8": {
+        "title": "Bridging the Gender Gap in Data: A Hands-On Demo from BUILD London (Part 2 of 2: Visualization &\u2026",
+        "published": "2025-05-09T14:01:39.041000Z",
+        "updated": "2025-05-09T14:01:39.041000Z",
+        "tags": "snowflake"
+    },
     "https://medium.com/snowflake/considerations-for-connecting-microsoft-fabric-to-snowflake-9ebf9ad584b2": {
         "title": "Considerations for Connecting Microsoft Fabric to Snowflake",
         "published": "2025-05-08T22:01:31.037000Z",
@@ -8,7 +26,7 @@
     "https://medium.com/snowflake/snowflake-how-to-document-database-objects-by-an-empowered-snowflake-cortex-ai-process-2bee594bf66c": {
         "title": "SNOWFLAKE: How to Document Database objects by an empowered Snowflake Cortex AI process",
         "published": "2025-05-08T17:02:42.733000Z",
-        "updated": "2025-05-08T19:47:22.647000Z",
+        "updated": "2025-05-09T22:36:59.863000Z",
         "tags": "snowflake,cortex,ai,governance,data-superhero"
     },
     "https://medium.com/snowflake/bridging-the-gender-gap-in-data-a-hands-on-demo-from-build-london-part-1-of-2-setup-analysis-48d7592f573a": {
