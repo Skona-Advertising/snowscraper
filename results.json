@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/automating-snowflake-privileges-with-servicenow-a-practical-guide-70ca313acde4": {
+        "title": "Automating Snowflake Privileges with ServiceNow: A Practical Guide",
+        "published": "2025-05-12T14:02:31.638000Z",
+        "updated": "2025-05-12T14:02:31.638000Z",
+        "tags": "servicenow,snowflake,automation,api"
+    },
     "https://medium.com/snowflake/turbocharge-your-pandas-workloads-with-snowpark-a-deep-dive-into-distributed-processing-804260943068": {
         "title": "Turbocharge Your pandas Workloads with Snowpark: A Deep Dive into Distributed Processing",
         "published": "2025-05-09T22:02:38.666000Z",
@@ -88,6 +94,12 @@
         "published": "2025-05-02T17:02:29.870000Z",
         "updated": "2025-05-02T17:02:29.870000Z",
         "tags": "snowflake,data-engineering,servicenow"
+    },
+    "https://medium.com/snowflake/fastest-speculative-decoding-in-vllm-with-arctic-inference-and-arctic-training-57957b29d20e": {
+        "title": "Fastest Speculative Decoding in vLLM with Arctic Inference and Arctic Training",
+        "published": "2025-05-02T15:02:26.800000Z",
+        "updated": "2025-05-12T17:52:34.777000Z",
+        "tags": "ai,ai-research,llm,vllm,ai-inferencing"
     },
     "https://medium.com/snowflake/from-cctv-to-insights-how-snowflake-customers-can-build-visual-ai-6d2d2813f070": {
         "title": "From CCTV to Insights\u200a\u2014\u200aHow Snowflake Customers Can Build Visual AI",
