@@ -1,4 +1,22 @@
 {
+    "https://medium.com/snowflake/transform-documents-into-data-with-snowflake-document-ai-220fdbb67adf": {
+        "title": "Transform Documents into Data with Snowflake Document AI",
+        "published": "2025-05-13T22:01:37.021000Z",
+        "updated": "2025-05-13T22:01:37.021000Z",
+        "tags": "ai-ml-solution,genai,ai,analytics,snowflake"
+    },
+    "https://medium.com/snowflake/python-profiler-now-generally-available-e8835205a0b7": {
+        "title": "Python Profiler now Generally Available",
+        "published": "2025-05-13T16:20:32.731000Z",
+        "updated": "2025-05-14T00:44:21.164000Z",
+        "tags": "python,debugging,snowpark"
+    },
+    "https://medium.com/snowflake/a-modern-iot-data-architecture-using-snowflake-c6aab4c1f319": {
+        "title": "A Modern IoT Data Architecture using Snowflake",
+        "published": "2025-05-13T14:02:53.376000Z",
+        "updated": "2025-05-13T14:02:53.376000Z",
+        "tags": "iot,iot-platform,data-architecture,snowflake"
+    },
     "https://medium.com/snowflake/automating-snowflake-privileges-with-servicenow-a-practical-guide-70ca313acde4": {
         "title": "Automating Snowflake Privileges with ServiceNow: A Practical Guide",
         "published": "2025-05-12T14:02:31.638000Z",
@@ -138,9 +156,9 @@
         "tags": "data-masking,snowflake"
     },
     "https://medium.com/snowflake/towards-building-a-customer-review-analytics-dashboard-with-snowflake-and-streamlit-3decdde91567": {
-        "title": "Towards Building a Customer Review Analytics Dashboard with Snowflake and Streamlit",
+        "title": "Towards Building a Customer Review Analytics Dashboard with Snowflake Cortex and Streamlit",
         "published": "2025-04-29T22:01:57.369000Z",
-        "updated": "2025-04-29T22:01:57.369000Z",
+        "updated": "2025-05-13T04:16:17.530000Z",
         "tags": "snowflake,dashboard,python,llm,streamlit"
     },
     "https://medium.com/snowflake/viewing-data-as-the-visiting-user-in-streamlit-in-snowflake-07eee0d6a5a3": {
@@ -2756,7 +2774,7 @@
     "https://medium.com/snowflake/faster-parquet-data-ingestion-with-snowflake-use-vectorized-scanner-28679bcff450": {
         "title": "Faster Parquet Data Ingestion with Snowflake USE_VECTORIZED_SCANNER",
         "published": "2024-05-31T19:48:39.147000Z",
-        "updated": "2025-03-20T00:30:57.182000Z",
+        "updated": "2025-05-13T15:10:16.378000Z",
         "tags": "snowflake,data-pipeline,data-ingestion,parquet,snowflake-data-cloud"
     },
     "https://medium.com/snowflake/how-booking-com-enforces-policy-across-a-hybrid-data-ecosystem-with-immuta-aws-and-snowflake-d92df507c3d0": {
