@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/automating-entains-software-delivery-lifecycle-with-snowflake-cortex-ai-design-to-code-5645f05636d0": {
+        "title": "Automating Entains Software Delivery Lifecycle with Snowflake Cortex AI: Design to Code",
+        "published": "2025-05-14T22:01:39.473000Z",
+        "updated": "2025-05-14T22:01:39.473000Z",
+        "tags": "genai,snowflake,sdlc,cortex,claude"
+    },
+    "https://medium.com/snowflake/exploring-composable-cdps-and-snowflakes-multimodal-llm-in-action-bd07ad5364aa": {
+        "title": "Exploring Composable CDPs and Snowflake\u2019s Multimodal LLM in Action",
+        "published": "2025-05-14T14:02:39.536000Z",
+        "updated": "2025-05-14T14:02:39.536000Z",
+        "tags": "composable-cdp,snowflake,multimodal-llm,data-platforms,customer-engagement"
+    },
     "https://medium.com/snowflake/transform-documents-into-data-with-snowflake-document-ai-220fdbb67adf": {
         "title": "Transform Documents into Data with Snowflake Document AI",
         "published": "2025-05-13T22:01:37.021000Z",
@@ -38,7 +50,7 @@
     "https://medium.com/snowflake/bridging-the-gender-gap-in-data-a-hands-on-demo-from-build-london-part-2-of-2-visualization-9e7fa36534c8": {
         "title": "Bridging the Gender Gap in Data: A Hands-On Demo from BUILD London (Part 2 of 2: Visualization &\u2026",
         "published": "2025-05-09T14:01:39.041000Z",
-        "updated": "2025-05-09T14:01:39.041000Z",
+        "updated": "2025-05-14T09:58:05.130000Z",
         "tags": "snowflake"
     },
     "https://medium.com/snowflake/considerations-for-connecting-microsoft-fabric-to-snowflake-9ebf9ad584b2": {
@@ -56,7 +68,7 @@
     "https://medium.com/snowflake/bridging-the-gender-gap-in-data-a-hands-on-demo-from-build-london-part-1-of-2-setup-analysis-48d7592f573a": {
         "title": "Bridging the Gender Gap in Data: A Hands-On Demo from BUILD London (Part 1 of 2: Setup & Analysis)",
         "published": "2025-05-08T14:02:43.214000Z",
-        "updated": "2025-05-08T14:03:39.200000Z",
+        "updated": "2025-05-14T09:56:48.547000Z",
         "tags": "snowflake"
     },
     "https://medium.com/snowflake/expand-to-more-regions-and-clouds-with-zero-additional-egress-cost-819bd8358f5d": {
@@ -4802,7 +4814,7 @@
     "https://medium.com/snowflake/snowflake-and-power-bi-best-practices-and-recent-improvements-183e2d970c0c": {
         "title": "Snowflake and Power BI: Best Practices and Recent Improvements",
         "published": "2023-12-07T23:02:08.677000Z",
-        "updated": "2024-12-12T23:50:21.587000Z",
+        "updated": "2025-05-14T23:08:37.139000Z",
         "tags": "snowflake,microsoft-power-bi,snowflake-data-cloud,power-bi-desktop,performance"
     },
     "https://medium.com/snowflake/optimizing-snowflake-cloud-services-costs-de10f0b15444": {
