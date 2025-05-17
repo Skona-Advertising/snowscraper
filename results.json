@@ -1,8 +1,32 @@
 {
+    "https://medium.com/snowflake/how-to-securely-read-databricks-delta-shares-from-snowflake-with-snowflake-artifact-repository-4dbbc69ea435": {
+        "title": "How to Securely read Databricks Delta Shares from Snowflake; with Snowflake Artifact Repository",
+        "published": "2025-05-16T22:01:35.881000Z",
+        "updated": "2025-05-16T22:01:35.881000Z",
+        "tags": "snowflake-data-cloud,delta-sharing,pypi,snowpark"
+    },
+    "https://medium.com/snowflake/why-im-betting-on-snowflake-for-ai-startups-9807a311e87f": {
+        "title": "Why I\u2019m Betting on Snowflake for AI Startups",
+        "published": "2025-05-16T14:01:45.018000Z",
+        "updated": "2025-05-16T14:02:41.293000Z",
+        "tags": "ai,startup\u015f,snowflake"
+    },
+    "https://medium.com/snowflake/a-multimodal-approach-to-manufacturing-process-analytics-efc25294ee08": {
+        "title": "A Multimodal Approach to Manufacturing Process Analytics",
+        "published": "2025-05-15T22:02:40.540000Z",
+        "updated": "2025-05-16T05:22:17.157000Z",
+        "tags": "smart-manufacturing,industry-4-0,iot,artificial-intelligence,multimodal"
+    },
+    "https://medium.com/snowflake/karate-connect-57c1fca7f407": {
+        "title": "Karate Connect",
+        "published": "2025-05-15T14:01:16.015000Z",
+        "updated": "2025-05-15T14:01:16.015000Z",
+        "tags": "data-engineering,testing,open-source"
+    },
     "https://medium.com/snowflake/automating-entains-software-delivery-lifecycle-with-snowflake-cortex-ai-design-to-code-5645f05636d0": {
         "title": "Automating Entains Software Delivery Lifecycle with Snowflake Cortex AI: Design to Code",
         "published": "2025-05-14T22:01:39.473000Z",
-        "updated": "2025-05-14T22:01:39.473000Z",
+        "updated": "2025-05-15T10:49:20.892000Z",
         "tags": "genai,snowflake,sdlc,cortex,claude"
     },
     "https://medium.com/snowflake/exploring-composable-cdps-and-snowflakes-multimodal-llm-in-action-bd07ad5364aa": {
@@ -284,7 +308,7 @@
     "https://medium.com/snowflake/password-eradication-2094d4fc5a56": {
         "title": "Password Eradication",
         "published": "2025-04-14T14:01:31.661000Z",
-        "updated": "2025-04-29T20:09:27.341000Z",
+        "updated": "2025-05-16T14:53:26.744000Z",
         "tags": "security,snowflake,passwordless"
     },
     "https://medium.com/snowflake/how-inbound-private-connectivity-for-spcs-works-c0e8439d932a": {
@@ -1058,7 +1082,7 @@
     "https://medium.com/snowflake/data-classification-at-scale-using-snowflake-automated-sensitive-data-classification-0cb6b620484c": {
         "title": "Data Classification at Scale using Snowflake Automated Sensitive Data Classification",
         "published": "2024-12-12T15:16:56.220000Z",
-        "updated": "2025-04-22T00:03:15.322000Z",
+        "updated": "2025-05-15T15:42:33.450000Z",
         "tags": "sensitive-data-discovery,data-governance,snowflake,snowflake-horizon-catalog,data-classification"
     },
     "https://medium.com/snowflake/conversations-to-insights-building-an-ai-sales-assistant-with-snowflake-cortex-and-da82a2f154e5": {
