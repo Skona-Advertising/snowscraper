@@ -1,14 +1,32 @@
 {
-    "https://medium.com/snowflake/how-to-securely-read-databricks-delta-shares-from-snowflake-with-snowflake-artifact-repository-4dbbc69ea435": {
-        "title": "How to Securely read Databricks Delta Shares from Snowflake; with Snowflake Artifact Repository",
-        "published": "2025-05-16T22:01:35.881000Z",
-        "updated": "2025-05-16T22:01:35.881000Z",
-        "tags": "snowflake-data-cloud,delta-sharing,pypi,snowpark"
+    "https://medium.com/snowflake/how-anomalos-snowflake-native-app-automates-data-anomaly-detection-3e1c047441d2": {
+        "title": "How Anomalo\u2019s Snowflake Native App automates Data Anomaly Detection",
+        "published": "2025-05-20T22:02:41.591000Z",
+        "updated": "2025-05-20T22:02:41.591000Z",
+        "tags": "machine-learning,data-quality,snowflake,anomaly-detection,ai"
+    },
+    "https://medium.com/snowflake/scaling-hospitality-forecasting-how-cloudbeds-leveraged-snowflake-ml-to-achieve-95-accuracy-22d0955c4956": {
+        "title": "Scaling hospitality forecasting: How Cloudbeds leveraged Snowflake ML to achieve 95% accuracy\u2026",
+        "published": "2025-05-19T22:02:34.233000Z",
+        "updated": "2025-05-19T22:02:34.233000Z",
+        "tags": "snowflake,cloudbeds,time-series-forecasting,causal-inference,mlops"
+    },
+    "https://medium.com/snowflake/snowflake-dataops-long-term-strategic-partnership-74234a1f22dd": {
+        "title": "FRICTIONLESS!",
+        "published": "2025-05-19T19:00:27.593000Z",
+        "updated": "2025-05-21T01:09:10.118000Z",
+        "tags": "snowflake,dataops,data-engineering,data-pipeline,data-architecture"
+    },
+    "https://medium.com/snowflake/analyzing-car-traffic-with-snowflake-cortex-complete-multimodal-393fbf48cd7c": {
+        "title": "Analyzing Car Traffic with Snowflake Cortex Complete Multimodal",
+        "published": "2025-05-19T14:01:40.710000Z",
+        "updated": "2025-05-19T14:02:39.834000Z",
+        "tags": "snowflake,snowflake-data-cloud,llm,cortex"
     },
     "https://medium.com/snowflake/why-im-betting-on-snowflake-for-ai-startups-9807a311e87f": {
         "title": "Why I\u2019m Betting on Snowflake for AI Startups",
         "published": "2025-05-16T14:01:45.018000Z",
-        "updated": "2025-05-16T14:02:41.293000Z",
+        "updated": "2025-05-19T13:57:30.750000Z",
         "tags": "ai,startup\u015f,snowflake"
     },
     "https://medium.com/snowflake/a-multimodal-approach-to-manufacturing-process-analytics-efc25294ee08": {
@@ -64,6 +82,12 @@
         "published": "2025-05-09T22:02:38.666000Z",
         "updated": "2025-05-09T22:02:38.666000Z",
         "tags": "snowpark,pandas,data-engineering"
+    },
+    "https://medium.com/snowflake/modern-sql-in-snowflake-designed-for-simplicity-for-complex-tasks-cbbe568a18dd": {
+        "title": "Modern SQL in Snowflake: Designed for Simplicity for Complex Tasks",
+        "published": "2025-05-09T20:44:05.085000Z",
+        "updated": "2025-05-20T16:55:21.851000Z",
+        "tags": "snowflake,sql,timeseries,analytics,data-engineering"
     },
     "https://medium.com/snowflake/new-passwordless-configuration-configuring-single-sign-on-sso-from-power-bi-to-snowflake-b6e5bc544d44": {
         "title": "New Passwordless Configuration: Configuring Single Sign\u2011On (SSO) from Power BI to Snowflake",
@@ -122,7 +146,7 @@
     "https://medium.com/snowflake/the-physics-of-data-ef37d3395e7a": {
         "title": "The Physics of Data",
         "published": "2025-05-05T22:01:33.949000Z",
-        "updated": "2025-05-08T16:59:19.346000Z",
+        "updated": "2025-05-20T19:56:30.215000Z",
         "tags": "snowflake,databricks,data-engineering"
     },
     "https://medium.com/snowflake/transforming-manufacturing-data-illuminas-journey-with-apache-iceberg-e38bea955e9b": {
