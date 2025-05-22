@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/analyzing-spcs-application-telemetry-with-snowflake-trail-00fa95c35247": {
+        "title": "Analyzing SPCS application telemetry with Snowflake Trail",
+        "published": "2025-05-21T17:33:06.589000Z",
+        "updated": "2025-05-21T17:45:09.361000Z",
+        "tags": "snowpark-container,snowflake,observability,monitoring"
+    },
+    "https://medium.com/snowflake/orchestrating-production-ml-pipelines-in-snowflake-via-ml-jobs-46def153f546": {
+        "title": "Orchestrating Production ML Pipelines in Snowflake via ML Jobs",
+        "published": "2025-05-21T14:01:44.623000Z",
+        "updated": "2025-05-21T14:01:44.623000Z",
+        "tags": "snowflake,machine-learning,orchestration,mlops"
+    },
     "https://medium.com/snowflake/how-anomalos-snowflake-native-app-automates-data-anomaly-detection-3e1c047441d2": {
         "title": "How Anomalo\u2019s Snowflake Native App automates Data Anomaly Detection",
         "published": "2025-05-20T22:02:41.591000Z",
@@ -14,7 +26,7 @@
     "https://medium.com/snowflake/snowflake-dataops-long-term-strategic-partnership-74234a1f22dd": {
         "title": "FRICTIONLESS!",
         "published": "2025-05-19T19:00:27.593000Z",
-        "updated": "2025-05-21T01:09:10.118000Z",
+        "updated": "2025-05-21T12:16:34.061000Z",
         "tags": "snowflake,dataops,data-engineering,data-pipeline,data-architecture"
     },
     "https://medium.com/snowflake/analyzing-car-traffic-with-snowflake-cortex-complete-multimodal-393fbf48cd7c": {
@@ -26,7 +38,7 @@
     "https://medium.com/snowflake/why-im-betting-on-snowflake-for-ai-startups-9807a311e87f": {
         "title": "Why I\u2019m Betting on Snowflake for AI Startups",
         "published": "2025-05-16T14:01:45.018000Z",
-        "updated": "2025-05-19T13:57:30.750000Z",
+        "updated": "2025-05-21T18:34:58.602000Z",
         "tags": "ai,startup\u015f,snowflake"
     },
     "https://medium.com/snowflake/a-multimodal-approach-to-manufacturing-process-analytics-efc25294ee08": {
