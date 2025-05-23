@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/programmatic-access-to-snowpark-container-services-b49ef65a7694": {
+        "title": "Programmatic Access to Snowpark Container Services",
+        "published": "2025-05-22T17:10:37.001000Z",
+        "updated": "2025-05-22T17:10:37.001000Z",
+        "tags": ""
+    },
+    "https://medium.com/snowflake/how-to-think-about-tenancy-models-for-your-snowflake-managed-app-310cc095ddeb": {
+        "title": "How to Think About Tenancy Models for Your Snowflake Managed App",
+        "published": "2025-05-22T10:03:22.060000Z",
+        "updated": "2025-05-22T10:03:22.060000Z",
+        "tags": "managed-applications,snowflake,application,builders"
+    },
     "https://medium.com/snowflake/analyzing-spcs-application-telemetry-with-snowflake-trail-00fa95c35247": {
         "title": "Analyzing SPCS application telemetry with Snowflake Trail",
         "published": "2025-05-21T17:33:06.589000Z",
@@ -362,7 +374,7 @@
     "https://medium.com/snowflake/access-pypi-packages-in-snowpark-udfs-and-stored-procedures-033db455bb73": {
         "title": "Access PyPI Packages in Snowpark UDFs and Stored Procedures",
         "published": "2025-04-09T14:01:54.092000Z",
-        "updated": "2025-04-09T14:01:54.092000Z",
+        "updated": "2025-05-22T20:11:29.919000Z",
         "tags": "snowpark,snowflake"
     },
     "https://medium.com/snowflake/ai-observability-in-snowflake-evaluate-gen-ai-apps-with-snowflake-cortex-ai-and-trulens-37878ec83c9e": {
@@ -2768,7 +2780,7 @@
     "https://medium.com/snowflake/llm-powered-snowflake-data-crawler-0dabbaa0e2a5": {
         "title": "LLM-Powered Snowflake Data Crawler",
         "published": "2024-06-06T17:52:08.103000Z",
-        "updated": "2024-06-06T17:52:08.103000Z",
+        "updated": "2025-05-22T15:42:46.920000Z",
         "tags": "llm,cortex,snowflake,ai,genai"
     },
     "https://medium.com/snowflake/using-snowflake-cortex-and-streamlit-to-generate-table-and-column-descriptions-llm-hallucinations-5d36a15de032": {
