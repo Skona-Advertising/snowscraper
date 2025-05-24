@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/scaling-unstructured-data-batch-inference-with-snowflake-cortex-llms-c7e9b3c6fb1e": {
+        "title": "Scaling Unstructured Data Batch Inference with Snowflake Cortex LLMs",
+        "published": "2025-05-23T14:02:28.064000Z",
+        "updated": "2025-05-23T14:02:28.064000Z",
+        "tags": "ai,snowflake-cortex-ai,llm-applications,batch-processing"
+    },
     "https://medium.com/snowflake/programmatic-access-to-snowpark-container-services-b49ef65a7694": {
         "title": "Programmatic Access to Snowpark Container Services",
         "published": "2025-05-22T17:10:37.001000Z",
@@ -374,7 +380,7 @@
     "https://medium.com/snowflake/access-pypi-packages-in-snowpark-udfs-and-stored-procedures-033db455bb73": {
         "title": "Access PyPI Packages in Snowpark UDFs and Stored Procedures",
         "published": "2025-04-09T14:01:54.092000Z",
-        "updated": "2025-05-22T20:11:29.919000Z",
+        "updated": "2025-05-23T17:12:54.176000Z",
         "tags": "snowpark,snowflake"
     },
     "https://medium.com/snowflake/ai-observability-in-snowflake-evaluate-gen-ai-apps-with-snowflake-cortex-ai-and-trulens-37878ec83c9e": {
