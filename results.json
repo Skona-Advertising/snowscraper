@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/snowflake-ci-cd-explained-automating-object-creation-with-terraform-dbt-and-github-8c2e38b70ec6": {
+        "title": "Snowflake CI/CD Explained: Automating Object Creation with Terraform, dbt, and GitHub",
+        "published": "2025-05-26T14:02:31.443000Z",
+        "updated": "2025-05-26T14:02:31.443000Z",
+        "tags": "snowflake,snowflake-data-superhero,cicd,terraform,github"
+    },
     "https://medium.com/snowflake/scaling-unstructured-data-batch-inference-with-snowflake-cortex-llms-c7e9b3c6fb1e": {
         "title": "Scaling Unstructured Data Batch Inference with Snowflake Cortex LLMs",
         "published": "2025-05-23T14:02:28.064000Z",
@@ -2588,7 +2594,7 @@
     "https://medium.com/snowflake/practical-implementation-of-federated-architecture-with-snowflake-features-154af30792a7": {
         "title": "Practical Implementation of federated architecture with Snowflake features",
         "published": "2024-07-08T14:57:00.303000Z",
-        "updated": "2024-08-22T10:13:08.510000Z",
+        "updated": "2025-05-26T19:17:23.464000Z",
         "tags": "architecture,data-mesh-architecture,data-mesh-implementation,infrastructure-as-code,devops"
     },
     "https://medium.com/snowflake/personalize-ai-for-your-business-needs-with-cortex-fine-tuning-in-snowflake-e423cd517032": {
