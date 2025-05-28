@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/i-vibe-coded-a-snowflake-geospatial-data-app-so-that-you-dont-have-to-but-you-should-anyway-2afc3a54a785": {
+        "title": "I Vibe Coded A Snowflake Geospatial Data App So That You Don\u2019t Have To (But You Should Anyway)",
+        "published": "2025-05-27T17:01:40.608000Z",
+        "updated": "2025-05-27T17:01:40.608000Z",
+        "tags": "snowflake,ai,vibe-coding"
+    },
     "https://medium.com/snowflake/snowflake-ci-cd-explained-automating-object-creation-with-terraform-dbt-and-github-8c2e38b70ec6": {
         "title": "Snowflake CI/CD Explained: Automating Object Creation with Terraform, dbt, and GitHub",
         "published": "2025-05-26T14:02:31.443000Z",
@@ -2594,7 +2600,7 @@
     "https://medium.com/snowflake/practical-implementation-of-federated-architecture-with-snowflake-features-154af30792a7": {
         "title": "Practical Implementation of federated architecture with Snowflake features",
         "published": "2024-07-08T14:57:00.303000Z",
-        "updated": "2025-05-26T19:17:23.464000Z",
+        "updated": "2025-05-27T13:17:00.356000Z",
         "tags": "architecture,data-mesh-architecture,data-mesh-implementation,infrastructure-as-code,devops"
     },
     "https://medium.com/snowflake/personalize-ai-for-your-business-needs-with-cortex-fine-tuning-in-snowflake-e423cd517032": {
@@ -3176,7 +3182,7 @@
     "https://medium.com/snowflake/the-solution-installation-wizard-on-snowflake-%EF%B8%8F-ba64ade85d51": {
         "title": "The Solution Installation Wizard on Snowflake \u2744\ufe0f",
         "published": "2024-05-08T14:54:01.352000Z",
-        "updated": "2024-05-08T14:54:01.352000Z",
+        "updated": "2025-05-27T18:29:26.134000Z",
         "tags": "snowflake,native-app,streamlit,python"
     },
     "https://medium.com/snowflake/did-you-snow-1-sequences-does-not-guarantee-gap-free-numbers-why-cd6d2f74c0ec": {
