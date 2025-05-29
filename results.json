@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/join-the-ultimate-data-ai-builder-experience-at-snowflake-dev-day-register-for-free-64633935307c": {
+        "title": "Join the Ultimate Data & AI Builder Experience at Snowflake Dev Day\u200a\u2014\u200aRegister for Free!",
+        "published": "2025-05-28T19:01:39.705000Z",
+        "updated": "2025-05-28T19:01:39.705000Z",
+        "tags": "snowflake"
+    },
+    "https://medium.com/snowflake/real-time-data-intelligence-with-jedify-building-on-snowflakes-native-app-framework-1b94c5d84975": {
+        "title": "Real-Time Data Intelligence with Jedify: Building on Snowflake\u2019s Native App Framework",
+        "published": "2025-05-28T14:02:36.131000Z",
+        "updated": "2025-05-28T14:02:36.131000Z",
+        "tags": ""
+    },
     "https://medium.com/snowflake/i-vibe-coded-a-snowflake-geospatial-data-app-so-that-you-dont-have-to-but-you-should-anyway-2afc3a54a785": {
         "title": "I Vibe Coded A Snowflake Geospatial Data App So That You Don\u2019t Have To (But You Should Anyway)",
         "published": "2025-05-27T17:01:40.608000Z",
@@ -134,7 +146,7 @@
     "https://medium.com/snowflake/new-passwordless-configuration-configuring-single-sign-on-sso-from-power-bi-to-snowflake-b6e5bc544d44": {
         "title": "New Passwordless Configuration: Configuring Single Sign\u2011On (SSO) from Power BI to Snowflake",
         "published": "2025-05-09T17:02:37.821000Z",
-        "updated": "2025-05-09T17:02:37.821000Z",
+        "updated": "2025-05-28T15:45:27.444000Z",
         "tags": "power-bi,snowflake,data,visualization,microsoft"
     },
     "https://medium.com/snowflake/bridging-the-gender-gap-in-data-a-hands-on-demo-from-build-london-part-2-of-2-visualization-9e7fa36534c8": {
@@ -382,6 +394,12 @@
         "published": "2025-04-11T14:01:52.193000Z",
         "updated": "2025-04-11T14:01:52.193000Z",
         "tags": ""
+    },
+    "https://medium.com/snowflake/will-artificial-intelligence-take-our-jobs-714c7d294011": {
+        "title": "Will Artificial Intelligence Take Our jobs?",
+        "published": "2025-04-11T00:57:57.625000Z",
+        "updated": "2025-05-28T22:02:36.900000Z",
+        "tags": "ai,ai-will-take-job"
     },
     "https://medium.com/snowflake/automating-financial-document-extraction-with-snowflake-document-ai-and-streamlit-in-snowflake-283e7cb697da": {
         "title": "Automating Financial Document Extraction with Snowflake Document AI and Streamlit in Snowflake",
