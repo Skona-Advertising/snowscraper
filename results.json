@@ -1,4 +1,22 @@
 {
+    "https://medium.com/snowflake/snowflake-architecture-series-a-foundational-checklist-fcb6c1db7f19": {
+        "title": "Snowflake Architecture Series: A Foundational Checklist",
+        "published": "2025-05-29T22:02:35.018000Z",
+        "updated": "2025-05-29T22:02:35.018000Z",
+        "tags": "snowflake,architecture,landingzone,security"
+    },
+    "https://medium.com/snowflake/using-mcp-with-snowflake-cortex-ai-f04e0b840958": {
+        "title": "Using MCP with Snowflake Cortex AI",
+        "published": "2025-05-29T19:10:16.366000Z",
+        "updated": "2025-05-29T19:10:16.366000Z",
+        "tags": "snowflake,cortex,ai,agents"
+    },
+    "https://medium.com/snowflake/unlock-global-clinical-trial-insights-and-protect-patient-privacy-with-snowflake-and-skyflow-bf054e6e6d7a": {
+        "title": "Unlock Global Clinical Trial Insights and Protect Patient Privacy with Snowflake and Skyflow",
+        "published": "2025-05-29T14:02:37.966000Z",
+        "updated": "2025-05-29T14:02:37.966000Z",
+        "tags": "snowflake,ai,skyflow,healthcare,healthcare-technology"
+    },
     "https://medium.com/snowflake/join-the-ultimate-data-ai-builder-experience-at-snowflake-dev-day-register-for-free-64633935307c": {
         "title": "Join the Ultimate Data & AI Builder Experience at Snowflake Dev Day\u200a\u2014\u200aRegister for Free!",
         "published": "2025-05-28T19:01:39.705000Z",
@@ -50,7 +68,7 @@
     "https://medium.com/snowflake/orchestrating-production-ml-pipelines-in-snowflake-via-ml-jobs-46def153f546": {
         "title": "Orchestrating Production ML Pipelines in Snowflake via ML Jobs",
         "published": "2025-05-21T14:01:44.623000Z",
-        "updated": "2025-05-21T14:01:44.623000Z",
+        "updated": "2025-05-29T17:02:29.502000Z",
         "tags": "snowflake,machine-learning,orchestration,mlops"
     },
     "https://medium.com/snowflake/how-anomalos-snowflake-native-app-automates-data-anomaly-detection-3e1c047441d2": {
@@ -68,7 +86,7 @@
     "https://medium.com/snowflake/snowflake-dataops-long-term-strategic-partnership-74234a1f22dd": {
         "title": "FRICTIONLESS!",
         "published": "2025-05-19T19:00:27.593000Z",
-        "updated": "2025-05-21T12:16:34.061000Z",
+        "updated": "2025-05-29T19:06:48.152000Z",
         "tags": "snowflake,dataops,data-engineering,data-pipeline,data-architecture"
     },
     "https://medium.com/snowflake/analyzing-car-traffic-with-snowflake-cortex-complete-multimodal-393fbf48cd7c": {
@@ -398,7 +416,7 @@
     "https://medium.com/snowflake/will-artificial-intelligence-take-our-jobs-714c7d294011": {
         "title": "Will Artificial Intelligence Take Our jobs?",
         "published": "2025-04-11T00:57:57.625000Z",
-        "updated": "2025-05-28T22:02:36.900000Z",
+        "updated": "2025-05-29T17:08:31.038000Z",
         "tags": "ai,ai-will-take-job"
     },
     "https://medium.com/snowflake/automating-financial-document-extraction-with-snowflake-document-ai-and-streamlit-in-snowflake-283e7cb697da": {
@@ -570,9 +588,9 @@
         "tags": "snowflake,snowflake-data-cloud,ai,sql,ai-code-generator"
     },
     "https://medium.com/snowflake/snowpark-python-3-12-public-preview-609f24067819": {
-        "title": "Snowpark Python 3.12 Public Preview",
+        "title": "Snowpark Python 3.12 GA",
         "published": "2025-03-11T15:02:37.200000Z",
-        "updated": "2025-03-11T15:02:37.200000Z",
+        "updated": "2025-05-29T19:59:48.833000Z",
         "tags": "snowpark-python,snowflake,data-engineering,python,python-data-science"
     },
     "https://medium.com/snowflake/ai-movie-concierge-powered-by-kumo-in-snowflake-native-app-63b8b4090a59": {
