@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/assessing-mfa-options-on-your-local-snowflake-accounts-a725ae28e8ea": {
+        "title": "Assessing MFA Options on Your Local Snowflake Accounts",
+        "published": "2025-05-30T22:02:28.397000Z",
+        "updated": "2025-05-30T22:02:28.397000Z",
+        "tags": "snowflake,mfa"
+    },
+    "https://medium.com/snowflake/forecasting-cloud-costs-to-drive-business-outcomes-e7faeb57b325": {
+        "title": "Forecasting Cloud Costs to Drive Business Outcomes",
+        "published": "2025-05-30T14:02:33.055000Z",
+        "updated": "2025-05-30T18:09:33.972000Z",
+        "tags": "snowflake,finops,forecasting,cloud-cost-optimization,data"
+    },
     "https://medium.com/snowflake/snowflake-architecture-series-a-foundational-checklist-fcb6c1db7f19": {
         "title": "Snowflake Architecture Series: A Foundational Checklist",
         "published": "2025-05-29T22:02:35.018000Z",
