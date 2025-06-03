@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/snowflake-monitor-internal-stage-internal-named-stage-storage-size-6de554978fbd": {
+        "title": "Snowflake\u200a\u2014\u200aMonitor internal stage (internal named stage) storage size",
+        "published": "2025-06-02T22:02:30.182000Z",
+        "updated": "2025-06-02T22:02:30.182000Z",
+        "tags": "data-engineering,snowflake,monitoring,storage-monitoring,monitoring-cost"
+    },
     "https://medium.com/snowflake/assessing-mfa-options-on-your-local-snowflake-accounts-a725ae28e8ea": {
         "title": "Assessing MFA Options on Your Local Snowflake Accounts",
         "published": "2025-05-30T22:02:28.397000Z",
@@ -98,7 +104,7 @@
     "https://medium.com/snowflake/snowflake-dataops-long-term-strategic-partnership-74234a1f22dd": {
         "title": "FRICTIONLESS!",
         "published": "2025-05-19T19:00:27.593000Z",
-        "updated": "2025-05-29T19:06:48.152000Z",
+        "updated": "2025-06-02T14:41:29.264000Z",
         "tags": "snowflake,dataops,data-engineering,data-pipeline,data-architecture"
     },
     "https://medium.com/snowflake/analyzing-car-traffic-with-snowflake-cortex-complete-multimodal-393fbf48cd7c": {
@@ -226,6 +232,12 @@
         "published": "2025-05-06T14:01:45.701000Z",
         "updated": "2025-05-06T14:01:45.701000Z",
         "tags": "snowflake,data-engineering,databricks"
+    },
+    "https://medium.com/snowflake/snowflake-machine-learning-functions-forecasting-189f6087d633": {
+        "title": "Snowflake Machine Learning Functions: Forecasting",
+        "published": "2025-05-05T23:22:12.087000Z",
+        "updated": "2025-06-02T14:01:43.156000Z",
+        "tags": "machine-learning,forecasting,ml-functions"
     },
     "https://medium.com/snowflake/the-physics-of-data-ef37d3395e7a": {
         "title": "The Physics of Data",
