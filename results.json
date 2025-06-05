@@ -1,9 +1,15 @@
 {
+    "https://medium.com/snowflake/model-context-protocol-claude-and-snowflake-9f1e37775d80": {
+        "title": "Model Context Protocol, Claude, and Snowflake",
+        "published": "2025-06-04T14:02:25.974000Z",
+        "updated": "2025-06-04T14:02:25.974000Z",
+        "tags": "snowflake,anthropic-claude,model-context-protocol,ai,llm"
+    },
     "https://medium.com/snowflake/snowflake-intelligence-next-ai-generation-fffadaa3e50e": {
         "title": "SNOWFLAKE INTELLIGENCE: Next AI Generation",
         "published": "2025-06-03T22:52:59.520000Z",
         "updated": "2025-06-03T22:52:59.520000Z",
-        "tags": "snowflake,snowflakeintelligence,ai,cortex,agentic-ai"
+        "tags": "snowflake,snowflake-intelligence,ai,cortex,agentic-ai"
     },
     "https://medium.com/snowflake/an-overview-of-snowflake-openflow-services-a-hosted-integration-service-c3f0da47fb1b": {
         "title": "An Overview of Snowflake Openflow Services: A Hosted Integration Service",
