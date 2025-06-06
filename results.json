@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/machine-learning-functions-in-snowflake-classification-cb56e515caa3": {
+        "title": "Machine Learning Functions in Snowflake: Classification",
+        "published": "2025-06-05T14:02:29.284000Z",
+        "updated": "2025-06-05T14:02:29.284000Z",
+        "tags": "machine-learning,classification,ml-functions"
+    },
     "https://medium.com/snowflake/model-context-protocol-claude-and-snowflake-9f1e37775d80": {
         "title": "Model Context Protocol, Claude, and Snowflake",
         "published": "2025-06-04T14:02:25.974000Z",
@@ -20,7 +26,7 @@
     "https://medium.com/snowflake/snowflake-summit-2025-highlights-100-game-changing-feature-announcements-fdcaa50ffe41": {
         "title": "Snowflake Summit 2025 Highlights: 100+ Game-Changing Feature Announcements",
         "published": "2025-06-03T17:02:43.360000Z",
-        "updated": "2025-06-03T17:02:43.360000Z",
+        "updated": "2025-06-05T16:28:12.607000Z",
         "tags": "summit,snowflake,ai,analytics,data-engineering"
     },
     "https://medium.com/snowflake/cut-snowflake-dev-costs-with-transient-database-cloning-4e727a269982": {
