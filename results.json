@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/mastering-snowflake-cost-optimization-at-scale-optimoves-real-world-multi-tenant-saas-strategies-96f8ac9ca883": {
+        "title": "Mastering Snowflake Cost Optimization at Scale: Optimove\u2019s Real-World Multi-Tenant SaaS Strategies",
+        "published": "2025-06-09T14:02:15.121000Z",
+        "updated": "2025-06-09T14:02:15.121000Z",
+        "tags": "performance,cost-optimization,observability"
+    },
     "https://medium.com/snowflake/automating-financial-processes-using-snowflake-a5aaf0816584": {
         "title": "Automating Financial Processes Using Snowflake",
         "published": "2025-06-06T14:02:22.858000Z",
@@ -56,7 +62,7 @@
     "https://medium.com/snowflake/assessing-mfa-options-on-your-local-snowflake-accounts-a725ae28e8ea": {
         "title": "Assessing MFA Options on Your Local Snowflake Accounts",
         "published": "2025-05-30T22:02:28.397000Z",
-        "updated": "2025-05-30T22:02:28.397000Z",
+        "updated": "2025-06-09T19:05:09.349000Z",
         "tags": "snowflake,mfa"
     },
     "https://medium.com/snowflake/forecasting-cloud-costs-to-drive-business-outcomes-e7faeb57b325": {
@@ -713,6 +719,12 @@
         "updated": "2025-03-05T20:08:19.038000Z",
         "tags": "snowflake,app-development,devops,data-engineering,database-change-mgmt"
     },
+    "https://medium.com/snowflake/agentic-ai-a-buzzword-or-a-real-deal-why-should-you-care-4b5dd9a2d7d3": {
+        "title": "Agentic AI: A Buzzword or a real deal? Why should you care?",
+        "published": "2025-02-27T18:25:11.457000Z",
+        "updated": "2025-02-27T19:48:41.929000Z",
+        "tags": "data-engineering,artificial-intelligence,ai-agent,machine-learning,analytics"
+    },
     "https://medium.com/snowflake/in-todays-data-driven-world-the-ability-to-seamlessly-integrate-high-performance-databases-with-b0da165dd6fe": {
         "title": "In today\u2019s data-driven world, the ability to seamlessly integrate high-performance databases with\u2026",
         "published": "2025-02-27T15:32:15.530000Z",
@@ -952,6 +964,12 @@
         "published": "2025-01-30T12:58:26.144000Z",
         "updated": "2025-02-01T01:49:43.510000Z",
         "tags": "llm,genai,snowflake,ollama,streamlit"
+    },
+    "https://medium.com/snowflake/running-deepseek-r1-in-snowpark-container-services-a-complete-guide-2b89eb8e2daf": {
+        "title": "Running DeepSeek-R1 in Snowpark Container Services: A Complete Guide",
+        "published": "2025-01-30T01:22:01.335000Z",
+        "updated": "2025-01-31T16:46:16.365000Z",
+        "tags": "snowflake,snowpark-container,ai"
     },
     "https://medium.com/snowflake/how-to-build-a-query-cost-monitoring-tool-in-snowflake-notebooks-79bebcfdb315": {
         "title": "How to Build a Query Cost Monitoring Tool in Snowflake Notebooks",
@@ -1444,6 +1462,12 @@
         "published": "2024-11-13T20:24:55.169000Z",
         "updated": "2024-11-13T23:53:15.012000Z",
         "tags": ""
+    },
+    "https://medium.com/snowflake/integrate-snowflake-cortex-analyst-rest-api-with-slack-0b70bde3cb7b": {
+        "title": "Integrate Snowflake Cortex Analyst REST API with Slack",
+        "published": "2024-11-13T20:04:50.165000Z",
+        "updated": "2025-03-28T01:05:20.177000Z",
+        "tags": "snowflake,slack,cortex-analyst,application,developer"
     },
     "https://medium.com/snowflake/best-practices-for-using-query-tag-in-snowflake-32bfb8d4efba": {
         "title": "Best Practices for Using QUERY_TAG in Snowflake",
