@@ -1,4 +1,34 @@
 {
+    "https://medium.com/snowflake/moving-from-delta-lake-to-apache-iceberg-7439ba7ac2b1": {
+        "title": "Moving from Delta Lake to Apache Iceberg",
+        "published": "2025-06-11T16:16:03.116000Z",
+        "updated": "2025-06-11T18:49:29.982000Z",
+        "tags": "snowflake,apache-iceberg,lakehouse-architecture,delta-lake,developer"
+    },
+    "https://medium.com/snowflake/the-future-of-data-science-how-ai-agents-are-revolutionizing-ml-development-ea402ca582b3": {
+        "title": "The Future of Data Science: How AI Agents Are Revolutionizing ML Development",
+        "published": "2025-06-11T13:02:41.442000Z",
+        "updated": "2025-06-11T18:24:35.741000Z",
+        "tags": "machine-learning,agents,snowflake"
+    },
+    "https://medium.com/snowflake/getting-started-with-snowflake-semantic-view-7eced29abe6f": {
+        "title": "Getting Started with Snowflake Semantic View",
+        "published": "2025-06-11T04:15:49.074000Z",
+        "updated": "2025-06-11T04:15:49.074000Z",
+        "tags": "snowflake,semantic-view,semantic-model,database"
+    },
+    "https://medium.com/snowflake/seamlessly-connect-dropbox-to-snowflake-with-openflow-849100312804": {
+        "title": "Seamlessly connect Dropbox to Snowflake with Openflow",
+        "published": "2025-06-09T18:12:27.935000Z",
+        "updated": "2025-06-11T04:16:40.820000Z",
+        "tags": "openflow,etl,data-engineering,snowflake,data-superhero"
+    },
+    "https://medium.com/snowflake/introducing-workspaces-a-unified-modern-development-experience-in-snowsight-612df6b929a0": {
+        "title": "Introducing Workspaces: A Unified, Modern Development Experience in Snowsight",
+        "published": "2025-06-09T16:02:14.786000Z",
+        "updated": "2025-06-09T16:02:14.786000Z",
+        "tags": "snowflake,snowsight,workspace,snowflake-developer,snowflake-sql"
+    },
     "https://medium.com/snowflake/mastering-snowflake-cost-optimization-at-scale-optimoves-real-world-multi-tenant-saas-strategies-96f8ac9ca883": {
         "title": "Mastering Snowflake Cost Optimization at Scale: Optimove\u2019s Real-World Multi-Tenant SaaS Strategies",
         "published": "2025-06-09T14:02:15.121000Z",
