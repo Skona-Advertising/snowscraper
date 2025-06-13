@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/the-future-of-compute-how-snowflake-is-making-compute-faster-easier-and-more-price-performant-ccf5b515cd83": {
+        "title": "The Future of Compute: How Snowflake is Making Compute Faster, Easier, and More Price/Performant",
+        "published": "2025-06-12T16:48:24.677000Z",
+        "updated": "2025-06-12T16:48:24.677000Z",
+        "tags": "data-engineering,cloud-computing,analytics"
+    },
+    "https://medium.com/snowflake/apache-polaris-incubating-now-supports-3x-concurrent-transactions-with-new-relational-jdbc-2347dab4e37a": {
+        "title": "Apache Polaris\u2122 (incubating) Now Supports 3X Concurrent Transactions with New Relational JDBC\u2026",
+        "published": "2025-06-12T15:02:38.075000Z",
+        "updated": "2025-06-12T15:02:38.075000Z",
+        "tags": "apache-polaris,open-source,apache-iceberg,iceberg-rest-catalog,catalog"
+    },
     "https://medium.com/snowflake/moving-from-delta-lake-to-apache-iceberg-7439ba7ac2b1": {
         "title": "Moving from Delta Lake to Apache Iceberg",
         "published": "2025-06-11T16:16:03.116000Z",
@@ -536,7 +548,7 @@
     "https://medium.com/snowflake/access-pypi-packages-in-snowpark-udfs-and-stored-procedures-033db455bb73": {
         "title": "Access PyPI Packages in Snowpark UDFs and Stored Procedures",
         "published": "2025-04-09T14:01:54.092000Z",
-        "updated": "2025-05-23T17:12:54.176000Z",
+        "updated": "2025-06-12T21:41:36.079000Z",
         "tags": "snowpark,snowflake"
     },
     "https://medium.com/snowflake/ai-observability-in-snowflake-evaluate-gen-ai-apps-with-snowflake-cortex-ai-and-trulens-37878ec83c9e": {
