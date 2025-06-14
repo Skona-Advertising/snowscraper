@@ -1,4 +1,22 @@
 {
+    "https://medium.com/snowflake/snowflake-summit-2025-opening-keynote-916abfe056a0": {
+        "title": "Snowflake Summit 2025 Opening Keynote",
+        "published": "2025-06-13T23:16:36.018000Z",
+        "updated": "2025-06-13T23:16:36.018000Z",
+        "tags": "snowflake-summit,daanalytics,ai,agi,keynote"
+    },
+    "https://medium.com/snowflake/recap-of-snowflake-ingestion-cost-and-performance-improvements-large-csv-demo-911e6588d626": {
+        "title": "Recap of Snowflake Ingestion Cost and Performance Improvements + Large CSV Demo",
+        "published": "2025-06-13T17:21:22.761000Z",
+        "updated": "2025-06-13T19:26:02.970000Z",
+        "tags": "data-engineering,snowflake,snowflake-data-cloud,snowpipe,data-ingestion"
+    },
+    "https://medium.com/snowflake/developers-guide-to-snowflake-cortex-agent-46b52ea4aceb": {
+        "title": "Developer\u2019s Guide to Snowflake Cortex Agent",
+        "published": "2025-06-13T15:20:47.035000Z",
+        "updated": "2025-06-13T15:20:47.035000Z",
+        "tags": "snowflake,ai,data,data-analytics,llm"
+    },
     "https://medium.com/snowflake/the-future-of-compute-how-snowflake-is-making-compute-faster-easier-and-more-price-performant-ccf5b515cd83": {
         "title": "The Future of Compute: How Snowflake is Making Compute Faster, Easier, and More Price/Performant",
         "published": "2025-06-12T16:48:24.677000Z",
