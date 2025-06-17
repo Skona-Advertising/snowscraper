@@ -1,4 +1,22 @@
 {
+    "https://medium.com/snowflake/snowflake-read-delta-table-transform-load-to-iceberg-and-sync-to-polaris-catalog-47d02364b377": {
+        "title": "Snowflake: Read Delta table, Transform, load to Iceberg and Sync to Polaris catalog",
+        "published": "2025-06-16T22:02:39.454000Z",
+        "updated": "2025-06-16T22:02:39.454000Z",
+        "tags": "snowflake,iceberg-table"
+    },
+    "https://medium.com/snowflake/snowflake-materialized-views-snowflake-benchmarks-hate-this-one-simple-trick-eb7d2673aced": {
+        "title": "Snowflake Materialized Views\u200a\u2014\u200aSnowflake benchmarks hate this one simple trick!",
+        "published": "2025-06-16T17:01:02.928000Z",
+        "updated": "2025-06-16T21:26:28.439000Z",
+        "tags": "snowflake,snowflake-optimization,snowflake-performance,snowflake-computing"
+    },
+    "https://medium.com/snowflake/from-csv-to-snowflake-democratizing-data-access-with-dust-ai-agents-c19b9eceebe1": {
+        "title": "From CSV to Snowflake: Democratizing Data Access with Dust AI Agents",
+        "published": "2025-06-16T14:01:48.975000Z",
+        "updated": "2025-06-16T14:01:48.975000Z",
+        "tags": "ai,agents,self-service,dust,snowflake"
+    },
     "https://medium.com/snowflake/snowflake-summit-2025-opening-keynote-916abfe056a0": {
         "title": "Snowflake Summit 2025 Opening Keynote",
         "published": "2025-06-13T23:16:36.018000Z",
@@ -668,7 +686,7 @@
     "https://medium.com/snowflake/trinity-life-sciences-snowflake-advancing-pharmaceutical-insights-4a743ac9f73e": {
         "title": "Trinity Life Sciences & Snowflake: Advancing Pharmaceutical Insights",
         "published": "2025-03-21T16:01:26.425000Z",
-        "updated": "2025-03-27T18:23:02.290000Z",
+        "updated": "2025-06-16T21:01:01.678000Z",
         "tags": "real-world-data,snowflake,snowpark,life-sciences,pharmaceutical"
     },
     "https://medium.com/snowflake/secure-multiple-snowflake-accounts-via-private-listing-7b98d1be94c7": {
