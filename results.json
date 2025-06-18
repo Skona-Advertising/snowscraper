@@ -1,4 +1,22 @@
 {
+    "https://medium.com/snowflake/programmatically-accessing-snowpark-model-inference-endpoints-9c11727076d1": {
+        "title": "Programmatically Accessing Snowpark Model Inference Endpoints",
+        "published": "2025-06-17T22:02:39.063000Z",
+        "updated": "2025-06-17T22:02:39.063000Z",
+        "tags": "snowflake,snowpark,snowpark-ml,snowpark-container,personal-access-tokens"
+    },
+    "https://medium.com/snowflake/build-route-optimisation-native-app-with-snowpark-container-services-c471e187a991": {
+        "title": "Build Route Optimisation Native App with Snowpark Container Services",
+        "published": "2025-06-17T19:01:02.132000Z",
+        "updated": "2025-06-17T19:01:02.132000Z",
+        "tags": "snowflake,geospatial,route-optimization,native-app,snowpark"
+    },
+    "https://medium.com/snowflake/snowflake-summit-2025-a-new-era-of-intelligence-417bdbda268a": {
+        "title": "Snowflake Summit 2025: A New Era of Intelligence",
+        "published": "2025-06-17T14:01:47.790000Z",
+        "updated": "2025-06-17T14:01:47.790000Z",
+        "tags": "daanalytics,snowflake-summit,innovation,keynote"
+    },
     "https://medium.com/snowflake/snowflake-read-delta-table-transform-load-to-iceberg-and-sync-to-polaris-catalog-47d02364b377": {
         "title": "Snowflake: Read Delta table, Transform, load to Iceberg and Sync to Polaris catalog",
         "published": "2025-06-16T22:02:39.454000Z",
