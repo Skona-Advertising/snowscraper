@@ -1,8 +1,20 @@
 {
+    "https://medium.com/snowflake/dev-day-snowflake-summit-2025-7251ee014f97": {
+        "title": "Dev Day @ Snowflake Summit 2025",
+        "published": "2025-06-18T22:02:39.328000Z",
+        "updated": "2025-06-18T22:02:39.328000Z",
+        "tags": "daanalytics,snowflake-summit,devday,data-superheroe,builders"
+    },
+    "https://medium.com/snowflake/snowflake-summit-2025-empowering-builders-with-ai-9608baece68e": {
+        "title": "Snowflake Summit 2025: Empowering Builders with AI",
+        "published": "2025-06-18T14:01:44.815000Z",
+        "updated": "2025-06-18T14:01:44.815000Z",
+        "tags": "daanalytics,snowflake-summit,data-superhero,keynote,innovation"
+    },
     "https://medium.com/snowflake/programmatically-accessing-snowpark-model-inference-endpoints-9c11727076d1": {
-        "title": "Programmatically Accessing Snowpark Model Inference Endpoints",
+        "title": "Programmatically Accessing Snowflake Model Inference Endpoints",
         "published": "2025-06-17T22:02:39.063000Z",
-        "updated": "2025-06-17T22:02:39.063000Z",
+        "updated": "2025-06-18T19:26:47.058000Z",
         "tags": "snowflake,snowpark,snowpark-ml,snowpark-container,personal-access-tokens"
     },
     "https://medium.com/snowflake/build-route-optimisation-native-app-with-snowpark-container-services-c471e187a991": {
