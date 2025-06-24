@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/grailed-revolutionizes-style-discovery-with-snowflake-unistore-e7c5061e5795": {
+        "title": "Grailed Revolutionizes Style Discovery with Snowflake Unistore",
+        "published": "2025-06-23T22:01:36.886000Z",
+        "updated": "2025-06-23T22:01:36.886000Z",
+        "tags": "snowflake,data-analysis,data-engineering,data-science,data-architecture"
+    },
+    "https://medium.com/snowflake/counting-weekdays-snowflake-tidbit-of-the-day-c6eb30f847c1": {
+        "title": "Counting Weekdays (Snowflake Tidbit of the Day)",
+        "published": "2025-06-23T14:01:48.727000Z",
+        "updated": "2025-06-23T14:01:48.727000Z",
+        "tags": ""
+    },
     "https://medium.com/snowflake/fresh-fast-and-value-effective-using-snowflake-hybrid-tables-to-simplify-kafka-ingestion-2a4393c49a53": {
         "title": "Fresh, Fast, and Value-Effective: Using Snowflake Hybrid Tables to Simplify Kafka Ingestion",
         "published": "2025-06-20T14:02:47.537000Z",
@@ -2684,7 +2696,7 @@
     "https://medium.com/snowflake/optimizing-costs-in-snowflake-with-effective-storage-lifecycle-policies-027dd98eaafd": {
         "title": "Optimizing Costs in Snowflake with Effective Storage Lifecycle Policies",
         "published": "2024-07-29T14:51:40.254000Z",
-        "updated": "2024-11-26T19:07:08.568000Z",
+        "updated": "2025-06-23T22:26:58.003000Z",
         "tags": "snowflake,storage,compliance,lifecycle-methods,cost"
     },
     "https://medium.com/snowflake/transforming-40min-call-transcripts-into-structured-json-summaries-using-mistral-large-in-9b1c77af7377": {
