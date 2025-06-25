@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/getting-started-with-goose-using-snowflake-and-mcp-4e6c78ca0e19": {
+        "title": "Getting started with goose using Snowflake and MCP",
+        "published": "2025-06-24T19:01:55.289000Z",
+        "updated": "2025-06-24T19:01:55.289000Z",
+        "tags": "snowflake,llm,ai,data-engineering,data-analytics"
+    },
+    "https://medium.com/snowflake/building-a-summarization-engine-with-snowflake-triggered-tasks-1c6a2ee4ec05": {
+        "title": "Building a Summarization Engine with Snowflake Triggered Tasks",
+        "published": "2025-06-24T14:01:32.642000Z",
+        "updated": "2025-06-24T14:01:32.642000Z",
+        "tags": "snowflake,cortex,ai,orchestration"
+    },
     "https://medium.com/snowflake/grailed-revolutionizes-style-discovery-with-snowflake-unistore-e7c5061e5795": {
         "title": "Grailed Revolutionizes Style Discovery with Snowflake Unistore",
         "published": "2025-06-23T22:01:36.886000Z",
