@@ -1,9 +1,21 @@
 {
+    "https://medium.com/snowflake/build-a-natural-language-data-assistant-in-vs-code-with-copilot-mcp-and-snowflake-cortex-ai-04a22a3b0f17": {
+        "title": "Build a Natural Language Data Assistant in VS Code with Copilot, MCP, and Snowflake Cortex AI",
+        "published": "2025-06-25T14:45:09.273000Z",
+        "updated": "2025-06-25T14:45:09.273000Z",
+        "tags": "snowflake,vscode,github-copilot,mcp-server,snowflake-cortex"
+    },
+    "https://medium.com/snowflake/healthcare-contact-centers-from-billion-dollar-drain-to-life-saving-value-with-snowflake-37e57fc883fa": {
+        "title": "Healthcare Contact Centers: From Billion-Dollar Drain to Life-Saving Value with Snowflake",
+        "published": "2025-06-25T14:01:05.693000Z",
+        "updated": "2025-06-25T14:01:05.693000Z",
+        "tags": "contact-center,generative-ai-use-cases,snowflake-cortex"
+    },
     "https://medium.com/snowflake/getting-started-with-goose-using-snowflake-and-mcp-4e6c78ca0e19": {
         "title": "Getting started with goose using Snowflake and MCP",
         "published": "2025-06-24T19:01:55.289000Z",
         "updated": "2025-06-24T19:01:55.289000Z",
-        "tags": "snowflake,llm,ai,data-engineering,data-analytics"
+        "tags": "snowflake,llm,ai,data-engineering,open-source"
     },
     "https://medium.com/snowflake/building-a-summarization-engine-with-snowflake-triggered-tasks-1c6a2ee4ec05": {
         "title": "Building a Summarization Engine with Snowflake Triggered Tasks",
