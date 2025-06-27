@@ -1,9 +1,15 @@
 {
-    "https://medium.com/snowflake/build-a-natural-language-data-assistant-in-vs-code-with-copilot-mcp-and-snowflake-cortex-ai-04a22a3b0f17": {
-        "title": "Build a Natural Language Data Assistant in VS Code with Copilot, MCP, and Snowflake Cortex AI",
-        "published": "2025-06-25T14:45:09.273000Z",
-        "updated": "2025-06-25T14:45:09.273000Z",
-        "tags": "snowflake,vscode,github-copilot,mcp-server,snowflake-cortex"
+    "https://medium.com/snowflake/understanding-notebook-costs-on-snowpark-container-services-spcs-2c094631191d": {
+        "title": "Understanding Notebook Costs on Snowpark Container Services (SPCS)",
+        "published": "2025-06-26T22:01:52.844000Z",
+        "updated": "2025-06-26T22:01:52.844000Z",
+        "tags": "snowflake-notebooks,machine-learning,ai,snowpark-container,data-engineering"
+    },
+    "https://medium.com/snowflake/building-certified-trusted-data-natively-in-snowflake-with-semarchy-xdm-422afb6c8306": {
+        "title": "Building Certified, Trusted Data Natively in Snowflake with Semarchy xDM",
+        "published": "2025-06-26T14:03:09.656000Z",
+        "updated": "2025-06-26T14:03:09.656000Z",
+        "tags": "snowflake,data-engineering,data-architecture"
     },
     "https://medium.com/snowflake/healthcare-contact-centers-from-billion-dollar-drain-to-life-saving-value-with-snowflake-37e57fc883fa": {
         "title": "Healthcare Contact Centers: From Billion-Dollar Drain to Life-Saving Value with Snowflake",
