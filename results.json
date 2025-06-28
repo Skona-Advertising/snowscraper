@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/predictable-native-apps-rollouts-with-listing-auto-refresh-219ec465786b": {
+        "title": "Predictable Native Apps Rollouts with Listing Auto Refresh",
+        "published": "2025-06-27T14:02:54.689000Z",
+        "updated": "2025-06-27T14:02:54.689000Z",
+        "tags": "native-app,app-development,snowflake,replication,application-upgrade"
+    },
     "https://medium.com/snowflake/understanding-notebook-costs-on-snowpark-container-services-spcs-2c094631191d": {
         "title": "Understanding Notebook Costs on Snowpark Container Services (SPCS)",
         "published": "2025-06-26T22:01:52.844000Z",
