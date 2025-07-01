@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/explore-xml-in-the-ai-data-cloud-0cfca93eabbe": {
+        "title": "Explore XML in the AI Data Cloud",
+        "published": "2025-06-30T14:01:57.874000Z",
+        "updated": "2025-06-30T14:01:57.874000Z",
+        "tags": "snowflake,ai,cortex,xml,data"
+    },
     "https://medium.com/snowflake/predictable-native-apps-rollouts-with-listing-auto-refresh-219ec465786b": {
         "title": "Predictable Native Apps Rollouts with Listing Auto Refresh",
         "published": "2025-06-27T14:02:54.689000Z",
@@ -44,7 +50,7 @@
     "https://medium.com/snowflake/counting-weekdays-snowflake-tidbit-of-the-day-c6eb30f847c1": {
         "title": "Counting Weekdays (Snowflake Tidbit of the Day)",
         "published": "2025-06-23T14:01:48.727000Z",
-        "updated": "2025-06-29T17:36:23.522000Z",
+        "updated": "2025-06-30T04:23:18.575000Z",
         "tags": ""
     },
     "https://medium.com/snowflake/fresh-fast-and-value-effective-using-snowflake-hybrid-tables-to-simplify-kafka-ingestion-2a4393c49a53": {
