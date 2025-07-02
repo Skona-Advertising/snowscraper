@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/using-the-snowflake-model-registry-with-custom-model-classes-d310a009329b": {
+        "title": "Using the Snowflake Model Registry with Custom Model Classes",
+        "published": "2025-07-01T14:03:01.161000Z",
+        "updated": "2025-07-01T14:03:01.161000Z",
+        "tags": "machine-learning,xgboost,mlops,snowflake,data-analysis"
+    },
     "https://medium.com/snowflake/explore-xml-in-the-ai-data-cloud-0cfca93eabbe": {
         "title": "Explore XML in the AI Data Cloud",
         "published": "2025-06-30T14:01:57.874000Z",
@@ -146,7 +152,7 @@
     "https://medium.com/snowflake/moving-from-delta-lake-to-apache-iceberg-7439ba7ac2b1": {
         "title": "Moving from Delta Lake to Apache Iceberg",
         "published": "2025-06-11T16:16:03.116000Z",
-        "updated": "2025-06-11T18:49:29.982000Z",
+        "updated": "2025-07-01T16:00:15.975000Z",
         "tags": "snowflake,apache-iceberg,lakehouse-architecture,delta-lake,developer"
     },
     "https://medium.com/snowflake/the-future-of-data-science-how-ai-agents-are-revolutionizing-ml-development-ea402ca582b3": {
@@ -656,7 +662,7 @@
     "https://medium.com/snowflake/password-eradication-2094d4fc5a56": {
         "title": "Password Eradication",
         "published": "2025-04-14T14:01:31.661000Z",
-        "updated": "2025-05-16T14:53:26.744000Z",
+        "updated": "2025-07-01T19:38:11.436000Z",
         "tags": "security,snowflake,passwordless"
     },
     "https://medium.com/snowflake/how-inbound-private-connectivity-for-spcs-works-c0e8439d932a": {
