@@ -1,4 +1,22 @@
 {
+    "https://medium.com/snowflake/secure-connection-options-for-microsofts-power-bi-to-snowflake-part-1-dadb0fe7d441": {
+        "title": "Secure Connection Options for Microsoft\u2019s Power BI to Snowflake (Part 1)",
+        "published": "2025-07-03T14:02:57.905000Z",
+        "updated": "2025-07-03T14:02:57.905000Z",
+        "tags": "snowflake,power-bi,oauth"
+    },
+    "https://medium.com/snowflake/my-first-year-at-snowflake-an-open-source-avalanche-693f49112b1a": {
+        "title": "My First Year at Snowflake\u200a\u2014\u200aAn Open Source Avalanche",
+        "published": "2025-07-02T20:54:12.516000Z",
+        "updated": "2025-07-02T20:54:12.516000Z",
+        "tags": "apache-iceberg,apache-polaris,open-source-software,snowflake,open-source"
+    },
+    "https://medium.com/snowflake/automatically-creating-features-for-ml-in-snowflake-fedb99b90cb4": {
+        "title": "Automatically Creating Features for ML in Snowflake",
+        "published": "2025-07-02T14:02:57.631000Z",
+        "updated": "2025-07-02T14:02:57.631000Z",
+        "tags": "snowflake,ai,machine-learning,data-science"
+    },
     "https://medium.com/snowflake/using-the-snowflake-model-registry-with-custom-model-classes-d310a009329b": {
         "title": "Using the Snowflake Model Registry with Custom Model Classes",
         "published": "2025-07-01T14:03:01.161000Z",
@@ -92,7 +110,7 @@
     "https://medium.com/snowflake/build-route-optimisation-native-app-with-snowpark-container-services-c471e187a991": {
         "title": "Build Route Optimisation Native App with Snowpark Container Services",
         "published": "2025-06-17T19:01:02.132000Z",
-        "updated": "2025-06-17T19:01:02.132000Z",
+        "updated": "2025-07-03T17:58:34.357000Z",
         "tags": "snowflake,geospatial,route-optimization,native-app,snowpark"
     },
     "https://medium.com/snowflake/snowflake-summit-2025-a-new-era-of-intelligence-417bdbda268a": {
@@ -662,7 +680,7 @@
     "https://medium.com/snowflake/password-eradication-2094d4fc5a56": {
         "title": "Password Eradication",
         "published": "2025-04-14T14:01:31.661000Z",
-        "updated": "2025-07-01T19:38:11.436000Z",
+        "updated": "2025-07-02T14:58:24.353000Z",
         "tags": "security,snowflake,passwordless"
     },
     "https://medium.com/snowflake/how-inbound-private-connectivity-for-spcs-works-c0e8439d932a": {
@@ -2216,7 +2234,7 @@
     "https://medium.com/snowflake/translate-existing-semantic-layers-for-use-by-cortex-analyst-2056edbd4753": {
         "title": "Translate Existing Semantic Layers for Use by Cortex Analyst",
         "published": "2024-09-13T21:01:35.332000Z",
-        "updated": "2024-10-18T17:52:16.743000Z",
+        "updated": "2025-07-03T14:23:58.405000Z",
         "tags": "ai,llm,snowflake,snowflake-cortex"
     },
     "https://medium.com/snowflake/data-analysis-and-churn-prediction-using-snowflake-notebooks-67b615fc39c6": {
