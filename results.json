@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/distributed-training-using-ray-and-autogluon-bd00b1c69053": {
+        "title": "Distributed Training using Ray and AutoGluon",
+        "published": "2025-07-07T14:01:47.825000Z",
+        "updated": "2025-07-07T14:01:47.825000Z",
+        "tags": "ml-training,distributed-training,concurrent-training,autogluon"
+    },
     "https://medium.com/snowflake/secure-connection-options-for-microsofts-power-bi-to-snowflake-part-1-dadb0fe7d441": {
         "title": "Secure Connection Options for Microsoft\u2019s Power BI to Snowflake (Part 1)",
         "published": "2025-07-03T14:02:57.905000Z",
@@ -118,12 +124,6 @@
         "published": "2025-06-17T14:01:47.790000Z",
         "updated": "2025-06-17T14:01:47.790000Z",
         "tags": "daanalytics,snowflake-summit,innovation,keynote"
-    },
-    "https://medium.com/snowflake/snowflake-read-delta-table-transform-load-to-iceberg-and-sync-to-polaris-catalog-47d02364b377": {
-        "title": "Snowflake: Read Delta table, Transform, load to Iceberg and Sync to Polaris catalog",
-        "published": "2025-06-16T22:02:39.454000Z",
-        "updated": "2025-06-16T22:02:39.454000Z",
-        "tags": "snowflake,iceberg-table"
     },
     "https://medium.com/snowflake/snowflake-materialized-views-snowflake-benchmarks-hate-this-one-simple-trick-eb7d2673aced": {
         "title": "Snowflake Materialized Views\u200a\u2014\u200aSnowflake benchmarks hate this one simple trick!",
@@ -731,12 +731,6 @@
         "updated": "2025-04-23T16:13:12.990000Z",
         "tags": "graph-analytics,snowflake-notebooks,data-science,snowflake,data-visualization"
     },
-    "https://medium.com/snowflake/ai-powered-rag-chatbot-for-discovering-kubecon-sessions-with-snowflake-cortex-and-streamlit-7c698cffba6f": {
-        "title": "AI-Powered RAG Chatbot for Discovering KubeCon Sessions with Snowflake Cortex and Streamlit",
-        "published": "2025-04-03T18:28:42.857000Z",
-        "updated": "2025-04-04T10:52:15.522000Z",
-        "tags": ""
-    },
     "https://medium.com/snowflake/superduper-agents-enterprise-agents-leveraging-your-enterprise-data-available-now-on-the-86bd7b83e44d": {
         "title": "Superduper Agents\u200a\u2014\u200aenterprise agents leveraging your enterprise data available now on the\u2026",
         "published": "2025-04-02T21:15:50.697000Z",
@@ -772,12 +766,6 @@
         "published": "2025-03-28T15:37:16.967000Z",
         "updated": "2025-04-07T20:29:59.924000Z",
         "tags": "snowflake,application,data,ai"
-    },
-    "https://medium.com/snowflake/effortless-and-trusted-anomaly-detection-with-snowflake-ml-functions-db8ba17e743f": {
-        "title": "Effortless and Trusted Anomaly Detection with Snowflake ML Functions",
-        "published": "2025-03-28T10:22:16.656000Z",
-        "updated": "2025-03-30T12:25:11.098000Z",
-        "tags": ""
     },
     "https://medium.com/snowflake/5-key-drivers-behind-snowflake-cortex-llm-speed-cost-36d571c8ac24": {
         "title": "5 Key Drivers Behind Snowflake Cortex LLM Speed & Cost",
