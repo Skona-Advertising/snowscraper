@@ -1,4 +1,28 @@
 {
+    "https://medium.com/snowflake/%EF%B8%8F-ask-your-data-build-a-chat-assistant-for-sales-insights-with-snowflake-and-openai-c3bef7b545bf": {
+        "title": "\ud83d\udcac\u2601\ufe0f Ask Your Data: Build a Chat Assistant for Sales Insights with Snowflake and OpenAI",
+        "published": "2025-07-10T14:02:58.820000Z",
+        "updated": "2025-07-10T14:02:58.820000Z",
+        "tags": "snowflake,data-superhero,openai,chatbots,analytics"
+    },
+    "https://medium.com/snowflake/the-architecture-of-alpha-how-octus-powers-high-speed-decisions-with-snowflake-4d4cd8cfe706": {
+        "title": "The Architecture of Alpha: How Octus Powers High-Speed Decisions with Snowflake",
+        "published": "2025-07-09T20:14:59.778000Z",
+        "updated": "2025-07-09T20:14:59.778000Z",
+        "tags": "snowflake,share,yaml"
+    },
+    "https://medium.com/snowflake/how-to-implement-real-time-anomaly-detection-with-snowflake-and-striim-d770ea747438": {
+        "title": "How to Implement Real-Time Anomaly Detection with Snowflake and Striim",
+        "published": "2025-07-09T14:01:43.816000Z",
+        "updated": "2025-07-09T14:01:43.816000Z",
+        "tags": "data-engineering,machine-learning,artificial-intelligence,anomaly-detection,data"
+    },
+    "https://medium.com/snowflake/retrieve-consumer-object-names-from-references-in-your-native-apps-3bf57eff2f49": {
+        "title": "Retrieve Consumer Object Names from References in your Native Apps",
+        "published": "2025-07-08T14:02:27.965000Z",
+        "updated": "2025-07-08T14:02:27.965000Z",
+        "tags": "snowflake,native-app,apps,app-development"
+    },
     "https://medium.com/snowflake/distributed-training-using-ray-and-autogluon-bd00b1c69053": {
         "title": "Distributed Training using Ray and AutoGluon",
         "published": "2025-07-07T14:01:47.825000Z",
@@ -116,7 +140,7 @@
     "https://medium.com/snowflake/build-route-optimisation-native-app-with-snowpark-container-services-c471e187a991": {
         "title": "Build Route Optimisation Native App with Snowpark Container Services",
         "published": "2025-06-17T19:01:02.132000Z",
-        "updated": "2025-07-03T17:58:34.357000Z",
+        "updated": "2025-07-08T12:40:19.074000Z",
         "tags": "snowflake,geospatial,route-optimization,native-app,snowpark"
     },
     "https://medium.com/snowflake/snowflake-summit-2025-a-new-era-of-intelligence-417bdbda268a": {
@@ -182,7 +206,7 @@
     "https://medium.com/snowflake/getting-started-with-snowflake-semantic-view-7eced29abe6f": {
         "title": "Getting Started with Snowflake Semantic View",
         "published": "2025-06-11T04:15:49.074000Z",
-        "updated": "2025-06-11T04:15:49.074000Z",
+        "updated": "2025-07-10T20:48:12.809000Z",
         "tags": "snowflake,semantic-view,semantic-model,database"
     },
     "https://medium.com/snowflake/seamlessly-connect-dropbox-to-snowflake-with-openflow-849100312804": {
@@ -194,7 +218,7 @@
     "https://medium.com/snowflake/introducing-workspaces-a-unified-modern-development-experience-in-snowsight-612df6b929a0": {
         "title": "Introducing Workspaces: A Unified, Modern Development Experience in Snowsight",
         "published": "2025-06-09T16:02:14.786000Z",
-        "updated": "2025-06-09T16:02:14.786000Z",
+        "updated": "2025-07-09T17:10:19.230000Z",
         "tags": "snowflake,snowsight,workspace,snowflake-developer,snowflake-sql"
     },
     "https://medium.com/snowflake/mastering-snowflake-cost-optimization-at-scale-optimoves-real-world-multi-tenant-saas-strategies-96f8ac9ca883": {
@@ -224,7 +248,7 @@
     "https://medium.com/snowflake/snowflake-intelligence-next-ai-generation-fffadaa3e50e": {
         "title": "SNOWFLAKE INTELLIGENCE: Next AI Generation",
         "published": "2025-06-03T22:52:59.520000Z",
-        "updated": "2025-06-03T22:52:59.520000Z",
+        "updated": "2025-07-09T17:09:43.404000Z",
         "tags": "snowflake,snowflake-intelligence,ai,cortex,agentic-ai"
     },
     "https://medium.com/snowflake/an-overview-of-snowflake-openflow-services-a-hosted-integration-service-c3f0da47fb1b": {
@@ -236,7 +260,7 @@
     "https://medium.com/snowflake/snowflake-summit-2025-highlights-100-game-changing-feature-announcements-fdcaa50ffe41": {
         "title": "Snowflake Summit 2025 Highlights: 100+ Game-Changing Feature Announcements",
         "published": "2025-06-03T17:02:43.360000Z",
-        "updated": "2025-06-05T16:28:12.607000Z",
+        "updated": "2025-07-10T20:43:05.209000Z",
         "tags": "summit,snowflake,ai,analytics,data-engineering"
     },
     "https://medium.com/snowflake/cut-snowflake-dev-costs-with-transient-database-cloning-4e727a269982": {
@@ -638,7 +662,7 @@
     "https://medium.com/snowflake/using-winning-variant-to-split-test-ml-model-versions-5ecbf2d4e256": {
         "title": "Using Winning Variant to split test ML model versions",
         "published": "2025-04-22T14:02:27.500000Z",
-        "updated": "2025-04-22T15:42:51.813000Z",
+        "updated": "2025-07-08T18:38:39.440000Z",
         "tags": "snowflake,machine-learning,experimentation,split-test,data-engineering"
     },
     "https://medium.com/snowflake/implicit-type-casting-error-in-joins-53a3a3e5103a": {
@@ -1466,7 +1490,7 @@
     "https://medium.com/snowflake/data-classification-at-scale-using-snowflake-automated-sensitive-data-classification-0cb6b620484c": {
         "title": "Data Classification at Scale using Snowflake Automated Sensitive Data Classification",
         "published": "2024-12-12T15:16:56.220000Z",
-        "updated": "2025-05-15T15:42:33.450000Z",
+        "updated": "2025-07-10T21:44:25.690000Z",
         "tags": "sensitive-data-discovery,data-governance,snowflake,snowflake-horizon-catalog,data-classification"
     },
     "https://medium.com/snowflake/conversations-to-insights-building-an-ai-sales-assistant-with-snowflake-cortex-and-da82a2f154e5": {
@@ -3152,7 +3176,7 @@
     "https://medium.com/snowflake/building-a-metric-assistant-with-streamlit-and-snowflake-cortex-5ae3fdf0b017": {
         "title": "Building a Metric Assistant with Streamlit and Snowflake Cortex",
         "published": "2024-06-05T17:52:07.096000Z",
-        "updated": "2024-06-17T12:03:16.860000Z",
+        "updated": "2025-07-08T13:27:15.345000Z",
         "tags": "snowflake,snowflake-cortex,streamlit"
     },
     "https://medium.com/snowflake/snowflake-advanced-cost-control-ingest-optimizations-e690cb2c050a": {
@@ -5058,9 +5082,9 @@
         "tags": "machine-learning,artificial-intelligence,python,snowflake,snowpark"
     },
     "https://medium.com/snowflake/streamlit-in-snowflake-analytics-made-easy-using-query-tags-bcf728c86802": {
-        "title": "Streamlit in Snowflake Analytics Made Easy Using Query Tags",
+        "title": "Streamlit in Snowflake analytics made easy using query tags",
         "published": "2024-01-02T21:02:08.055000Z",
-        "updated": "2024-02-24T08:25:48.964000Z",
+        "updated": "2025-07-08T13:27:48.512000Z",
         "tags": "streamlit,streamlit-in-snowflake,analytics,snowflake"
     },
     "https://medium.com/snowflake/requesting-snowflake-native-app-references-in-a-consumer-account-b5230341575d": {
