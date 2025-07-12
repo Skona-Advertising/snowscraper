@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/gradio-cortext-chatbot-spcs-callers-rights-92a2fe95c861": {
+        "title": "Building apps that access Snowflake as the caller: a Gradio chatbot for Cortex Analyst",
+        "published": "2025-07-11T22:59:49.091000Z",
+        "updated": "2025-07-11T22:59:49.091000Z",
+        "tags": ""
+    },
+    "https://medium.com/snowflake/snowflake-intelligence-from-setup-to-your-first-ai-powered-query-ea233e23b04f": {
+        "title": "Snowflake Intelligence: From Setup to Your First AI-Powered Query",
+        "published": "2025-07-11T14:01:46.141000Z",
+        "updated": "2025-07-11T14:01:46.141000Z",
+        "tags": "snowflake,snowflake-intelligence,cortex,ai,data-ai-summit"
+    },
     "https://medium.com/snowflake/%EF%B8%8F-ask-your-data-build-a-chat-assistant-for-sales-insights-with-snowflake-and-openai-c3bef7b545bf": {
         "title": "\ud83d\udcac\u2601\ufe0f Ask Your Data: Build a Chat Assistant for Sales Insights with Snowflake and OpenAI",
         "published": "2025-07-10T14:02:58.820000Z",
@@ -28,6 +40,12 @@
         "published": "2025-07-07T14:01:47.825000Z",
         "updated": "2025-07-07T14:01:47.825000Z",
         "tags": "ml-training,distributed-training,concurrent-training,autogluon"
+    },
+    "https://medium.com/snowflake/snowflake-query-insights-0e0aecba9224": {
+        "title": "Snowflake Query Insights",
+        "published": "2025-07-04T17:20:47.304000Z",
+        "updated": "2025-07-11T23:03:58.391000Z",
+        "tags": "snowflake,snowflake-data-superhero,data-superhero,query-optimization,query"
     },
     "https://medium.com/snowflake/secure-connection-options-for-microsofts-power-bi-to-snowflake-part-1-dadb0fe7d441": {
         "title": "Secure Connection Options for Microsoft\u2019s Power BI to Snowflake (Part 1)",
@@ -2208,9 +2226,9 @@
         "tags": "snowflake,streamlit,h3,geospatial,location-intelligence"
     },
     "https://medium.com/snowflake/snowflake-ml-explainability-now-in-public-preview-f9e65f9d4d44": {
-        "title": "Snowflake ML Explainability: now in Public Preview",
+        "title": "Snowflake ML Explainability: now in General Availability",
         "published": "2024-09-17T23:15:59.572000Z",
-        "updated": "2024-11-05T10:51:24.474000Z",
+        "updated": "2025-07-11T14:55:21.288000Z",
         "tags": "shapley-values,snowflake,snowpark-python,model-explainability,responsible-ai"
     },
     "https://medium.com/snowflake/3-scenarios-when-you-should-use-iceberg-with-snowflake-8c585feb1087": {
