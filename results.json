@@ -8777,12 +8777,6 @@
         "updated": "2023-02-03T00:07:52.663000Z",
         "tags": "snowflake-data-cloud,snowsql,snowflake,cloud,big-data"
     },
-    "https://medium.com/snowflake/continuous-deployment-with-snowpark-python-notebooks-c362529d4818": {
-        "title": "Continuous Deployment with Snowpark for Python and Jupyter Notebooks",
-        "published": "2023-01-03T02:55:57.086000Z",
-        "updated": "2023-01-03T19:15:54.925000Z",
-        "tags": "snowpark,snowflake,devops"
-    },
     "https://medium.com/snowflake/all-you-need-to-know-about-snowflake-database-replication-fail-over-failback-part-3-16eabb75ff7": {
         "title": "All You Need To Know About Snowflake Database Replication & Fail-Over/Failback\u200a\u2014\u200aPart 3",
         "published": "2023-01-02T14:58:31.568000Z",
