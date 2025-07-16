@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/unlock-speed-and-simplicity-automatic-privileges-for-native-applications-c6d1c53c8302": {
+        "title": "Unlock Speed and Simplicity: Automatic Privileges for Native Applications",
+        "published": "2025-07-15T19:02:56.752000Z",
+        "updated": "2025-07-15T19:02:56.752000Z",
+        "tags": "native-application,snowflake,privilege,development"
+    },
+    "https://medium.com/snowflake/snowflake-organization-users-centralized-identity-for-a-multi-account-world-c3542c14840e": {
+        "title": "Snowflake Organization Users: Centralized Identity for a Multi-Account World",
+        "published": "2025-07-15T14:02:22.558000Z",
+        "updated": "2025-07-15T14:02:22.558000Z",
+        "tags": "snowflake,organization,landing-zone-accelerator,authentication"
+    },
     "https://medium.com/snowflake/seven-years-of-active-snowflake-community-membership-932bd91cc6c8": {
         "title": "Seven years of active Snowflake Community Membership",
         "published": "2025-07-14T14:03:13.186000Z",
