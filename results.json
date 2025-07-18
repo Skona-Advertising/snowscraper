@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/complete-guide-to-snowflake-cortex-your-ai-toolkit-within-the-data-cloud-64688ac2cf47": {
+        "title": "Complete Guide to Snowflake Cortex: Your AI Toolkit Within the Data Cloud",
+        "published": "2025-07-17T14:03:09.580000Z",
+        "updated": "2025-07-17T14:04:05.894000Z",
+        "tags": "cortex,snowflake,llm,ai"
+    },
     "https://medium.com/snowflake/seamless-snowpark-fastapi-integration-smart-session-management-with-python-%EF%B8%8F-1e1d9f3b219e": {
         "title": "Seamless Snowpark & FastAPI Integration: Smart Session Management with Python \ud83d\udc0d\u2744\ufe0f",
         "published": "2025-07-16T14:02:27.947000Z",
@@ -2210,7 +2216,7 @@
     "https://medium.com/snowflake/bidirectional-data-integration-between-cordial-and-snowflake-for-real-time-customer-data-377f893f68ed": {
         "title": "Bidirectional Data Integration between Cordial and Snowflake for Real-Time Customer Data",
         "published": "2024-09-22T15:16:51.839000Z",
-        "updated": "2024-09-22T15:16:51.839000Z",
+        "updated": "2025-07-17T16:37:59.883000Z",
         "tags": "cordial,secure-data-sharing,cross-channel-marketing,customer-data-platform,marketing-automation"
     },
     "https://medium.com/snowflake/building-data-monitoring-observability-apps-using-snowflake-69f56d47d5d0": {
