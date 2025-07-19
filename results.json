@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/securing-snowflake-api-request-building-a-custom-oauth-client-with-fastapi-a2dd453c9ca0": {
+        "title": "Securing Snowflake API Request: Building a Custom OAuth Client with FastAPI",
+        "published": "2025-07-18T14:02:22.779000Z",
+        "updated": "2025-07-18T14:02:22.779000Z",
+        "tags": "snowflake,snowpark,security"
+    },
     "https://medium.com/snowflake/complete-guide-to-snowflake-cortex-your-ai-toolkit-within-the-data-cloud-64688ac2cf47": {
         "title": "Complete Guide to Snowflake Cortex: Your AI Toolkit Within the Data Cloud",
         "published": "2025-07-17T14:03:09.580000Z",
