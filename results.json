@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/empowering-langgraph-snowflake-llm-functions-cc51252adaca": {
+        "title": "Empowering LangGraph\u200a\u2014\u200aSnowflake LLM Functions",
+        "published": "2025-07-22T14:03:06.415000Z",
+        "updated": "2025-07-22T14:03:06.415000Z",
+        "tags": "snowflake,langgraph"
+    },
+    "https://medium.com/snowflake/empowering-langgraph-snowflake-sql-rest-api-as-a-modular-tool-226d0acc0ec6": {
+        "title": "Empowering LangGraph\u200a\u2014\u200aSnowflake SQL REST API as a Modular Tool",
+        "published": "2025-07-21T14:03:02.159000Z",
+        "updated": "2025-07-21T14:03:02.159000Z",
+        "tags": "snowflake,langgraph"
+    },
     "https://medium.com/snowflake/securing-snowflake-api-request-building-a-custom-oauth-client-with-fastapi-a2dd453c9ca0": {
         "title": "Securing Snowflake API Request: Building a Custom OAuth Client with FastAPI",
         "published": "2025-07-18T14:02:22.779000Z",
@@ -1190,7 +1202,7 @@
     "https://medium.com/snowflake/snowflake-perimeter-security-guidance-4a0365d758c9": {
         "title": "Snowflake Perimeter Security Guidance",
         "published": "2025-02-01T01:47:06.679000Z",
-        "updated": "2025-03-25T14:46:25.293000Z",
+        "updated": "2025-07-22T15:30:49.782000Z",
         "tags": "snowflake,authentication,security,oauth"
     },
     "https://medium.com/snowflake/snowflake-oauth-managed-authorization-server-for-custom-clients-authorization-code-flow-45fcae23ffa2": {
