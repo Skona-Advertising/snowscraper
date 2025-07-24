@@ -1,4 +1,22 @@
 {
+    "https://medium.com/snowflake/creating-cortex-knowledge-extensions-2b47fa1e3a2e": {
+        "title": "Creating Cortex Knowledge Extensions",
+        "published": "2025-07-23T22:01:59.440000Z",
+        "updated": "2025-07-23T22:01:59.440000Z",
+        "tags": "snowflake,cortex,data-science,data,ai"
+    },
+    "https://medium.com/snowflake/enhancing-payer-prior-authorization-workflows-7637a384c024": {
+        "title": "Enhancing Payer Prior Authorization Workflows",
+        "published": "2025-07-23T19:02:01.656000Z",
+        "updated": "2025-07-23T19:02:01.656000Z",
+        "tags": "snowflake,healthcare,healthcare-technology,ai"
+    },
+    "https://medium.com/snowflake/empowering-langgraph-snowflake-cortex-search-service-as-a-modular-tool-a01904236e1b": {
+        "title": "Empowering LangGraph\u200a\u2014\u200aSnowflake Cortex Search Service as a Modular Tool",
+        "published": "2025-07-23T14:01:56.934000Z",
+        "updated": "2025-07-23T14:01:56.934000Z",
+        "tags": "snowflake,snowpark,langgraph"
+    },
     "https://medium.com/snowflake/empowering-langgraph-snowflake-llm-functions-cc51252adaca": {
         "title": "Empowering LangGraph\u200a\u2014\u200aSnowflake LLM Functions",
         "published": "2025-07-22T14:03:06.415000Z",
