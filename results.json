@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/migrate-power-bi-connections-to-snowflake-7d27b3d38503": {
+        "title": "Migrate Power BI connections to Snowflake",
+        "published": "2025-07-24T19:02:32.283000Z",
+        "updated": "2025-07-24T19:02:32.283000Z",
+        "tags": "power-bi-repointing,migration,power-bi-migration,modernization,snowconvert"
+    },
+    "https://medium.com/snowflake/empowering-langgraph-snowflake-cortex-agents-as-a-modular-tool-6c1277c3a3fa": {
+        "title": "Empowering LangGraph\u200a\u2014\u200aSnowflake Cortex Agents as a Modular Tool",
+        "published": "2025-07-24T14:02:38.625000Z",
+        "updated": "2025-07-24T14:02:38.625000Z",
+        "tags": "snowflake,langgraph,cortex"
+    },
     "https://medium.com/snowflake/creating-cortex-knowledge-extensions-2b47fa1e3a2e": {
         "title": "Creating Cortex Knowledge Extensions",
         "published": "2025-07-23T22:01:59.440000Z",
