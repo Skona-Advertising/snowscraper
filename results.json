@@ -1,4 +1,22 @@
 {
+    "https://medium.com/snowflake/developers-guide-to-modin-and-snowflake-cortex-c8e7b694eb16": {
+        "title": "Developer\u2019s Guide to Modin and Snowflake Cortex",
+        "published": "2025-07-25T19:01:49.747000Z",
+        "updated": "2025-07-25T19:01:49.747000Z",
+        "tags": "python,data-science,snowflake,data-wrangling,data-analytics"
+    },
+    "https://medium.com/snowflake/part-5-from-questions-to-answers-building-an-intelligent-query-system-with-langgraph-and-d90b1fa00148": {
+        "title": "[Part-5] From Questions to Answers: Building an Intelligent Query System with LangGraph and\u2026",
+        "published": "2025-07-25T14:02:41.285000Z",
+        "updated": "2025-07-25T14:02:41.285000Z",
+        "tags": "snowflake,llm,langgraph"
+    },
+    "https://medium.com/snowflake/%EF%B8%8F-beyond-snowsight-creating-snowflake-listings-with-sql-yaml-2ae77cd3912b": {
+        "title": "\u2744\ufe0f Beyond Snowsight: Creating Snowflake Listings with SQL + YAML",
+        "published": "2025-07-25T14:02:41.125000Z",
+        "updated": "2025-07-25T14:02:41.125000Z",
+        "tags": "snowflake,data-engineering,snowflake-data-cloud,data-sharing,etl"
+    },
     "https://medium.com/snowflake/migrate-power-bi-connections-to-snowflake-7d27b3d38503": {
         "title": "Migrate Power BI connections to Snowflake",
         "published": "2025-07-24T19:02:32.283000Z",
