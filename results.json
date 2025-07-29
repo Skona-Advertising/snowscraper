@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/snowflake-apps-viewers-rights-e5010c99572a": {
+        "title": "Snowflake Apps & Viewer\u2019s Rights",
+        "published": "2025-07-28T19:01:36.683000Z",
+        "updated": "2025-07-28T19:01:36.683000Z",
+        "tags": "app-data,data-engineering,snowflake"
+    },
+    "https://medium.com/snowflake/migrate-data-to-snowflake-with-ease-using-snowconvert-ai-7d9f57d5df7c": {
+        "title": "Migrate Data to Snowflake with Ease Using SnowConvert AI",
+        "published": "2025-07-28T14:02:00.562000Z",
+        "updated": "2025-07-28T14:02:53.687000Z",
+        "tags": "snowflake,data,data-ware-housing,redshift,analytics"
+    },
     "https://medium.com/snowflake/developers-guide-to-modin-and-snowflake-cortex-c8e7b694eb16": {
         "title": "Developer\u2019s Guide to Modin and Snowflake Cortex",
         "published": "2025-07-25T19:01:49.747000Z",
