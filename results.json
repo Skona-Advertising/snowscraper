@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/consuming-apis-securely-in-snowflake-c28851bbf0e2": {
+        "title": "Consuming APIs securely in Snowflake",
+        "published": "2025-07-29T19:01:39.860000Z",
+        "updated": "2025-07-29T19:01:39.860000Z",
+        "tags": "api,snowflake,snowpark,python,data-modeling"
+    },
+    "https://medium.com/snowflake/database-schema-change-to-pull-request-ai-agent-9fa423d7c458": {
+        "title": "Database schema change to Pull Request AI Agent",
+        "published": "2025-07-29T14:02:59.774000Z",
+        "updated": "2025-07-29T14:02:59.774000Z",
+        "tags": "technology,data,database,a\u0131,development"
+    },
     "https://medium.com/snowflake/snowflake-apps-viewers-rights-e5010c99572a": {
         "title": "Snowflake Apps & Viewer\u2019s Rights",
         "published": "2025-07-28T19:01:36.683000Z",
@@ -686,7 +698,7 @@
     "https://medium.com/snowflake/is-your-snowflake-secure-heres-a-practical-review-you-can-run-today-f291d686931c": {
         "title": "Is Your Snowflake Secure? Here\u2019s a Practical Review You Can Run Today",
         "published": "2025-05-01T22:01:34.040000Z",
-        "updated": "2025-05-01T22:01:34.040000Z",
+        "updated": "2025-07-29T23:12:40.751000Z",
         "tags": "snowflake,data-superhero,security,data-governance,audit"
     },
     "https://medium.com/snowflake/datachat-bridging-natural-language-and-analytics-with-gel-and-llm-integration-21826eeeb0c2": {
@@ -830,7 +842,7 @@
     "https://medium.com/snowflake/password-eradication-2094d4fc5a56": {
         "title": "Password Eradication",
         "published": "2025-04-14T14:01:31.661000Z",
-        "updated": "2025-07-02T14:58:24.353000Z",
+        "updated": "2025-07-29T07:51:20.303000Z",
         "tags": "security,snowflake,passwordless"
     },
     "https://medium.com/snowflake/how-inbound-private-connectivity-for-spcs-works-c0e8439d932a": {
