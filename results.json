@@ -1,9 +1,21 @@
 {
+    "https://medium.com/snowflake/generate-reports-at-scale-using-snowpark-container-services-spcs-09e348c41e07": {
+        "title": "Generate Reports at Scale using Snowpark Container Services (SPCS)",
+        "published": "2025-07-31T14:02:42.564000Z",
+        "updated": "2025-07-31T14:02:42.564000Z",
+        "tags": "snowflake,data-engineering,data-science,cloud"
+    },
     "https://medium.com/snowflake/consuming-apis-securely-in-snowflake-c28851bbf0e2": {
         "title": "Consuming APIs securely in Snowflake",
         "published": "2025-07-29T19:01:39.860000Z",
         "updated": "2025-07-29T19:01:39.860000Z",
         "tags": "api,snowflake,snowpark,python,data-modeling"
+    },
+    "https://medium.com/snowflake/bridging-the-gap-between-llms-and-real-world-challenges-snowflake-at-acl-2025-73d7e4b79466": {
+        "title": "Bridging the Gap Between LLMs and Real-World Challenges: Snowflake at ACL 2025",
+        "published": "2025-07-29T16:03:25.392000Z",
+        "updated": "2025-07-31T21:44:51.766000Z",
+        "tags": "ai-research,llm-applications,llm-inference,applied-ai"
     },
     "https://medium.com/snowflake/database-schema-change-to-pull-request-ai-agent-9fa423d7c458": {
         "title": "Database schema change to Pull Request AI Agent",
