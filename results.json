@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/ci-cd-and-devops-in-snowflake-part-1-a-comprehensive-overview-of-features-and-tools-32f1fc63bf91": {
+        "title": "CI/CD and DevOps in Snowflake (Part 1): A Comprehensive Overview of Features and Tools",
+        "published": "2025-08-01T14:03:43.051000Z",
+        "updated": "2025-08-01T14:03:43.051000Z",
+        "tags": "devops,snowflake,snowflake-data-cloud,data-engineering"
+    },
     "https://medium.com/snowflake/generate-reports-at-scale-using-snowpark-container-services-spcs-09e348c41e07": {
         "title": "Generate Reports at Scale using Snowpark Container Services (SPCS)",
         "published": "2025-07-31T14:02:42.564000Z",
