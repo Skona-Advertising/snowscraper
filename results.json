@@ -1,4 +1,28 @@
 {
+    "https://medium.com/snowflake/how-to-set-up-openflow-sharepoint-connector-8b8199d7b63a": {
+        "title": "How to set up Openflow Sharepoint Connector",
+        "published": "2025-08-04T21:01:41.961000Z",
+        "updated": "2025-08-04T21:01:41.961000Z",
+        "tags": "snowflake,openflow,snowflake-openflow,snowflake-connector,snowflake-computing"
+    },
+    "https://medium.com/snowflake/formatted-sql-from-snowpark-python-dataframes-ca199933ecbe": {
+        "title": "Formatted SQL from Snowpark Python DataFrames",
+        "published": "2025-08-04T19:01:40.075000Z",
+        "updated": "2025-08-04T19:01:40.075000Z",
+        "tags": "snowpark,snowflake,python,data-engineering,machine-learning"
+    },
+    "https://medium.com/snowflake/faster-cheaper-and-more-transparent-new-search-optimization-features-a5f9ff51b0ea": {
+        "title": "Faster, cheaper, and more transparent: New Search Optimization features",
+        "published": "2025-08-04T18:55:06.458000Z",
+        "updated": "2025-08-04T18:55:06.458000Z",
+        "tags": "search-optimization,pruning,cybersecurity,optimization,snowflake"
+    },
+    "https://medium.com/snowflake/chat-with-your-snowflake-data-in-microsoft-365-copilot-and-microsoft-teams-snowflake-cortex-agents-d8f7955c8b11": {
+        "title": "Chat with Your Snowflake Data in Microsoft 365 Copilot and Microsoft Teams: Snowflake Cortex Agents",
+        "published": "2025-08-04T14:01:51.983000Z",
+        "updated": "2025-08-04T14:02:46.904000Z",
+        "tags": "ai,snowflake,microsoft-teams,microsoft-copilot,ai-agent"
+    },
     "https://medium.com/snowflake/ci-cd-and-devops-in-snowflake-part-1-a-comprehensive-overview-of-features-and-tools-32f1fc63bf91": {
         "title": "CI/CD and DevOps in Snowflake (Part 1): A Comprehensive Overview of Features and Tools",
         "published": "2025-08-01T14:03:43.051000Z",
