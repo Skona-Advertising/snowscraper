@@ -1,8 +1,20 @@
 {
+    "https://medium.com/snowflake/why-ventra-health-chose-snowflake-to-power-its-next-generation-of-data-and-analytics-9c7855386ac3": {
+        "title": "Why Ventra Health Chose Snowflake to Power Its Next Generation of Data and Analytics",
+        "published": "2025-08-05T17:01:55.661000Z",
+        "updated": "2025-08-05T17:01:55.661000Z",
+        "tags": "healthcare,ai,snowflake,data-engineering"
+    },
+    "https://medium.com/snowflake/building-ai-agents-for-data-science-with-openai-and-snowflake-41973d5abe03": {
+        "title": "Building AI Agents for Data Science with OpenAI and Snowflake",
+        "published": "2025-08-05T14:01:48.449000Z",
+        "updated": "2025-08-05T14:01:48.449000Z",
+        "tags": "ai-agent,snowflake,openai,agents,data-superhero"
+    },
     "https://medium.com/snowflake/how-to-set-up-openflow-sharepoint-connector-8b8199d7b63a": {
         "title": "How to set up Openflow Sharepoint Connector",
         "published": "2025-08-04T21:01:41.961000Z",
-        "updated": "2025-08-04T21:01:41.961000Z",
+        "updated": "2025-08-06T00:51:55.940000Z",
         "tags": "snowflake,openflow,snowflake-openflow,snowflake-connector,snowflake-computing"
     },
     "https://medium.com/snowflake/formatted-sql-from-snowpark-python-dataframes-ca199933ecbe": {
@@ -632,7 +644,7 @@
     "https://medium.com/snowflake/modern-sql-in-snowflake-designed-for-simplicity-for-complex-tasks-cbbe568a18dd": {
         "title": "Modern SQL in Snowflake: Designed for Simplicity for Complex Tasks",
         "published": "2025-05-09T20:44:05.085000Z",
-        "updated": "2025-05-20T16:55:21.851000Z",
+        "updated": "2025-08-05T17:02:42.978000Z",
         "tags": "snowflake,sql,timeseries,analytics,data-engineering"
     },
     "https://medium.com/snowflake/new-passwordless-configuration-configuring-single-sign-on-sso-from-power-bi-to-snowflake-b6e5bc544d44": {
