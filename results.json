@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/anatomy-of-a-snowflake-query-a-deep-dive-into-the-execution-engine-ca9061022c47": {
+        "title": "Anatomy of a Snowflake Query: A Deep Dive into the Execution Engine",
+        "published": "2025-08-08T14:01:48.943000Z",
+        "updated": "2025-08-08T14:02:46.510000Z",
+        "tags": "snowflake,query,sql,understanding,best-practices"
+    },
     "https://medium.com/snowflake/unlock-fleet-wide-observability-with-osquery-and-snowflake-91c40ddc0f56": {
         "title": "Unlock Fleet-Wide Observability with osquery and Snowflake",
         "published": "2025-08-07T14:01:51.897000Z",
@@ -16,6 +22,12 @@
         "published": "2025-08-05T17:01:55.661000Z",
         "updated": "2025-08-05T17:01:55.661000Z",
         "tags": "healthcare,ai,snowflake,data-engineering"
+    },
+    "https://medium.com/snowflake/the-general-purpose-snowflake-mcp-server-sql-operation-through-natural-language-ddd33bba4fa7": {
+        "title": "The General-Purpose Snowflake MCP Server: SQL Operation Through Natural Language",
+        "published": "2025-08-05T15:58:42.723000Z",
+        "updated": "2025-08-08T18:04:24.237000Z",
+        "tags": "ai,mcp-server,snowflake,artificial-intelligence,anthropic-claude"
     },
     "https://medium.com/snowflake/building-ai-agents-for-data-science-with-openai-and-snowflake-41973d5abe03": {
         "title": "Building AI Agents for Data Science with OpenAI and Snowflake",
