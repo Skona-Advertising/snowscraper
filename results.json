@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/how-allium-delivers-petabyte-scale-blockchain-data-with-snowflake-secure-data-sharing-ddfb32fccfda": {
+        "title": "How Allium Delivers Petabyte-Scale Blockchain Data With Snowflake Secure Data Sharing",
+        "published": "2025-08-11T14:01:51.254000Z",
+        "updated": "2025-08-11T14:23:09.741000Z",
+        "tags": "blockchain-data-analytics,blockchain,snowflake,ai"
+    },
     "https://medium.com/snowflake/anatomy-of-a-snowflake-query-a-deep-dive-into-the-execution-engine-ca9061022c47": {
         "title": "Anatomy of a Snowflake Query: A Deep Dive into the Execution Engine",
         "published": "2025-08-08T14:01:48.943000Z",
