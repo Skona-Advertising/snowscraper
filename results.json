@@ -1,8 +1,44 @@
 {
+    "https://medium.com/snowflake/sub-second-inference-on-snowflake-real-time-recommendations-powered-by-snowflake-ml-and-snowpark-80731353bee2": {
+        "title": "Sub-Second Inference on Snowflake: Real-Time Recommendations Powered by Snowflake ML and Snowpark\u2026",
+        "published": "2025-08-12T19:49:10.550000Z",
+        "updated": "2025-08-12T19:49:10.550000Z",
+        "tags": "snowpark-container,machine-learning,snowflake,performance,latency-optimization"
+    },
+    "https://medium.com/snowflake/turn-your-ideas-into-working-prototypes-fast-8ee1866a57b2": {
+        "title": "Turn your Ideas into Working Prototypes, Fast!",
+        "published": "2025-08-12T17:18:22.909000Z",
+        "updated": "2025-08-12T17:18:22.909000Z",
+        "tags": "generative-ai-tools,ai,prototyping,streamlit,snowflake"
+    },
+    "https://medium.com/snowflake/overview-of-snowsight-snowflakes-web-interface-c32d42e546ba": {
+        "title": "Overview of Snowsight: Snowflake\u2019s Web Interface",
+        "published": "2025-08-12T17:14:15.273000Z",
+        "updated": "2025-08-12T17:14:15.273000Z",
+        "tags": "snowflake,snowsight,data-science,data-engineering,data-analytics"
+    },
+    "https://medium.com/snowflake/programmatically-accessing-snowflake-model-inference-endpoints-now-even-easier-c4d6d4a51895": {
+        "title": "Programmatically Accessing Snowflake Model Inference Endpoints\u200a\u2014\u200aNow Even Easier!",
+        "published": "2025-08-12T15:08:32.027000Z",
+        "updated": "2025-08-12T15:08:32.027000Z",
+        "tags": "snowflake,snowpark,snowpark-ml,snowpark-container,personal-access-tokens"
+    },
+    "https://medium.com/snowflake/programmatic-access-to-snowpark-container-services-now-even-easier-0e1f97e801f3": {
+        "title": "Programmatic Access to Snowpark Container Services\u200a\u2014\u200aNow Even Easier!",
+        "published": "2025-08-12T15:08:22.434000Z",
+        "updated": "2025-08-12T15:08:22.434000Z",
+        "tags": "snowflake,snowpark,snowpark-container,personal-access-tokens"
+    },
+    "https://medium.com/snowflake/use-aisql-to-understand-what-customers-really-think-about-your-products-6555d1ad8d82": {
+        "title": "Use AISQL to Understand What Customers Really Think About Your Products",
+        "published": "2025-08-12T14:02:38.851000Z",
+        "updated": "2025-08-12T14:03:32.193000Z",
+        "tags": "generative-ai-use-cases,snowflake-cortex,unstructured-data,sentiment-analysis"
+    },
     "https://medium.com/snowflake/how-allium-delivers-petabyte-scale-blockchain-data-with-snowflake-secure-data-sharing-ddfb32fccfda": {
         "title": "How Allium Delivers Petabyte-Scale Blockchain Data With Snowflake Secure Data Sharing",
         "published": "2025-08-11T14:01:51.254000Z",
-        "updated": "2025-08-11T14:23:09.741000Z",
+        "updated": "2025-08-12T19:01:26.797000Z",
         "tags": "blockchain-data-analytics,blockchain,snowflake,ai"
     },
     "https://medium.com/snowflake/anatomy-of-a-snowflake-query-a-deep-dive-into-the-execution-engine-ca9061022c47": {
