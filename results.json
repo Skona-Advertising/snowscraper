@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/unlocking-enterprise-ai-how-to-power-the-next-generation-of-work-with-snowflake-glean-c3862ee39185": {
+        "title": "Unlocking Enterprise AI: How to Power the Next Generation of Work with Snowflake & Glean",
+        "published": "2025-08-13T17:01:51.495000Z",
+        "updated": "2025-08-13T17:01:51.495000Z",
+        "tags": "artificial-intelligence,ai-agent,snowflake,glean"
+    },
     "https://medium.com/snowflake/sub-second-inference-on-snowflake-real-time-recommendations-powered-by-snowflake-ml-and-snowpark-80731353bee2": {
         "title": "Sub-Second Inference on Snowflake: Real-Time Recommendations Powered by Snowflake ML and Snowpark\u2026",
         "published": "2025-08-12T19:49:10.550000Z",
@@ -230,7 +236,7 @@
     "https://medium.com/snowflake/snowflake-organization-users-centralized-identity-for-a-multi-account-world-c3542c14840e": {
         "title": "Snowflake Organization Users: Centralized Identity for a Multi-Account World",
         "published": "2025-07-15T14:02:22.558000Z",
-        "updated": "2025-07-15T14:02:22.558000Z",
+        "updated": "2025-08-13T22:52:23.599000Z",
         "tags": "snowflake,organization,landing-zone-accelerator,authentication"
     },
     "https://medium.com/snowflake/seven-years-of-active-snowflake-community-membership-932bd91cc6c8": {
