@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/how-elementum-builds-the-next-generation-of-ai-driven-workflows-with-unistores-hybrid-tables-1f2cf4f9d67c": {
+        "title": "How Elementum Builds the Next Generation of AI-Driven Workflows with Unistore\u2019s Hybrid Tables",
+        "published": "2025-08-14T19:01:53.636000Z",
+        "updated": "2025-08-14T19:01:53.636000Z",
+        "tags": "agentic-ai,snowflake,data-architecture,data-science,data-engineering"
+    },
+    "https://medium.com/snowflake/owners-rights-are-great-but-restricted-caller-s-rights-turbocharge-native-apps-df76b5aad085": {
+        "title": "Owner\u2019s Rights are Great but (Restricted) Caller\u2019s Rights Turbocharge Native Apps",
+        "published": "2025-08-14T14:01:48.856000Z",
+        "updated": "2025-08-14T14:01:48.856000Z",
+        "tags": "native-app,app-development,apps,snowflake"
+    },
     "https://medium.com/snowflake/unlocking-enterprise-ai-how-to-power-the-next-generation-of-work-with-snowflake-glean-c3862ee39185": {
         "title": "Unlocking Enterprise AI: How to Power the Next Generation of Work with Snowflake & Glean",
         "published": "2025-08-13T17:01:51.495000Z",
@@ -236,7 +248,7 @@
     "https://medium.com/snowflake/snowflake-organization-users-centralized-identity-for-a-multi-account-world-c3542c14840e": {
         "title": "Snowflake Organization Users: Centralized Identity for a Multi-Account World",
         "published": "2025-07-15T14:02:22.558000Z",
-        "updated": "2025-08-13T22:52:23.599000Z",
+        "updated": "2025-08-14T14:25:45.842000Z",
         "tags": "snowflake,organization,landing-zone-accelerator,authentication"
     },
     "https://medium.com/snowflake/seven-years-of-active-snowflake-community-membership-932bd91cc6c8": {
