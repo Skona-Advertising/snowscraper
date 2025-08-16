@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/openflow-troubleshooting-snowflake-connectivity-and-building-custom-flows-ce5183d5ad86": {
+        "title": "Openflow: Troubleshooting Snowflake Connectivity and Building Custom Flows",
+        "published": "2025-08-15T14:01:47.785000Z",
+        "updated": "2025-08-15T14:01:47.785000Z",
+        "tags": "snowflake,snowflake-openflow,openflow,data-ingestion,nifi"
+    },
     "https://medium.com/snowflake/how-elementum-builds-the-next-generation-of-ai-driven-workflows-with-unistores-hybrid-tables-1f2cf4f9d67c": {
         "title": "How Elementum Builds the Next Generation of AI-Driven Workflows with Unistore\u2019s Hybrid Tables",
         "published": "2025-08-14T19:01:53.636000Z",
