@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/fixing-vllm-import-errors-in-snowflake-notebooks-a-complete-guide-to-external-access-integration-2f424c4b4d41": {
+        "title": "Fixing vLLM Import Errors in Snowflake Notebooks: A Complete Guide to External Access Integration",
+        "published": "2025-08-19T14:03:24.127000Z",
+        "updated": "2025-08-19T14:03:24.127000Z",
+        "tags": "snowflake,jupyter-notebook,troubleshooting,machine-learning,data-engineering"
+    },
     "https://medium.com/snowflake/openflow-troubleshooting-postgresql-connectivity-23f4a789017f": {
         "title": "Openflow: Troubleshooting PostgreSQL Connectivity",
         "published": "2025-08-18T14:02:05.381000Z",
