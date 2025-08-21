@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/cortex-model-showdown-supercharge-performance-with-a-b-testing-6b765774e807": {
+        "title": "Cortex Model Showdown: Supercharge Performance with A/B Testing",
+        "published": "2025-08-20T14:02:06.988000Z",
+        "updated": "2025-08-20T14:02:06.988000Z",
+        "tags": "snowflake,ab-testing,experimentation,ai,large-language-models"
+    },
     "https://medium.com/snowflake/fixing-vllm-import-errors-in-snowflake-notebooks-a-complete-guide-to-external-access-integration-2f424c4b4d41": {
         "title": "Fixing vLLM Import Errors in Snowflake Notebooks: A Complete Guide to External Access Integration",
         "published": "2025-08-19T14:03:24.127000Z",
@@ -80,7 +86,7 @@
     "https://medium.com/snowflake/anatomy-of-a-snowflake-query-a-deep-dive-into-the-execution-engine-ca9061022c47": {
         "title": "Anatomy of a Snowflake Query: A Deep Dive into the Execution Engine",
         "published": "2025-08-08T14:01:48.943000Z",
-        "updated": "2025-08-08T14:02:46.510000Z",
+        "updated": "2025-08-20T04:21:37.972000Z",
         "tags": "snowflake,query,sql,understanding,best-practices"
     },
     "https://medium.com/snowflake/unlock-fleet-wide-observability-with-osquery-and-snowflake-91c40ddc0f56": {
@@ -1028,7 +1034,7 @@
     "https://medium.com/snowflake/ai-observability-in-snowflake-evaluate-gen-ai-apps-with-snowflake-cortex-ai-and-trulens-37878ec83c9e": {
         "title": "AI Observability in Snowflake: Evaluate gen AI apps with Snowflake Cortex AI and TruLens",
         "published": "2025-04-08T14:01:22.960000Z",
-        "updated": "2025-04-08T14:01:22.960000Z",
+        "updated": "2025-08-20T22:40:43.686000Z",
         "tags": "generative-ai-tools,ai-observability,ai-evaluation,generative-ai-use-cases,snowflake-cortex"
     },
     "https://medium.com/snowflake/safely-use-snowflake-cortex-analyst-with-multi-tenant-data-552b8646cadc": {
