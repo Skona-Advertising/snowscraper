@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/snowpark-python-3-13-public-preview-43b005d4ac58": {
+        "title": "Snowpark Python 3.13 Public Preview",
+        "published": "2025-08-21T19:01:29.994000Z",
+        "updated": "2025-08-21T19:01:29.994000Z",
+        "tags": "snowflake,snowpark,python,ai"
+    },
+    "https://medium.com/snowflake/secure-connection-options-for-microsofts-power-bi-to-snowflake-part-2-22a8da7f8910": {
+        "title": "Secure Connection Options for Microsoft\u2019s Power BI to Snowflake (Part 2)",
+        "published": "2025-08-21T14:01:34.756000Z",
+        "updated": "2025-08-21T14:01:34.756000Z",
+        "tags": "snowflake,power-bi,cloud-security"
+    },
     "https://medium.com/snowflake/cortex-model-showdown-supercharge-performance-with-a-b-testing-6b765774e807": {
         "title": "Cortex Model Showdown: Supercharge Performance with A/B Testing",
         "published": "2025-08-20T14:02:06.988000Z",
