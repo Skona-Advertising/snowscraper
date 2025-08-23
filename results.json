@@ -1,4 +1,22 @@
 {
+    "https://medium.com/snowflake/read-external-data-sources-directly-in-snowpark-with-the-new-python-db-api-public-preview-dc798d1a5f19": {
+        "title": "Read External Data Sources Directly in Snowpark with the New Python DB-API (Public Preview)",
+        "published": "2025-08-22T19:01:31.728000Z",
+        "updated": "2025-08-22T19:01:31.728000Z",
+        "tags": "snowpark,snowflake,python"
+    },
+    "https://medium.com/snowflake/data-crawler-version-2-0-dcaaab0d19b1": {
+        "title": "Data Crawler Version 2.0",
+        "published": "2025-08-22T17:01:35.946000Z",
+        "updated": "2025-08-22T17:01:35.946000Z",
+        "tags": "llm,cortex,snowflake,ai,genai"
+    },
+    "https://medium.com/snowflake/unlocking-geospatial-analytics-with-snowflake-and-streamlit-c5df4c357dc9": {
+        "title": "Unlocking Geospatial Analytics with Snowflake and Streamlit",
+        "published": "2025-08-22T14:01:33.796000Z",
+        "updated": "2025-08-22T14:01:33.796000Z",
+        "tags": "streamlit,geospatial-analytics,vectorized-udfs,trajectory-analysis"
+    },
     "https://medium.com/snowflake/snowpark-python-3-13-public-preview-43b005d4ac58": {
         "title": "Snowpark Python 3.13 Public Preview",
         "published": "2025-08-21T19:01:29.994000Z",
