@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/snowflake-platform-monitoring-with-streamlit-sis-be9eaf3dd34a": {
+        "title": "Snowflake Platform Monitoring with Streamlit (SIS)",
+        "published": "2025-08-25T14:01:46.095000Z",
+        "updated": "2025-08-25T14:01:46.095000Z",
+        "tags": "dashboard,streamlit-app,snowflake,platform-monitoring,genai"
+    },
     "https://medium.com/snowflake/read-external-data-sources-directly-in-snowpark-with-the-new-python-db-api-public-preview-dc798d1a5f19": {
         "title": "Read External Data Sources Directly in Snowpark with the New Python DB-API (Public Preview)",
         "published": "2025-08-22T19:01:31.728000Z",
