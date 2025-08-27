@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/breaking-silos-integrating-snowflake-and-databricks-unity-catalog-8c9d5df6a0b3": {
+        "title": "Breaking Silos: Integrating Snowflake and Databricks Unity Catalog",
+        "published": "2025-08-26T19:01:33.848000Z",
+        "updated": "2025-08-26T19:01:33.848000Z",
+        "tags": "snowflake,data-engineering,databricks,delta-lake,apache-iceberg"
+    },
+    "https://medium.com/snowflake/the-snowflake-pipe-operator-that-saved-my-metadata-driven-adf-pipeline-5e3a1da42f36": {
+        "title": "The Snowflake Pipe Operator That Saved my Metadata-Driven ADF Pipeline",
+        "published": "2025-08-26T14:02:35.925000Z",
+        "updated": "2025-08-26T14:03:33.462000Z",
+        "tags": "azure-data-factory,snowflake,snowflake-data-cloud,etl,data-engineer"
+    },
     "https://medium.com/snowflake/snowflake-platform-monitoring-with-streamlit-sis-be9eaf3dd34a": {
         "title": "Snowflake Platform Monitoring with Streamlit (SIS)",
         "published": "2025-08-25T14:01:46.095000Z",
