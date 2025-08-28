@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/performance-implication-of-implicit-type-casting-in-joins-22f890b71585": {
+        "title": "Performance Implication of Implicit Type Casting in Joins",
+        "published": "2025-08-27T14:01:39.343000Z",
+        "updated": "2025-08-27T14:01:39.343000Z",
+        "tags": "snowflake,sql-data-type,sql-joins,performance"
+    },
     "https://medium.com/snowflake/breaking-silos-integrating-snowflake-and-databricks-unity-catalog-8c9d5df6a0b3": {
         "title": "Breaking Silos: Integrating Snowflake and Databricks Unity Catalog",
         "published": "2025-08-26T19:01:33.848000Z",
