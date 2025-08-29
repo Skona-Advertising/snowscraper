@@ -1,4 +1,10 @@
 {
+    "https://medium.com/snowflake/snowflake-openflow-and-streams-to-aws-real-time-fraud-alerting-at-scale-24c7a5ddf630": {
+        "title": "Snowflake Openflow and Streams to AWS: Real-Time Fraud Alerting At Scale",
+        "published": "2025-08-28T14:01:52.766000Z",
+        "updated": "2025-08-28T14:02:47.598000Z",
+        "tags": "snowflake,amazon,data-engineering,fraud-detection"
+    },
     "https://medium.com/snowflake/performance-implication-of-implicit-type-casting-in-joins-22f890b71585": {
         "title": "Performance Implication of Implicit Type Casting in Joins",
         "published": "2025-08-27T14:01:39.343000Z",
