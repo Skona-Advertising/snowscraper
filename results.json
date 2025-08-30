@@ -1,4 +1,22 @@
 {
+    "https://medium.com/snowflake/snowflake-event-tables-account-level-vs-database-level-1d24d5754868": {
+        "title": "Snowflake Event Tables: Account Level vs Database Level",
+        "published": "2025-08-29T20:01:36.402000Z",
+        "updated": "2025-08-29T20:01:36.402000Z",
+        "tags": "snowflake,observability,snowflake-data-cloud,otel,snowflake-trail"
+    },
+    "https://medium.com/snowflake/snowflake-without-password-how-workload-identity-federation-simplifies-authentication-ede148faf1fd": {
+        "title": "Snowflake Without Password: How Workload Identity Federation Simplifies Authentication",
+        "published": "2025-08-29T19:03:34.850000Z",
+        "updated": "2025-08-29T19:03:34.850000Z",
+        "tags": "snowflake,security,authentication,workload-identity,cloud-computing"
+    },
+    "https://medium.com/snowflake/is-your-data-ready-for-the-eu-data-act-a-4-step-guide-using-snowflake-cortex-ai-d1322aa31a0a": {
+        "title": "Is Your Data Ready for the EU Data Act? A 4-Step Guide Using Snowflake Cortex AI",
+        "published": "2025-08-29T14:02:04.612000Z",
+        "updated": "2025-08-29T14:02:04.612000Z",
+        "tags": "snowflake-cortex-ai,eu-data-act,cortex-search,data-engineering,snowflake"
+    },
     "https://medium.com/snowflake/snowflake-openflow-and-streams-to-aws-real-time-fraud-alerting-at-scale-24c7a5ddf630": {
         "title": "Snowflake Openflow and Streams to AWS: Real-Time Fraud Alerting At Scale",
         "published": "2025-08-28T14:01:52.766000Z",
