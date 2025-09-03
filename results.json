@@ -1,8 +1,20 @@
 {
+    "https://medium.com/snowflake/adaptive-cortex-complete-machine-learning-meets-snowflake-llms-f71bb0c0d19c": {
+        "title": "Adaptive Cortex Complete: Machine Learning Meets Snowflake LLMs",
+        "published": "2025-09-02T19:01:33.200000Z",
+        "updated": "2025-09-02T19:01:33.200000Z",
+        "tags": "snowflake,data-science,llm,generative-ai-tools,reinforcement-learning"
+    },
+    "https://medium.com/snowflake/snowflake-open-catalog-unified-secure-access-to-apache-iceberg-tables-ef91e453e42c": {
+        "title": "Snowflake Open Catalog: Unified, Secure Access to Apache Iceberg Tables",
+        "published": "2025-09-02T14:01:57.859000Z",
+        "updated": "2025-09-02T14:01:57.859000Z",
+        "tags": "snowflake,apache,cloud-computing,data-engineering"
+    },
     "https://medium.com/snowflake/snowflake-event-tables-account-level-vs-database-level-1d24d5754868": {
         "title": "Snowflake Event Tables: Account Level vs Database Level",
         "published": "2025-08-29T20:01:36.402000Z",
-        "updated": "2025-08-29T20:01:36.402000Z",
+        "updated": "2025-09-02T14:23:43.484000Z",
         "tags": "snowflake,observability,snowflake-data-cloud,otel,snowflake-trail"
     },
     "https://medium.com/snowflake/snowflake-without-password-how-workload-identity-federation-simplifies-authentication-ede148faf1fd": {
