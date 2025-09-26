@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/securing-rbac-auditing-and-logging-your-snowflake-data-clean-rooms-b8b2cb228d2c": {
+        "title": "Securing (RBAC), Auditing, and Logging Your Snowflake Data Clean Rooms",
+        "published": "2025-09-25T14:01:53.321000Z",
+        "updated": "2025-09-25T14:01:53.321000Z",
+        "tags": "data-clean-room,snowflake-rbac,auditing,snowflake-security"
+    },
+    "https://medium.com/snowflake/beyond-faster-what-snowflakes-gen2-warehouses-mean-for-your-data-strategy-66f681740049": {
+        "title": "Beyond Faster\u200a\u2014\u200aWhat Snowflake\u2019s Gen2 Warehouses Mean for Your Data Strategy",
+        "published": "2025-09-24T14:01:57.971000Z",
+        "updated": "2025-09-24T14:02:49.813000Z",
+        "tags": "warehouse-management,snowflake,computes,optimization,warehouse"
+    },
     "https://medium.com/snowflake/%EF%B8%8F-snowpro-specialty-gen-ai-certification-tutorial-part-2-snowflake-cortex-4c9792d5379b": {
         "title": "\u2744\ufe0f SNOWPRO SPECIALTY: GEN AI CERTIFICATION Tutorial (Part 2\u2014 Snowflake Cortex)",
         "published": "2025-09-23T19:02:06.216000Z",
@@ -3350,7 +3362,7 @@
     "https://medium.com/snowflake/optimizing-costs-in-snowflake-with-effective-storage-lifecycle-policies-027dd98eaafd": {
         "title": "Optimizing Costs in Snowflake with Effective Storage Lifecycle Policies",
         "published": "2024-07-29T14:51:40.254000Z",
-        "updated": "2025-06-23T22:26:58.003000Z",
+        "updated": "2025-09-24T17:41:55.874000Z",
         "tags": "snowflake,storage,compliance,lifecycle-methods,cost"
     },
     "https://medium.com/snowflake/transforming-40min-call-transcripts-into-structured-json-summaries-using-mistral-large-in-9b1c77af7377": {
@@ -5828,7 +5840,7 @@
     "https://medium.com/snowflake/snowflake-and-power-bi-best-practices-and-recent-improvements-183e2d970c0c": {
         "title": "Snowflake and Power BI: Best Practices and Recent Improvements",
         "published": "2023-12-07T23:02:08.677000Z",
-        "updated": "2025-09-22T00:19:13.313000Z",
+        "updated": "2025-09-24T16:01:13.672000Z",
         "tags": "snowflake,microsoft-power-bi,snowflake-data-cloud,power-bi-desktop,performance"
     },
     "https://medium.com/snowflake/optimizing-snowflake-cloud-services-costs-de10f0b15444": {
