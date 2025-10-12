@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/using-contacts-in-snowflake-a-strategic-guide-to-schema-level-communication-0b20b5407344": {
+        "title": "Using Contacts in Snowflake: A Strategic Guide to Schema-Level Communication",
+        "published": "2025-10-10T19:02:03.634000Z",
+        "updated": "2025-10-10T19:02:03.634000Z",
+        "tags": "snowflake,superheroes,data-governance,rajiv-gupta,security"
+    },
+    "https://medium.com/snowflake/sdlc-using-dbt-projects-in-snowflake-integrated-with-github-9e22e0ffabc7": {
+        "title": "SDLC using DBT Projects in Snowflake, integrated with GitHub",
+        "published": "2025-10-10T14:02:00.003000Z",
+        "updated": "2025-10-10T14:02:00.003000Z",
+        "tags": "dbt,snowflake,data-engineering,data-architecture"
+    },
     "https://medium.com/snowflake/exploring-snowflakes-geospatial-functions-mapping-pickup-points-in-rueil-malmaison-france-cf67a9917255": {
         "title": "Exploring Snowflake\u2019s Geospatial Functions: Mapping Pickup Points in Rueil-Malmaison (France)\u00a0\u2026",
         "published": "2025-10-09T19:01:53.697000Z",
@@ -1226,7 +1238,7 @@
     "https://medium.com/snowflake/snowflake-how-to-document-database-objects-by-an-empowered-snowflake-cortex-ai-process-2bee594bf66c": {
         "title": "SNOWFLAKE: How to Document Database objects by an empowered Snowflake Cortex AI process",
         "published": "2025-05-08T17:02:42.733000Z",
-        "updated": "2025-05-09T22:36:59.863000Z",
+        "updated": "2025-10-11T20:12:45.566000Z",
         "tags": "snowflake,cortex,ai,governance,data-superhero"
     },
     "https://medium.com/snowflake/bridging-the-gender-gap-in-data-a-hands-on-demo-from-build-london-part-1-of-2-setup-analysis-48d7592f573a": {
