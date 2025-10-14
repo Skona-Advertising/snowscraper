@@ -1,4 +1,28 @@
 {
+    "https://medium.com/snowflake/automating-cross-region-shares-with-terraform-dbt-mercurys-end-to-end-guide-e4718c75b8d5": {
+        "title": "Automating Cross-Region Shares with Terraform & dbt: Mercury\u2019s End-to-End Guide",
+        "published": "2025-10-13T22:01:44.274000Z",
+        "updated": "2025-10-13T22:01:44.274000Z",
+        "tags": "data-engineering,terraform,dbt,data-sharing,snowflake"
+    },
+    "https://medium.com/snowflake/document-processing-with-snowflake-cortex-aisql-f1e8c579bd39": {
+        "title": "Document Processing with Snowflake Cortex AISQL",
+        "published": "2025-10-13T22:01:43.947000Z",
+        "updated": "2025-10-13T22:01:43.947000Z",
+        "tags": "snowflake-cortex,ai-sql,unstructured-data,data-science,llm"
+    },
+    "https://medium.com/snowflake/snowflake-migration-series-lesson-4-people-and-process-the-work-that-makes-the-tech-stick-8bc43f6d27b1": {
+        "title": "Snowflake Migration Series\u200a\u2014\u200aLesson 4: People and Process: The Work That Makes The Tech Stick",
+        "published": "2025-10-13T19:02:16.431000Z",
+        "updated": "2025-10-13T19:02:16.431000Z",
+        "tags": "data-superhero,snowflake,data-migration,cloud-migration"
+    },
+    "https://medium.com/snowflake/multi-table-inserts-in-snowflake-efficient-data-distribution-with-a-single-sql-statement-9d596beb66bf": {
+        "title": "Multi-Table Inserts in Snowflake\u200a\u2014\u200aEfficient Data Distribution with a Single SQL Statement",
+        "published": "2025-10-13T14:02:26.914000Z",
+        "updated": "2025-10-13T14:03:18.279000Z",
+        "tags": "snowflake,data-engineering,sql,data-analysis,data-architecture"
+    },
     "https://medium.com/snowflake/using-contacts-in-snowflake-a-strategic-guide-to-schema-level-communication-0b20b5407344": {
         "title": "Using Contacts in Snowflake: A Strategic Guide to Schema-Level Communication",
         "published": "2025-10-10T19:02:03.634000Z",
@@ -2732,7 +2756,7 @@
     "https://medium.com/snowflake/integrating-delta-tables-with-snowflake-performance-beyond-external-tables-52b54d31251c": {
         "title": "Integrating Delta Tables with Snowflake: Performance Beyond External Tables",
         "published": "2024-10-12T15:56:38.447000Z",
-        "updated": "2025-05-02T21:44:35.581000Z",
+        "updated": "2025-10-13T23:29:43.347000Z",
         "tags": "snowflake,delta-tables,iceberg-table,performance,external-tables"
     },
     "https://medium.com/snowflake/running-distributed-pytorch-models-on-snowflake-an-end-to-end-ml-solution-452d16a39553": {
