@@ -1,4 +1,16 @@
 {
+    "https://medium.com/snowflake/building-an-elt-pipeline-with-cocoindex-snowflake-and-llms-433c7dcc6e60": {
+        "title": "Building an ELT Pipeline with CocoIndex, Snowflake, and LLMs",
+        "published": "2025-10-14T19:02:17.256000Z",
+        "updated": "2025-10-14T19:02:17.256000Z",
+        "tags": "snowflake,data-engineering,ai,python"
+    },
+    "https://medium.com/snowflake/snowflake-driver-compliance-monitor-719b3aa6196a": {
+        "title": "Snowflake Driver Compliance Monitor",
+        "published": "2025-10-14T14:02:56.110000Z",
+        "updated": "2025-10-14T14:02:56.110000Z",
+        "tags": "snowflake,connector,compliance,streamlit,snowflake-cortex"
+    },
     "https://medium.com/snowflake/automating-cross-region-shares-with-terraform-dbt-mercurys-end-to-end-guide-e4718c75b8d5": {
         "title": "Automating Cross-Region Shares with Terraform & dbt: Mercury\u2019s End-to-End Guide",
         "published": "2025-10-13T22:01:44.274000Z",
@@ -8,7 +20,7 @@
     "https://medium.com/snowflake/document-processing-with-snowflake-cortex-aisql-f1e8c579bd39": {
         "title": "Document Processing with Snowflake Cortex AISQL",
         "published": "2025-10-13T22:01:43.947000Z",
-        "updated": "2025-10-13T22:01:43.947000Z",
+        "updated": "2025-10-14T15:36:05.405000Z",
         "tags": "snowflake-cortex,ai-sql,unstructured-data,data-science,llm"
     },
     "https://medium.com/snowflake/snowflake-migration-series-lesson-4-people-and-process-the-work-that-makes-the-tech-stick-8bc43f6d27b1": {
@@ -8366,7 +8378,7 @@
     "https://medium.com/snowflake/how-to-build-a-native-monitoring-and-alerting-solution-in-snowflake-d200959638b4": {
         "title": "How to build a native monitoring and alerting solution in Snowflake?",
         "published": "2023-05-09T02:16:11.128000Z",
-        "updated": "2023-05-11T21:32:49.892000Z",
+        "updated": "2025-10-14T04:20:09.427000Z",
         "tags": "alerts,snowflake,notifications,snowflake-data-cloud"
     },
     "https://medium.com/snowflake/directory-tables-functions-2c89877ba2f7": {
