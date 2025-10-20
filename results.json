@@ -1,4 +1,64 @@
 {
+    "https://medium.com/snowflake/the-banking-modernization-race-a-breakdown-of-snowflake-ai-and-how-banks-could-use-it-3337fe7d186c": {
+        "title": "The Banking Modernization Race: A Breakdown of Snowflake AI and How Banks Could Use It",
+        "published": "2025-10-17T19:01:48.091000Z",
+        "updated": "2025-10-17T19:01:48.091000Z",
+        "tags": "snowflake-ai,snowflake-cortex-ai,banking-technology,finance-and-banking,data-analysis"
+    },
+    "https://medium.com/snowflake/powering-medical-device-data-analytics-with-snowflake-02d34e717fbe": {
+        "title": "Powering Medical Device Data Analytics with Snowflake",
+        "published": "2025-10-17T17:01:54.303000Z",
+        "updated": "2025-10-17T17:01:54.303000Z",
+        "tags": "medical-devices,data-streaming,data-analysis,snowflake"
+    },
+    "https://medium.com/snowflake/finops-cost-management-in-snowflake-insights-from-a-streamlit-app-92d74477c137": {
+        "title": "FinOps Cost Management in Snowflake\u200a\u2014\u200aInsights from a Streamlit App",
+        "published": "2025-10-17T14:01:55.129000Z",
+        "updated": "2025-10-17T21:29:29.322000Z",
+        "tags": "finops,streamlit-app,snowflake,cloud-computing,data-analysis"
+    },
+    "https://medium.com/snowflake/a-quick-start-guide-to-the-snowflake-adbc-driver-with-python-6de3eb28ee52": {
+        "title": "A Quick Start Guide to the Snowflake ADBC Driver with Python",
+        "published": "2025-10-16T22:02:18.377000Z",
+        "updated": "2025-10-16T22:02:18.377000Z",
+        "tags": "snowflake,apache,python"
+    },
+    "https://medium.com/snowflake/snowpipe-streaming-with-the-new-high-performance-architecture-f59b6f22ef7b": {
+        "title": "Snowpipe Streaming With the New High-Performance Architecture",
+        "published": "2025-10-16T19:02:00.699000Z",
+        "updated": "2025-10-16T19:02:00.699000Z",
+        "tags": "snowflake,streaming,real-time-analytics,data-superhero,snowpipe"
+    },
+    "https://medium.com/snowflake/optimizing-snowflake-cortex-analyst-performance-48ae4735c8e1": {
+        "title": "Optimizing Snowflake Cortex Analyst Performance",
+        "published": "2025-10-16T14:01:08.921000Z",
+        "updated": "2025-10-16T14:01:08.921000Z",
+        "tags": "cortex-analyst,ai,llm,snowflake,sql"
+    },
+    "https://medium.com/snowflake/the-code-that-launched-the-svai-hub-inside-the-grand-opening-hackathon-1a9ceccc0393": {
+        "title": "The Code That Launched the SVAI Hub: Inside the Grand Opening Hackathon",
+        "published": "2025-10-16T00:19:53.775000Z",
+        "updated": "2025-10-16T00:31:03.914000Z",
+        "tags": "ai,hackathons,silicon-valley,snowflake,ai-agent"
+    },
+    "https://medium.com/snowflake/how-we-built-a-structured-streamlit-framework-in-snowflake-from-chaos-to-compliance-baa3b709aead": {
+        "title": "How We Built a Structured Streamlit Framework in Snowflake: From Chaos to Compliance",
+        "published": "2025-10-15T22:02:17.173000Z",
+        "updated": "2025-10-15T22:02:17.173000Z",
+        "tags": "streamlit,gitlab,snowflake"
+    },
+    "https://medium.com/snowflake/exploring-snowflakes-geospatial-functions-mapping-pickup-points-in-rueil-malmaison-france-fd5a87e47bc3": {
+        "title": "Exploring Snowflake\u2019s Geospatial Functions: Mapping Pickup Points in Rueil-Malmaison (France)\u00a0\u2026",
+        "published": "2025-10-15T19:01:47.837000Z",
+        "updated": "2025-10-15T19:01:47.837000Z",
+        "tags": "data-superhero,snowflake,geospatial,data-science,data-visualization"
+    },
+    "https://medium.com/snowflake/snowflake-ci-cd-enterprise-grade-dynamic-delivery-c18553f5453f": {
+        "title": "Snowflake CI/CD: Enterprise-Grade, Native, and Free to Start.",
+        "published": "2025-10-15T14:01:13.786000Z",
+        "updated": "2025-10-15T14:36:35.086000Z",
+        "tags": "snowflake-data-cloud,ci-cd-pipeline,dataops,data-engineering,artificial-intelligence"
+    },
     "https://medium.com/snowflake/building-an-elt-pipeline-with-cocoindex-snowflake-and-llms-433c7dcc6e60": {
         "title": "Building an ELT Pipeline with CocoIndex, Snowflake, and LLMs",
         "published": "2025-10-14T19:02:17.256000Z",
@@ -92,7 +152,7 @@
     "https://medium.com/snowflake/how-verantos-simplifies-clinical-data-management-with-hybrid-tables-71614e930362": {
         "title": "How Verantos Simplifies Clinical Data Management with Hybrid Tables",
         "published": "2025-10-06T18:36:49.730000Z",
-        "updated": "2025-10-06T18:36:49.730000Z",
+        "updated": "2025-10-17T04:15:16.276000Z",
         "tags": "data-engineering,life-sciences,snowflake,real-world-evidence,data-analytics"
     },
     "https://medium.com/snowflake/bringing-ai-to-your-data-integrating-cursor-with-snowflake-mcp-server-f428c5b6fcd1": {
@@ -170,7 +230,7 @@
     "https://medium.com/snowflake/runbook-openflow-byo-vpc-installation-with-private-link-and-custom-ingress-cb14da2d6c55": {
         "title": "Runbook-Openflow BYO-VPC Installation with Private Link and Custom Ingress",
         "published": "2025-09-30T19:01:49.330000Z",
-        "updated": "2025-09-30T19:01:49.330000Z",
+        "updated": "2025-10-17T19:09:15.896000Z",
         "tags": "snowflake,openflow,data-ingestion,data-engineering,data-migration"
     },
     "https://medium.com/snowflake/build-snowflake-cost-savings-and-performance-agent-in-5-minutes-854427c0fdd8": {
@@ -272,7 +332,7 @@
     "https://medium.com/snowflake/free-snowflake-certification-practice-tests-building-a-snowflake-streamlit-app-for-certification-b8d9e33f0bf7": {
         "title": "FREE Snowflake Certification Practice Tests\u200a\u2014\u200aBuilding a Snowflake Streamlit App for Certification\u2026",
         "published": "2025-09-18T14:01:52.343000Z",
-        "updated": "2025-09-18T14:01:52.343000Z",
+        "updated": "2025-10-16T00:28:47.594000Z",
         "tags": "snowflake,data-superhero,snowflake-certification,practice,exam"
     },
     "https://medium.com/snowflake/rearchitecting-data-pipelines-a-real-world-guide-5954eadaa080": {
@@ -486,9 +546,9 @@
         "tags": "streamlit,geospatial-analytics,vectorized-udfs,trajectory-analysis"
     },
     "https://medium.com/snowflake/snowpark-python-3-13-public-preview-43b005d4ac58": {
-        "title": "Snowpark Python 3.13 Public Preview",
+        "title": "Snowpark Python 3.13 GA",
         "published": "2025-08-21T19:01:29.994000Z",
-        "updated": "2025-08-21T19:01:29.994000Z",
+        "updated": "2025-10-17T16:54:23.044000Z",
         "tags": "snowflake,snowpark,python,ai"
     },
     "https://medium.com/snowflake/secure-connection-options-for-microsofts-power-bi-to-snowflake-part-2-22a8da7f8910": {
