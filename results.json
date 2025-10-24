@@ -1,4 +1,58 @@
 {
+    "https://medium.com/snowflake/introducing-the-query-profile-fdc29c98f2b4": {
+        "title": "Introducing the Query Profile",
+        "published": "2025-10-23T19:01:51.798000Z",
+        "updated": "2025-10-23T19:01:51.798000Z",
+        "tags": "performance,snowflake,query-optimization,query-plan"
+    },
+    "https://medium.com/snowflake/%EF%B8%8Fharnessing-snowflakes-cortex-ai-exploring-cortex-analyst-and-cortex-search-319220a81e20": {
+        "title": "\u2744\ufe0fHarnessing Snowflake\u2019s Cortex AI: Exploring Cortex Analyst and Cortex Search",
+        "published": "2025-10-23T14:01:51.818000Z",
+        "updated": "2025-10-23T14:01:51.818000Z",
+        "tags": "snowflake,cortex-ai,cortex-search,snowflake-intelligence,data-insights"
+    },
+    "https://medium.com/snowflake/optimize-snowflake-intelligence-cortex-agent-setup-a-complete-ai-powered-guide-f01383ac6969": {
+        "title": "Optimize Snowflake Intelligence Cortex Agent Setup: A Complete AI-Powered Guide",
+        "published": "2025-10-22T19:01:50.988000Z",
+        "updated": "2025-10-22T19:01:50.988000Z",
+        "tags": "snowflake,ai,ai-agent"
+    },
+    "https://medium.com/snowflake/from-ocean-to-cloud-oceanx-snowflake-hackathon-project-67e8b2d05dbc": {
+        "title": "From Ocean To Cloud: OceanX + Snowflake Hackathon Project",
+        "published": "2025-10-22T17:01:51.630000Z",
+        "updated": "2025-10-22T17:01:51.630000Z",
+        "tags": "cortex-analyst,snowflake-intelligence,ai-sql,cortex,streamlit"
+    },
+    "https://medium.com/snowflake/building-autonomous-data-engineers-with-snowflake-intelligence-%EF%B8%8F-6e5d1a7cc029": {
+        "title": "Building Autonomous Data Engineers with Snowflake Intelligence \ud83e\udde0\u2744\ufe0f",
+        "published": "2025-10-22T14:01:49.929000Z",
+        "updated": "2025-10-22T14:01:49.929000Z",
+        "tags": "ai-agent,generative-ai-tools,snowflake,data-science,data-engineering"
+    },
+    "https://medium.com/snowflake/smart-complaint-deduplication-using-snowflake-native-aisql-2bab5885e277": {
+        "title": "Smart Complaint Deduplication Using Snowflake-Native AISQL",
+        "published": "2025-10-21T19:01:52.948000Z",
+        "updated": "2025-10-23T01:39:34.934000Z",
+        "tags": "snowflake-cortex,snowflake,deduplication,jupyter-notebook,llm"
+    },
+    "https://medium.com/snowflake/modeling-your-data-well-in-snowflake-best-practices-and-concrete-examples-a6c7e7329701": {
+        "title": "Modeling Your Data Well in Snowflake: Best Practices and Concrete Examples",
+        "published": "2025-10-20T19:02:34.080000Z",
+        "updated": "2025-10-20T19:02:34.080000Z",
+        "tags": "snowflake,snowflake-data-superhero,ai,data-engineering"
+    },
+    "https://medium.com/snowflake/introducing-target-file-size-and-partition-writes-for-snowflake-managed-and-externally-managed-04216fb5e8a1": {
+        "title": "Introducing Target File Size and Partition Writes for Snowflake Managed and Externally Managed\u2026",
+        "published": "2025-10-20T17:02:01.346000Z",
+        "updated": "2025-10-20T17:02:01.346000Z",
+        "tags": "data-engineering,apache-iceberg,snowflake,data-science,data-analytics"
+    },
+    "https://medium.com/snowflake/%EF%B8%8F-snowpro-specialty-gen-ai-certification-tutorial-part-3-snowflake-copilot-607413ef22d3": {
+        "title": "\u2744\ufe0f SNOWPRO SPECIALTY: GEN AI CERTIFICATION Tutorial (Part 3\u2014 Snowflake Copilot)",
+        "published": "2025-10-20T14:17:11.701000Z",
+        "updated": "2025-10-20T14:18:07.633000Z",
+        "tags": "snowpro,snowflake,certification,co-pilot,snowflake-data-superhero"
+    },
     "https://medium.com/snowflake/the-banking-modernization-race-a-breakdown-of-snowflake-ai-and-how-banks-could-use-it-3337fe7d186c": {
         "title": "The Banking Modernization Race: A Breakdown of Snowflake AI and How Banks Could Use It",
         "published": "2025-10-17T19:01:48.091000Z",
